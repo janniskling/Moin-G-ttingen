@@ -1,0 +1,102 @@
+{
+  "2025-12-17": {
+    "179": [
+      {
+        "id": 1790,
+        "name": "Salatvariationen in Selbstbedienung! Können Allergene (a-n) und Zusatzstoffe (1-11) enthalten. Detaillierte Informationen am Salatbuffet.",
+        "category": "Salatbuffet",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Salatvariationen in Selbstbedienung! Können Allergene (a-n) und Zusatzstoffe (1-11) enthalten. Detaillierte Informationen am Salatbuffet."
+        ]
+      },
+      {
+        "id": 1791,
+        "name": "Gebratene Curry Fleischwurst vom Strohschwein (1,3,i,j)",
+        "category": "CampusCurry abends",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Gebratene Curry Fleischwurst vom Strohschwein (1,3,i,j)\nCurryketchup Berliner Blume (3,j), Pommes frites (3), bunter Krautsalat mit Paprika\n(Nachmittagsangebot ab 14:30 Uhr)"
+        ]
+      },
+      {
+        "id": 1792,
+        "name": "Allgäuer Krautspätzle (a,a.1,c)",
+        "category": "Teppan Yaki Kombi",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Allgäuer Krautspätzle (a,a.1,c)\nSchweizer Käsesauce (g) oder herzhafte Schinkensauce vom Schwein (1,3,4,8,g), Kohlrabisalat"
+        ]
+      },
+      {
+        "id": 1793,
+        "name": "Holsteiner Kartoffelsuppe mit frischem Wurzelgemüse in Rahm (3,g,i,l)",
+        "category": "Spezial Eintopf",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Holsteiner Kartoffelsuppe mit frischem Wurzelgemüse in Rahm (3,g,i,l)\nzusätzlich, Mehrkornbrötchen (a.1,a,a.4,a.2,a.3,k) oder Geflügelwürstchen Wiener Art (1,3,i)"
+        ]
+      },
+      {
+        "id": 1794,
+        "name": "Veganer Joghurt mit Rosenwasser, Agavendicksaft, Haselnusskrokant und Pistazien (a.3,a,h.7,h.1,h.2,h)",
+        "category": "Dessert",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Veganer Joghurt mit Rosenwasser, Agavendicksaft, Haselnusskrokant und Pistazien (a.3,a,h.7,h.1,h.2,h)\noder, Quark mit Obst (g,h.7,h) oder Hausgemachte Rote Grütze mit Topping Vanilla-Sahnesauce (g) oder Veganer Obstsalat mit Minze (1,3) mit veganer Schlagcreme"
+        ]
+      },
+      {
+        "id": 1796,
+        "name": "Chili-Cheese-Fritten (g)",
+        "category": "ZM Pommes abends",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Chili-Cheese-Fritten (g)\n(Nachmittagsangebot ab 14:30 Uhr)"
+        ]
+      },
+      {
+        "id": 1797,
+        "name": "Vegane Backkartoffel mit Chili sin Carne (1,2,f,i)",
+        "category": "Aktion II",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Vegane Backkartoffel mit Chili sin Carne (1,2,f,i)\nTomatensauce, Karottensalat\n(Nachmittagsangebot ab 14:30 Uhr)"
+        ]
+      }
+    ],
+    "180": [],
+    "181": [],
+    "182": []
+  },
+  "2025-12-18": {},
+  "2025-12-19": {}
+}

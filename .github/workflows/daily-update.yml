@@ -1,0 +1,39 @@
+name: Daily Mensa Update
+
+on:
+  schedule:
+    # Run at 04:00 UTC every day
+    - cron: '0 4 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Scraper
+        run: node scripts/scrape-mensa.cjs
+        env:
+          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: "false"
+
+      - name: Commit and Push if changed
+        run: |
+          git config --global user.name 'Mensa Bot'
+          git config --global user.email 'bot@noreply.github.com'
+          git add public/mensa-data.json
+          git commit -m "update: daily mensa plan [skip ci]" || exit 0
+          git push
