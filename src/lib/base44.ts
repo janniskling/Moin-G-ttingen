@@ -1,6 +1,6 @@
 import type { Place, Vote, User, BaseEntity } from '../entities/types';
 
-const STORAGE_KEY_PREFIX = 'base44_v4_';
+const STORAGE_KEY_PREFIX = 'base44_v7_';
 
 // Helper to generate IDs
 const generateId = () => Math.random().toString(36).substr(2, 9);
@@ -114,17 +114,17 @@ const seedData = () => {
 
         // --- DÖNER 🥙 ---
         const doenerPlaces = [
-            { id: "doener-1", name: "Crunchy-Kebab-Vegan", address: "Goethe-Allee 16", ranking_score: 0, description: "Sehr beliebt, bietet auch vegane Optionen." },
-            { id: "doener-2", name: "Afghan Kebab House", address: "Groner Str. 41", ranking_score: 0, description: "Leckerer Döner und afghanische Spezialitäten." },
-            { id: "doener-3", name: "Döner Haus", address: "Theodor-Heuss-Straße 66", ranking_score: 0, description: "Große Portionen und frische Zutaten." },
-            { id: "doener-4", name: "CRUNCHY KEBAB", address: "Bahnhofsallee 1C", ranking_score: 0, description: "Knuspriges Brot und würziges Fleisch." },
-            { id: "doener-5", name: "Döner King", address: "Weender Str. 90", ranking_score: 0, description: "Bekannt bei Nachtschwärmern." },
-            { id: "doener-6", name: "Profi Döner", address: "Güterbahnhofstraße 4", ranking_score: 0, description: "Guter Standard-Döner in Bahnhofsnähe." },
-            { id: "doener-7", name: "Efendi", address: "Königsstieg 2", ranking_score: 0, description: "Ein Klassiker in Göttingen." },
-            { id: "doener-8", name: "Efes Döner seit 1996", address: "Groner Str. 35", ranking_score: 0, description: "Traditionsreicher Dönerladen." },
-            { id: "doener-9", name: "Europic", address: "Burgstraße 9", ranking_score: 0, description: "Zentral gelegen und beliebt." },
-            { id: "doener-10", name: "Tunnel Döner", address: "Bahnhofspl. 1", ranking_score: 0, description: "Direkt am Bahnhof." },
-            { id: "doener-11", name: "Haus des Döners", address: "Groner Str. 51", ranking_score: 0, description: "Franchise." }
+            { id: "doener-1", name: "Crunchy-Kebab-Vegan", address: "Goethe-Allee 16", ranking_score: 0, description: "Sehr beliebt, bietet auch vegane Optionen.", image_url: "https://images.unsplash.com/photo-1619535860434-7f086338528e?q=80&w=600&auto=format&fit=crop" }, // Meat skewer
+            { id: "doener-2", name: "Afghan Kebab House", address: "Groner Str. 41", ranking_score: 0, description: "Leckerer Döner und afghanische Spezialitäten.", image_url: "https://images.unsplash.com/photo-1543353071-873f17a7a088?q=80&w=600&auto=format&fit=crop" }, // Food styling kebab
+            { id: "doener-3", name: "Döner Haus", address: "Theodor-Heuss-Straße 66", ranking_score: 0, description: "Große Portionen und frische Zutaten.", image_url: "https://images.unsplash.com/photo-1709054767468-b30206138676?q=80&w=600&auto=format&fit=crop" }, // Doner with fries
+            { id: "doener-4", name: "CRUNCHY KEBAB", address: "Bahnhofsallee 1C", ranking_score: 0, description: "Knuspriges Brot und würziges Fleisch.", image_url: "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?q=80&w=600&auto=format&fit=crop" }, // Wrap/Durum
+            { id: "doener-5", name: "Döner King", address: "Weender Str. 90", ranking_score: 0, description: "Bekannt bei Nachtschwärmern.", image_url: "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?q=80&w=600&auto=format&fit=crop" }, // Doner Sandwich
+            { id: "doener-6", name: "Profi Döner", address: "Güterbahnhofstraße 4", ranking_score: 0, description: "Guter Standard-Döner in Bahnhofsnähe.", image_url: "https://images.unsplash.com/photo-1619535860434-7f086338528e?q=80&w=600&auto=format&fit=crop" }, // Platter
+            { id: "doener-7", name: "Efendi", address: "Königsstieg 2", ranking_score: 0, description: "Ein Klassiker in Göttingen.", image_url: "https://images.unsplash.com/photo-1662116850275-c0525d886616?q=80&w=600&auto=format&fit=crop" }, // Classic Kebab
+            { id: "doener-8", name: "Efes Döner seit 1996", address: "Groner Str. 35", ranking_score: 0, description: "Traditionsreicher Dönerladen.", image_url: "https://images.unsplash.com/photo-1628294895950-9805252327bc?q=80&w=600&auto=format&fit=crop" }, // Doner Meat
+            { id: "doener-9", name: "Europic", address: "Burgstraße 9", ranking_score: 0, description: "Zentral gelegen und beliebt.", image_url: "https://images.unsplash.com/photo-1625938145744-e38051524294?q=80&w=600&auto=format&fit=crop" }, // Plate
+            { id: "doener-10", name: "Tunnel Döner", address: "Bahnhofspl. 1", ranking_score: 0, description: "Direkt am Bahnhof.", image_url: "https://images.unsplash.com/photo-1606850780554-b55ef662f085?q=80&w=600&auto=format&fit=crop" }, // Wrap closeup
+            { id: "doener-11", name: "Haus des Döners", address: "Groner Str. 51", ranking_score: 0, description: "Franchise.", image_url: "https://plus.unsplash.com/premium_photo-1661600135805-4c07d30d1254?q=80&w=600&auto=format&fit=crop" } // Premium Kebab
         ];
 
         doenerPlaces.forEach(d => {
@@ -134,7 +134,7 @@ const seedData = () => {
                 description: d.description,
                 address: d.address,
                 category: "doener",
-                image_url: "https://images.unsplash.com/photo-1626809787208-a1dd61bc03cb?q=80&w=600&auto=format&fit=crop", // Placeholder image
+                image_url: d.image_url,
                 ranking_score: d.ranking_score,
                 vote_count: 0
             } as any);

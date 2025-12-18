@@ -58,14 +58,19 @@ export default function Mensa() {
                     variant={selectedCanteen === 179 ? "default" : "outline"}
                     onClick={() => setSelectedCanteen(179)}
                 >
-                    Zentralmensa
+                    Zentral
                 </Button>
                 <Button
-                    variant={selectedCanteen === 180 ? "default" : "secondary"}
-                    size="sm"
+                    variant={selectedCanteen === 180 ? "default" : "outline"}
                     onClick={() => setSelectedCanteen(180)}
                 >
                     Nord
+                </Button>
+                <Button
+                    variant={selectedCanteen === 181 ? "default" : "outline"}
+                    onClick={() => setSelectedCanteen(181)}
+                >
+                    Turm
                 </Button>
             </div>
 
@@ -85,6 +90,14 @@ export default function Mensa() {
                     className={date.getDate() === addDays(new Date(), 1).getDate() ? "border-primary text-primary" : ""}
                 >
                     Morgen
+                </Button>
+                <Button
+                    variant={date.getDate() === addDays(new Date(), 2).getDate() ? "outline" : "ghost"}
+                    size="sm"
+                    onClick={() => handleDateChange(2)}
+                    className={date.getDate() === addDays(new Date(), 2).getDate() ? "border-primary text-primary" : ""}
+                >
+                    Übermorgen
                 </Button>
             </div>
 

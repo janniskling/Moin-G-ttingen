@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Card, CardContent, CardTitle, CardDescription } from '../components/ui/card';
 import { Button } from '../components/ui/button';
 import { Input } from '../components/ui/input';
@@ -17,52 +17,74 @@ interface Event {
     category: EventCategory;
     description: string;
     imageUrl?: string;
+    source?: string;
 }
 
-const MOCK_EVENTS: Event[] = [
-    {
-        id: '1',
-        title: 'Semester Opening Party',
-        date: new Date(new Date().setHours(22, 0)),
-        location: 'Savoy Club',
-        category: 'Party',
-        description: 'Die größte Party zum Semesterstart!',
-        imageUrl: 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=600&auto=format&fit=crop'
-    },
-    {
-        id: '2',
-        title: 'ThOP Theater Premiere',
-        date: new Date(new Date().setDate(new Date().getDate() + 2)),
-        location: 'Theater im OP',
-        category: 'Kultur',
-        description: 'Eine spannende Inszenierung im Unithater.',
-        imageUrl: 'https://images.unsplash.com/photo-1503095392237-fa4221e358c9?q=80&w=600&auto=format&fit=crop'
-    },
-    {
-        id: '3',
-        title: 'Karaoke Night',
-        date: new Date(new Date().setDate(new Date().getDate() + 1)),
-        location: 'Irish Pub',
-        category: 'Party',
-        description: 'Sing deine Lieblingssongs!',
-    },
-    {
-        id: '4',
-        title: 'Uni-Liga Fußball',
-        date: new Date(new Date().setDate(new Date().getDate() + 3)),
-        location: 'Unisportzentrum',
-        category: 'Sport',
-        description: 'Spannende Matches am Nachmittag.',
-    }
-];
+
 
 export default function Events() {
     const [searchTerm, setSearchTerm] = useState('');
     const [selectedCategory, setSelectedCategory] = useState<EventCategory | 'All'>('All');
+    const [events, setEvents] = useState<Event[]>([]);
+
+    useEffect(() => {
+        const fetchEvents = async () => {
+            try {
+                const res = await fetch('/events-data.json');
+                if (res.ok) {
+                    const scrapedData = await res.json();
+
+                    const processedEvents: Event[] = scrapedData.map((item: any) => {
+                        // date is already ISO string from scraper
+                        const dateObj = new Date(item.date);
+
+                        // Fallback parsing for legacy formats if any (shouldn't be needed with new scraper)
+                        if (isNaN(dateObj.getTime()) && item.dateString) {
+                            const match = item.dateString.match(/(\d{2})\.(\d{2})\.(\d{4})/);
+                            if (match) {
+                                const [_, d, m, y] = match;
+                                dateObj.setFullYear(parseInt(y), parseInt(m) - 1, parseInt(d));
+                            }
+                        }
+
+                        // Determine category
+                        let cat: EventCategory = 'Sonstiges';
+                        const lowerTitle = item.title.toLowerCase();
+                        const lowerSource = (item.source || '').toLowerCase();
+                        const tags = (item.tags || []).map((t: string) => t.toLowerCase());
+
+                        if (tags.includes('party') || tags.includes('club') || lowerTitle.includes('party')) cat = 'Party';
+                        else if (tags.includes('konzert') || tags.includes('live') || tags.includes('theater')) cat = 'Kultur';
+                        else if (lowerSource === 'savoy' || lowerSource === 'alpenmax') cat = 'Party';
+                        else if (lowerSource === 'musa' || lowerSource === 'exil' || lowerSource === 'theater') cat = 'Kultur';
+                        else if (tags.includes('sport')) cat = 'Sport';
+
+                        return {
+                            id: item.id,
+                            title: item.title,
+                            date: dateObj,
+                            location: item.location,
+                            category: cat,
+                            description: item.description,
+                            imageUrl: item.imageUrl,
+                            source: item.source
+                        };
+                    });
+
+                    // Use only real data (plus maybe mock if list is empty, but better to show real empty state)
+                    setEvents(processedEvents);
+                }
+            } catch (e) {
+                console.error("Failed to load events", e);
+            }
+        };
+
+        fetchEvents();
+    }, []);
 
     const categories: (EventCategory | 'All')[] = ['All', 'Party', 'Kultur', 'Sport', 'Sonstiges'];
 
-    const filteredEvents = MOCK_EVENTS.filter(event => {
+    const filteredEvents = events.filter(event => {
         const matchesSearch = event.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
             event.location.toLowerCase().includes(searchTerm.toLowerCase());
         const matchesCategory = selectedCategory === 'All' || event.category === selectedCategory;
@@ -119,6 +141,18 @@ export default function Events() {
                                 <span className="absolute bottom-2 left-2 text-white text-xs font-bold px-2 py-1 bg-primary/80 rounded backdrop-blur-md">
                                     {format(event.date, 'dd. MMM • HH:mm', { locale: de })}
                                 </span>
+                                {event.source && (
+                                    <span className={cn(
+                                        "absolute top-2 right-2 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow-sm",
+                                        event.source.toLowerCase() === 'savoy' ? "bg-purple-600/90" :
+                                            event.source.toLowerCase() === 'thanners' ? "bg-yellow-600/90" :
+                                                event.source.toLowerCase() === 'exil' ? "bg-stone-800/90" :
+                                                    event.source.toLowerCase() === 'alpenmax' ? "bg-blue-600/90" :
+                                                        "bg-gray-600/90"
+                                    )}>
+                                        {event.source.toUpperCase()}
+                                    </span>
+                                )}
                             </div>
                         )}
                         <CardContent className={cn("p-4", event.imageUrl ? "pt-4" : "")}>

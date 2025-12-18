@@ -1,0 +1,605 @@
+[
+  {
+    "id": "thanners-weizenmittwoch20251217t190000000z",
+    "title": "Weizenmittwoch 🍺",
+    "description": "Der Klassiker: Paulaner Hefeweizen 0,5l für nur 3,20 €!",
+    "location": "Thanners",
+    "date": "2025-12-17T19:00:00.000Z",
+    "imageUrl": "/images/beer.jpg",
+    "link": "https://www.thanners-goettingen.de/",
+    "tags": [
+      "Bar",
+      "Students",
+      "Deal",
+      "Party"
+    ],
+    "source": "Thanners"
+  },
+  {
+    "id": "savoy-mittwochsimclub20251217t220000000z",
+    "title": "Mittwochs im Club",
+    "description": "Club Savoy",
+    "location": "Club Savoy",
+    "date": "2025-12-17T22:00:00.000Z",
+    "imageUrl": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/693638342408e9e0609861f0.jpeg?token=8tGROUK1LpuG8IKoKeD-K5uCPaauvCVKei4rz1zd2Ys&expires=1766082361",
+    "link": "https://www.club-savoy.de/events/",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Savoy"
+  },
+  {
+    "id": "exil-bluesnboogiekche20251218t190000000z",
+    "title": "BLUES’N’BOOGIE KÜCHE",
+    "description": "Der musikalische Hochkaräter für Jung und Alt: BLUES\\'N\\'BOOGIE KÜCHE Blues, Boogie, Jazz, Swing, Rock’n’Roll… Die BLUES\\'N\\'BOOGIE KÜCHE ist eine feste Institution in Göttingen - sie feierte 2024 ihren 20. Geburtstag...\\n",
+    "location": "Exil",
+    "date": "2025-12-18T19:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2024/09/Poster-neutral-Layout-1.jpg",
+    "link": "https://exil-web.de/event/bluesnboogie-kueche-4/2025-12-18/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "savoy-lowkeyxmasfsk1620251219t210000000z",
+    "title": "LOWKEY XMAS FSK16",
+    "description": "Club Savoy",
+    "location": "Club Savoy",
+    "date": "2025-12-19T21:00:00.000Z",
+    "imageUrl": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6933135e35a37868811c096e.jpeg?token=QdnzkrXcl3w5rSQ1uz0sTSfcwhnUKdZm7GqYdCy5Cns&expires=1766082361",
+    "link": "https://www.club-savoy.de/events/",
+    "tags": [
+      "Party",
+      "Club",
+      "FSK16"
+    ],
+    "source": "Savoy"
+  },
+  {
+    "id": "exil-punknroll20251219t210000000z",
+    "title": "PUNK’N’ROLL",
+    "description": "Die Nacht ist bunter als die Haare. PUNK\\'N\\'ROLL Punk und alternative Sidekicks Bei PUNK\\'N\\'ROLL gibt\\'s alles auf die gepiercten Öhrchen, was das Genre - plus aller alternativer Sidekicks - so...\\n",
+    "location": "Exil",
+    "date": "2025-12-19T21:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2024/02/PUNKNROLLneutral-Layout-1.jpg",
+    "link": "https://exil-web.de/event/punknroll/2025-12-19/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "alpenmax-cocktailsbeatsmeetsbirthdayparty20251219t210000000z",
+    "title": "Cocktails & Beats meets Birthday Party",
+    "description": "",
+    "location": "Alpenmax",
+    "date": "2025-12-19T21:00:00.000Z",
+    "imageUrl": "https://s3-673b3dafa4cfbe0bc8242eaf-alpenmax.b-cdn.net/blobs/673b3dafa4cfbe0bc8242eaf/EVENT_THUMBNAIL/693878552408e9e0609b9045.jpeg?token=GII0nB5pdOpb7HFsiZH9yZR_vN-_KILWWvhjJ99Y0Xc&expires=1766083806",
+    "link": "https://alpenmax-goettingen.com/events",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Alpenmax"
+  },
+  {
+    "id": "exil-best80s20251220t210000000z",
+    "title": "BEST 80s",
+    "description": "Die Hits einer Dekade: BEST 80s Geschichte wird getanzt! Die BEST 80s PARTY hält, was sie verspricht und beamt uns musikalisch zurück in die Zeiten von Haircrimes, Karottenhosen, Neonfarben und...\\n",
+    "location": "Exil",
+    "date": "2025-12-20T21:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2024/02/Best-80s.jpg",
+    "link": "https://exil-web.de/event/best-80s-party-3/2025-12-20/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "alpenmax-diealpewird24unddie2000erfeiernmit20251220t210000000z",
+    "title": "Die Alpe wird 24 – und die 2000er feiern mit! 🎉",
+    "description": "",
+    "location": "Alpenmax",
+    "date": "2025-12-20T21:00:00.000Z",
+    "imageUrl": "https://s3-673b3dafa4cfbe0bc8242eaf-alpenmax.b-cdn.net/blobs/673b3dafa4cfbe0bc8242eaf/EVENT_THUMBNAIL/69375b0a2408e9e0609a0989.jpeg?token=sQlKuP5pxTpAFy9EeJ7VpVV9-Dg650uTh4RRYv12fms&expires=1766083806",
+    "link": "https://alpenmax-goettingen.com/events",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Alpenmax"
+  },
+  {
+    "id": "savoy-26jahreclubsavoy20251220t220000000z",
+    "title": "26 Jahre Club Savoy",
+    "description": "Club Savoy",
+    "location": "Club Savoy",
+    "date": "2025-12-20T22:00:00.000Z",
+    "imageUrl": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/692b288f35a37868810ebaa3.jpeg?token=K_1TuwEhRU3wNvXuJULUzLj4YTkJBIQxmzFpVVY9SlY&expires=1766082599",
+    "link": "https://www.club-savoy.de/events/",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Savoy"
+  },
+  {
+    "id": "exil-swingaround20251222t180000000z",
+    "title": "SWING-A-ROUND",
+    "description": "I do like Mondays! SWING-A-ROUND Swing, Charleston, Lindyhop, Boogie and more Jeden Montag lässt sich im EXIL wunderbar das Tanzbein swingen: Los geht’s um 19.00h mit einem kostenlosen Taster, ab...\\n",
+    "location": "Exil",
+    "date": "2025-12-22T18:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2025-12-22/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "alpenmax-1europarty20251222t210000000z",
+    "title": "1 EURO PARTY",
+    "description": "",
+    "location": "Alpenmax",
+    "date": "2025-12-22T21:00:00.000Z",
+    "imageUrl": "https://s3-673b3dafa4cfbe0bc8242eaf-alpenmax.b-cdn.net/blobs/673b3dafa4cfbe0bc8242eaf/EVENT_THUMBNAIL/6927378a35a3786881077cc6.jpeg?token=0NbLWFzdNhao3lhgqlQcm8xZ6XsrKJlH_lhzdEcIvvk&expires=1766083806",
+    "link": "https://alpenmax-goettingen.com/events",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Alpenmax"
+  },
+  {
+    "id": "thanners-weizenmittwoch20251224t190000000z",
+    "title": "Weizenmittwoch 🍺",
+    "description": "Der Klassiker: Paulaner Hefeweizen 0,5l für nur 3,20 €!",
+    "location": "Thanners",
+    "date": "2025-12-24T19:00:00.000Z",
+    "imageUrl": "/images/beer.jpg",
+    "link": "https://www.thanners-goettingen.de/",
+    "tags": [
+      "Bar",
+      "Students",
+      "Deal",
+      "Party"
+    ],
+    "source": "Thanners"
+  },
+  {
+    "id": "alpenmax-heiligabendmachenwireinekurzepause20251224t210000000z",
+    "title": "🎄Heiligabend machen wir eine kurze Pause! 🎄",
+    "description": "",
+    "location": "Alpenmax",
+    "date": "2025-12-24T21:00:00.000Z",
+    "imageUrl": "https://s3-673b3dafa4cfbe0bc8242eaf-alpenmax.b-cdn.net/blobs/673b3dafa4cfbe0bc8242eaf/EVENT_THUMBNAIL/6932036a35a37868811a047a.jpeg?token=B_Vs0shZOW1BY_t2kUCwzXTI7l9x8HjV145CcblTQQA&expires=1766083806",
+    "link": "https://alpenmax-goettingen.com/events",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Alpenmax"
+  },
+  {
+    "id": "savoy-heiligabendoldschool20251224t220000000z",
+    "title": "Heiligabend: Oldschool...",
+    "description": "Club Savoy",
+    "location": "Club Savoy",
+    "date": "2025-12-24T22:00:00.000Z",
+    "imageUrl": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6935fea02408e9e060981400.jpeg?token=ebTKBJOPgPesiLYeqbZsrjjWG7MmG0JOlgpoWIpJRZU&expires=1766082599",
+    "link": "https://www.club-savoy.de/events/",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Savoy"
+  },
+  {
+    "id": "alpenmax-uglysweaterstyleweihnachtsfeier20251225t210000000z",
+    "title": "Ugly-Sweater-Style Weihnachtsfeier",
+    "description": "",
+    "location": "Alpenmax",
+    "date": "2025-12-25T21:00:00.000Z",
+    "imageUrl": "https://s3-673b3dafa4cfbe0bc8242eaf-alpenmax.b-cdn.net/blobs/673b3dafa4cfbe0bc8242eaf/EVENT_THUMBNAIL/6932e8d935a37868811b99ca.jpeg?token=CgMAVefyI_EvMsZDE9Od-3w82gBk0hyaElp1DGQfuCs&expires=1766083806",
+    "link": "https://alpenmax-goettingen.com/events",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Alpenmax"
+  },
+  {
+    "id": "savoy-xmasparty202520251225t220000000z",
+    "title": "XMAS PARTY 2025",
+    "description": "Club Savoy",
+    "location": "Club Savoy",
+    "date": "2025-12-25T22:00:00.000Z",
+    "imageUrl": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/692e319f35a378688113d1a4.jpeg?token=cRSMNntw3GkSdYBxzshQMlTEwBiO9sqDU2aUH-7cLFI&expires=1766082599",
+    "link": "https://www.club-savoy.de/events/",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Savoy"
+  },
+  {
+    "id": "exil-klangwelt20251226t210000000z",
+    "title": "KLANGWELT",
+    "description": "Dunkle Szenesounds von hart bis melodisch KLANGWELT EBM - Synthpop - 80s - Industrial Rock - Indie Ob düstere Szene-Hits, treibende EBM- und Electro-Klänge, melodische Synthpop-Nummern oder kultige Gothic-Rock- und Dark-Wave-Songs, die KLANGWELT...\\n",
+    "location": "Exil",
+    "date": "2025-12-26T21:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2024/02/klangweltneutral.jpeg",
+    "link": "https://exil-web.de/event/klangwelt-3-2-2/2025-12-26/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "alpenmax-letsgetloud20251226t210000000z",
+    "title": "Let’s Get Loud",
+    "description": "",
+    "location": "Alpenmax",
+    "date": "2025-12-26T21:00:00.000Z",
+    "imageUrl": "https://s3-673b3dafa4cfbe0bc8242eaf-alpenmax.b-cdn.net/blobs/673b3dafa4cfbe0bc8242eaf/EVENT_THUMBNAIL/693de2542408e9e060a60fd1.jpeg?token=aJWrISJpwTg0PKXN1PI34j-HkZeFMvVlTxmfGmOD3-A&expires=1766083806",
+    "link": "https://alpenmax-goettingen.com/events",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Alpenmax"
+  },
+  {
+    "id": "alpenmax-alpeontourinarenshausen20251226t210100000z",
+    "title": "Alpe on Tour in Arenshausen",
+    "description": "",
+    "location": "Alpenmax",
+    "date": "2025-12-26T21:01:00.000Z",
+    "imageUrl": "https://s3-673b3dafa4cfbe0bc8242eaf-alpenmax.b-cdn.net/blobs/673b3dafa4cfbe0bc8242eaf/EVENT_THUMBNAIL/6911e09f35a3786881e584a6.jpeg?token=4APf3sw2eVc0_L31B8_pl4cJOZBLx8tbLXxd0fDUJW4&expires=1766083806",
+    "link": "https://alpenmax-goettingen.com/events",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Alpenmax"
+  },
+  {
+    "id": "savoy-holyrave20251226t220000000z",
+    "title": "Holy Rave",
+    "description": "Club Savoy",
+    "location": "Club Savoy",
+    "date": "2025-12-26T22:00:00.000Z",
+    "imageUrl": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6940b8052408e9e060aa4cdf.jpeg?token=TCs2AQYzz-jEq2_E6UbWeTi1bMpIRRIBkVOjf8W8EzQ&expires=1766082599",
+    "link": "https://www.club-savoy.de/events/",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Savoy"
+  },
+  {
+    "id": "exil-motrheadczrevival20251227t180000000z",
+    "title": "MOTÖRHEAD CZ REVIVAL",
+    "description": "Show: MOTÖRHEAD CZ REVIVAL Support: AUDIOKILL Datum: SA. 27.12.2025 Einlaß: 19.00h Beginn: 20.00h Eintritt: VVK: 20,00 € (+ Geb.) Abendkasse: 25,00 € Kulturticket der Uni Göttingen: jeweils 3,00 € Rabatt...\\n",
+    "location": "Exil",
+    "date": "2025-12-27T18:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/10/web.MotoerheadCZ50YM.jpeg",
+    "link": "https://exil-web.de/event/motoerhead-cz-revival/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "alpenmax-ichbineinflaschenkind20251227t210000000z",
+    "title": "Ich bin ein Flaschenkind!",
+    "description": "",
+    "location": "Alpenmax",
+    "date": "2025-12-27T21:00:00.000Z",
+    "imageUrl": "https://s3-673b3dafa4cfbe0bc8242eaf-alpenmax.b-cdn.net/blobs/673b3dafa4cfbe0bc8242eaf/EVENT_THUMBNAIL/6940a86c2408e9e060aa3860.jpeg?token=y-6TVw_lA3cUkWpQ_gv8Ft7HyTgrW-1RgyR943O6J58&expires=1766083806",
+    "link": "https://alpenmax-goettingen.com/events",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Alpenmax"
+  },
+  {
+    "id": "exil-swingaround20251229t180000000z",
+    "title": "SWING-A-ROUND",
+    "description": "I do like Mondays! SWING-A-ROUND Swing, Charleston, Lindyhop, Boogie and more Jeden Montag lässt sich im EXIL wunderbar das Tanzbein swingen: Los geht’s um 19.00h mit einem kostenlosen Taster, ab...\\n",
+    "location": "Exil",
+    "date": "2025-12-29T18:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2025-12-29/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "alpenmax-1europarty20251229t210000000z",
+    "title": "1 EURO PARTY",
+    "description": "",
+    "location": "Alpenmax",
+    "date": "2025-12-29T21:00:00.000Z",
+    "imageUrl": "https://s3-673b3dafa4cfbe0bc8242eaf-alpenmax.b-cdn.net/blobs/673b3dafa4cfbe0bc8242eaf/EVENT_THUMBNAIL/693878892408e9e0609b9087.jpeg?token=MRHODJkFhdqlQX65pK8mdGg6ja4drbPsc3WvCFHMUyg&expires=1766083806",
+    "link": "https://alpenmax-goettingen.com/events",
+    "tags": [
+      "Party",
+      "Club"
+    ],
+    "source": "Alpenmax"
+  },
+  {
+    "id": "exil-allstarssilvesterparty20251231t200000000z",
+    "title": "ALLSTARS SILVESTER PARTY",
+    "description": "Ins neue Jahr mit den EXIL DJs: ALLSTARS SILVESTER PARTY Der beste Mix aus allen Formaten Bam! Schon wieder ist das Jahr vorbei, schon wieder stellt sich die Frage: Wie...\\n",
+    "location": "Exil",
+    "date": "2025-12-31T20:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/12/SILVESTERweb-2026.jpg",
+    "link": "https://exil-web.de/event/allstars-silvester-party-2/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-jackdanielsrocknight20260102t210000000z",
+    "title": "Jack Daniel’s ROCK NIGHT",
+    "description": "Die Jack Daniel\\'s ROCK NIGHT Classic, Hard, New, Alternative Rockfloor Die Jack Daniel\\'s ROCK NIGHT verbringen wir in der Gesellschaft guter alter Freunde: Gitarrenlegenden wie Jimi Hendrix sind am Start,...\\n",
+    "location": "Exil",
+    "date": "2026-01-02T21:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2024/02/JACK-ROCKS.jpg",
+    "link": "https://exil-web.de/event/jack-daniels-rock-night/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-cheerstothequeers20260103t210000000z",
+    "title": "CHEERS TO THE QUEERS",
+    "description": "We are queer and we are proud: CHEERS TO THE QUEERS LGBTQIA+ & Allies Die CHEERS TO THE QUEERS Party mit regenbogenbunter musikalischer Versorgung von Einfach Ella, Frau Honigkuchen, Tomash...\\n",
+    "location": "Exil",
+    "date": "2026-01-03T21:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/09/WEB-POSTER-o.E.jpg",
+    "link": "https://exil-web.de/event/cheers-to-the-queers-party-4/2026-01-03/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-swingaround20260105t180000000z",
+    "title": "SWING-A-ROUND",
+    "description": "I do like Mondays! SWING-A-ROUND Swing, Charleston, Lindyhop, Boogie and more Jeden Montag lässt sich im EXIL wunderbar das Tanzbein swingen: Los geht’s um 19.00h mit einem kostenlosen Taster, ab...\\n",
+    "location": "Exil",
+    "date": "2026-01-05T18:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-01-05/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-itstuesdaybaby20260106t210000000z",
+    "title": "IT’S TUESDAY, BABY…",
+    "description": "Dance the Mid-Week-Crisis away: IT\\'S TUESDAY, BABY... So let\\'s FCKWDNSDY - der Studi-Abend im EXIL Der Studi-Abend im EXIL bringt Alternative, Indie, 70er/80er, German Dance und so einiges mehr auf...\\n",
+    "location": "Exil",
+    "date": "2026-01-06T21:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/05/web.A3-22.00-UHR.jpeg",
+    "link": "https://exil-web.de/event/its-tuesday-baby-2/2026-01-06/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-prayersforrainnachtderschattenaftershowparty20260109t180000000z",
+    "title": "PRAYERS FOR RAIN + NACHT DER SCHATTEN Aftershow Party",
+    "description": "Show: PRAYERS FOR RAIN The Cure Tribute Show Aftershow: NACHT DER SCHATTEN (ab ca. 23.00h) Datum: FR. 09.01.2026 Einlass: 19.00h Beginn: 20.00h Eintritt: VVK: 20,00 € (+ Geb.) Abendkasse: 25,00...\\n",
+    "location": "Exil",
+    "date": "2026-01-09T18:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/05/web.Poster-PRAYERS-scaled-1.jpeg",
+    "link": "https://exil-web.de/event/prayers-for-rain-the-cure-tribute-show/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-nerdnightout20260110t200000000z",
+    "title": "NERD NIGHT OUT",
+    "description": "Willkommen im einzigartigen Nerdverse: NERD NIGHT OUT Popkultur, Anime, Gaming und Science-Fiction Mit der NERD NIGHT OUT startet ein neues Kulturevent in Göttingen: Es verknüpft Musik, Kunst und Community zu...\\n",
+    "location": "Exil",
+    "date": "2026-01-10T20:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/10/NNO-Plakatweb.jpg",
+    "link": "https://exil-web.de/event/nerd-night-out/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-swingaround20260112t180000000z",
+    "title": "SWING-A-ROUND",
+    "description": "I do like Mondays! SWING-A-ROUND Swing, Charleston, Lindyhop, Boogie and more Jeden Montag lässt sich im EXIL wunderbar das Tanzbein swingen: Los geht’s um 19.00h mit einem kostenlosen Taster, ab...\\n",
+    "location": "Exil",
+    "date": "2026-01-12T18:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-01-12/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-mytallica20260115t180000000z",
+    "title": "MY’TALLICA",
+    "description": "Show: MY\\'TALLICA Support: - Datum: DO. 15.01.2026 Einlass: 19.00h Beginn: 20.00h Eintritt: VVK: 32,00 € (+ Geb.) Abendkasse: 38,00 € Kulturticket der Uni Göttingen: jeweils 3,00 € Rabatt MY\\'TALLICA liefern...\\n",
+    "location": "Exil",
+    "date": "2026-01-15T18:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/11/SOLD-OUT-Schrift.jpeg",
+    "link": "https://exil-web.de/event/mytallica-2/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-thestiffplaythespliffradioshow20260116t180000000z",
+    "title": "THE STIFF play the Spliff Radio Show",
+    "description": "Show: THE STIFF play the Spliff Radio Show Support: t.b.a. Datum: FR. 16.01.2026 Einlass: 19.00h Beginn: 20.00h Eintritt: VVK: 20,00 € (+ Geb.) Abendkasse: 25,00 € Kulturticket der Uni Göttingen:...\\n",
+    "location": "Exil",
+    "date": "2026-01-16T18:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/12/web-PosterSTIFF.jpeg",
+    "link": "https://exil-web.de/event/the-stiff-play-the-spliff-radio-show/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-comedyflashdiestandupcomedyshow20260117t170000000z",
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "description": "Show: COMEDYFLASH Datum: SA. 13.12.2025 Einlass: 18.00h Beginn: 19.00h Eintritt: VVK: 24,90 € (+ Geb.) Abendkasse: 27,00 € COMEDYFLASH – die Stand Up Comedy Show live in Göttingen! Wir zeigen...\\n",
+    "location": "Exil",
+    "date": "2026-01-17T17:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/10/STAN-UP-COMEDY.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-01-17/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-best80s20260117t210000000z",
+    "title": "BEST 80s",
+    "description": "Die Hits einer Dekade: BEST 80s Geschichte wird getanzt! Die BEST 80s PARTY hält, was sie verspricht und beamt uns musikalisch zurück in die Zeiten von Haircrimes, Karottenhosen, Neonfarben und...\\n",
+    "location": "Exil",
+    "date": "2026-01-17T21:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2024/02/Best-80s.jpg",
+    "link": "https://exil-web.de/event/best-80s-party-3/2026-01-17/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-swingaround20260119t180000000z",
+    "title": "SWING-A-ROUND",
+    "description": "I do like Mondays! SWING-A-ROUND Swing, Charleston, Lindyhop, Boogie and more Jeden Montag lässt sich im EXIL wunderbar das Tanzbein swingen: Los geht’s um 19.00h mit einem kostenlosen Taster, ab...\\n",
+    "location": "Exil",
+    "date": "2026-01-19T18:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-01-19/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-bluesnboogiekche20260122t190000000z",
+    "title": "BLUES’N’BOOGIE KÜCHE",
+    "description": "Der musikalische Hochkaräter für Jung und Alt: BLUES\\'N\\'BOOGIE KÜCHE Blues, Boogie, Jazz, Swing, Rock’n’Roll… Die BLUES\\'N\\'BOOGIE KÜCHE ist eine feste Institution in Göttingen - sie feierte 2024 ihren 20. Geburtstag...\\n",
+    "location": "Exil",
+    "date": "2026-01-22T19:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2024/09/Poster-neutral-Layout-1.jpg",
+    "link": "https://exil-web.de/event/bluesnboogie-kueche-4/2026-01-22/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-alternativesoundexplosion20260123t210000000z",
+    "title": "ALTERNATIVE SOUND EXPLOSION",
+    "description": "90er & 00er Party: ALTERNATIVE SOUND EXPLOSION mit der ganzen Vielfalt abseits des Mainstreams! Von Elektro über Rock, Alternative, Nu-Metal bis Hip Hop – hier ist alles vertreten, nur Barbiegirl...\\n",
+    "location": "Exil",
+    "date": "2026-01-23T21:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2024/02/ALTERNATIVE-SOUND-EXPLOSION.jpg",
+    "link": "https://exil-web.de/event/860-2/2026-01-23/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-swingaround20260126t180000000z",
+    "title": "SWING-A-ROUND",
+    "description": "I do like Mondays! SWING-A-ROUND Swing, Charleston, Lindyhop, Boogie and more Jeden Montag lässt sich im EXIL wunderbar das Tanzbein swingen: Los geht’s um 19.00h mit einem kostenlosen Taster, ab...\\n",
+    "location": "Exil",
+    "date": "2026-01-26T18:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-01-26/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  },
+  {
+    "id": "exil-devilmaycare20260129t180000000z",
+    "title": "DEVIL MAY CARE",
+    "description": "Show: DEVIL MAY CARE Support: OCEANDVST Datum: DO. 29.01.2026 Einlass: 19.00h Beginn: 20.00h Eintritt: VVK: 20,00 € (+ Geb.) Abendkasse: 25,00 € Kulturticket der Uni Göttingen: jeweils 3,00 € Rabatt...\\n",
+    "location": "Exil",
+    "date": "2026-01-29T18:00:00.000Z",
+    "imageUrl": "https://exil-web.de/wp-content/uploads/2025/09/DMC-web-scaled-1.jpeg",
+    "link": "https://exil-web.de/event/devil-may-care/",
+    "tags": [
+      "Live",
+      "Club",
+      "Konzert"
+    ],
+    "source": "Exil"
+  }
+]
