@@ -1,8 +1,34 @@
 {
-  "2025-12-17": {
+  "2025-12-18": {
     "179": [
       {
         "id": 1790,
+        "name": "Vegane Linsenpfanne mit Tomaten und Zucchini (2,3,l)",
+        "category": "Vegan",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Vegane Linsenpfanne mit Tomaten und Zucchini (2,3,l)\nWildreismischung, Balkangemüse\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1791,
+        "name": "Kartoffeltaschen mit Tomate und Mozzarella (3,g)",
+        "category": "Vegetarisch Kombi Zentralmensa",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Kartoffeltaschen mit Tomate und Mozzarella (3,g)\nKräuterquark Dip (g), Sellerie-Karottensalat (i)\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1792,
         "name": "Salatvariationen in Selbstbedienung! Können Allergene (a-n) und Zusatzstoffe (1-11) enthalten. Detaillierte Informationen am Salatbuffet.",
         "category": "Salatbuffet",
         "prices": {
@@ -15,7 +41,7 @@
         ]
       },
       {
-        "id": 1791,
+        "id": 1793,
         "name": "Gebratene Curry Fleischwurst vom Strohschwein (1,3,i,j)",
         "category": "CampusCurry abends",
         "prices": {
@@ -28,7 +54,20 @@
         ]
       },
       {
-        "id": 1792,
+        "id": 1794,
+        "name": "vegane Currywurst",
+        "category": "CampusCurry Vegan",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "vegane Currywurst\nCurryketchup Berliner Blume (3,j), Pommes frites (3), bunter Krautsalat mit Paprika\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1795,
         "name": "Allgäuer Krautspätzle (a,a.1,c)",
         "category": "Teppan Yaki Kombi",
         "prices": {
@@ -41,7 +80,20 @@
         ]
       },
       {
-        "id": 1793,
+        "id": 1796,
+        "name": "Spinat-Vollkornnudeln mit Cocktailtomaten (a,a.1,g)",
+        "category": "Natürlich Fit kombi",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Spinat-Vollkornnudeln mit Cocktailtomaten (a,a.1,g)\nKarottensalat\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1797,
         "name": "Holsteiner Kartoffelsuppe mit frischem Wurzelgemüse in Rahm (3,g,i,l)",
         "category": "Spezial Eintopf",
         "prices": {
@@ -54,7 +106,33 @@
         ]
       },
       {
-        "id": 1794,
+        "id": 1798,
+        "name": "Gebratene Krakauer vom Strohschwein (1,3,8,i,j)",
+        "category": "Menü ZM Strohschwein",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Gebratene Krakauer vom Strohschwein (1,3,8,i,j)\nPortion Senf (j), Salzkartoffeln, hausgemachter Grünkohl (a,a.3,j)\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1799,
+        "name": "Pommes Cajunstyle (3)",
+        "category": "Frittenchef ZM",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Pommes Cajunstyle (3)\nChili con Bratwurst mit Schnittlauchschmand (1,2,3,g,i,j) oder Gorgonzolasauce und frischem Blattspinat (g)\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 17910,
         "name": "Veganer Joghurt mit Rosenwasser, Agavendicksaft, Haselnusskrokant und Pistazien (a.3,a,h.7,h.1,h.2,h)",
         "category": "Dessert",
         "prices": {
@@ -63,11 +141,11 @@
           "others": 0
         },
         "notes": [
-          "Veganer Joghurt mit Rosenwasser, Agavendicksaft, Haselnusskrokant und Pistazien (a.3,a,h.7,h.1,h.2,h)\noder, Quark mit Obst (g,h.7,h) oder Hausgemachte Rote Grütze mit Topping Vanilla-Sahnesauce (g) oder Veganer Obstsalat mit Minze (1,3) mit veganer Schlagcreme"
+          "Veganer Joghurt mit Rosenwasser, Agavendicksaft, Haselnusskrokant und Pistazien (a.3,a,h.7,h.1,h.2,h)\noder, Hausgemachter Mangoquark (g) mit Schokomüsli (a.1,a.3,a.2,a,g,h.2,h) oder Hausgemachte Rote Grütze mit Topping Vanilla-Sahnesauce (g)"
         ]
       },
       {
-        "id": 1796,
+        "id": 17912,
         "name": "Chili-Cheese-Fritten (g)",
         "category": "ZM Pommes abends",
         "prices": {
@@ -80,7 +158,7 @@
         ]
       },
       {
-        "id": 1797,
+        "id": 17913,
         "name": "Vegane Backkartoffel mit Chili sin Carne (1,2,f,i)",
         "category": "Aktion II",
         "prices": {
@@ -93,10 +171,312 @@
         ]
       }
     ],
-    "180": [],
-    "181": [],
-    "182": []
+    "180": [
+      {
+        "id": 1800,
+        "name": "Hähnchenbrustfilet in knuspriger Cornflakes-Panade (3,a.1,a.2,a)",
+        "category": "Basic 1",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Hähnchenbrustfilet in knuspriger Cornflakes-Panade (3,a.1,a.2,a)\nPikante Barbecuesauce (1,9,10,j), Gemüse-Vollkornreis (i), Leipziger Allerlei\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1801,
+        "name": "vegane Currywurst",
+        "category": "Basic Campus Curry",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "vegane Currywurst\npikante Curryketchupsauce (3), Pommes frites (3), bunter Krautsalat mit Paprika\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1802,
+        "name": "Gebratene Curry Fleischwurst vom Strohschwein (1,3,i,j)",
+        "category": "Basic Campus Curry",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Gebratene Curry Fleischwurst vom Strohschwein (1,3,i,j)\npikante Curryketchupsauce (3), Pommes frites (3), bunter Krautsalat mit Paprika\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1803,
+        "name": "Wildlachsfilet im schwarzen Sesammantel (d,k)",
+        "category": "Tasty 1",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Wildlachsfilet im schwarzen Sesammantel (d,k)\nLimetten-Minze-Sauce (3,g), Butterkartoffeln (g), Rosenkohlröschen\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1804,
+        "name": "Vegane Sauce Bolognese (f)",
+        "category": "Green Vegan",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Vegane Sauce Bolognese (f)\nVollkorn Spaghetti (a.1,a), Blattsalatmix mit Veganes Mandarinen-Joghurt Dressing (f)\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1805,
+        "name": "Zwei gebackene Camembert (3,a.1,a,g)",
+        "category": "Green Vegetarisch",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Zwei gebackene Camembert (3,a.1,a,g)\nPreiselbeeren, Erbsenreis, hausgemachter Coleslaw Salat (3,c,g,j)\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1806,
+        "name": "Veganer Oldenburger Grünkohleintopf (3,i)",
+        "category": "Green Eintopf",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Veganer Oldenburger Grünkohleintopf (3,i)\nzusätzlich, Brötchen Ruchi (a.1,a,a.4,a.2,f)\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1807,
+        "name": "Schwarze Currylinsen mit Apfelspalten (3)",
+        "category": "Extra Salat",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Schwarze Currylinsen mit Apfelspalten (3)\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1808,
+        "name": "Salatvariationen in Selbstbedienung! Können Allergene (a-n) und Zusatzstoffe (1-11) enthalten. Detaillierte Informationen am Salatbuffet.",
+        "category": "Green Salatbuffet",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Salatvariationen in Selbstbedienung! Können Allergene (a-n) und Zusatzstoffe (1-11) enthalten. Detaillierte Informationen am Salatbuffet.\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1809,
+        "name": "Dessert",
+        "category": "Dessert",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Dessert\nVegane Götterspeise Kirsch mit veganer Vanillesauce (3,f) oder veganes Schokomousse (a.3,a) mit Beeren-Ingwer oder Griechischer Joghurt mit Honig und Melone (g) mit Knuspermüsli (a.2,a.3,a.1,a,g,h.4,h.1,h.2,h)\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 18010,
+        "name": "Vegane gebratener Kräuter-Tagliatelle (3,a.1,a,i,l)",
+        "category": "Daily Teppan Yaki vegan",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Vegane gebratener Kräuter-Tagliatelle (3,a.1,a,i,l)\nhausgemachte Curry-Chili-Sauce (1)\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 18011,
+        "name": "Gebratene Tagliatelle mit Grönlandgarnelen (2,a,a.1,b,i,j)",
+        "category": "Daily Teppan Yaki",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Gebratene Tagliatelle mit Grönlandgarnelen (2,a,a.1,b,i,j)\nSchweizer Käsesauce (g)\n(Mittagsangebot)"
+        ]
+      }
+    ],
+    "181": [
+      {
+        "id": 1810,
+        "name": "Vegane Köttbular in Soja-Rahmsauce mit Preiselbeeren (3,a,a.1,f,j)",
+        "category": "Turm Vegan",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Vegane Köttbular in Soja-Rahmsauce mit Preiselbeeren (3,a,a.1,f,j)\nfrische Petersilie\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1811,
+        "name": "Gnocchi mit Kürbis (a.1,a)",
+        "category": "Turm vegetarisch Kombi",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Gnocchi mit Kürbis (a.1,a)\nTomatensahnesauce (g), frischer Schnittlauch, Parmesankäse gerieben (1,c,g)\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1812,
+        "name": "Broccoligemüse",
+        "category": "Gemüse",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Broccoligemüse\nRosenkohlröschen\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1813,
+        "name": "Karottensalat",
+        "category": "Salat",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Karottensalat\nBlattsalatmix, Kräuter Vinaigrette\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1814,
+        "name": "Pommes frites (3)",
+        "category": "Stärkebeilage",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Pommes frites (3)\nLangkornreis, Kartoffelpüree (3,g,l), Nudeln Penne Rigate (a.1,a), Kräuterpesto (4)\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1815,
+        "name": "auf",
+        "category": "Asia Point",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "auf\nLangkornreis, China Gemüsesauce (1,f,l), frischer Koriander\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1816,
+        "name": "Veganer Joghurt (a,a.3,h.1,h)",
+        "category": "Dessert",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Veganer Joghurt (a,a.3,h.1,h)\nmit Waldbeerensauce (1), Oreo (a,a.1,f) oder Stracciatella Joghurt (f,g) mit gezuckerte Heidelbeeren oder Veganer Heidelbeerjoghurt (a,a.3,h.1,h) mit Schokoladensauce\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1817,
+        "name": "Nur solange der Vorrat reicht ! Kann enthalten: (1-11) sowie (a-n).",
+        "category": "Last Minute",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Nur solange der Vorrat reicht ! Kann enthalten: (1-11) sowie (a-n).\nFür weitere Auskünfte fragen Sie gerne unser Personal."
+        ]
+      }
+    ],
+    "182": [
+      {
+        "id": 1820,
+        "name": "Veganer Joghurt mit Rosenwasser, Agavendicksaft, Haselnusskrokant und Pistazien (a.3,a,h.7,h.1,h.2,h)",
+        "category": "Dessertbuffet Bistro HAWK",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Veganer Joghurt mit Rosenwasser, Agavendicksaft, Haselnusskrokant und Pistazien (a.3,a,h.7,h.1,h.2,h)\noder, Hausgemachter Mangoquark (g) mit Schokomüsli (a.1,a.3,a.2,a,g,h.2,h) oder Hausgemachte Rote Grütze mit Topping Vanilla-Sahnesauce (g)\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1821,
+        "name": "Gebratene Krakauer vom Strohschwein (1,3,8,i,j)",
+        "category": "Menü ZM Strohschwein",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Gebratene Krakauer vom Strohschwein (1,3,8,i,j)\nPortion Senf (j), Salzkartoffeln, hausgemachter Grünkohl (a,a.3,j), Tagesdessert\n(Mittagsangebot)"
+        ]
+      },
+      {
+        "id": 1822,
+        "name": "Vegane Linsenpfanne mit Tomaten und Zucchini (2,3,l)",
+        "category": "Vegan HAWK",
+        "prices": {
+          "students": 0,
+          "employees": 0,
+          "others": 0
+        },
+        "notes": [
+          "Vegane Linsenpfanne mit Tomaten und Zucchini (2,3,l)\nWildreismischung, Balkangemüse, Tagesdessert\n(Mittagsangebot)"
+        ]
+      }
+    ]
   },
-  "2025-12-18": {},
-  "2025-12-19": {}
+  "2025-12-19": {},
+  "2025-12-20": {}
 }
