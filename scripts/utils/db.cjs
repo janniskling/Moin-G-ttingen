@@ -79,6 +79,25 @@ function generateDealId(deal) {
 async function upsertDeals(deals) {
     console.log(`📡 Uploading ${deals.length} deals to Supabase...`);
 
+    // First, clear existing deals to avoid stale data (false positives from previous runs)
+    const { data: existingDeals, error: fetchError } = await supabase
+        .from('deals')
+        .select('id');
+
+    if (existingDeals && existingDeals.length > 0) {
+        const idsToDelete = existingDeals.map(d => d.id);
+        const { error: deleteError } = await supabase
+            .from('deals')
+            .delete()
+            .in('id', idsToDelete);
+
+        if (deleteError) {
+            console.error("❌ Error clearing deals table:", deleteError);
+        } else {
+            console.log(`🧹 Cleared ${idsToDelete.length} old deals from DB.`);
+        }
+    }
+
     const preparedDeals = deals.map(d => ({
         id: generateDealId(d),
         title: d.title,

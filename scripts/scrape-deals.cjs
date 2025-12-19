@@ -34,9 +34,9 @@ async function run() {
         const kauflandDeals = await scrapeKaufland(page);
         allDeals.push(...kauflandDeals);
 
-        // 3. Edeka
-        const edekaDeals = await scrapeEdeka(page);
-        allDeals.push(...edekaDeals);
+        // Edeka (Currently disabled due to false positives)
+        // const edekaDeals = await scrapeEdeka(page);
+        // allDeals.push(...edekaDeals);
 
         // 4. Aldi
         const aldiDeals = await scrapeAldi(page);

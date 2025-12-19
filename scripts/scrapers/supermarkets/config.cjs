@@ -12,7 +12,7 @@ const KEYWORDS = [
 
 const BLACKLIST = [
     'weißbrot', 'brot', 'brötchen', 'baguette', 'aufstrich', 'ticket', 'gutschein',
-    'butter', 'kerrygold', 'käse', 'heidelbeere', 'erdbeere', 'beere', 'gemüse', 'obst',
+    'butter', 'kerrygold', 'käse', 'heidelbeere', 'erdbeere', 'himbeere', 'beere', 'gemüse', 'obst',
     'sortiment', 'günstig', 'billig', 'pizzatasche', 'gültig vom'
 ];
 
