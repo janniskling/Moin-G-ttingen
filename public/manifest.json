@@ -1,0 +1,21 @@
+{
+    "name": "Moin Göttingen",
+    "short_name": "Göttingen",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0d6efd",
+    "description": "Dein Guide für Göttingen: Events, Deals und Mensa.",
+    "icons": [
+        {
+            "src": "/logo.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "/logo.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg"
+        }
+    ]
+}

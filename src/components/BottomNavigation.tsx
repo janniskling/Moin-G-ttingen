@@ -1,4 +1,4 @@
-import { Home, Calendar, Utensils, CloudSun, Trophy } from 'lucide-react';
+import { Home, Calendar, Percent, CloudSun, Trophy } from 'lucide-react';
 import { NavLink } from 'react-router-dom';
 import { cn } from '../lib/utils';
 
@@ -6,7 +6,7 @@ export function BottomNavigation() {
     const navItems = [
         { to: '/', icon: Home, label: 'Home' },
         { to: '/events', icon: Calendar, label: 'Events' },
-        { to: '/mensa', icon: Utensils, label: 'Mensa' },
+        { to: '/deals', icon: Percent, label: 'Deals' },
         { to: '/weather', icon: CloudSun, label: 'Wetter' },
         { to: '/ranking', icon: Trophy, label: 'Ranking' },
     ];

@@ -1,7 +1,7 @@
 export type BaseEntity = {
     id: string;
-    created_date: string; // ISO string
-    updated_date: string; // ISO string
+    created_date?: string; // ISO string
+    updated_date?: string; // ISO string
     created_by?: string; // User ID
 };
 

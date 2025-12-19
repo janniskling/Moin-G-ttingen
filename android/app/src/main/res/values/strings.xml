@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Göttingen Guide</string>
+    <string name="title_activity_main">Göttingen Guide</string>
+    <string name="package_name">com.goettingenguide.app</string>
+    <string name="custom_url_scheme">com.goettingenguide.app</string>
+</resources>

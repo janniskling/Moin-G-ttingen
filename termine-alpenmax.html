@@ -1,0 +1,145 @@
+<!DOCTYPE html><html lang="de"><head>
+		<meta charset="utf-8">
+		<title>termine.de - wissen, was geht!</title>
+		<base href="/">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="keywords" content="Termine, Kalender">
+		<meta name="description" content="termine.de - wissen was, geht! Dein ganz persönlicher Kalender">
+		<meta name="robots" content="index, follow">
+		<meta name="status" content="200">
+		<meta name="termine-b" content="true">
+		<meta name="apple-mobile-web-app-title" content="termine.de">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="mobile-web-app-capable" content="yes">
+		<meta name="author" content="Termine.de AG">
+		<meta property="og:url" content="https://termine.de">
+		<meta property="og:title" content="termine.de - wissen, was geht!">
+		<meta property="og:description" content="termine.de - wissen was, geht! Dein ganz persönlicher Kalender">
+		<meta property="og:image" content="">
+		<meta name="google-adsense-account" content="ca-pub-8317496148299392">
+		<script src="/openad.js"></script>
+		<meta name="fo-verify" content="13c01fa4-533e-4ca5-b229-499f1b0085cd">
+		<meta name="p:domain_verify" content="efbc6d5296fd9844cf00ca56b9701971">
+		<meta name="verification" content="1acc55a2489cc1b124d59a0a8d4c8f1e">
+		<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag() {
+					dataLayer.push(arguments);
+				}
+
+				gtag('consent', 'default', {
+					ad_storage: 'denied',
+					ad_user_data: 'denied',
+					ad_personalization: 'denied',
+					analytics_storage: 'denied',
+					functionality_storage: 'denied',
+					security_storage: 'granted'
+				});
+
+				window.adsbygoogle = window.adsbygoogle || [];
+				window.adsbygoogle.requestNonPersonalizedAds = 1;
+			</script>
+
+			<script>
+				window.googlefc = window.googlefc || {};
+				window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+
+				window.googlefc.callbackQueue.push({
+					CONSENT_MODE_DATA_READY: () => {
+						try {
+							const s = googlefc.getGoogleConsentModeValues();
+							const granted =
+								[s.adStoragePurposeConsentStatus, s.adUserDataPurposeConsentStatus, s.adPersonalizationPurposeConsentStatus]
+								.every(v =>
+								v === googlefc.ConsentModePurposeStatusEnum.CONSENT_MODE_PURPOSE_STATUS_GRANTED ||
+								v === googlefc.ConsentModePurposeStatusEnum.CONSENT_MODE_PURPOSE_STATUS_NOT_APPLICABLE ||
+								v === googlefc.ConsentModePurposeStatusEnum.CONSENT_MODE_PURPOSE_STATUS_NOT_CONFIGURED
+								);
+
+							if (granted) {
+								// Consent given
+								window.adsbygoogle.requestNonPersonalizedAds = 0;
+								onGoogleConsentAccepted();
+							} else {
+								// Consent revoked or denied
+								window.adsbygoogle.requestNonPersonalizedAds = 1;
+								onGoogleConsentRevoked();
+							}
+						} catch (e) {}
+					}
+				});
+			</script>
+
+			<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16519918690"></script>
+			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8317496148299392" crossorigin="anonymous"></script>
+			<script>
+				gtag('js', new Date());
+				gtag('config', 'AW-16519918690', { allow_ad_personalization_signals: false });
+			</script>
+
+			<script>
+				function onGoogleConsentAccepted() {					
+					gtag('consent', 'update', {
+						ad_storage: 'granted',
+						ad_user_data: 'granted',
+						ad_personalization: 'granted',
+						analytics_storage: 'granted',
+						functionality_storage: 'granted'
+					});
+
+					if (!window.fbq) {
+						!(function (f, b, e, v, n, t, s) {
+							if (f.fbq) return;
+							n = f.fbq = function () {
+								n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+							};
+							if (!f._fbq) f._fbq = n;
+							n.push = n;
+							n.loaded = true;
+							n.version = '2.0';
+							n.queue = [];
+							t = b.createElement(e);
+							t.async = true;
+							t.src = v;
+							s = b.getElementsByTagName(e)[0];
+							s.parentNode.insertBefore(t, s);
+						})(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+						fbq('init', '1121108899909860');
+						fbq('track', 'PageView');
+					}
+				}
+
+				function onGoogleConsentRevoked() {
+					console.log('Consent revoked');
+					
+					gtag('consent', 'update', {
+						ad_storage: 'denied',
+						ad_user_data: 'denied',
+						ad_personalization: 'denied',
+						analytics_storage: 'denied',
+						functionality_storage: 'denied'
+					});
+
+					if (window.fbq) {
+						try { 
+							fbq('consent', 'revoke'); 
+						} catch(e) { 
+						 	console.warn('FB revoke failed', e); 
+						}
+					}
+				
+				}
+
+			</script>
+		<link rel="canonical" href="https://termine.de">
+		<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+		<link rel="icon" type="image/x-icon" href="favicon.ico">
+	<style>@charset "UTF-8";:root{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-black:#000;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-body-color-rgb:33,37,41;--bs-body-bg-rgb:255,255,255;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;--bs-gradient:linear-gradient(180deg, rgba(255, 255, 255, .15), rgba(255, 255, 255, 0));--bs-body-font-family:var(--bs-font-sans-serif);--bs-body-font-size:1rem;--bs-body-font-weight:400;--bs-body-line-height:1.5;--bs-body-color:#212529;--bs-body-bg:#fff;--bs-border-width:1px;--bs-border-style:solid;--bs-border-color:#dee2e6;--bs-border-color-translucent:rgba(0, 0, 0, .175);--bs-border-radius:.375rem;--bs-border-radius-sm:.25rem;--bs-border-radius-lg:.5rem;--bs-border-radius-xl:1rem;--bs-border-radius-2xl:2rem;--bs-border-radius-pill:50rem;--bs-link-color:#0d6efd;--bs-link-hover-color:#0a58ca;--bs-code-color:#d63384;--bs-highlight-bg:#fff3cd}*,:after,:before{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent}:root{--fa-style-family-duotone:"Font Awesome 6 Duotone";--fa-font-duotone:normal 900 1em/1 "Font Awesome 6 Duotone"}@font-face{font-family:"Font Awesome 6 Duotone";font-style:normal;font-weight:900;font-display:block;src:url(fa-duotone-900.4ddd587ac1266a17.woff2) format("woff2"),url(fa-duotone-900.55569c464ca1fdab.ttf) format("truetype")}:root{--fa-style-family-classic:"Font Awesome 6 Pro";--fa-font-light:normal 300 1em/1 "Font Awesome 6 Pro"}@font-face{font-family:"Font Awesome 6 Pro";font-style:normal;font-weight:300;font-display:block;src:url(fa-light-300.777d89cc1ebc291d.woff2) format("woff2"),url(fa-light-300.c95f2047fd3a097e.ttf) format("truetype")}:root{--fa-style-family-classic:"Font Awesome 6 Pro";--fa-font-solid:normal 900 1em/1 "Font Awesome 6 Pro"}@font-face{font-family:"Font Awesome 6 Pro";font-style:normal;font-weight:900;font-display:block;src:url(fa-solid-900.f228a3eeb02c6ba9.woff2) format("woff2"),url(fa-solid-900.31db52985ed0d5a3.ttf) format("truetype")}:root{--fa-style-family-brands:"Font Awesome 6 Brands";--fa-font-brands:normal 400 1em/1 "Font Awesome 6 Brands"}@font-face{font-family:"Font Awesome 6 Brands";font-style:normal;font-weight:400;font-display:block;src:url(fa-brands-400.f25cd21ce9ce25c2.woff2) format("woff2"),url(fa-brands-400.2ca79e481f2453df.ttf) format("truetype")}html,body{height:100%;box-sizing:border-box;margin:0}</style><link rel="stylesheet" href="styles.90b006bce09d35ba.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.90b006bce09d35ba.css"></noscript></head>
+	<body class="bg">
+		
+<app-root></app-root>
+	<script src="runtime.cef8817643f4b975.js" type="module"></script><script src="polyfills.67b86b73b7a86c5a.js" type="module"></script><script src="main.4d3c84574c420ac7.js" type="module"></script>
+
+</body></html>

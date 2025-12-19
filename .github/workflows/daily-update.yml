@@ -30,10 +30,11 @@ jobs:
         env:
           PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: "false"
 
-      - name: Run Event Scraper
+      - name: Scrape Events
         run: node scripts/scrape-events.cjs
-        env:
-          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: "false"
+
+      - name: Scrape Deals
+        run: node scripts/scrape-deals.cjs
 
       - name: Commit and Push if changed
         run: |

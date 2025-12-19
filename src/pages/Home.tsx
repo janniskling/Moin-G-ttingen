@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import { Card, CardContent } from '../components/ui/card';
 // import { Button } from '../components/ui/button';
-import { Calendar, Utensils, Trophy, ArrowRight } from 'lucide-react';
+import { Calendar, Percent, Trophy, ArrowRight } from 'lucide-react';
 
 export default function Home() {
   return (
@@ -16,16 +16,16 @@ export default function Home() {
       </section>
 
       <section className="grid gap-4">
-        <Link to="/mensa">
+        <Link to="/deals">
           <Card className="group hover:border-primary/50 transition-colors cursor-pointer">
             <CardContent className="p-6 flex items-center justify-between">
               <div className="flex items-center space-x-4">
-                <div className="p-3 rounded-full bg-orange-100 dark:bg-orange-900/20 text-orange-600 dark:text-orange-400">
-                  <Utensils className="h-6 w-6" />
+                <div className="p-3 rounded-full bg-green-100 dark:bg-green-900/20 text-green-600 dark:text-green-400">
+                  <Percent className="h-6 w-6" />
                 </div>
                 <div>
-                  <h3 className="font-semibold text-lg">Hunger?</h3>
-                  <p className="text-sm text-muted-foreground">Check den Mensaplan für heute.</p>
+                  <h3 className="font-semibold text-lg">Deals</h3>
+                  <p className="text-sm text-muted-foreground">Die besten Angebote der Stadt.</p>
                 </div>
               </div>
               <ArrowRight className="h-5 w-5 text-muted-foreground group-hover:text-primary transition-transform group-hover:translate-x-1" />

@@ -1,9 +1,10 @@
 import { useEffect, useState } from 'react';
 import { base44 } from '../lib/base44';
-import { type Place } from '../entities/types';
-import { Card, CardContent } from '../components/ui/card';
+import { type Place, type User } from '../entities/types';
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '../components/ui/card';
 import { Button } from '../components/ui/button';
-import { Star, MapPin, ArrowLeft, ChevronRight } from 'lucide-react';
+import { Input } from '../components/ui/input';
+import { Star, MapPin, ArrowLeft, ChevronRight, LogIn, LogOut } from 'lucide-react';
 import { cn } from '../lib/utils';
 import { StarRating } from '../components/StarRating';
 
@@ -13,33 +14,171 @@ export default function Ranking() {
     const [view, setView] = useState<CategoryView>(null);
     const [places, setPlaces] = useState<Place[]>([]);
     const [userVotes, setUserVotes] = useState<Record<string, number>>({});
+    const [currentUser, setCurrentUser] = useState<User | null>(null);
+    const [showLogin, setShowLogin] = useState(false);
+
+    // Auth Form Component
+    const AuthForm = ({ onClose }: { onClose: () => void }) => {
+        const [mode, setMode] = useState<'login' | 'signup'>('login');
+        const [email, setEmail] = useState('');
+        const [password, setPassword] = useState('');
+        const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
+        const [errorMsg, setErrorMsg] = useState('');
+
+        const handleSubmit = async (e: React.FormEvent) => {
+            e.preventDefault();
+            setStatus('loading');
+            setErrorMsg('');
+
+            try {
+                if (mode === 'login') {
+                    await base44.loginWithPassword(email, password);
+                    // Login successful -> Parent effect will catch user change or we reload
+                    window.location.reload();
+                } else {
+                    const data = await base44.signUp(email, password);
+
+                    // If Email Confirmation is disabled, we get a session immediately.
+                    if (data?.session) {
+                        window.location.reload();
+                    } else {
+                        setStatus('success'); // Still need to confirm email
+                    }
+                }
+            } catch (err: any) {
+                console.error(err);
+                setStatus('error');
+                setErrorMsg(err.message || 'Ein Fehler ist aufgetreten.');
+            }
+        };
+
+        if (status === 'success' && mode === 'signup') {
+            return (
+                <div className="text-center space-y-4 py-4">
+                    <span className="text-4xl">📧</span>
+                    <p className="font-medium text-green-600">Bestätigung gesendet!</p>
+                    <p className="text-sm text-muted-foreground">
+                        Bitte bestätige deine Email ({email}), um dich einzuloggen.
+                    </p>
+                    <Button onClick={() => setMode('login')} variant="outline" className="w-full">
+                        Zum Login
+                    </Button>
+                </div>
+            );
+        }
+
+        return (
+            <form onSubmit={handleSubmit} className="space-y-4">
+                <div className="space-y-3">
+                    <Input
+                        type="email"
+                        placeholder="Email"
+                        value={email}
+                        onChange={e => setEmail(e.target.value)}
+                        required
+                        className="text-lg p-5"
+                    />
+                    <Input
+                        type="password"
+                        placeholder="Passwort"
+                        value={password}
+                        onChange={e => setPassword(e.target.value)}
+                        required
+                        className="text-lg p-5"
+                        minLength={6}
+                    />
+                </div>
+
+                {status === 'error' && (
+                    <div className="text-red-500 text-sm bg-red-50 p-2 rounded">
+                        {errorMsg}
+                    </div>
+                )}
+
+                <div className="flex flex-col gap-3 pt-2">
+                    <Button type="submit" size="lg" className="w-full text-lg" disabled={status === 'loading'}>
+                        {status === 'loading' ? 'Lade...' : (mode === 'login' ? 'Einloggen' : 'Registrieren')}
+                    </Button>
+
+                    <div className="flex items-center justify-between text-sm text-muted-foreground">
+                        <span>
+                            {mode === 'login' ? 'Neu hier?' : 'Schon dabei?'}
+                        </span>
+                        <Button
+                            type="button"
+                            variant="link"
+                            className="p-0 h-auto font-semibold"
+                            onClick={() => {
+                                setMode(mode === 'login' ? 'signup' : 'login');
+                                setErrorMsg('');
+                            }}
+                        >
+                            {mode === 'login' ? 'Account erstellen' : 'Anmelden'}
+                        </Button>
+                    </div>
+
+                    <Button type="button" variant="ghost" onClick={onClose}>
+                        Abbrechen
+                    </Button>
+                </div>
+            </form>
+        );
+    };
 
     // Refresh data logic
     const refreshData = async () => {
-        const allPlaces = await base44.places.find();
+        const allPlaces = await base44.getPlaces();
+
+        // Manual Sort: Döner places should be verified first? 
+        // Actually find() returns everything. Let's rely on DB or UI sorting.
         setPlaces(allPlaces);
 
-        // Fetch user's votes for all places
-        const votes: Record<string, number> = {};
-        for (const place of allPlaces) {
-            const vote = await base44.getMyVote(place.id);
-            if (vote) {
-                votes[place.id] = vote.value;
+        // Fetch user's votes if logged in
+        const user = await base44.getCurrentUser();
+        setCurrentUser(user);
+
+        if (user) {
+            const votes: Record<string, number> = {};
+            for (const place of allPlaces) {
+                const vote = await base44.getMyVote(place.id);
+                if (vote) {
+                    votes[place.id] = vote.value;
+                }
             }
+            setUserVotes(votes);
         }
-        setUserVotes(votes);
     };
 
     useEffect(() => {
-        base44.auth.login('guest@user.com'); // Auto-login as guest for now
         refreshData();
+
+        // Subscribe to Auth Changes locally if Base44 supported it, 
+        // but simple refresh on mount is okay for now.
     }, []);
 
+
+
+    const handleLogout = async () => {
+        await base44.logout();
+        setCurrentUser(null);
+        setUserVotes({});
+    };
+
     const handleRate = async (placeId: string, value: number) => {
-        // If user clicks the same rating they already have, maybe we could remove it?
-        // For now, simpler: just update.
-        await base44.vote(placeId, value);
-        await refreshData(); // Refresh to show new averages and user vote
+        if (!currentUser) {
+            setShowLogin(true);
+            return;
+        }
+
+        try {
+            await base44.vote(placeId, value);
+            // Optimistic Update
+            setUserVotes(prev => ({ ...prev, [placeId]: value }));
+            // Refresh to get new averages
+            refreshData();
+        } catch (err) {
+            console.error("Voting failed", err);
+        }
     };
 
     const getPlacesByCategory = (category: string) => {
@@ -66,14 +205,48 @@ export default function Ranking() {
         </Card>
     );
 
+    // LOGIN DIALOG (Email/Password)
+    if (showLogin && !currentUser) {
+        return (
+            <div className="fixed inset-0 z-50 bg-background/80 backdrop-blur-sm flex items-center justify-center p-4">
+                <Card className="w-full max-w-md animate-in zoom-in-95">
+                    <CardHeader>
+                        <CardTitle>Abstimmen & Mitmachen</CardTitle>
+                        <CardDescription>
+                            Logge dich ein, um deine Meinung zu teilen.
+                        </CardDescription>
+                    </CardHeader>
+                    <CardContent>
+                        <AuthForm onClose={() => setShowLogin(false)} />
+                    </CardContent>
+                </Card>
+            </div>
+        );
+    }
+
     if (view === null) {
         return (
             <div className="space-y-8 pb-20 animate-in fade-in slide-in-from-bottom-8 duration-700">
-                <div className="space-y-2 pt-4">
-                    <h1 className="text-4xl font-extrabold tracking-tight">Kategorien</h1>
-                    <p className="text-lg text-muted-foreground">
-                        Wähle eine Kategorie für das Ranking.
-                    </p>
+                <div className="flex justify-between items-start pt-4">
+                    <div className="space-y-2">
+                        <h1 className="text-4xl font-extrabold tracking-tight">Kategorien</h1>
+                        <p className="text-lg text-muted-foreground">
+                            Wähle eine Kategorie für das Ranking.
+                        </p>
+                    </div>
+                    <div>
+                        {currentUser ? (
+                            <Button variant="outline" size="sm" onClick={handleLogout} title="Abmelden">
+                                <LogOut className="h-4 w-4 mr-2" />
+                                Logout ({currentUser.email?.split('@')[0]})
+                            </Button>
+                        ) : (
+                            <Button variant="outline" size="sm" onClick={() => setShowLogin(true)}>
+                                <LogIn className="h-4 w-4 mr-2" />
+                                Login
+                            </Button>
+                        )}
+                    </div>
                 </div>
 
                 <div className="space-y-4 max-w-md mx-auto">
@@ -164,15 +337,23 @@ export default function Ranking() {
                             </p>
 
                             <div className="pt-4 border-t">
-                                <div className="flex items-center justify-between">
+                                <div className="flex items-center justify-between flex-wrap gap-2">
                                     <span className="text-sm font-medium text-muted-foreground">
-                                        Deine Bewertung:
+                                        {currentUser ? 'Deine Bewertung:' : 'Bewertung:'}
                                     </span>
-                                    <StarRating
-                                        value={userVotes[place.id] || 0}
-                                        onChange={(val) => handleRate(place.id, val)}
-                                        size="lg"
-                                    />
+                                    <div className="flex flex-col items-end">
+                                        <StarRating
+                                            value={userVotes[place.id] || 0}
+                                            onChange={(val) => handleRate(place.id, val)}
+                                            size="lg"
+                                            readonly={false} // Allows click to trigger login prompt
+                                        />
+                                        {!currentUser && (
+                                            <span className="text-xs text-red-500 mt-1 cursor-pointer hover:underline" onClick={() => setShowLogin(true)}>
+                                                Du musst dich zuerst einloggen um abstimmen zu können.
+                                            </span>
+                                        )}
+                                    </div>
                                 </div>
                             </div>
                         </CardContent>

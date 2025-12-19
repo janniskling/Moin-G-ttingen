@@ -6,6 +6,7 @@ import { Calendar, MapPin, Music, Beer, Users, Search } from 'lucide-react';
 import { cn } from '../lib/utils';
 import { format } from 'date-fns';
 import { de } from 'date-fns/locale';
+import { supabase } from '../lib/supabase';
 
 type EventCategory = 'Party' | 'Kultur' | 'Sport' | 'Sonstiges';
 
@@ -17,10 +18,9 @@ interface Event {
     category: EventCategory;
     description: string;
     imageUrl?: string;
+    emoji?: string; // Add emoji support
     source?: string;
 }
-
-
 
 export default function Events() {
     const [searchTerm, setSearchTerm] = useState('');
@@ -30,34 +30,41 @@ export default function Events() {
     useEffect(() => {
         const fetchEvents = async () => {
             try {
-                const res = await fetch('/events-data.json');
-                if (res.ok) {
-                    const scrapedData = await res.json();
+                // Fetch from Supabase
+                const { data, error } = await supabase
+                    .from('events')
+                    .select('*')
+                    .gte('start_time', new Date().toISOString()) // Only future events
+                    .order('start_time', { ascending: true });
 
-                    const processedEvents: Event[] = scrapedData.map((item: any) => {
-                        // date is already ISO string from scraper
-                        const dateObj = new Date(item.date);
+                if (error) {
+                    console.error("Error fetching events:", error);
+                    return;
+                }
 
-                        // Fallback parsing for legacy formats if any (shouldn't be needed with new scraper)
-                        if (isNaN(dateObj.getTime()) && item.dateString) {
-                            const match = item.dateString.match(/(\d{2})\.(\d{2})\.(\d{4})/);
-                            if (match) {
-                                const [_, d, m, y] = match;
-                                dateObj.setFullYear(parseInt(y), parseInt(m) - 1, parseInt(d));
-                            }
-                        }
+                if (data) {
+                    const processedEvents: Event[] = data.map((item: any) => {
+                        const dateObj = new Date(item.start_time);
 
-                        // Determine category
+                        // Map Category
                         let cat: EventCategory = 'Sonstiges';
-                        const lowerTitle = item.title.toLowerCase();
-                        const lowerSource = (item.source || '').toLowerCase();
-                        const tags = (item.tags || []).map((t: string) => t.toLowerCase());
+                        const c = (item.category || '').toLowerCase();
+                        if (c === 'sports' || c === 'sport') cat = 'Sport';
+                        else if (c === 'music' || c === 'culture' || c === 'kultur') cat = 'Kultur';
+                        else if (c === 'party') cat = 'Party';
+                        else if (c === 'food' || c === 'drinks') cat = 'Sonstiges';
 
-                        if (tags.includes('party') || tags.includes('club') || lowerTitle.includes('party')) cat = 'Party';
-                        else if (tags.includes('konzert') || tags.includes('live') || tags.includes('theater')) cat = 'Kultur';
-                        else if (lowerSource === 'savoy' || lowerSource === 'alpenmax') cat = 'Party';
-                        else if (lowerSource === 'musa' || lowerSource === 'exil' || lowerSource === 'theater') cat = 'Kultur';
-                        else if (tags.includes('sport')) cat = 'Sport';
+                        // Emoji vs Image URL detection
+                        let imgUrl = undefined;
+                        let emoji = undefined;
+                        // DB 'image_url' column stores mixed content (url or emoji)
+                        const rawImage = item.image_url;
+
+                        if (rawImage && (rawImage.startsWith('http') || rawImage.startsWith('/'))) {
+                            imgUrl = rawImage;
+                        } else {
+                            emoji = rawImage;
+                        }
 
                         return {
                             id: item.id,
@@ -66,12 +73,12 @@ export default function Events() {
                             location: item.location,
                             category: cat,
                             description: item.description,
-                            imageUrl: item.imageUrl,
-                            source: item.source
+                            imageUrl: imgUrl,
+                            emoji: emoji,
+                            source: item.location
                         };
                     });
 
-                    // Use only real data (plus maybe mock if list is empty, but better to show real empty state)
                     setEvents(processedEvents);
                 }
             } catch (e) {
@@ -134,33 +141,27 @@ export default function Events() {
             <div className="grid gap-4">
                 {filteredEvents.map(event => (
                     <Card key={event.id} className="overflow-hidden group hover:border-primary/50 transition-colors">
-                        {event.imageUrl && (
-                            <div className="h-32 w-full overflow-hidden relative">
-                                <img src={event.imageUrl} alt={event.title} className="w-full h-full object-cover transition-transform group-hover:scale-105" />
-                                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
-                                <span className="absolute bottom-2 left-2 text-white text-xs font-bold px-2 py-1 bg-primary/80 rounded backdrop-blur-md">
-                                    {format(event.date, 'dd. MMM • HH:mm', { locale: de })}
-                                </span>
-                                {event.source && (
-                                    <span className={cn(
-                                        "absolute top-2 right-2 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow-sm",
-                                        event.source.toLowerCase() === 'savoy' ? "bg-purple-600/90" :
-                                            event.source.toLowerCase() === 'thanners' ? "bg-yellow-600/90" :
-                                                event.source.toLowerCase() === 'exil' ? "bg-stone-800/90" :
-                                                    event.source.toLowerCase() === 'alpenmax' ? "bg-blue-600/90" :
-                                                        "bg-gray-600/90"
-                                    )}>
-                                        {event.source.toUpperCase()}
-                                    </span>
-                                )}
-                            </div>
-                        )}
-                        <CardContent className={cn("p-4", event.imageUrl ? "pt-4" : "")}>
-                            {!event.imageUrl && (
-                                <div className="text-sm font-semibold text-primary mb-1">
-                                    {format(event.date, 'dd. MMM • HH:mm', { locale: de })}
-                                </div>
+                        <div className="h-32 w-full overflow-hidden relative bg-muted/30 flex items-center justify-center">
+                            {event.imageUrl ? (
+                                <>
+                                    <img src={event.imageUrl} alt={event.title} className="w-full h-full object-cover transition-transform group-hover:scale-105" />
+                                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
+                                </>
+                            ) : (
+                                <span className="text-6xl animate-in zoom-in duration-300">{event.emoji || '📅'}</span>
                             )}
+                            <span className={cn(
+                                "absolute top-2 right-2 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow-sm z-10",
+                                event.imageUrl ? "bg-black/50 backdrop-blur-md" : "bg-primary/90"
+                            )}>
+                                {event.source?.toUpperCase() || "EVENT"}
+                            </span>
+
+                            <span className="absolute bottom-2 left-2 text-white text-xs font-bold px-2 py-1 bg-black/60 rounded backdrop-blur-md z-10">
+                                {format(event.date, 'dd. MMM • HH:mm', { locale: de })} Uhr
+                            </span>
+                        </div>
+                        <CardContent className="p-4 pt-4">
                             <div className="flex justify-between items-start">
                                 <div>
                                     <CardTitle className="text-lg">{event.title}</CardTitle>

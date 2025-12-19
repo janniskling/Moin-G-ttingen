@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bj5ni9ftq",
+    "store": "Rewe",
+    "title": "Krombacher Pils oder alkoholfrei",
+    "price": "10,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 24 x 0,33-l-Fl.-Kasten, (1 l = 1,32), zzgl. 3,42 Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "cbwu7zos5",
+    "store": "Rewe",
+    "title": "Corona Mexican Beer oder Cero alkoholfrei",
+    "price": "5,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 6 x 0,355-l-Fl.-Sixpack, (1 l = 2,81), zzgl. 0,48 Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "87xv8gg0d",
+    "store": "Kaufland",
+    "title": "KROMBACHER",
+    "price": "10,99",
+    "oldPrice": "17,79",
+    "discount": "38%",
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "d08zoxtd8",
+    "store": "Kaufland",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,49",
+    "oldPrice": "1,69",
+    "discount": "12%",
+    "image": "🍕",
+    "description": "(1 kg = 4.70 - 5.64) / (1 kg = 4.14 - 4.97)**",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "rgybpkuyt",
+    "store": "Kaufland",
+    "title": "RADEBERGER",
+    "price": "9,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "pbqiqtro5",
+    "store": "Kaufland",
+    "title": "JEVER",
+    "price": "9,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "krl4qxdrv",
+    "store": "Kaufland",
+    "title": "EINBECKER",
+    "price": "10,99",
+    "oldPrice": "15,49",
+    "discount": "29%",
+    "image": "🍺",
+    "description": "je Ka. 30 x 0,33-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "yq8fgsa0d",
+    "store": "Kaufland",
+    "title": "BERGBRÄU",
+    "price": "11,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,33-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "30dzblc3i",
+    "store": "Kaufland",
+    "title": "Barilla Pesto",
+    "price": "1,67",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "Kaufe 3 für 5€",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  }
+]
