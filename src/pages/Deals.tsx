@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { ExternalLink } from 'lucide-react';
 import { Card, CardContent } from '../components/ui/card';
 import { Badge } from '../components/ui/badge';
 import { supabase } from '../lib/supabase';
@@ -58,7 +59,12 @@ export default function Deals() {
     return (
         <div className="space-y-4 pb-20">
             <div className="flex items-center justify-between">
-                <h1 className="text-2xl font-bold tracking-tight">Angebote</h1>
+                <div className="flex flex-col">
+                    <h1 className="text-2xl font-bold tracking-tight">Angebote</h1>
+                    <span className="text-xs text-muted-foreground mt-1">
+                        Nur die wichtigsten Deals für Studenten (Bier, Pesto, Nudeln, Pizza)
+                    </span>
+                </div>
                 <span className="text-xs text-muted-foreground">Göttingen</span>
             </div>
 
@@ -130,12 +136,24 @@ export default function Deals() {
                                 <span className="text-2xl font-black text-red-600">{selectedDeal.price} €</span>
                             </div>
 
-                            <button
-                                onClick={() => setSelectedDeal(null)}
-                                className="w-full bg-primary text-primary-foreground py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
-                            >
-                                Schließen
-                            </button>
+                            <div className="flex gap-3">
+                                <button
+                                    onClick={() => setSelectedDeal(null)}
+                                    className="flex-1 bg-stone-200 text-stone-800 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+                                >
+                                    Schließen
+                                </button>
+                                {selectedDeal.link && (
+                                    <a
+                                        href={selectedDeal.link}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="flex-1 bg-primary text-primary-foreground py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
+                                    >
+                                        Zum Angebot <ExternalLink size={18} />
+                                    </a>
+                                )}
+                            </div>
                         </div>
                     </div>
                 </div>

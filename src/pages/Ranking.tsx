@@ -346,13 +346,32 @@ export default function Ranking() {
                                             value={userVotes[place.id] || 0}
                                             onChange={(val) => handleRate(place.id, val)}
                                             size="lg"
-                                            readonly={false} // Allows click to trigger login prompt
+                                            readonly={false}
                                         />
-                                        {!currentUser && (
+                                        {!currentUser ? (
                                             <span className="text-xs text-red-500 mt-1 cursor-pointer hover:underline" onClick={() => setShowLogin(true)}>
                                                 Du musst dich zuerst einloggen um abstimmen zu können.
                                             </span>
-                                        )}
+                                        ) : userVotes[place.id] ? (
+                                            <span
+                                                className="text-xs text-red-500 mt-1 cursor-pointer hover:underline font-medium"
+                                                onClick={async () => {
+                                                    try {
+                                                        await base44.removeVote(place.id);
+                                                        setUserVotes(prev => {
+                                                            const next = { ...prev };
+                                                            delete next[place.id];
+                                                            return next;
+                                                        });
+                                                        refreshData();
+                                                    } catch (e) {
+                                                        console.error("Failed to remove vote", e);
+                                                    }
+                                                }}
+                                            >
+                                                Bewertung löschen
+                                            </span>
+                                        ) : null}
                                     </div>
                                 </div>
                             </div>

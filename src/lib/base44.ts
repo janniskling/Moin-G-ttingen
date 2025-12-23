@@ -52,21 +52,62 @@ export class Base44SDK {
         // Upsert Vote
         const { data, error } = await supabase
             .from('votes')
-            .upsert({
-                user_id: user.id,
-                place_id: placeId,
-                value: value
-            })
+            .upsert(
+                {
+                    user_id: user.id,
+                    place_id: placeId,
+                    value: value
+                },
+                { onConflict: 'user_id, place_id' }
+            )
             .select()
             .single();
 
         if (error) throw error;
 
-        // Trigger generic "update score" logic on client side 
-        // (In a real app, this would be a DB function/trigger or Edge Function)
-        // For simplicity, we just return the vote and let the UI optimistically update or re-fetch.
+        // Recalculate stats
+        await this.recalculateStats(placeId);
 
         return data as Vote;
+    }
+
+    async removeVote(placeId: string): Promise<void> {
+        const { data: { user } } = await supabase.auth.getUser();
+        if (!user) throw new Error("Must be logged in to delete vote");
+
+        const { error } = await supabase
+            .from('votes')
+            .delete()
+            .eq('user_id', user.id)
+            .eq('place_id', placeId);
+
+        if (error) throw error;
+
+        // Recalculate stats
+        await this.recalculateStats(placeId);
+    }
+
+    private async recalculateStats(placeId: string) {
+        // Fetch all votes to calculate authoritative average/count
+        const { data: votes } = await supabase
+            .from('votes')
+            .select('value')
+            .eq('place_id', placeId);
+
+        if (!votes) return;
+
+        const count = votes.length;
+        const sum = votes.reduce((acc, v) => acc + v.value, 0);
+        const average = count > 0 ? sum / count : 0;
+
+        // Update place stats
+        await supabase
+            .from('places')
+            .update({
+                ranking_score: average,
+                vote_count: count
+            })
+            .eq('id', placeId);
     }
 
     // --- AUTH ---
@@ -87,6 +128,124 @@ export class Base44SDK {
             full_name: profile?.full_name || user.user_metadata?.full_name || 'User',
             role: profile?.role || 'user'
         };
+    }
+
+    // --- CHAT ---
+    async getMessages(sortBy: 'new' | 'top' = 'new'): Promise<any[]> {
+        const query = supabase
+            .from('chat_messages')
+            .select('*')
+            .is('parent_id', null) // Only fetch top-level messages
+            .gt('created_at', new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString()); // Max 7 days old
+
+        if (sortBy === 'new') {
+            query.order('created_at', { ascending: false });
+        } else {
+            query.order('score', { ascending: false });
+        }
+
+        const { data, error } = await query;
+        if (error) {
+            console.error('Error fetching messages:', error);
+            return [];
+        }
+        return data;
+    }
+
+    async getReplies(parentId: string): Promise<any[]> {
+        const { data, error } = await supabase
+            .from('chat_messages')
+            .select('*')
+            .eq('parent_id', parentId)
+            .order('created_at', { ascending: true });
+
+        if (error) {
+            console.error('Error fetching replies:', error);
+            return [];
+        }
+        return data;
+    }
+
+    async postMessage(content: string, parentId?: string): Promise<void> {
+        const { data: { user } } = await supabase.auth.getUser();
+        if (!user) throw new Error("Must be logged in to post");
+
+        const payload: any = {
+            user_id: user.id,
+            content: content.slice(0, 250) // Enforce limit
+        };
+
+        if (parentId) {
+            payload.parent_id = parentId;
+        }
+
+        const { error } = await supabase
+            .from('chat_messages')
+            .insert(payload);
+
+        if (error) throw error;
+    }
+
+    async deleteMessage(messageId: string): Promise<void> {
+        const { data: { user } } = await supabase.auth.getUser();
+        if (!user) throw new Error("Must be logged in to delete");
+
+        const { error } = await supabase
+            .from('chat_messages')
+            .delete()
+            .eq('id', messageId)
+            .eq('user_id', user.id); // Double check ownership safely
+
+        if (error) throw error;
+    }
+
+    async voteMessage(messageId: string, direction: 1 | -1): Promise<void> {
+        const { data: { user } } = await supabase.auth.getUser();
+        if (!user) throw new Error("Must be logged in to vote");
+
+        const { error } = await supabase
+            .from('chat_votes')
+            .upsert(
+                {
+                    user_id: user.id,
+                    message_id: messageId,
+                    vote: direction
+                },
+                { onConflict: 'user_id, message_id' }
+            );
+
+        if (error) throw error;
+    }
+
+    async removeChatVote(messageId: string): Promise<void> {
+        const { data: { user } } = await supabase.auth.getUser();
+        if (!user) throw new Error("Must be logged in to remove vote");
+
+        const { error } = await supabase
+            .from('chat_votes')
+            .delete()
+            .eq('user_id', user.id)
+            .eq('message_id', messageId);
+
+        if (error) throw error;
+    }
+
+    async getUserChatVotes(): Promise<Record<string, number>> {
+        const { data: { user } } = await supabase.auth.getUser();
+        if (!user) return {};
+
+        // Fetch votes for recent messages (optimization: limit by time or just fetch all for now)
+        const { data, error } = await supabase
+            .from('chat_votes')
+            .select('message_id, vote')
+            .eq('user_id', user.id);
+
+        if (error || !data) return {};
+
+        return data.reduce((acc, curr) => {
+            acc[curr.message_id] = curr.vote;
+            return acc;
+        }, {} as Record<string, number>);
     }
 
     async login(email: string) {
