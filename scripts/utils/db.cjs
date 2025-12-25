@@ -10,7 +10,10 @@ const supabaseUrl = process.env.VITE_SUPABASE_URL;
 const supabaseKey = process.env.VITE_SUPABASE_ANON_KEY; // Using anon key for now, purely client-side logic really, but for scripts usually service_role key is better if we have it. Assuming we only have anon key available in .env as previously seen.
 
 if (!supabaseUrl || !supabaseKey) {
-    console.error("❌ Supabase credentials missing in .env");
+    console.error("❌ Supabase credentials missing!");
+    console.error("   VITE_SUPABASE_URL present:", !!supabaseUrl);
+    console.error("   VITE_SUPABASE_ANON_KEY present:", !!supabaseKey);
+    console.error("   If running in GitHub Actions, ensure 'VITE_SUPABASE_URL' and 'VITE_SUPABASE_ANON_KEY' are set in Repository Secrets.");
     process.exit(1);
 }
 
