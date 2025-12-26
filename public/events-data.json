@@ -1,197 +1,11 @@
 [
   {
-    "title": "LOWKEY XMAS FSK16",
-    "date": "2025-12-19",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6933135e35a37868811c096e.jpeg?token=BOym3t1IxCnpFIgNOhlyPuo2lMFb461_LlUsQRg-tTU&expires=1766251196",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club",
-      "FSK16"
-    ]
-  },
-  {
-    "title": "PUNK’N’ROLL",
-    "date": "2025-12-19",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/PUNKNROLLneutral-Layout-1-960x1280.jpg",
-    "link": "https://exil-web.de/event/punknroll/2025-12-19/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
-    "title": "Cocktails & Beats meets Birthday Party",
-    "date": "2025-12-19",
-    "time": "22:00",
-    "location": "Alpenmax",
-    "description": "Cocktails & Beats Party!",
-    "image": "https://s3-673b3dafa4cfbe0bc8242eaf-alpenmax.b-cdn.net/blobs/673b3dafa4cfbe0bc8242eaf/EVENT_THUMBNAIL/693878552408e9e0609b9045.jpeg?token=UnOhKdCNxvkNOYaGhXH_VkryMMeTiTcBifQFuvxuM5M&expires=1766187870",
-    "link": "https://www.alpenmax-goettingen.com/events",
-    "source": "Alpenmax",
-    "category": "Party"
-  },
-  {
-    "location": "Sparkassen-Arena",
-    "title": "🏀 Heimspiel",
-    "date": "2025-12-20",
-    "time": "18:30",
-    "description": "BBL Heimspiel gegen 2025| SparkassenArena|ProAHauptrundeNürnberg Falcons BC. Jetzt Tickets sichern!",
-    "category": "Sports",
-    "image": "/images/bg-logo.png",
-    "link": "https://bit.ly/3Y1uBlm"
-  },
-  {
-    "title": "26 Jahre Club Savoy",
-    "date": "2025-12-20",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/692b288f35a37868810ebaa3.jpeg?token=P6TSZYgaV1TbrB0O-sviBktzTD2hn9vtusDEOMh81L4&expires=1766251237",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
-    "title": "BEST 80s",
-    "date": "2025-12-20",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/Best-80s-960x1280.jpg",
-    "link": "https://exil-web.de/event/best-80s-party-3/2025-12-20/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
-    "title": "Die Alpe wird 24 – und die 2000er feiern mit! 🎉",
-    "date": "2025-12-20",
-    "time": "22:00",
-    "location": "Alpenmax",
-    "description": "Jubiläumsparty - 24 Jahre Alpenmax!",
-    "image": "https://s3-673b3dafa4cfbe0bc8242eaf-alpenmax.b-cdn.net/blobs/673b3dafa4cfbe0bc8242eaf/EVENT_THUMBNAIL/69375b0a2408e9e0609a0989.jpeg?token=oD2Dig814UR-wa3hhtxS0S2bNBRgfoLZcCn9Yh21MGQ&expires=1766187870",
-    "link": "https://www.alpenmax-goettingen.com/events",
-    "source": "Alpenmax",
-    "category": "Party"
-  },
-  {
-    "title": "SWING-A-ROUND",
-    "date": "2025-12-22",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2025-12-22/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
-    "title": "1 EURO PARTY",
-    "date": "2025-12-22",
-    "time": "22:00",
-    "location": "Alpenmax",
-    "description": "Die legendäre 1€ Party am Montag!",
-    "image": "https://s3-673b3dafa4cfbe0bc8242eaf-alpenmax.b-cdn.net/blobs/673b3dafa4cfbe0bc8242eaf/EVENT_THUMBNAIL/6927378a35a3786881077cc6.jpeg?token=jVQp3Yq5CHtBj3YgFFNhflihmG7M3Mu4ulHJEhgeQu8&expires=1766187870",
-    "link": "https://www.alpenmax-goettingen.com/events",
-    "source": "Alpenmax",
-    "category": "Party"
-  },
-  {
-    "id": "jones-ap-2025-12-24",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2025-12-24",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "title": "Heiligabend: Oldschool...",
-    "date": "2025-12-24",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6935fea02408e9e060981400.jpeg?token=IBpad1vuDhehxW0fR7AwpXrO56wYzbAgY1BJIGIYlU0&expires=1766251237",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
-    "title": "Studentenmittwoch",
-    "date": "2025-12-24",
-    "time": "22:00",
-    "description": "Kostenloser Eintritt für Studenten bis 23 Uhr und 1€ Bier!",
-    "location": "Club Savoy",
-    "image": "/images/savoy-student.png",
-    "link": "https://www.club-savoy.de",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Studenten",
-      "Party",
-      "1€ Bier"
-    ]
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2025-12-24",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
-    "id": "jones-wings-2025-12-25",
-    "location": "Mr. Jones",
-    "title": "Wings Thursday",
-    "date": "2025-12-25",
-    "time": "18:00",
-    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
-    "category": "Sonstiges",
-    "image": "/images/chicken-wings.jpg",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "title": "XMAS PARTY 2025",
-    "date": "2025-12-25",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/692e319f35a378688113d1a4.jpeg?token=ks41c3ks30v_tVV7xfcPWwJZJ23RvaAbpLza2C3L1e0&expires=1766251237",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
     "title": "Holy Rave",
     "date": "2025-12-26",
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6940b8052408e9e060aa4cdf.jpeg?token=Ewyo64eB7W0zupPaw246d_Vw-oVWxJC-ErivMe0WUmY&expires=1766251237",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6940b8052408e9e060aa4cdf.jpeg?token=1mAa6mNXnePfEYhBpfRLDU2kJ-aOym02lduiqnWyUlI&expires=1766809470",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -228,7 +42,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6936394e2408e9e060986362.jpeg?token=OaT3yFAPx30sRScvx9sWFjdyuM9ZKMwfVA_KhEI84y8&expires=1766251237",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6936394e2408e9e060986362.jpeg?token=XB7hVhV33ShiOi94uX9podp6hcEm1GHCUW70WwDLWOE&expires=1766809627",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -282,6 +96,21 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "Silvester",
+    "date": "2025-12-31",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/692b075735a37868810e87d4.jpeg?token=bXzqqn3d377tBug_y8L-aoIta3CuNfa-4mkyNDIYMNY&expires=1766809971",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
+  },
+  {
     "title": "Studentenmittwoch",
     "date": "2025-12-31",
     "time": "22:00",
@@ -318,6 +147,16 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "location": "Sparkassen-Arena",
+    "title": "🏀 Heimspiel",
+    "date": "2026-01-03",
+    "time": "18:30",
+    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAHauptrundeUni Baskets Münster. Jetzt Tickets sichern!",
+    "category": "Sports",
+    "image": "/images/bg-logo.png",
+    "link": "https://bit.ly/3Y1uBlm"
   },
   {
     "title": "CHEERS TO THE QUEERS",
@@ -402,6 +241,17 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "SWING-A-ROUND",
+    "date": "2026-01-12",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-01-12/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
     "id": "jones-ap-2026-01-14",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -462,13 +312,99 @@
     "category": "Kultur"
   },
   {
-    "title": "BLUES’N’BOOGIE KÜCHE",
-    "date": "2026-01-22",
+    "title": "BEST 80s",
+    "date": "2026-01-17",
     "time": "20:00",
     "location": "Exil",
     "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/09/Poster-neutral-Layout-1-960x1280.jpg",
-    "link": "https://exil-web.de/event/bluesnboogie-kueche-4/2026-01-22/",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/Best-80s-960x1280.jpg",
+    "link": "https://exil-web.de/event/best-80s-party-3/2026-01-17/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "SWING-A-ROUND",
+    "date": "2026-01-19",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-01-19/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "id": "jones-ap-2026-01-21",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-01-21",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "Studentenmittwoch",
+    "date": "2026-01-21",
+    "time": "22:00",
+    "description": "Kostenloser Eintritt für Studenten bis 23 Uhr und 1€ Bier!",
+    "location": "Club Savoy",
+    "image": "/images/savoy-student.png",
+    "link": "https://www.club-savoy.de",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Studenten",
+      "Party",
+      "1€ Bier"
+    ]
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-01-21",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
+  },
+  {
+    "id": "jones-wings-2026-01-22",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-01-22",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "Medi Abschlussparty",
+    "date": "2026-01-23",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/694ded427c90a00e45ea38d0.jpeg?token=J4na1erCOL8b9R5VXaCvtUL4zeWNeV9YyiABIqT11DA&expires=1766808651",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-02-14",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/10/STAN-UP-COMEDY-960x1280.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-02-14/",
     "source": "Exil",
     "category": "Kultur"
   }
