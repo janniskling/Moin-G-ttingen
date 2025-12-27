@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "g3memvcff",
+    "store": "Rewe",
+    "title": "Barilla Pesto Rosso",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "je 200-g-Glas, (1 kg = 8,95)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ldxr8k4b6",
+    "store": "Rewe",
+    "title": "Bonduelle Goldmais",
+    "price": "1,11",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 300-g-Dose, (1 kg = 3,89), 285-g-Abtropfgew.",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "yl69bwl0n",
+    "store": "Rewe",
+    "title": "Warsteiner Pils",
+    "price": "9,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 24 x 0,33/20 x 0,5-l-Fl.-Kasten, (1 l = 1,26/1,00), zzgl. 3,42/3,10 Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "lbadd1qkb",
+    "store": "Rewe",
+    "title": "Tanqueray London Dry Gin",
+    "price": "15,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "43,1% Vol. oder 0,0% Alkoholfrei, je 0,7-l-Fl, (1 l = 22,84)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  }
+]
