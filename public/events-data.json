@@ -1,31 +1,5 @@
 [
   {
-    "title": "Ladies Night",
-    "date": "2025-12-27",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6936394e2408e9e060986362.jpeg?token=3nY-I-LdfBShHukYTTyxpnwbJEG6HlMVSDcf3dr8ZOg&expires=1766894615",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
-    "title": "Ich bin ein Flaschenkind!",
-    "date": "2025-12-27",
-    "time": "22:00",
-    "location": "Alpenmax",
-    "description": "Flaschen-Specials die ganze Nacht",
-    "image": "https://s3-673b3dafa4cfbe0bc8242eaf-alpenmax.b-cdn.net/blobs/673b3dafa4cfbe0bc8242eaf/EVENT_THUMBNAIL/6940a86c2408e9e060aa3860.jpeg?token=zua9k8f_b30bqFNX8Rc1LqyyinPOsBuuI-FGweL3t8I&expires=1766187870",
-    "link": "https://www.alpenmax-goettingen.com/events",
-    "source": "Alpenmax",
-    "category": "Party"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2025-12-29",
     "time": "20:00",
@@ -64,7 +38,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/692b075735a37868810e87d4.jpeg?token=rpsd_BM2EPK8NgGelPW50BDiyWdxAr0V8cTxX93eHXs&expires=1766895417",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/692b075735a37868810e87d4.jpeg?token=Jr6-WBz_n6FUhes4nKl_fFP55SCSZWR40Uqd3mlEEsU&expires=1766983914",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -351,7 +325,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/694ded427c90a00e45ea38d0.jpeg?token=6D7Um2yDdosdDcZuVRh4XJDO_VIfaB1qMC3W4egaNos&expires=1766896466",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/694ded427c90a00e45ea38d0.jpeg?token=T28jGmRXp7O_A38y2QfQk1qGG_YweeoSyyRdKrwJCBA&expires=1766983914",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -379,6 +353,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/10/STAN-UP-COMEDY-960x1280.jpg",
     "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-02-14/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "BLUES’N’BOOGIE KÜCHE",
+    "date": "2026-02-19",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/09/Poster-neutral-Layout-1-960x1280.jpg",
+    "link": "https://exil-web.de/event/bluesnboogie-kueche-4/2026-02-19/",
     "source": "Exil",
     "category": "Kultur"
   }
