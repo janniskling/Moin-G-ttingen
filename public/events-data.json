@@ -1,58 +1,5 @@
 [
   {
-    "id": "jones-ap-2025-12-31",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2025-12-31",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "title": "Silvester",
-    "date": "2025-12-31",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/692b075735a37868810e87d4.jpeg?token=JBhLOK5zF54FU8i9ATwwlN_H-n1-UsAK5JlCA3RjCVU&expires=1767241167",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
-    "title": "Studentenmittwoch",
-    "date": "2025-12-31",
-    "time": "22:00",
-    "description": "Kostenloser Eintritt für Studenten bis 23 Uhr und 1€ Bier!",
-    "location": "Club Savoy",
-    "image": "/images/savoy-student.png",
-    "link": "https://www.club-savoy.de",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Studenten",
-      "Party",
-      "1€ Bier"
-    ]
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2025-12-31",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "id": "jones-wings-2026-01-01",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -79,7 +26,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69525f98b18a5d5ae1d81a2e.jpeg?token=uWrl_y7lWR6UpKXnb3pdIMEX1NAc36vRfC5kOw9dvD4&expires=1767243289",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69525f98b18a5d5ae1d81a2e.jpeg?token=I0tul8UK1461gp0EvqbIAS5edrRCDrRUt3Kh97cVC6g&expires=1767328553",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -138,7 +85,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69528821b18a5d5ae1d859a5.jpeg?token=derPdyGoX4bfZj6TQ_ZixgWtXGN-GrWGNJ0htHriXjc&expires=1767243289",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69528821b18a5d5ae1d859a5.jpeg?token=c4g-t3f1jCVnfxsWvpquwxQ58fCFLjUr6gC1jENVCaU&expires=1767328553",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -191,7 +138,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69529690b18a5d5ae1d8707c.jpeg?token=iqy2Fl7TvlcUxNM0yvgaPny1aSVSmV_2vPgMNJ1KS7E&expires=1767242634",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69529690b18a5d5ae1d8707c.jpeg?token=nsRo-jEzzgWuQabs3p6LxuJF8a6p2r5eEgxmHQcd2eg&expires=1767328959",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -207,7 +154,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69529963b18a5d5ae1d874ca.jpeg?token=YoSN-dvFfq3Lz4zlH2v8COR2OCT_lfJULepvfejA52s&expires=1767243289",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69529963b18a5d5ae1d874ca.jpeg?token=ae2pe1nnMf6Ppg3xrlGoN0Nkwc4pANgEuChaQgIS4EY&expires=1767328959",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -244,7 +191,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695288e7b18a5d5ae1d85ae2.jpeg?token=HN3cN3HD99Y5sBaNqY5_CHQIoSKIxlTCoxvDSO0ia7s&expires=1767243289",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695288e7b18a5d5ae1d85ae2.jpeg?token=QHimWv4AP51uOHv0yv5nl4UYpxVXKvCpt2a1XCIZ51A&expires=1767328959",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -334,6 +281,21 @@
     "category": "Sonstiges",
     "image": "/images/mrjones-logo.png",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "mittwochs im club",
+    "date": "2026-01-21",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69528982b18a5d5ae1d85bc2.jpeg?token=mxfB0CfYI9Y4o0YhKd7K0_dHRhWaHjw3l2Tbf2t-iVs&expires=1767329097",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
   },
   {
     "title": "Studentenmittwoch",
@@ -443,6 +405,17 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "KLANGWELT",
+    "date": "2026-01-30",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/klangweltneutral-960x1280.jpeg",
+    "link": "https://exil-web.de/event/klangwelt-3-2-2/2026-01-30/",
+    "source": "Exil",
+    "category": "Kultur"
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
