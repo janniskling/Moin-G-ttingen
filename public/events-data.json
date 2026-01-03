@@ -15,7 +15,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69525f98b18a5d5ae1d81a2e.jpeg?token=IbVMY16DreMK6pU6HkU1NsSFPRz2m2Cx513DGFbyFB8&expires=1767414388",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69525f98b18a5d5ae1d81a2e.jpeg?token=TIMobJSopQG0yR55qcnT38_t6JdLM-WKA750BxOcpBQ&expires=1767499307",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -74,7 +74,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69528821b18a5d5ae1d859a5.jpeg?token=BatwBGxBalFc3dC6dpkuO4yAXu9yZ4Q6MhpJlE1h9Po&expires=1767414388",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69528821b18a5d5ae1d859a5.jpeg?token=KKRnCYZfbxBnZ29kdbcddF18FKkDp7t4pciLUL7Rx6g&expires=1767499307",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -127,7 +127,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69529690b18a5d5ae1d8707c.jpeg?token=-lrGE3MvyH2s6hwwVKGaa7duRblloogcA5MzNEyeaxo&expires=1767414388",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69529690b18a5d5ae1d8707c.jpeg?token=MHKxj-cGf28iI6rlAKsQC1SOpAeDVgjjDtDQX2KwnLk&expires=1767499307",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -143,7 +143,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69529963b18a5d5ae1d874ca.jpeg?token=4CATGeKYGGiVc338jlGWYjXXLlUHoP-ZBvet1WlAPGY&expires=1767414388",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69529963b18a5d5ae1d874ca.jpeg?token=qm2fHPLzrhxxpfxhoOQ85JMXHgU6sPb1MwftR0cak8U&expires=1767499307",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -180,7 +180,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695288e7b18a5d5ae1d85ae2.jpeg?token=wfle4MKRp-PXYOExuf0GSxcAZEZXxZhBy6X1Pu-x7DY&expires=1767414388",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695288e7b18a5d5ae1d85ae2.jpeg?token=A1WDlnqk1KcANcqy4QB6ZZEACCIUzdRfOfnQGbsZ73M&expires=1767499307",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -228,6 +228,31 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "Thrift Shop 2010's Hits",
+    "date": "2026-01-16",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69580b5ab18a5d5ae1e1ff54.jpeg?token=QQTf1jm_WXJeJXQpl7A0rjpfmvZX4ySX78rwINlPDEY&expires=1767500849",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
+  },
+  {
+    "location": "Sparkassen-Arena",
+    "title": "🏀 Heimspiel",
+    "date": "2026-01-17",
+    "time": "18:30",
+    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAHauptrundeEisbären Bremerhaven. Jetzt Tickets sichern!",
+    "category": "Sports",
+    "image": "/images/bg-logo.png",
+    "link": "https://bit.ly/3Y1uBlm"
+  },
+  {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
     "date": "2026-01-17",
     "time": "20:00",
@@ -270,21 +295,6 @@
     "category": "Sonstiges",
     "image": "/images/mrjones-logo.png",
     "link": "https://www.mrjones.de"
-  },
-  {
-    "title": "mittwochs im club",
-    "date": "2026-01-21",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69528982b18a5d5ae1d85bc2.jpeg?token=i5_Js7ch7ycjn4dMDfjgqzdyOgpbLMQgpWsxb4WAYjY&expires=1767414388",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
   },
   {
     "title": "Studentenmittwoch",
@@ -403,6 +413,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2024/02/klangweltneutral-960x1280.jpeg",
     "link": "https://exil-web.de/event/klangwelt-3-2-2/2026-01-30/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "SWING-A-ROUND",
+    "date": "2026-02-02",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-02-02/",
     "source": "Exil",
     "category": "Kultur"
   },
