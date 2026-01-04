@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "5o7iubts5",
+    "store": "Rewe",
+    "title": "Beck’s Pils",
+    "price": "10,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 24 x 0,33/20 x 0,5-l-Fl.-Kasten, (1 l = 1,39/1,10), zzgl. 3,42/3,10 Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "99rsfuf3l",
+    "store": "Rewe",
+    "title": "Warsteiner Pils",
+    "price": "10,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 24 x 0,33/20 x 0,5-l-Fl.-Kasten, (1 l = 1,39/1,10), zzgl. 3,42/3,10 Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "0y2i34vpm",
+    "store": "Rewe",
+    "title": "3 Glocken Genuss Pur Pasta",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Btl, (1 kg = 1,98)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "wzb1nm29r",
+    "store": "Rewe",
+    "title": "Knorr Pasta Pot",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "Käse & Sahne, je 63-g-Becher, (1 kg = 15,71)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "hhfp6dy62",
+    "store": "Rewe",
+    "title": "Himbeeren",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍞",
+    "description": "Kl. I, je 125-g-Schale, (1 kg = 14,32)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "38z0a779h",
+    "store": "Rewe",
+    "title": "500-g-Schale",
+    "price": "3,89",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Kl. I, je 500-g-Schale, (1 kg = 7,78)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  }
+]
