@@ -1,16 +1,5 @@
 [
   {
-    "title": "IT’S TUESDAY, BABY…",
-    "date": "2026-01-06",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/05/web.A3-22.00-UHR-960x1280.jpeg",
-    "link": "https://exil-web.de/event/its-tuesday-baby-2/2026-01-06/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "id": "jones-ap-2026-01-07",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -27,7 +16,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69528821b18a5d5ae1d859a5.jpeg?token=8245FPQAFGR5byi_85VFfeQWPcap65OMgi-ADUr8Tyc&expires=1767761693",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69528821b18a5d5ae1d859a5.jpeg?token=1O2r6vvkPPeyRr5vcaHAPsavCYN4ne-2nO_o0twrIlI&expires=1767846722",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -80,7 +69,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69529690b18a5d5ae1d8707c.jpeg?token=Da_loBeOLmqvYlYCshr4POYpGJhoaegMnDgvmag6o98&expires=1767761693",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69529690b18a5d5ae1d8707c.jpeg?token=X7rxMiBCEvf0yeg1vC27NOs1JI5wwH0XaOnjdTatDQg&expires=1767846722",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -91,12 +80,23 @@
     ]
   },
   {
+    "title": "NACHT DER SCHATTEN",
+    "date": "2026-01-09",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/NACHT-DER-SCHATTEN-960x1280.jpg",
+    "link": "https://exil-web.de/event/nacht-der-schatten-2-2-3/2026-01-09/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
     "title": "BLACK HORNY © - FINALL...",
     "date": "2026-01-10",
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695a55e6b18a5d5ae1e63b2a.jpeg?token=KdmDCngG0a05Nlug34Oehi8PQeijC0a418DGYLETxAk&expires=1767761693",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695a55e6b18a5d5ae1e63b2a.jpeg?token=DTPIvNwxcFLhmeK4KjwXstkREedI0AgaI_C9NKCVM4I&expires=1767846722",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -133,7 +133,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695288e7b18a5d5ae1d85ae2.jpeg?token=RBnWl25h5JOg95gZhvzZDkMVK4oqxsuuENegD7kEgZY&expires=1767761693",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695288e7b18a5d5ae1d85ae2.jpeg?token=gNFVtuZfqf7pKvnwFAh-D8ju0n3rZOrK4wm6Me4mVn8&expires=1767846722",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -186,7 +186,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69580b5ab18a5d5ae1e1ff54.jpeg?token=h3mTdkA8zWhMMQg3pGYpO3EwiC5Hzb2EuyzOmR22trM&expires=1767761693",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69580b5ab18a5d5ae1e1ff54.jpeg?token=ose6QKO4fFedTjE-oIr-XTIw2JNtW0Bon_Dc3krp9jE&expires=1767846722",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -211,7 +211,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695c2f1937e6a10726fb2719.jpeg?token=LFJI1IiWIcG8IayeCzF3uWNH955G-GqQxYCFNfSjhGI&expires=1767761693",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695c2f1937e6a10726fb2719.jpeg?token=MPWOixP_bsNthiDex77DKFDoENisgoodx1kUKfVUhOc&expires=1767846722",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -314,6 +314,17 @@
     "category": "Kultur"
   },
   {
+    "title": "#wirsinddienacht",
+    "date": "2026-01-24",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/wsdn-neutral-scaled-1-913x1280.jpg",
+    "link": "https://exil-web.de/event/wirsinddienacht-3/2026-01-24/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
     "title": "SWING-A-ROUND",
     "date": "2026-01-26",
     "time": "20:00",
@@ -396,17 +407,6 @@
     "category": "Kultur"
   },
   {
-    "title": "IT’S TUESDAY, BABY…",
-    "date": "2026-02-03",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/05/web.A3-22.00-UHR-960x1280.jpeg",
-    "link": "https://exil-web.de/event/its-tuesday-baby-2/2026-02-03/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "id": "jones-ap-2026-02-04",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -445,13 +445,24 @@
     "source": "Thanners"
   },
   {
-    "title": "SWING-A-ROUND",
-    "date": "2026-02-09",
+    "id": "jones-wings-2026-02-05",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-02-05",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-02-07",
     "time": "20:00",
     "location": "Exil",
     "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-02-09/",
+    "image": "https://exil-web.de/wp-content/uploads/2025/10/STAN-UP-COMEDY-960x1280.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-02-07/",
     "source": "Exil",
     "category": "Kultur"
   },
