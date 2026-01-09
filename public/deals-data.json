@@ -1,6 +1,6 @@
 [
   {
-    "id": "c9jebtfkj",
+    "id": "pa8vm7zf6",
     "store": "Rewe",
     "title": "Beck’s Pils",
     "price": "10,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "odlppekkg",
+    "id": "vjdgvar7k",
     "store": "Rewe",
     "title": "Warsteiner Pils",
     "price": "10,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "kchyliya9",
+    "id": "m35k9epj6",
     "store": "Rewe",
     "title": "3 Glocken Genuss Pur Pasta",
     "price": "0,99",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "r6xzy4y3g",
+    "id": "j1jdv728v",
     "store": "Rewe",
     "title": "Knorr Pasta Pot",
     "price": "0,99",
@@ -44,30 +44,6 @@
     "discount": null,
     "image": "🍝",
     "description": "Käse & Sahne, je 63-g-Becher, (1 kg = 15,71)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "ugxq4ppc3",
-    "store": "Rewe",
-    "title": "Himbeeren",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍞",
-    "description": "Kl. I, je 125-g-Schale, (1 kg = 14,32)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "v8kwl5ldn",
-    "store": "Rewe",
-    "title": "500-g-Schale",
-    "price": "3,89",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Kl. I, je 500-g-Schale, (1 kg = 7,78)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   }
