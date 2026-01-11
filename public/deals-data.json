@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "s5d2vvmmg",
+    "store": "Rewe",
+    "title": "Barilla Pasta Spezialitäten Collezione oder Al Bronzo",
+    "price": "1,69",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Pckg, (1 kg = 3,38)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "noglc2drj",
+    "store": "Rewe",
+    "title": "Saupiquet Thunfisch Pesto",
+    "price": "2,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Sorten, je 130-g-Glas, (1 kg = 19,15)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ge1nwiztr",
+    "store": "Rewe",
+    "title": "Mirácoli Spaghettigericht Klassiker",
+    "price": "1,00",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Details im Markt",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "8qz4zir33",
+    "store": "Rewe",
+    "title": "Coca-Cola",
+    "price": "1,50",
+    "oldPrice": "3,99",
+    "discount": "62%",
+    "image": "🥤",
+    "description": "koffeinhaltig, je 6 x 0,33-l-Fl.-Sixpack, (1 l = 2,02), zzgl. 1,50 Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "vd1z36qa5",
+    "store": "Rewe",
+    "title": "Henglein Schupfnudeln",
+    "price": "1,89",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "pfannenfertig, je 500-g-Pckg, (1 kg = 3,78)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "dmezk1u4v",
+    "store": "Rewe",
+    "title": "Schwartau Samt Fruchtaufstrich Erdbeere",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍞",
+    "description": "je 297-g-Glas, (1 kg = 6,70)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  }
+]
