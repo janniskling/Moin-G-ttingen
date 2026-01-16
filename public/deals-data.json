@@ -1,6 +1,6 @@
 [
   {
-    "id": "q00mlrw11",
+    "id": "zc9oidp8l",
     "store": "Rewe",
     "title": "Barilla Pasta Spezialitäten Collezione oder Al Bronzo",
     "price": "1,69",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "zivclho1l",
+    "id": "us5v20qe8",
     "store": "Rewe",
     "title": "Saupiquet Thunfisch Pesto",
     "price": "2,49",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "3boq7qyu7",
+    "id": "gsj4xfoan",
     "store": "Rewe",
     "title": "Mirácoli Spaghettigericht Klassiker",
     "price": "1,00",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "6u99qe6q7",
+    "id": "nna5qx5wb",
     "store": "Rewe",
     "title": "Coca-Cola",
     "price": "1,50",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "hhc6sk94d",
+    "id": "7mtaoo03b",
     "store": "Rewe",
     "title": "Henglein Schupfnudeln",
     "price": "1,89",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "buwynji2z",
+    "id": "row7nrk97",
     "store": "Rewe",
     "title": "Schwartau Samt Fruchtaufstrich Erdbeere",
     "price": "1,99",
@@ -70,5 +70,77 @@
     "description": "je 297-g-Glas, (1 kg = 6,70)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "b7e903om0",
+    "store": "Kaufland",
+    "title": "LEERDAMMER Pizza- & Pasta-",
+    "price": "1,79",
+    "oldPrice": "2,89",
+    "discount": "38%",
+    "image": "🍕",
+    "description": "(1 kg = 12.44) / (1 kg = 11.19)**",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "xdawnpalw",
+    "store": "Kaufland",
+    "title": "ITALPIZZA",
+    "price": "2,49",
+    "oldPrice": "3,49",
+    "discount": "29%",
+    "image": "🍕",
+    "description": "(1 kg = 5.66 - 8.59)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "4toms2iap",
+    "store": "Kaufland",
+    "title": "Pizza Margherita",
+    "price": "0,95",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "Details im Markt",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "8zg9l4ntc",
+    "store": "Kaufland",
+    "title": "K-BIO",
+    "price": "0,85",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 kg = 1.38)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "34az623ej",
+    "store": "Kaufland",
+    "title": "DORFMÜHLE",
+    "price": "3,00",
+    "oldPrice": "23,90",
+    "discount": "87%",
+    "image": "🍺",
+    "description": "(1 kg = 3.00)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "usvinx609",
+    "store": "Kaufland",
+    "title": "HOME CULINAR",
+    "price": "1,39",
+    "oldPrice": "1,75",
+    "discount": "21%",
+    "image": "🍺",
+    "description": "(1 kg = 3.48)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
 ]
