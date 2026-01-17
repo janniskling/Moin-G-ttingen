@@ -1,20 +1,5 @@
 [
   {
-    "title": "Thrift Shop 2010's Hits",
-    "date": "2026-01-16",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69580b5ab18a5d5ae1e1ff54.jpeg?token=983y4-ujj6lRApS2c-JlxNfLvZCN5yUSkepRCzmwFWY&expires=1768625104",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
     "location": "Sparkassen-Arena",
     "title": "🏀 Heimspiel",
     "date": "2026-01-17",
@@ -30,7 +15,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695c2f1937e6a10726fb2719.jpeg?token=EVrNtWkTO2eq0xClPSavkGdaMZ1af0tOHFMUKAqO9mU&expires=1768625104",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695c2f1937e6a10726fb2719.jpeg?token=uZXenetWMa6FcZH-aiQcEFktYy0FOEIci3eIJEWTuPs&expires=1768710432",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -89,7 +74,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69528982b18a5d5ae1d85bc2.jpeg?token=-tbmVUx-UWEsK8ogXDrP5xvabOxDN8ZfIHL4QSsUs2c&expires=1768622613",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69528982b18a5d5ae1d85bc2.jpeg?token=jK7EiIBxIX8zAcPOiRWg3dcPPo49RXRBT64Ysk45yG0&expires=1768710432",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -142,7 +127,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/694ded427c90a00e45ea38d0.jpeg?token=zUPlSzBwUX36wEz3rKvmIJWIt9DxHvOzrVa59setKS8&expires=1768622613",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/694ded427c90a00e45ea38d0.jpeg?token=F1QlEDyj1icqGft6JGPKmEmtDpglEvyGb5D06uLHb7M&expires=1768711317",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -168,7 +153,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69586634b18a5d5ae1e2907f.jpeg?token=LsO7Q1xgxpcSh3hBNyLJMGEitPKUa-Tx9KDHvhyYuko&expires=1768622613",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69586634b18a5d5ae1e2907f.jpeg?token=GqXyrlpuFuruFGsZp-TipKEYGCBJJz30TcE4gLUYeaw&expires=1768711317",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -254,7 +239,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69694e3e37e6a107260fc0e2.jpeg?token=8kWeNWti8HRdFCv3pbNDkqmF1s_S_812PHeHeKnaKqg&expires=1768622613",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69694e3e37e6a107260fc0e2.jpeg?token=sOZMtVT4PwhiqjhL5SUkv-mA6PHPnfgFAvSrC2ZDI9o&expires=1768711317",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -274,6 +259,16 @@
     "link": "https://exil-web.de/event/klangwelt-3-2-2/2026-01-30/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "location": "Sparkassen-Arena",
+    "title": "🏀 Heimspiel",
+    "date": "2026-01-31",
+    "time": "18:30",
+    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAHauptrundeSBB Baskets. Jetzt Tickets sichern!",
+    "category": "Sports",
+    "image": "/images/bg-logo.png",
+    "link": "https://bit.ly/3Y1uBlm"
   },
   {
     "title": "SWING-A-ROUND",
