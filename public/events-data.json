@@ -1,52 +1,5 @@
 [
   {
-    "location": "Sparkassen-Arena",
-    "title": "🏀 Heimspiel",
-    "date": "2026-01-17",
-    "time": "18:30",
-    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAHauptrundeEisbären Bremerhaven. Jetzt Tickets sichern!",
-    "category": "Sports",
-    "image": "/images/bg-logo.png",
-    "link": "https://bit.ly/3Y1uBlm"
-  },
-  {
-    "title": "MAYAMI VOl.4",
-    "date": "2026-01-17",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695c2f1937e6a10726fb2719.jpeg?token=uZXenetWMa6FcZH-aiQcEFktYy0FOEIci3eIJEWTuPs&expires=1768710432",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
-    "date": "2026-01-17",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/01/Poster-web-960x1120.jpg",
-    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-01-17/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
-    "title": "BEST 80s",
-    "date": "2026-01-17",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/Best-80s-960x1280.jpg",
-    "link": "https://exil-web.de/event/best-80s-party-3/2026-01-17/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-01-19",
     "time": "20:00",
@@ -74,7 +27,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69528982b18a5d5ae1d85bc2.jpeg?token=jK7EiIBxIX8zAcPOiRWg3dcPPo49RXRBT64Ysk45yG0&expires=1768710432",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69528982b18a5d5ae1d85bc2.jpeg?token=KdPx_DPnV2CPvVR6DoyyqhFtRUd1jBuRxVmPDSc5LdM&expires=1768794156",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -127,7 +80,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/694ded427c90a00e45ea38d0.jpeg?token=F1QlEDyj1icqGft6JGPKmEmtDpglEvyGb5D06uLHb7M&expires=1768711317",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/694ded427c90a00e45ea38d0.jpeg?token=jCai2DWZNqIrr26KzkBhN-Hqn6pVVqsC7H47qez9Zpc&expires=1768794876",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -153,7 +106,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69586634b18a5d5ae1e2907f.jpeg?token=GqXyrlpuFuruFGsZp-TipKEYGCBJJz30TcE4gLUYeaw&expires=1768711317",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69586634b18a5d5ae1e2907f.jpeg?token=N2VcpRCF1JMN7XqAMWn17-H-B063PElEzHCBdzwSYFE&expires=1768795280",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -239,7 +192,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69694e3e37e6a107260fc0e2.jpeg?token=sOZMtVT4PwhiqjhL5SUkv-mA6PHPnfgFAvSrC2ZDI9o&expires=1768711317",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69694e3e37e6a107260fc0e2.jpeg?token=7VOTdyJf_i2_8h_a20jGk2aXZDid7JDENe_TgUSY8Ik&expires=1768795280",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -269,6 +222,21 @@
     "category": "Sports",
     "image": "/images/bg-logo.png",
     "link": "https://bit.ly/3Y1uBlm"
+  },
+  {
+    "title": "90er Party",
+    "date": "2026-01-31",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695e604437e6a10726fe9457.jpeg?token=y_rXVKK1fuoRYEiai9s5zniD9SNhMIxMnKEjbdj3Z5I&expires=1768796180",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
   },
   {
     "title": "SWING-A-ROUND",
@@ -424,6 +392,17 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "NACHT DER SCHATTEN",
+    "date": "2026-02-13",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/NACHT-DER-SCHATTEN-960x1280.jpg",
+    "link": "https://exil-web.de/event/nacht-der-schatten-2-2-3/2026-02-13/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
     "date": "2026-02-14",
     "time": "20:00",
@@ -442,6 +421,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2024/09/Poster-neutral-Layout-1-960x1280.jpg",
     "link": "https://exil-web.de/event/bluesnboogie-kueche-4/2026-02-19/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-02-28",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/01/Poster-web-960x1120.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-02-28/",
     "source": "Exil",
     "category": "Kultur"
   }
