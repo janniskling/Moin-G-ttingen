@@ -1,6 +1,6 @@
 [
   {
-    "id": "ztkfm8n1y",
+    "id": "r7hvl89qt",
     "store": "Rewe",
     "title": "Barilla Pesto alla Genovese",
     "price": "1,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "295ysrdeo",
+    "id": "r7ek0720c",
     "store": "Rewe",
     "title": "Dr. Oetker Ristorante Pizza Salame",
     "price": "1,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "mlaqhcscl",
+    "id": "18gf6tu88",
     "store": "Rewe",
     "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
     "price": "0,99",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "5mpofim73",
+    "id": "skonuysh1",
     "store": "Rewe",
     "title": "Coppenrath & Wiese Lust auf Kuchen Erdbeer Cheesecake",
     "price": "3,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "uv2iy50o3",
+    "id": "8fj9vomha",
     "store": "Rewe",
     "title": "Heineken Premium Beer oder alkoholfrei 0,0%",
     "price": "4,99",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "kwvtsjwl2",
+    "id": "ynf3zsa3i",
     "store": "Rewe",
     "title": "Barilla Pesto Basilico Vegan",
     "price": "1,99",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "b070bw0bo",
+    "id": "spl8mnf6r",
     "store": "Rewe",
     "title": "Sensationspreis",
     "price": "2,99",
@@ -84,7 +84,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ry6pzrw43",
+    "id": "6mngnsccd",
     "store": "Rewe",
     "title": "Großpackung",
     "price": "3,33",
@@ -96,33 +96,57 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "t5ddjvsd9",
+    "id": "dwjsdaby3",
     "store": "Kaufland",
-    "title": "LEERDAMMER Pizza- & Pasta-",
-    "price": "1,79",
-    "oldPrice": "2,89",
-    "discount": "38%",
-    "image": "🍕",
-    "description": "(1 kg = 12.44) / (1 kg = 11.19)**",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "spw1tkc7x",
-    "store": "Kaufland",
-    "title": "ITALPIZZA",
-    "price": "2,49",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,66",
     "oldPrice": "3,49",
-    "discount": "29%",
+    "discount": "52%",
     "image": "🍕",
-    "description": "(1 kg = 5.66 - 8.59)",
+    "description": "(1 kg = 3.86 - 5.19)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "pme4880lc",
+    "id": "2coqv280q",
     "store": "Kaufland",
-    "title": "Pizza Margherita",
+    "title": "K-PURLAND",
+    "price": "3,33",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Details im Markt",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "a8si4akvq",
+    "store": "Kaufland",
+    "title": "K-CLASSIC",
+    "price": "2,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Details im Markt",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "0gkri2j1p",
+    "store": "Kaufland",
+    "title": "HENGLEIN",
+    "price": "1,99",
+    "oldPrice": "2,69",
+    "discount": "26%",
+    "image": "🍺",
+    "description": "(1 kg = 3.62)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "42omoi6i9",
+    "store": "Kaufland",
+    "title": "Pizza Salami",
     "price": "0,95",
     "oldPrice": null,
     "discount": null,
@@ -132,38 +156,38 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "d63n8kszn",
+    "id": "4w3jutxbe",
     "store": "Kaufland",
-    "title": "K-BIO",
-    "price": "0,85",
+    "title": "BITBURGER",
+    "price": "9,99",
     "oldPrice": null,
     "discount": null,
     "image": "🍺",
-    "description": "(1 kg = 1.38)",
+    "description": "je Ka. 20 x 0,33-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "97jaqyz7s",
+    "id": "bqjqc3cwe",
     "store": "Kaufland",
-    "title": "DORFMÜHLE",
-    "price": "3,00",
-    "oldPrice": "23,90",
-    "discount": "87%",
+    "title": "POTT'S",
+    "price": "13,99",
+    "oldPrice": null,
+    "discount": null,
     "image": "🍺",
-    "description": "(1 kg = 3.00)",
+    "description": "je Ka. 20 x 0,33-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "02ftdyvga",
+    "id": "kzkr0xpgq",
     "store": "Kaufland",
-    "title": "HOME CULINAR",
-    "price": "1,39",
-    "oldPrice": "1,75",
-    "discount": "21%",
+    "title": "K-BIO",
+    "price": "1,19",
+    "oldPrice": "1,55",
+    "discount": "23%",
     "image": "🍺",
-    "description": "(1 kg = 3.48)",
+    "description": "(1 kg = 2.38 - 4.76)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
