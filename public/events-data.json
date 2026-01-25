@@ -1,31 +1,5 @@
 [
   {
-    "title": "Funky P*ssy Club",
-    "date": "2026-01-24",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/696cfc5737e6a1072617096b.jpeg?token=Cne4OsjBAc1sxIDOSkKy7UooK-27pxMC6hDSyNVSzGw&expires=1769313099",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
-    "title": "#wirsinddienacht",
-    "date": "2026-01-24",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/wsdn-neutral-scaled-1-913x1280.jpg",
-    "link": "https://exil-web.de/event/wirsinddienacht-3/2026-01-24/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-01-26",
     "time": "20:00",
@@ -91,7 +65,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/696cf95937e6a107261704e5.png?token=mrmQoEZRjE812sXILVZZM_TdR6nxnlQ-xuZABsWcMnE&expires=1769313099",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/696cf95937e6a107261704e5.png?token=4agDYDsiUrBf4gbacF2vnsUm08hQeXpodDrfin1Qt_c&expires=1769400977",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -123,12 +97,12 @@
     "link": "https://bit.ly/3Y1uBlm"
   },
   {
-    "title": "90er Party",
+    "title": "90er & 00's Party",
     "date": "2026-01-31",
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695e604437e6a10726fe9457.jpeg?token=QTOiwkeFbFK6M4-qPoi-CH1HL0zwPWDEAdL5BjS23m0&expires=1769313684",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695e604437e6a10726fe9457.jpeg?token=oQPEIH117pu9BLtPvkqZpz_Pg4oH0MP3e8BURBI3wYU&expires=1769402721",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -214,7 +188,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6960155837e6a10726012801.jpeg?token=p56M2zPlVxvVzRdL2QiOzFJOs_XI4UiINsex0kGXH5E&expires=1769313684",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6960155837e6a10726012801.jpeg?token=2se4PN1HqAPOQ6M_ebBS0qLcnZ4ElGqON1dnrvztwtM&expires=1769402759",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -229,7 +203,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6963d7fd37e6a1072607b7d7.jpeg?token=IToR3Eg9UlcF8dXG6eBWhZZwtQxKhJA_LPaLpjgnBzE&expires=1769313684",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6963d7fd37e6a1072607b7d7.jpeg?token=L0umHtqpRpos9Q-XP21bd9QA2K8LNViUA-bjY62LmXc&expires=1769402759",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -259,6 +233,16 @@
     "link": "https://exil-web.de/event/cheers-to-the-queers-party-4/2026-02-07/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "location": "Sparkassen-Arena",
+    "title": "🏀 Heimspiel",
+    "date": "2026-02-08",
+    "time": "16:00",
+    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAHauptrundeBayer Giants Leverkusen. Jetzt Tickets sichern!",
+    "category": "Sports",
+    "image": "/images/bg-logo.png",
+    "link": "https://bit.ly/3Y1uBlm"
   },
   {
     "title": "SWING-A-ROUND",
@@ -319,6 +303,21 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "UNFILTERED.",
+    "date": "2026-02-13",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69698ac437e6a107261016b8.jpeg?token=iThbPbVmTOuiZp6WZ4Dw15Xmb2VUTGTaKzEvA0cqes4&expires=1769402759",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
   },
   {
     "title": "NACHT DER SCHATTEN",
@@ -410,6 +409,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2024/09/Poster-neutral-Layout-1-960x1280.jpg",
     "link": "https://exil-web.de/event/bluesnboogie-kueche-4/2026-02-19/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "#wirsinddienacht",
+    "date": "2026-02-21",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/wsdn-neutral-scaled-1-913x1280.jpg",
+    "link": "https://exil-web.de/event/wirsinddienacht-3/2026-02-21/",
     "source": "Exil",
     "category": "Kultur"
   },

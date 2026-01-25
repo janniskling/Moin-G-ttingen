@@ -1,102 +1,66 @@
 [
   {
-    "id": "ho2wkrane",
+    "id": "vrxi4f4c8",
     "store": "Rewe",
-    "title": "Barilla Pesto alla Genovese",
-    "price": "1,99",
+    "title": "Delverde Pasta",
+    "price": "0,89",
     "oldPrice": null,
     "discount": null,
     "image": "🍝",
-    "description": "je 190-g-Glas, (1 kg = 10,47)",
+    "description": "versch. Ausformungen, je 500-g-Pckg, (1 kg = 1,78)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "co9srkunc",
+    "id": "7qzj3t9hc",
     "store": "Rewe",
-    "title": "Dr. Oetker Ristorante Pizza Salame",
-    "price": "1,99",
+    "title": "Original Wagner Steinofen Pizza Salami",
+    "price": "1,89",
     "oldPrice": null,
     "discount": null,
     "image": "🍕",
-    "description": "tiefgefroren, je 320-g-Pckg, (1 kg = 6,22)",
+    "description": "tiefgefroren, je 320-g-Pckg, (1 kg = 5,91)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "93ajozfqj",
+    "id": "cy22yi6rz",
     "store": "Rewe",
-    "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
+    "title": "Original Wagner Flammkuchen Elsässer Art",
+    "price": "1,89",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 300-g-Pckg, (1 kg = 6,30)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "mlca8r4f4",
+    "store": "Rewe",
+    "title": "Himbeeren",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍞",
+    "description": "Kl. I, je 125-g-Schale, (1 kg = 14,32)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ah2rq64em",
+    "store": "Rewe",
+    "title": "Heidelbeeren",
     "price": "0,99",
     "oldPrice": null,
     "discount": null,
-    "image": "🍝",
-    "description": "je 61-g-Becher, (1 kg = 16,23)",
+    "image": "🍞",
+    "description": "Kl. I, je 125-g-Schale, (1 kg = 7,92)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "nfcswjbxr",
-    "store": "Rewe",
-    "title": "Coppenrath & Wiese Lust auf Kuchen Erdbeer Cheesecake",
-    "price": "3,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "tiefgefroren, je 550-g-Pckg, (1 kg = 7,25)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "t10n5wbn3",
-    "store": "Rewe",
-    "title": "Heineken Premium Beer oder alkoholfrei 0,0%",
-    "price": "4,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 6 x 0,33-l-Fl.-Sixpack, (1 l = 2,52), zzgl. 0,48 Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "tpefiqbo9",
-    "store": "Rewe",
-    "title": "Barilla Pesto Basilico Vegan",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "je 195-g-Glas, (1 kg = 10,20)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "hcinr7niz",
-    "store": "Rewe",
-    "title": "Sensationspreis",
-    "price": "2,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Kl. I, je 500-g-Schale, (1 kg = 5,98)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "6bs625d1d",
-    "store": "Rewe",
-    "title": "Großpackung",
-    "price": "3,33",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Großpackung",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "y2mdx17v6",
+    "id": "0z98x4xrt",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,66",
@@ -108,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "5wi3ewzat",
+    "id": "caeowhe53",
     "store": "Kaufland",
     "title": "K-PURLAND",
     "price": "3,33",
@@ -120,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "l6y42ypmp",
+    "id": "ywarwfo04",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "2,79",
@@ -132,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "5zuq1axhk",
+    "id": "uq647mr7z",
     "store": "Kaufland",
     "title": "HENGLEIN",
     "price": "1,99",
@@ -144,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "h8g9hjayg",
+    "id": "8y0yql5ep",
     "store": "Kaufland",
     "title": "Pizza Salami",
     "price": "0,95",
@@ -156,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "8xbrkv2zn",
+    "id": "7xf6zdeed",
     "store": "Kaufland",
     "title": "BITBURGER",
     "price": "9,99",
@@ -168,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "gk2bx7kko",
+    "id": "mmbkuik84",
     "store": "Kaufland",
     "title": "POTT'S",
     "price": "13,99",
@@ -180,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "nrp7z9txf",
+    "id": "1c50ha1xc",
     "store": "Kaufland",
     "title": "K-BIO",
     "price": "1,19",
