@@ -1,66 +1,6 @@
 [
   {
-    "id": "lhsuttwga",
-    "store": "Rewe",
-    "title": "Delverde Pasta",
-    "price": "0,89",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "versch. Ausformungen, je 500-g-Pckg, (1 kg = 1,78)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "06e3ssh4d",
-    "store": "Rewe",
-    "title": "Original Wagner Steinofen Pizza Salami",
-    "price": "1,89",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 320-g-Pckg, (1 kg = 5,91)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "wl34msclv",
-    "store": "Rewe",
-    "title": "Original Wagner Flammkuchen Elsässer Art",
-    "price": "1,89",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 300-g-Pckg, (1 kg = 6,30)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "ywmuvsdjo",
-    "store": "Rewe",
-    "title": "Himbeeren",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍞",
-    "description": "Kl. I, je 125-g-Schale, (1 kg = 14,32)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "afc7idypu",
-    "store": "Rewe",
-    "title": "Heidelbeeren",
-    "price": "0,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍞",
-    "description": "Kl. I, je 125-g-Schale, (1 kg = 7,92)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "njnwo65wy",
+    "id": "1s8k555u3",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,66",
@@ -72,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "7382fxs8m",
+    "id": "q4vor76u8",
     "store": "Kaufland",
     "title": "K-PURLAND",
     "price": "3,33",
@@ -84,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "vusoecljo",
+    "id": "7fbfui32m",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "2,79",
@@ -96,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "3ssiifqjr",
+    "id": "vfsgfneok",
     "store": "Kaufland",
     "title": "HENGLEIN",
     "price": "1,99",
@@ -108,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "vq5wr3eq2",
+    "id": "7sy68rkgj",
     "store": "Kaufland",
     "title": "Pizza Salami",
     "price": "0,95",
@@ -120,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "zi71dojje",
+    "id": "wx9ej5ope",
     "store": "Kaufland",
     "title": "BITBURGER",
     "price": "9,99",
@@ -132,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "9wp62h58a",
+    "id": "wbgz4g5kd",
     "store": "Kaufland",
     "title": "POTT'S",
     "price": "13,99",
@@ -144,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "rigmvqlep",
+    "id": "c69ui8os1",
     "store": "Kaufland",
     "title": "K-BIO",
     "price": "1,19",
