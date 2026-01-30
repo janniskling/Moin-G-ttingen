@@ -1,6 +1,66 @@
 [
   {
-    "id": "y1y07unum",
+    "id": "zngppbz0q",
+    "store": "Rewe",
+    "title": "Delverde Pasta",
+    "price": "0,89",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Pckg, (1 kg = 1,78)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "8rak94geq",
+    "store": "Rewe",
+    "title": "Original Wagner Steinofen Pizza Salami",
+    "price": "1,89",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 320-g-Pckg, (1 kg = 5,91)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ggehh2ibi",
+    "store": "Rewe",
+    "title": "Original Wagner Flammkuchen Elsässer Art",
+    "price": "1,89",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 300-g-Pckg, (1 kg = 6,30)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "u2w1tcsfw",
+    "store": "Rewe",
+    "title": "Himbeeren",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍞",
+    "description": "Kl. I, je 125-g-Schale, (1 kg = 14,32)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "dju5mx9gg",
+    "store": "Rewe",
+    "title": "Heidelbeeren",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍞",
+    "description": "Kl. I, je 125-g-Schale, (1 kg = 7,92)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "pa0z0mjjp",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "2,00",
@@ -12,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "0lc9w46j4",
+    "id": "bevowb8gi",
     "store": "Kaufland",
     "title": "PIZZATAINMENT",
     "price": "2,99",
@@ -24,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "sldwqblff",
+    "id": "vyl1n5yuv",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -36,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "lme92k3bf",
+    "id": "fr3h3ci1l",
     "store": "Kaufland",
     "title": "Pizza-Donut",
     "price": "0,89",
