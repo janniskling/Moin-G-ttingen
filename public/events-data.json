@@ -1,32 +1,5 @@
 [
   {
-    "title": "CALL ME I'M READY FSK16",
-    "date": "2026-01-30",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/696cf95937e6a107261704e5.png?token=w0s_B8xcp96WtxppmIeiV8zNYJ1zo7ryrhUS-xaP1e0&expires=1769833133",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club",
-      "FSK16"
-    ]
-  },
-  {
-    "title": "KLANGWELT",
-    "date": "2026-01-30",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/klangweltneutral-960x1280.jpeg",
-    "link": "https://exil-web.de/event/klangwelt-3-2-2/2026-01-30/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "location": "Sparkassen-Arena",
     "title": "🏀 Heimspiel",
     "date": "2026-01-31",
@@ -42,7 +15,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695e604437e6a10726fe9457.jpeg?token=Cxocsk9kJSm9FhK7RI-Ms1LyK-K8RQ7A-lUmOdytk4I&expires=1769834312",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695e604437e6a10726fe9457.jpeg?token=-1kG1TNfoTpxqOBVR6ld2u6gd-DSfGS7QFHtwEhE3xM&expires=1769919494",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -90,7 +63,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6976aa0337e6a1072627faf1.jpeg?token=_LBQ2lOAkJljBlSv0PNS-E7Ualbl41v6tiUZZaUoFiA&expires=1769835070",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6976aa0337e6a1072627faf1.jpeg?token=92yXqBb1wJQ2kqxHXTbwsLOV_-vHcpDy2j7DEWpD0RY&expires=1769919494",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -143,7 +116,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6960155837e6a10726012801.jpeg?token=ag3u4j8tfALZ8QWgXZC-7ZcLU8hHqZ042pabOOSENbI&expires=1769835070",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/697d7b2f37e6a1072632eb18.jpeg?token=tlCQTvnyZJhwqLhOQluDmfXcA3Y3I_AOUvkSkqZ0LFI&expires=1769921496",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -158,7 +131,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6963d7fd37e6a1072607b7d7.jpeg?token=FtTONxImdRfNP_Qp9uxJodBN0Qhf879bDKlNoswxpkA&expires=1769835070",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6963d7fd37e6a1072607b7d7.jpeg?token=aTK6403ilpw7ggkpEK2SNIML_96PwSKw3jf8oueX9BE&expires=1769919494",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -227,7 +200,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69776d1937e6a10726290c82.jpeg?token=fxlnSy5xzR2G13DOnLH7awWu3v9vjFsVxO9B9fihGTU&expires=1769835070",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69776d1937e6a10726290c82.jpeg?token=htkHwZCSLT_EKLDzI2rdUItQczoGFJBgTs-G6dzbpLk&expires=1769919494",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -275,6 +248,21 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "UNFILTERED.",
+    "date": "2026-02-13",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69698ac437e6a107261016b8.jpeg?token=R1uoxtPErzLoiUQV8wVWB8zjsIL3xZybYGkUxB0hgRY&expires=1769919494",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
+  },
+  {
     "title": "NACHT DER SCHATTEN",
     "date": "2026-02-13",
     "time": "20:00",
@@ -284,6 +272,16 @@
     "link": "https://exil-web.de/event/nacht-der-schatten-2-2-3/2026-02-13/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "location": "Sparkassen-Arena",
+    "title": "🏀 Heimspiel",
+    "date": "2026-02-14",
+    "time": "18:30",
+    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAHauptrundePaderborn Baskets. Jetzt Tickets sichern!",
+    "category": "Sports",
+    "image": "/images/bg-logo.png",
+    "link": "https://bit.ly/3Y1uBlm"
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
@@ -446,6 +444,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2026/01/Poster-web-960x1120.jpg",
     "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-02-28/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "#wirsinddienacht",
+    "date": "2026-02-28",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/wsdn-neutral-scaled-1-913x1280.jpg",
+    "link": "https://exil-web.de/event/wirsinddienacht-3/2026-02-28/",
     "source": "Exil",
     "category": "Kultur"
   },
