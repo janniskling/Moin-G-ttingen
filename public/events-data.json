@@ -1,30 +1,5 @@
 [
   {
-    "location": "Sparkassen-Arena",
-    "title": "🏀 Heimspiel",
-    "date": "2026-01-31",
-    "time": "18:30",
-    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAHauptrundeSBB Baskets. Jetzt Tickets sichern!",
-    "category": "Sports",
-    "image": "/images/bg-logo.png",
-    "link": "https://bit.ly/3Y1uBlm"
-  },
-  {
-    "title": "90er & 00's Party",
-    "date": "2026-01-31",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/695e604437e6a10726fe9457.jpeg?token=-1kG1TNfoTpxqOBVR6ld2u6gd-DSfGS7QFHtwEhE3xM&expires=1769919494",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-02-02",
     "time": "20:00",
@@ -63,7 +38,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6976aa0337e6a1072627faf1.jpeg?token=92yXqBb1wJQ2kqxHXTbwsLOV_-vHcpDy2j7DEWpD0RY&expires=1769919494",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6976aa0337e6a1072627faf1.jpeg?token=Y-M84vC5oFbDgPSqUrVG2fk3EVl2hVSoSz-QmPLX62Y&expires=1770006657",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -116,7 +91,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/697d7b2f37e6a1072632eb18.jpeg?token=tlCQTvnyZJhwqLhOQluDmfXcA3Y3I_AOUvkSkqZ0LFI&expires=1769921496",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/697d7b2f37e6a1072632eb18.jpeg?token=YWG0gSKCl-HyMQMc04iyAC5N0X3UDQsbDehkLpaNwV8&expires=1770008577",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -131,7 +106,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6963d7fd37e6a1072607b7d7.jpeg?token=aTK6403ilpw7ggkpEK2SNIML_96PwSKw3jf8oueX9BE&expires=1769919494",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6963d7fd37e6a1072607b7d7.jpeg?token=yJ0Yk6DXAmOuEa_QocsJExyQ5qf5DhTgaP3KZwJo_V0&expires=1770006889",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -200,7 +175,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69776d1937e6a10726290c82.jpeg?token=htkHwZCSLT_EKLDzI2rdUItQczoGFJBgTs-G6dzbpLk&expires=1769919494",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69776d1937e6a10726290c82.jpeg?token=BcImtXXY2GYBJWY6_dKZvcRuSpraVW_oZqpHWSrsW4E&expires=1770006657",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -253,7 +228,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69698ac437e6a107261016b8.jpeg?token=R1uoxtPErzLoiUQV8wVWB8zjsIL3xZybYGkUxB0hgRY&expires=1769919494",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69698ac437e6a107261016b8.jpeg?token=iSGr2nS_6s-A22dq0fy11LyiXsXaj3pZOfWGk8hpl-w&expires=1770006889",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -282,6 +257,21 @@
     "category": "Sports",
     "image": "/images/bg-logo.png",
     "link": "https://bit.ly/3Y1uBlm"
+  },
+  {
+    "title": "FAKE LOVE Valentines E...",
+    "date": "2026-02-14",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69695a6837e6a107260fd2b7.jpeg?token=N-cweKQLQXz_8lwLuKkJw1Y0a5Zc7PNsbYB3JTzcuBs&expires=1770006898",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",

@@ -1,66 +1,30 @@
 [
   {
-    "id": "7n9m37kod",
-    "store": "Rewe",
-    "title": "Delverde Pasta",
-    "price": "0,89",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "versch. Ausformungen, je 500-g-Pckg, (1 kg = 1,78)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "vlb0yzkwl",
-    "store": "Rewe",
-    "title": "Original Wagner Steinofen Pizza Salami",
-    "price": "1,89",
-    "oldPrice": null,
-    "discount": null,
+    "id": "ptzr7kj4z",
+    "store": "Kaufland",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,49",
+    "oldPrice": "3,49",
+    "discount": "57%",
     "image": "🍕",
-    "description": "tiefgefroren, je 320-g-Pckg, (1 kg = 5,91)",
+    "description": "(1 kg = 6.26) / (1 kg = 5.52)**",
     "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "z5xrair63",
-    "store": "Rewe",
-    "title": "Original Wagner Flammkuchen Elsässer Art",
-    "price": "1,89",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 300-g-Pckg, (1 kg = 6,30)",
+    "id": "82h1jqe7e",
+    "store": "Kaufland",
+    "title": "GIOVANNI RANA",
+    "price": "2,22",
+    "oldPrice": "3,79",
+    "discount": "41%",
+    "image": "🍺",
+    "description": "(1 kg = 8.88)",
     "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "fkkevy4mj",
-    "store": "Rewe",
-    "title": "Himbeeren",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍞",
-    "description": "Kl. I, je 125-g-Schale, (1 kg = 14,32)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "4ni2s8rzy",
-    "store": "Rewe",
-    "title": "Heidelbeeren",
-    "price": "0,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍞",
-    "description": "Kl. I, je 125-g-Schale, (1 kg = 7,92)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "wmnay2h8p",
+    "id": "oid9t48ak",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "2,00",
@@ -72,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "4vl0u8zo6",
+    "id": "zk8qg8rsg",
     "store": "Kaufland",
     "title": "PIZZATAINMENT",
     "price": "2,99",
@@ -84,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "2qrbxfq10",
+    "id": "xfjs7mj16",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -96,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "m0gop9vqg",
+    "id": "oaoti8fiq",
     "store": "Kaufland",
     "title": "Pizza-Donut",
     "price": "0,89",
