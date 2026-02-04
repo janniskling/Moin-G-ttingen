@@ -1,6 +1,78 @@
 [
   {
-    "id": "f05n6v7v1",
+    "id": "ocqlpreok",
+    "store": "Rewe",
+    "title": "Wagner Die Backfrische Mozzarella",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 350-g-Pckg, (1 kg = 5,69)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "yzrlvp299",
+    "store": "Rewe",
+    "title": "Beck’s Pils",
+    "price": "11,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 24 x 0,33/20 x 0,5-l-Fl.-Kasten, (1 l = 1,51/1,20), zzgl. 3,42/3,10 Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ran8a1st0",
+    "store": "Rewe",
+    "title": "Corona Mexican Beer oder Cero alkoholfrei",
+    "price": "5,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 6 x 355-ml-Fl.-Sixpack, (1 l = 2,81), zzgl. 0,48 Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ztw889m8m",
+    "store": "Rewe",
+    "title": "Kölln Hafer-Porridge",
+    "price": "2,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Beere, je 375-g-Pckg, (1 kg = 7,44)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "4tew3ve01",
+    "store": "Rewe",
+    "title": "Wagner Big City Hot Dog Style",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 430-g-Pckg, (1 kg = 4,63)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "8pn48hm49",
+    "store": "Rewe",
+    "title": "besonders aromatisch",
+    "price": "3,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "»Calinda«, Kl. I, je 400-g-Schale, (1 kg = 9,48)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "npsryrnzn",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,49",
@@ -12,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "zsyw45gxt",
+    "id": "qwg8g0y",
     "store": "Kaufland",
     "title": "GIOVANNI RANA",
     "price": "2,22",
@@ -24,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "gh6q1xn0q",
+    "id": "doclkor73",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "2,00",
@@ -36,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "xmg20sfk5",
+    "id": "dl963tyyf",
     "store": "Kaufland",
     "title": "PIZZATAINMENT",
     "price": "2,99",
@@ -48,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "3tdpwxgzu",
+    "id": "v5mg2x65l",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -60,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "71t5yfbm7",
+    "id": "629pkgo34",
     "store": "Kaufland",
     "title": "Pizza-Donut",
     "price": "0,89",
