@@ -1,58 +1,5 @@
 [
   {
-    "id": "jones-ap-2026-02-04",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-02-04",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "title": "mittwochs im club",
-    "date": "2026-02-04",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6976aa0337e6a1072627faf1.jpeg?token=I7IgFSYLQ-Oq1VvYM69jc3WRgSk8h3_Bo67Q0uiR51Q&expires=1770264611",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
-    "title": "Studentenmittwoch",
-    "date": "2026-02-04",
-    "time": "22:00",
-    "description": "Kostenloser Eintritt für Studenten bis 23 Uhr und 1€ Bier!",
-    "location": "Club Savoy",
-    "image": "/images/savoy-student.png",
-    "link": "https://www.club-savoy.de",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Studenten",
-      "Party",
-      "1€ Bier"
-    ]
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-02-04",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "id": "jones-wings-2026-02-05",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -69,7 +16,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/697d7b2f37e6a1072632eb18.jpeg?token=bYAEjF25-05Ko-on-rRNcZIJQst1Isi2jPeHnyAzvu0&expires=1770264611",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/697d7b2f37e6a1072632eb18.jpeg?token=jxzWQIjsdUYXYsbXxnbvmzKHcVukGsb70TsgkLdBZ7M&expires=1770354756",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -84,7 +31,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6963d7fd37e6a1072607b7d7.jpeg?token=XCq7QmxEQ8mmd1a32Y4zib462Z-GxP5ux71ZfKD_Q7g&expires=1770265044",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6963d7fd37e6a1072607b7d7.jpeg?token=sEryq6l6dXhUrSBDgMGiuxMUWWwmzvOJ7c4UNKWsOlw&expires=1770354756",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -153,7 +100,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69776d1937e6a10726290c82.jpeg?token=JOyv0cvY-g19V5ymZUMnnagHpAUIcb72hlJMf8XKeI4&expires=1770265044",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69776d1937e6a10726290c82.jpeg?token=p4XbR9H_sBTx8OXLM7LBE8auQ9PITR7TXF8VdpvghQs&expires=1770351630",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -206,7 +153,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69698ac437e6a107261016b8.jpeg?token=8NVkCRwN_7yOlTo3lNROXE9Etldpyt89h9UYJ8LMiRE&expires=1770265044",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69698ac437e6a107261016b8.jpeg?token=BIz3cgABrX-9Lk1TpST9ctGFgGEoxvUZ85lqCO1x5Kc&expires=1770351630",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -242,7 +189,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69695a6837e6a107260fd2b7.jpeg?token=gggTfdc5dcLip3Y0kYc8HpsrTMfR9OEs7EBcW4AoFyw&expires=1770265044",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69695a6837e6a107260fd2b7.jpeg?token=JXwMLEcv-I41zAkH_RyawL2m8NwJkv9lz-BhXIFsGWA&expires=1770351630",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -332,6 +279,21 @@
     "link": "https://exil-web.de/event/bluesnboogie-kueche-4/2026-02-19/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "title": "Thrift Shop 2010's Hits",
+    "date": "2026-02-20",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/696d5e3437e6a10726179e8b.jpeg?token=qdcGAynvtEMFpKvQ32tFPj6uC9y4d-96tLP6oamqSkY&expires=1770351630",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
   },
   {
     "title": "#wirsinddienacht",

@@ -1,6 +1,6 @@
 [
   {
-    "id": "ocqlpreok",
+    "id": "tf8s2cack",
     "store": "Rewe",
     "title": "Wagner Die Backfrische Mozzarella",
     "price": "1,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "yzrlvp299",
+    "id": "ses2k6ifh",
     "store": "Rewe",
     "title": "Beck’s Pils",
     "price": "11,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ran8a1st0",
+    "id": "jgmnfybl2",
     "store": "Rewe",
     "title": "Corona Mexican Beer oder Cero alkoholfrei",
     "price": "5,99",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ztw889m8m",
+    "id": "8rprsf7bj",
     "store": "Rewe",
     "title": "Kölln Hafer-Porridge",
     "price": "2,79",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "4tew3ve01",
+    "id": "iv2yh0rp7",
     "store": "Rewe",
     "title": "Wagner Big City Hot Dog Style",
     "price": "1,99",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "8pn48hm49",
+    "id": "kui6vauoe",
     "store": "Rewe",
     "title": "besonders aromatisch",
     "price": "3,79",
@@ -72,74 +72,62 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "npsryrnzn",
+    "id": "heaukca9i",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
-    "price": "1,49",
-    "oldPrice": "3,49",
-    "discount": "57%",
+    "price": "1,59",
+    "oldPrice": "3,39",
+    "discount": "53%",
     "image": "🍕",
-    "description": "(1 kg = 5.64 - 6.26) / (1 kg = 4.97 - 5.52)**",
+    "description": "(1 kg = 4.98 - 5.97) / (1 kg = 4.42 - 5.30)**",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "qwg8g0y",
+    "id": "3ussa13vj",
     "store": "Kaufland",
-    "title": "GIOVANNI RANA",
-    "price": "2,22",
-    "oldPrice": "3,79",
-    "discount": "41%",
+    "title": "MAYBACH",
+    "price": "2,49",
+    "oldPrice": "4,99",
+    "discount": "50%",
     "image": "🍺",
-    "description": "(1 kg = 8.88)",
+    "description": "(1 l = 3.99) / (1 l = 3.32)**",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "doclkor73",
+    "id": "w2b4sgdlg",
     "store": "Kaufland",
-    "title": "DR. OETKER",
-    "price": "2,00",
-    "oldPrice": null,
-    "discount": null,
+    "title": "FRANZISKANER",
+    "price": "13,99",
+    "oldPrice": "20,99",
+    "discount": "33%",
     "image": "🍺",
-    "description": "(1 kg = 4.82 - 5.20)",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "dl963tyyf",
+    "id": "dxl0p9c0l",
     "store": "Kaufland",
-    "title": "PIZZATAINMENT",
-    "price": "2,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "(1 kg = 6.43 - 6.96)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "v5mg2x65l",
-    "store": "Kaufland",
-    "title": "TANTE FANNY",
-    "price": "1,99",
-    "oldPrice": "2,89",
-    "discount": "31%",
-    "image": "🍺",
-    "description": "(1 kg = 3.32)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "629pkgo34",
-    "store": "Kaufland",
-    "title": "Pizza-Donut",
+    "title": "Erdbeerherz",
     "price": "0,89",
     "oldPrice": null,
     "discount": null,
-    "image": "🍕",
+    "image": "🍺",
     "description": "Details im Markt",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "q3wb4ghxa",
+    "store": "Kaufland",
+    "title": "MEZZACORONA",
+    "price": "7,00",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 l = 4.67)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
