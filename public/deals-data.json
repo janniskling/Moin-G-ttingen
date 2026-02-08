@@ -1,20 +1,8 @@
 [
   {
-    "id": "teamerhkq",
+    "id": "bx492j9k0",
     "store": "Rewe",
-    "title": "Wagner Die Backfrische Mozzarella",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 350-g-Pckg, (1 kg = 5,69)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "5eernh6mb",
-    "store": "Rewe",
-    "title": "Beck’s Pils",
+    "title": "Krombacher Pils oder alkoholfrei",
     "price": "11,99",
     "oldPrice": null,
     "discount": null,
@@ -24,55 +12,43 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "a3822m8la",
+    "id": "733p8vinw",
     "store": "Rewe",
-    "title": "Corona Mexican Beer oder Cero alkoholfrei",
-    "price": "5,99",
+    "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
+    "price": "0,99",
     "oldPrice": null,
     "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 6 x 355-ml-Fl.-Sixpack, (1 l = 2,81), zzgl. 0,48 Pfand",
+    "image": "🍝",
+    "description": "je 61-g-Becher, (1 kg = 16,23)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "8nhpl73ub",
+    "id": "eap55gkms",
     "store": "Rewe",
-    "title": "Kölln Hafer-Porridge",
-    "price": "2,79",
+    "title": "Desperados Beer",
+    "price": "4,99",
     "oldPrice": null,
     "discount": null,
     "image": "🍺",
-    "description": "Beere, je 375-g-Pckg, (1 kg = 7,44)",
+    "description": "versch. Sorten, je 4 x 0,33-l-Pckg, (1 l = 3,78), zzgl. 0,32 Pfand",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "3zk1pymmj",
+    "id": "ml86b6bfj",
     "store": "Rewe",
-    "title": "Wagner Big City Hot Dog Style",
-    "price": "1,99",
+    "title": "Henglein Frischer Pizzateig XXL",
+    "price": "1,49",
     "oldPrice": null,
     "discount": null,
     "image": "🍕",
-    "description": "tiefgefroren, je 430-g-Pckg, (1 kg = 4,63)",
+    "description": "je 550-g-Pckg, (1 kg = 2,71)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "vahufhlhk",
-    "store": "Rewe",
-    "title": "besonders aromatisch",
-    "price": "3,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "»Calinda«, Kl. I, je 400-g-Schale, (1 kg = 9,48)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "cxil6euam",
+    "id": "otqdaakqt",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,59",
@@ -84,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "39q9ehxz3",
+    "id": "yemo49wys",
     "store": "Kaufland",
     "title": "MAYBACH",
     "price": "2,49",
@@ -96,19 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "3ywbqo8n0",
-    "store": "Kaufland",
-    "title": "FRANZISKANER",
-    "price": "13,99",
-    "oldPrice": "20,99",
-    "discount": "33%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "y1517sowq",
+    "id": "z2hhrc5qk",
     "store": "Kaufland",
     "title": "Erdbeerherz",
     "price": "0,89",
@@ -120,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "zeibei4kj",
+    "id": "b44eblf49",
     "store": "Kaufland",
     "title": "MEZZACORONA",
     "price": "7,00",
