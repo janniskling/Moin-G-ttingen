@@ -1,54 +1,6 @@
 [
   {
-    "id": "amwkclrni",
-    "store": "Rewe",
-    "title": "Krombacher Pils oder alkoholfrei",
-    "price": "11,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 24 x 0,33/20 x 0,5-l-Fl.-Kasten, (1 l = 1,51/1,20), zzgl. 3,42/3,10 Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "szayb3pzb",
-    "store": "Rewe",
-    "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
-    "price": "0,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "je 61-g-Becher, (1 kg = 16,23)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "1elcv2pin",
-    "store": "Rewe",
-    "title": "Desperados Beer",
-    "price": "4,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 4 x 0,33-l-Pckg, (1 l = 3,78), zzgl. 0,32 Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "ptqlpotm7",
-    "store": "Rewe",
-    "title": "Henglein Frischer Pizzateig XXL",
-    "price": "1,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "je 550-g-Pckg, (1 kg = 2,71)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "4egg5a8zs",
+    "id": "ijyzu4lel",
     "store": "Kaufland",
     "title": "HASSERÖDER",
     "price": "8,99",
@@ -60,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "mtoka8ykq",
+    "id": "yoony9g22",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "10,99",
@@ -72,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "nexccmfym",
+    "id": "el7z59a2m",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "1,67",
@@ -84,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "l465of69r",
+    "id": "kplc20ahz",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,49",
@@ -96,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "okwqmcss9",
+    "id": "5wiumhc74",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "10,99",
@@ -108,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "p6wmcy3b1",
+    "id": "dd4sgr2ne",
     "store": "Kaufland",
     "title": "YUM YUM",
     "price": "2,00",
