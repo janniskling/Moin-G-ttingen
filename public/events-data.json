@@ -22,6 +22,21 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "mittwochs im club",
+    "date": "2026-02-18",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6991fcf34f40e06ba64fd75f.jpeg?token=fEKnDcboq2LPtS7HefS7SUdA24DVlYgN-8lFOYon5lY&expires=1771302968",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
+  },
+  {
     "title": "Studentenmittwoch",
     "date": "2026-02-18",
     "time": "22:00",
@@ -76,7 +91,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/696d5e3437e6a10726179e8b.jpeg?token=2xdhhy6Evrsi66NUKilOLraZDFBBG1R6fWRJ04deuNg&expires=1771217555",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/696d5e3437e6a10726179e8b.jpeg?token=RdMNwrwLeOdvKZGzy_uPYrqmmh1JxwlTDUMXr2FUZGk&expires=1771302968",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -91,7 +106,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6975a43d37e6a10726266c6e.jpeg?token=NGZ5C0OaQ9P9EenTmIwFeQlLBwfwHDLs0hJ4Za4Kxzw&expires=1771218155",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6975a43d37e6a10726266c6e.jpeg?token=S0sro0E9OQqZBXAXCTGzvSoGHcTWZ_1nxaY7Rm46e28&expires=1771305550",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -132,6 +147,21 @@
     "category": "Sonstiges",
     "image": "/images/mrjones-logo.png",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "mittwochs im club",
+    "date": "2026-02-25",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6991fe314f40e06ba64fd992.jpeg?token=6UZsA_ZbfVJOgvBCCKkaUQSquwRKPbvOC6qTif5yH9c&expires=1771305550",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
   },
   {
     "title": "Studentenmittwoch",
@@ -177,7 +207,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6975a4a737e6a10726266d06.jpeg?token=s1_K_BDznXrZNgNKtRWpr5xhUqQ-RIvsdDtRyd8foRo&expires=1771218250",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6975a4a737e6a10726266d06.jpeg?token=U4u1mFA2TMlXC-_RqXZI7gPpacrtgLAFkg6eIZ4cg1I&expires=1771305550",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -192,7 +222,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6982987f4f40e06ba63733b5.jpeg?token=5qkHrs2gHNimvilB8xCv9OXsx5SXlfbWeq1IOhSVX48&expires=1771218250",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6982987f4f40e06ba63733b5.jpeg?token=Te4P5IeYPP8oBhI2YTncUvM_OkhxNDU9IESEFwvIhgk&expires=1771305550",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -293,22 +323,6 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
-  },
-  {
-    "title": "SPRING BREAK OPENING F...",
-    "date": "2026-03-06",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/697fb27437e6a1072636bab8.jpeg?token=9GOrS-NiM4nO0KFFyW60y7bjhMGnESaEDIgHDbcBVqM&expires=1771217168",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club",
-      "FSK16"
-    ]
   },
   {
     "title": "NACHT DER SCHATTEN",
