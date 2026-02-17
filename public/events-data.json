@@ -1,16 +1,5 @@
 [
   {
-    "title": "SWING-A-ROUND",
-    "date": "2026-02-16",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-02-16/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "id": "jones-ap-2026-02-18",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -27,7 +16,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6991fcf34f40e06ba64fd75f.jpeg?token=fEKnDcboq2LPtS7HefS7SUdA24DVlYgN-8lFOYon5lY&expires=1771302968",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6991fcf34f40e06ba64fd75f.jpeg?token=5dJL4T5YDHnUsV-Ztf3i1czHq_5DYOMSfJtSiJ1CVpw&expires=1771390549",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -91,7 +80,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/696d5e3437e6a10726179e8b.jpeg?token=RdMNwrwLeOdvKZGzy_uPYrqmmh1JxwlTDUMXr2FUZGk&expires=1771302968",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/696d5e3437e6a10726179e8b.jpeg?token=KKEiGMFfhipVKtQVBttL6mNiqDg3wWbjkSiT51c-Lno&expires=1771390549",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -106,7 +95,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6975a43d37e6a10726266c6e.jpeg?token=S0sro0E9OQqZBXAXCTGzvSoGHcTWZ_1nxaY7Rm46e28&expires=1771305550",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6975a43d37e6a10726266c6e.jpeg?token=7KtiJ0YT4h4HJEinYO5jNzq9xfDspmNHw9Plz1PGDUE&expires=1771391402",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -154,7 +143,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6991fe314f40e06ba64fd992.jpeg?token=6UZsA_ZbfVJOgvBCCKkaUQSquwRKPbvOC6qTif5yH9c&expires=1771305550",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6991fe314f40e06ba64fd992.jpeg?token=zjfCgbJQ6c75BVrj3vx1L5a9KpXYF4Y50WvmDeKHcWs&expires=1771391402",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -207,7 +196,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6975a4a737e6a10726266d06.jpeg?token=U4u1mFA2TMlXC-_RqXZI7gPpacrtgLAFkg6eIZ4cg1I&expires=1771305550",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6975a4a737e6a10726266d06.jpeg?token=N5rFNPhw2v8J2RS8g4VTfj3t1lumhOzSnupmPRW3sY4&expires=1771391402",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -222,7 +211,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6982987f4f40e06ba63733b5.jpeg?token=Te4P5IeYPP8oBhI2YTncUvM_OkhxNDU9IESEFwvIhgk&expires=1771305550",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6982987f4f40e06ba63733b5.jpeg?token=T7hog0opUJvLufSHQCOVJ5g8ptEulZc96uY54IvxFE0&expires=1771391402",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -429,6 +418,44 @@
     "category": "Kultur"
   },
   {
+    "id": "jones-ap-2026-03-18",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-03-18",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "Studentenmittwoch",
+    "date": "2026-03-18",
+    "time": "22:00",
+    "description": "Kostenloser Eintritt für Studenten bis 23 Uhr und 1€ Bier!",
+    "location": "Club Savoy",
+    "image": "/images/savoy-student.png",
+    "link": "https://www.club-savoy.de",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Studenten",
+      "Party",
+      "1€ Bier"
+    ]
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-03-18",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
+  },
+  {
     "title": "BLUES’N’BOOGIE KÜCHE",
     "date": "2026-03-19",
     "time": "20:00",
@@ -447,6 +474,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/10/Poster-web-960x1280.jpg",
     "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-03-21/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "#wirsinddienacht",
+    "date": "2026-03-21",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/wsdn-neutral-scaled-1-913x1280.jpg",
+    "link": "https://exil-web.de/event/wirsinddienacht-3/2026-03-21/",
     "source": "Exil",
     "category": "Kultur"
   },
