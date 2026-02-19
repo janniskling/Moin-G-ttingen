@@ -1,6 +1,6 @@
 [
   {
-    "id": "0m42wkrwq",
+    "id": "nt1pz4p48",
     "store": "Rewe",
     "title": "Barilla Pesto Rosso",
     "price": "1,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "v0b65ns7i",
+    "id": "sakrmj7ab",
     "store": "Rewe",
     "title": "Dr. Oetker Ristorante Pizza Salame",
     "price": "1,88",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "zo8i8f576",
+    "id": "u3o86eu25",
     "store": "Rewe",
     "title": "Barilla Pasta Spezialitäten Collezione oder Al Bronzo",
     "price": "1,69",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "mafvp857z",
+    "id": "dl4ra0e2v",
     "store": "Rewe",
     "title": "Iglo Pasta Carbonara",
     "price": "2,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "pyqspp887",
+    "id": "6tp21n4dh",
     "store": "Rewe",
     "title": "Barilla Pesto alla Genovese",
     "price": "1,99",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "y9ree22m3",
+    "id": "8mak905hv",
     "store": "Rewe",
     "title": "Bonne Maman Weniger Zucker, mehr Frucht Konfitüre",
     "price": "2,69",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "dqs5gxfbm",
+    "id": "v2dbx0hom",
     "store": "Rewe",
     "title": "Tanqueray London Dry Gin",
     "price": "15,99",
@@ -84,7 +84,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "3urgqod2z",
+    "id": "0zuql74lz",
     "store": "Rewe",
     "title": "Bio Heidelbeeren",
     "price": "2,49",
@@ -96,74 +96,62 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "8lz5k2qan",
+    "id": "pwuvnupri",
     "store": "Kaufland",
-    "title": "HASSERÖDER",
-    "price": "8,99",
-    "oldPrice": "17,99",
-    "discount": "50%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "fup09nxzm",
-    "store": "Kaufland",
-    "title": "KROMBACHER",
+    "title": "RADEBERGER",
     "price": "10,99",
-    "oldPrice": "17,99",
-    "discount": "39%",
+    "oldPrice": "17,49",
+    "discount": "37%",
     "image": "🍺",
     "description": "je Ka. 20 x 0,5-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "wm8bjg0u9",
+    "id": "es7zxjljp",
     "store": "Kaufland",
-    "title": "DR. OETKER",
-    "price": "1,67",
-    "oldPrice": "5,00",
-    "discount": "67%",
-    "image": "🍺",
-    "description": "(1 kg = 4.08 - 5.22)",
+    "title": "BARILLA",
+    "price": "1,69",
+    "oldPrice": "1,88",
+    "discount": "10%",
+    "image": "🍝",
+    "description": "(1 kg = 9.40 - 9.90) / (1 kg = 8.45 - 8.90)**",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "lhg26hp3x",
+    "id": "tpyulrd84",
     "store": "Kaufland",
-    "title": "K-CLASSIC",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "(1 kg = 6.64 - 7.37)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "03hpnesv5",
+    "store": "Kaufland",
+    "title": "FREDA",
+    "price": "4,99",
+    "oldPrice": "6,49",
+    "discount": "23%",
+    "image": "🍺",
+    "description": "(1 kg = 10.51 - 11.75)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "cgkqlsiqn",
+    "store": "Kaufland",
+    "title": "Pizza-Snack Sorrentina",
     "price": "1,49",
-    "oldPrice": "1,89",
-    "discount": "21%",
-    "image": "🍺",
-    "description": "(1 kg = 2.98)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "sds640bhh",
-    "store": "Kaufland",
-    "title": "PAULANER",
-    "price": "10,99",
-    "oldPrice": "15,49",
-    "discount": "29%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "60lhpaqrf",
-    "store": "Kaufland",
-    "title": "YUM YUM",
-    "price": "2,00",
-    "oldPrice": "2,95",
-    "discount": "32%",
-    "image": "🍺",
-    "description": "ENTSPR. PRO PACKUNG 0.40",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "Details im Markt",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
