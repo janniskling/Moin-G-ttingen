@@ -1,26 +1,11 @@
 [
   {
-    "title": "Thrift Shop 2010's Hits",
-    "date": "2026-02-20",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/696d5e3437e6a10726179e8b.jpeg?token=10bzmWNnJG1vXIhIjxa7fC20F36EYAWoF6cqTCqatQk&expires=1771650838",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
     "title": "BLACK HORNY ©",
     "date": "2026-02-21",
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6975a43d37e6a10726266c6e.jpeg?token=Y7gT5xyECAB_HoOfjMcR_J8WKgz-hNre52_-tODtc0E&expires=1771648222",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6975a43d37e6a10726266c6e.jpeg?token=9syBxBchZwUW0stgC-KLuX3GlLw0H5Nkz1rFXzgaAgE&expires=1771735770",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -68,7 +53,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6991fe314f40e06ba64fd992.jpeg?token=_2Mx4FYZehqYMld-AClLJRwuzzatAxr2EVIYFjc1uf4&expires=1771650838",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6991fe314f40e06ba64fd992.jpeg?token=_WyfskJ4yIr3Bu6GHgPJEECrZFctffekSn--2W58y3M&expires=1771735085",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -121,7 +106,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6975a4a737e6a10726266d06.jpeg?token=PeBMSVajBjTAqqcJWAZkwZnd-s9AJBB_yxK93FSgMMc&expires=1771648222",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6975a4a737e6a10726266d06.jpeg?token=MLiiROpW4mW4E9BHJLTnRP1gy3DUs6wQjilfzVhdsxo&expires=1771736182",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -136,7 +121,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6982987f4f40e06ba63733b5.jpeg?token=T-4LCpuPVsG8nFRBLM_YDP0hy_zUdmp2tRcS4nLwb50&expires=1771648222",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6982987f4f40e06ba63733b5.jpeg?token=KexUwtKgjcHSvbRlVSK1irBS0Yd2w8BHMQC3vlTBL1w&expires=1771736182",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -244,7 +229,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/697fb27437e6a1072636bab8.jpeg?token=JtAuwTjIdPLFusKfsYb8ji9VMkUDR2zkHuLV36bVZ9I&expires=1771650838",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/697fb27437e6a1072636bab8.jpeg?token=NtOqv6bOZmFdn_enieWbfL7VA_5YetdsTdyy9x6SCr0&expires=1771734763",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -264,6 +249,21 @@
     "link": "https://exil-web.de/event/nacht-der-schatten-2-2-3/2026-03-06/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "title": "Ladies Night",
+    "date": "2026-03-07",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/698f9b944f40e06ba64bb014.jpeg?token=EA6gsOJPopJNACwDnu-xQrk6hKx2clWMcYaJTIS6H9Y&expires=1771734647",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
@@ -437,6 +437,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2024/02/wsdn-neutral-scaled-1-913x1280.jpg",
     "link": "https://exil-web.de/event/wirsinddienacht-3/2026-03-21/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "SWING-A-ROUND",
+    "date": "2026-03-23",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-03-23/",
     "source": "Exil",
     "category": "Kultur"
   },
