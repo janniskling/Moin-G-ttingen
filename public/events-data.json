@@ -22,6 +22,37 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "mittwochs im club",
+    "date": "2026-02-25",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6991fe314f40e06ba64fd992.jpeg?token=fodrgwxykHBDZZ9fFeTu4tFTw1JKNnHGUlfUoW4BygA&expires=1771909375",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
+  },
+  {
+    "title": "Studentenmittwoch",
+    "date": "2026-02-25",
+    "time": "22:00",
+    "description": "Kostenloser Eintritt für Studenten bis 23 Uhr und 1€ Bier!",
+    "location": "Club Savoy",
+    "image": "/images/savoy-student.png",
+    "link": "https://www.club-savoy.de",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Studenten",
+      "Party",
+      "1€ Bier"
+    ]
+  },
+  {
     "location": "Thanners",
     "title": "Weizenmittwoch",
     "date": "2026-02-25",
@@ -42,6 +73,36 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "MAYAMI VOL 5",
+    "date": "2026-02-27",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6975a4a737e6a10726266d06.jpeg?token=M9AYZoHQKulBXx8Fs7yR0nKICu1EhcIzNOu25prF4ME&expires=1771909375",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
+  },
+  {
+    "title": "30Plus Party",
+    "date": "2026-02-28",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/6982987f4f40e06ba63733b5.jpeg?token=a-Pbx-9v7ZcXkXnamARWM32Vb_fVVcQEywoLBCYciOk&expires=1771910409",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
@@ -99,6 +160,22 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "Studentenmittwoch",
+    "date": "2026-03-04",
+    "time": "22:00",
+    "description": "Kostenloser Eintritt für Studenten bis 23 Uhr und 1€ Bier!",
+    "location": "Club Savoy",
+    "image": "/images/savoy-student.png",
+    "link": "https://www.club-savoy.de",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Studenten",
+      "Party",
+      "1€ Bier"
+    ]
+  },
+  {
     "location": "Thanners",
     "title": "Weizenmittwoch",
     "date": "2026-03-04",
@@ -121,6 +198,22 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "SPRING BREAK OPENING F...",
+    "date": "2026-03-06",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/697fb27437e6a1072636bab8.jpeg?token=KC8BEyStRcnbtTfmPDtafMwhzLaqYYjjVGMnpS7gh2o&expires=1771910409",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club",
+      "FSK16"
+    ]
+  },
+  {
     "title": "NACHT DER SCHATTEN",
     "date": "2026-03-06",
     "time": "20:00",
@@ -130,6 +223,21 @@
     "link": "https://exil-web.de/event/nacht-der-schatten-2-2-3/2026-03-06/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "title": "Ladies Night",
+    "date": "2026-03-07",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/698f9b944f40e06ba64bb014.jpeg?token=S3NE_bRT-CayXXQcRbK1VG1SBxzg5eIcrgoNWjDMK-o&expires=1771910409",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
@@ -186,6 +294,22 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "Studentenmittwoch",
+    "date": "2026-03-11",
+    "time": "22:00",
+    "description": "Kostenloser Eintritt für Studenten bis 23 Uhr und 1€ Bier!",
+    "location": "Club Savoy",
+    "image": "/images/savoy-student.png",
+    "link": "https://www.club-savoy.de",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Studenten",
+      "Party",
+      "1€ Bier"
+    ]
+  },
+  {
     "location": "Thanners",
     "title": "Weizenmittwoch",
     "date": "2026-03-11",
@@ -208,6 +332,21 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "2000ER ICONIC HITS",
+    "date": "2026-03-14",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/698f9d074f40e06ba64bb375.jpeg?token=9mxfsKznHCv4BQRxtjrboNfa9eTwY14MWCa2JZ0KMNE&expires=1771910409",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
+  },
+  {
     "title": "SWING-A-ROUND",
     "date": "2026-03-16",
     "time": "20:00",
@@ -228,6 +367,22 @@
     "category": "Sonstiges",
     "image": "/images/mrjones-logo.png",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "Studentenmittwoch",
+    "date": "2026-03-18",
+    "time": "22:00",
+    "description": "Kostenloser Eintritt für Studenten bis 23 Uhr und 1€ Bier!",
+    "location": "Club Savoy",
+    "image": "/images/savoy-student.png",
+    "link": "https://www.club-savoy.de",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Studenten",
+      "Party",
+      "1€ Bier"
+    ]
   },
   {
     "location": "Thanners",
