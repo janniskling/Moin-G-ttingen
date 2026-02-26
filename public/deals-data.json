@@ -1,6 +1,6 @@
 [
   {
-    "id": "a5paefrp7",
+    "id": "4uso5pnyx",
     "store": "Rewe",
     "title": "Gustavo Gusto Pizza Margherita",
     "price": "3,49",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "6x4fdboiv",
+    "id": "6d3nzbkvi",
     "store": "Rewe",
     "title": "De Cecco Pasta",
     "price": "1,49",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ybu1rjah8",
+    "id": "gr8lnz3ag",
     "store": "Rewe",
     "title": "Original Wagner Steinofen Pizza Salami",
     "price": "1,79",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "jta6a6xj0",
+    "id": "j5ivgm64x",
     "store": "Rewe",
     "title": "Warsteiner Pils",
     "price": "11,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "faxp4uhsl",
+    "id": "kgoxxixk8",
     "store": "Rewe",
     "title": "Schwartau Konfitüre Extra",
     "price": "1,99",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "cezubw3w0",
+    "id": "frk1hv7x5",
     "store": "Rewe",
     "title": "Karlsberg Mixery",
     "price": "3,99",
@@ -72,50 +72,62 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "xka7jwle9",
-    "store": "Kaufland",
-    "title": "BARILLA",
-    "price": "1,69",
-    "oldPrice": "1,88",
-    "discount": "10%",
-    "image": "🍝",
-    "description": "(1 kg = 9.40 - 9.90) / (1 kg = 8.45 - 8.90)**",
+    "id": "ibw098hfv",
+    "store": "Rewe",
+    "title": "besonders aromatisch",
+    "price": "3,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "»Calinda«, Kl. I, je 400-g-Schale, (1 kg = 8,73)",
     "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "j6azvz040",
+    "id": "axzo99m7d",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
+    "price": "1,79",
+    "oldPrice": "1,99",
+    "discount": "10%",
     "image": "🍕",
-    "description": "(1 kg = 6.64 - 7.37)",
+    "description": "(1 kg = 4.53 - 6.22) / (1 kg = 4.07 - 5.60)**",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "cdyxxqfdb",
+    "id": "ofy5q13ug",
     "store": "Kaufland",
-    "title": "FREDA",
-    "price": "4,99",
-    "oldPrice": "6,49",
-    "discount": "23%",
+    "title": "K-CLASSIC",
+    "price": "2,99",
+    "oldPrice": null,
+    "discount": null,
     "image": "🍺",
-    "description": "(1 kg = 10.51 - 11.75)",
+    "description": "Details im Markt",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "lgv3dgfm9",
+    "id": "um3c06miz",
     "store": "Kaufland",
-    "title": "Pizza-Snack Sorrentina",
-    "price": "1,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "Details im Markt",
+    "title": "TANTE FANNY",
+    "price": "1,99",
+    "oldPrice": "2,99",
+    "discount": "33%",
+    "image": "🍺",
+    "description": "(1 kg = 4.98)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "moifvvuoy",
+    "store": "Kaufland",
+    "title": "Barilla Classic Nudeln",
+    "price": "1,67",
+    "oldPrice": "5,00",
+    "discount": "67%",
+    "image": "🍝",
+    "description": "(1 kg = 4.18)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
