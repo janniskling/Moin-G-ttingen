@@ -1,6 +1,6 @@
 [
   {
-    "id": "4uso5pnyx",
+    "id": "rce7my1q1",
     "store": "Rewe",
     "title": "Gustavo Gusto Pizza Margherita",
     "price": "3,49",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "6d3nzbkvi",
+    "id": "qtthv27v9",
     "store": "Rewe",
     "title": "De Cecco Pasta",
     "price": "1,49",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "gr8lnz3ag",
+    "id": "xdr8r7nxv",
     "store": "Rewe",
     "title": "Original Wagner Steinofen Pizza Salami",
     "price": "1,79",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "j5ivgm64x",
+    "id": "mufsrrf9x",
     "store": "Rewe",
     "title": "Warsteiner Pils",
     "price": "11,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "kgoxxixk8",
+    "id": "4xnx6jfab",
     "store": "Rewe",
     "title": "Schwartau Konfitüre Extra",
     "price": "1,99",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "frk1hv7x5",
+    "id": "4ngk3ttph",
     "store": "Rewe",
     "title": "Karlsberg Mixery",
     "price": "3,99",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ibw098hfv",
+    "id": "pr0m6skbw",
     "store": "Rewe",
     "title": "besonders aromatisch",
     "price": "3,49",
@@ -84,7 +84,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "axzo99m7d",
+    "id": "21l0ofo7o",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,79",
@@ -96,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ofy5q13ug",
+    "id": "wy91n4tu8",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "2,99",
@@ -108,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "um3c06miz",
+    "id": "wc4k1cyfh",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -120,7 +120,19 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "moifvvuoy",
+    "id": "tkw5cvoq2",
+    "store": "Kaufland",
+    "title": "BREE",
+    "price": "2,88",
+    "oldPrice": "5,49",
+    "discount": "48%",
+    "image": "🍺",
+    "description": "(1 l = 3.84)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "zfydux6nz",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,67",
