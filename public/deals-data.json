@@ -1,90 +1,6 @@
 [
   {
-    "id": "vlmhel7ed",
-    "store": "Rewe",
-    "title": "Gustavo Gusto Pizza Margherita",
-    "price": "3,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 410-g-Pckg, (1 kg = 8,51)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "rawvu8gfl",
-    "store": "Rewe",
-    "title": "De Cecco Pasta",
-    "price": "1,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "versch. Ausformungen, je 500-g-Pckg, (1 kg = 2,98)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "5xmm2mp17",
-    "store": "Rewe",
-    "title": "Original Wagner Steinofen Pizza Salami",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 320-g-Pckg, (1 kg = 5,59)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "q77rsfh4w",
-    "store": "Rewe",
-    "title": "Warsteiner Pils",
-    "price": "11,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "je 24 x 0,33/20 x 0,5-l-Fl.-Kasten, (1 l = 1,51/1,20), zzgl. 3,42/3,10 Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "slyfdy8zj",
-    "store": "Rewe",
-    "title": "Schwartau Konfitüre Extra",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Erdbeere, je 340-g-Glas, (1 kg = 5,85)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "lemmtyaai",
-    "store": "Rewe",
-    "title": "Karlsberg Mixery",
-    "price": "3,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, teilw. koffeinhaltig, je 6 x 0,33-l-Fl.-Sixpack, (1 l = 2,02), zzgl. 0,48 Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "cjlzjgfxi",
-    "store": "Rewe",
-    "title": "besonders aromatisch",
-    "price": "3,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "»Calinda«, Kl. I, je 400-g-Schale, (1 kg = 8,73)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "by5aviv7h",
+    "id": "2wnbako1t",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,79",
@@ -96,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "keaxh3iqj",
+    "id": "wscpz5nfm",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "2,99",
@@ -108,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "jz5nve44o",
+    "id": "860uxswxb",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -120,19 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "qr7fgzuaz",
-    "store": "Kaufland",
-    "title": "BREE",
-    "price": "2,88",
-    "oldPrice": "5,49",
-    "discount": "48%",
-    "image": "🍺",
-    "description": "(1 l = 3.84)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "x9bkxjeqv",
+    "id": "itecn2gq3",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,67",
