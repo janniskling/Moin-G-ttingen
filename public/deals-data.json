@@ -1,6 +1,78 @@
 [
   {
-    "id": "2wnbako1t",
+    "id": "yaachqdrq",
+    "store": "Rewe",
+    "title": "Barilla Classic Pasta",
+    "price": "0,88",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Pckg, (1 kg = 1,76)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "mjvjz3fib",
+    "store": "Rewe",
+    "title": "Krombacher Pils oder alkoholfrei",
+    "price": "11,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 24 x 0,33/20 x 0,5-l-Fl.-Kasten, (1 l = 1,45/1,15), zzgl. 3,42/3,10 Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "870qbln09",
+    "store": "Rewe",
+    "title": "Wagner Die Backfrische Mozzarella",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 350-g-Pckg, (1 kg = 5,69)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "r4nyho0lb",
+    "store": "Rewe",
+    "title": "Barilla Pasta Sauce",
+    "price": "1,89",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Sorten, je 400-g-Glas, (1 kg = 4,73)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "z7486k5rs",
+    "store": "Rewe",
+    "title": "Probierpreis",
+    "price": "2,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 750-ml-Fl, (1 l = 3,99)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "2kj7ovoij",
+    "store": "Rewe",
+    "title": "besonders aromatisch und knackig",
+    "price": "3,33",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Kl. I, je 200-g-Schale, (1 kg = 16,65)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "29kc7wo6y",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,79",
@@ -12,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "wscpz5nfm",
+    "id": "aglcxlw6p",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "2,99",
@@ -24,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "860uxswxb",
+    "id": "iefr2mnrb",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -36,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "itecn2gq3",
+    "id": "06ufri4fc",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,67",
