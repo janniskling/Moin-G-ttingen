@@ -1,78 +1,6 @@
 [
   {
-    "id": "p3en9p80c",
-    "store": "Rewe",
-    "title": "Barilla Classic Pasta",
-    "price": "0,88",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "versch. Ausformungen, je 500-g-Pckg, (1 kg = 1,76)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "30tkiatla",
-    "store": "Rewe",
-    "title": "Krombacher Pils oder alkoholfrei",
-    "price": "11,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 24 x 0,33/20 x 0,5-l-Fl.-Kasten, (1 l = 1,45/1,15), zzgl. 3,42/3,10 Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "cmlt3xk23",
-    "store": "Rewe",
-    "title": "Wagner Die Backfrische Mozzarella",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 350-g-Pckg, (1 kg = 5,69)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "ls90q8i2d",
-    "store": "Rewe",
-    "title": "Barilla Pasta Sauce",
-    "price": "1,89",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "versch. Sorten, je 400-g-Glas, (1 kg = 4,73)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "hpw1yxi11",
-    "store": "Rewe",
-    "title": "Probierpreis",
-    "price": "2,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "je 750-ml-Fl, (1 l = 3,99)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "0fcsfclgv",
-    "store": "Rewe",
-    "title": "besonders aromatisch und knackig",
-    "price": "3,33",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Kl. I, je 200-g-Schale, (1 kg = 16,65)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "21h0oqz1i",
+    "id": "1w2gbjxrt",
     "store": "Kaufland",
     "title": "BECK'S",
     "price": "9,99",
@@ -84,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "86o2khj9j",
+    "id": "5j5j0f5ag",
     "store": "Kaufland",
     "title": "GUSTAVO GUSTO",
     "price": "3,00",
@@ -96,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "79qyess1r",
+    "id": "q8u206bv1",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,59",
@@ -108,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "5sm6ys6tz",
+    "id": "ds699rncn",
     "store": "Kaufland",
     "title": "Pizza-Donut Flammkuchen",
     "price": "0,89",
@@ -120,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "y58w7g2r0",
+    "id": "4wy41m4g8",
     "store": "Kaufland",
     "title": "K-BIO",
     "price": "0,85",
