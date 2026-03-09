@@ -1,15 +1,5 @@
 [
   {
-    "location": "Sparkassen-Arena",
-    "title": "🏀 Heimspiel",
-    "date": "2026-03-08",
-    "time": "15:00",
-    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAHauptrundeGIESSEN 46ers. Jetzt Tickets sichern!",
-    "category": "Sports",
-    "image": "/images/bg-logo.png",
-    "link": "https://bit.ly/3Y1uBlm"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-03-09",
     "time": "20:00",
@@ -30,6 +20,21 @@
     "category": "Sonstiges",
     "image": "/images/mrjones-logo.png",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "mittwochs im club",
+    "date": "2026-03-11",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69a8297f4f40e06ba675769d.jpeg?token=j0JzjeWRlusyDGtT1ZqfworZAThM7L8lnLC7GDxPiw8&expires=1773117628",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
   },
   {
     "title": "Studentenmittwoch",
@@ -75,7 +80,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69a5af884f40e06ba671b5e0.jpeg?token=-WvR4QJMaX19tF9HnCcxKwUwhGFjX9bKIxKF0LVQp4w&expires=1773032329",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69a5af884f40e06ba671b5e0.jpeg?token=mGVvR4z6XAluWChnMaENYinVODhIL8-if1KSZyDri38&expires=1773117628",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -90,7 +95,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69a26a544f40e06ba66b7054.jpeg?token=6iwhnjDDGvRvgwU6TyAmMC4Xn5WchTSOfyngPHQWOHk&expires=1773032332",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69a26a544f40e06ba66b7054.jpeg?token=rEpKF6fm-ZOq8rEjHUvxelkfE615RF1qdriHqkA51P8&expires=1773118801",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -120,6 +125,21 @@
     "category": "Sonstiges",
     "image": "/images/mrjones-logo.png",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "mittwochs im club",
+    "date": "2026-03-18",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69ade8624f40e06ba6804550.jpeg?token=JjmSw-atqkXMBIUF0XbFD4q1_sRcw0AMBHbiIDedCa4&expires=1773117530",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
   },
   {
     "title": "Studentenmittwoch",
@@ -176,7 +196,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2b6d4f40e06ba678bd76.jpeg?token=bod3Wy5J2lUEUY1_CtsUXw8VTiP2b7Oocwta2Jwa0-A&expires=1773032633",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2b6d4f40e06ba678bd76.jpeg?token=l9vtUIwQBgj4vM0u5WYFzYmNQEC9Sbfa9Mtd1xp9vEI&expires=1773118801",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -191,7 +211,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/698f9c6d4f40e06ba64bb233.jpeg?token=jMdZfAHA7jcMzTBj1pwtWdfTmigUInS9vzUJsiiGpAE&expires=1773032633",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/698f9c6d4f40e06ba64bb233.jpeg?token=g-rr9wkJbKJnKKOf1H6u514HBgERTmBVJEBeK_rXuxg&expires=1773118801",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -293,21 +313,6 @@
     "link": "https://www.mrjones.de"
   },
   {
-    "title": "Funky P*ssy Club",
-    "date": "2026-03-28",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2aad4f40e06ba678bc4c.jpeg?token=IvjmKmnbRrniTqv1A-7aFYYUGHayrSIa5IGYgMSjCVo&expires=1773032329",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
     "title": "Best 90s",
     "date": "2026-03-28",
     "time": "20:00",
@@ -399,21 +404,6 @@
     "link": "https://exil-web.de/event/cheers-to-the-queers-party-4/2026-04-04/",
     "source": "Exil",
     "category": "Kultur"
-  },
-  {
-    "title": "Ostersonntag 2000er Fe...",
-    "date": "2026-04-05",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2be54f40e06ba678be1b.jpeg?token=w7ZD46ZyY0ogIOxn1bfKXwIrBQPQHf4IFEbAY4JAE6w&expires=1773029423",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
   },
   {
     "title": "SWING-A-ROUND",
