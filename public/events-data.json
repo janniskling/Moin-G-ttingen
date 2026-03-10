@@ -1,16 +1,5 @@
 [
   {
-    "title": "SWING-A-ROUND",
-    "date": "2026-03-09",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-03-09/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "id": "jones-ap-2026-03-11",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -27,7 +16,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69a8297f4f40e06ba675769d.jpeg?token=j0JzjeWRlusyDGtT1ZqfworZAThM7L8lnLC7GDxPiw8&expires=1773117628",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69a8297f4f40e06ba675769d.jpeg?token=rSeiRxTLIhIGATJ9Ik28o-A4pgPOBvjRZSO23aLywIo&expires=1773202681",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -80,7 +69,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69a5af884f40e06ba671b5e0.jpeg?token=mGVvR4z6XAluWChnMaENYinVODhIL8-if1KSZyDri38&expires=1773117628",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69a5af884f40e06ba671b5e0.jpeg?token=1_sAvcttFN7QMDmhn3GLjUyfU1vF6h436_EZfXaGXfQ&expires=1773203840",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -95,7 +84,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69a26a544f40e06ba66b7054.jpeg?token=rEpKF6fm-ZOq8rEjHUvxelkfE615RF1qdriHqkA51P8&expires=1773118801",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69a26a544f40e06ba66b7054.jpeg?token=oUNk1AQCYDRl8BBOCEfcw2wckpYYJGOCbA30xUylHgs&expires=1773203840",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -132,7 +121,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69ade8624f40e06ba6804550.jpeg?token=JjmSw-atqkXMBIUF0XbFD4q1_sRcw0AMBHbiIDedCa4&expires=1773117530",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69ade8624f40e06ba6804550.jpeg?token=keZ60Qm3BpaflOulZVwqk80M4NmOjPa36Yp0uPaJtF8&expires=1773203840",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -196,7 +185,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2b6d4f40e06ba678bd76.jpeg?token=l9vtUIwQBgj4vM0u5WYFzYmNQEC9Sbfa9Mtd1xp9vEI&expires=1773118801",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2b6d4f40e06ba678bd76.jpeg?token=T0Onaz4sR5MGxbCEQH_WihNVraHS7Ycso_OJGcsJ0bk&expires=1773203840",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -211,7 +200,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/698f9c6d4f40e06ba64bb233.jpeg?token=g-rr9wkJbKJnKKOf1H6u514HBgERTmBVJEBeK_rXuxg&expires=1773118801",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/698f9c6d4f40e06ba64bb233.jpeg?token=Utzn1XbVM28s7Rc5WEueprDGZp6z5nidxciHVdQotKU&expires=1773203840",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -428,6 +417,44 @@
     "category": "Kultur"
   },
   {
+    "id": "jones-ap-2026-04-08",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-04-08",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "Studentenmittwoch",
+    "date": "2026-04-08",
+    "time": "22:00",
+    "description": "Kostenloser Eintritt für Studenten bis 23 Uhr und 1€ Bier!",
+    "location": "Club Savoy",
+    "image": "/images/savoy-student.png",
+    "link": "https://www.club-savoy.de",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Studenten",
+      "Party",
+      "1€ Bier"
+    ]
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-04-08",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
+  },
+  {
     "title": "SWING-A-ROUND",
     "date": "2026-04-13",
     "time": "20:00",
@@ -446,6 +473,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
     "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-04-20/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "SWING-A-ROUND",
+    "date": "2026-04-27",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-04-27/",
     "source": "Exil",
     "category": "Kultur"
   }
