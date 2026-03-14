@@ -1,54 +1,6 @@
 [
   {
-    "id": "y01s9s1t4",
-    "store": "Rewe",
-    "title": "Corona Mexican Beer oder Cero alkoholfrei",
-    "price": "6,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 6 x 0,355-l-Fl.-Sixpack, (1 l = 3,05), zzgl. 0,48 Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "ey04fuvnz",
-    "store": "Rewe",
-    "title": "Zentis Triple Zero Konfitüre Erdbeere",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍞",
-    "description": "je 185-g-Glas, (1 kg = 10,76)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "v7zm7z2ec",
-    "store": "Rewe",
-    "title": "Zentis Erd-Bärchen Konfitüre Erdbeere",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍞",
-    "description": "je 250-g-Glas, (1 kg = 7,96)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "qnswdmppg",
-    "store": "Rewe",
-    "title": "REWE Bio Sandwich",
-    "price": "1,89",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Weizen­voll­korn­brot, je 375-g-Pckg, (1 kg = 5,04)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "oz1yc526s",
+    "id": "gh4pv0ick",
     "store": "Kaufland",
     "title": "VELTINS",
     "price": "11,99",
@@ -60,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "6hvd2zfon",
+    "id": "qm5tj9uy4",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "2,00",
@@ -72,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "6pxpzer66",
+    "id": "n4i56g8fp",
     "store": "Kaufland",
     "title": "GIOVANNI RANA",
     "price": "2,00",
@@ -84,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "g0uavg005",
+    "id": "dcpdbd9vf",
     "store": "Kaufland",
     "title": "Pizza Salami",
     "price": "0,95",
@@ -96,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "s6e6op5n8",
+    "id": "sdvnr0f7e",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "0,99",
@@ -108,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "5wwoj18jz",
+    "id": "fc2lrwqk9",
     "store": "Kaufland",
     "title": "BITBURGER",
     "price": "9,49",
