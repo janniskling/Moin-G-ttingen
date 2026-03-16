@@ -1,66 +1,6 @@
 [
   {
-    "id": "kjd3zmo1v",
-    "store": "Rewe",
-    "title": "Dr. Oetker Ristorante Pizza Salame",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 320-g-Pckg, (1 kg = 6,22)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "0gxrykfyp",
-    "store": "Rewe",
-    "title": "individuell kombinierbar",
-    "price": "10,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, koffeinhaltig, je 20 x 0,5-l-Fl.-Kasten, (1 l = 1,10), zzgl. 3,10 Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "9jmuny91e",
-    "store": "Rewe",
-    "title": "Desperados Beer",
-    "price": "4,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 4 x 0,33-l-Fl.-Pckg, (1 l = 3,78), zzgl. 0,32 Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "0hjppaukn",
-    "store": "Rewe",
-    "title": "Diamant Weizenmehl",
-    "price": "1,11",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Details im Markt",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "9h9v1wmsz",
-    "store": "Rewe",
-    "title": "Heidelbeeren",
-    "price": "2,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍞",
-    "description": "Kl. I, je 200-g-Schale, (1 kg = 14,95)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "u4yk8fpwl",
+    "id": "3itycy4vv",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "2,00",
@@ -72,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "14zb0wzme",
+    "id": "02lo239ed",
     "store": "Kaufland",
     "title": "GIOVANNI RANA",
     "price": "2,00",
@@ -84,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "63nl2fqo2",
+    "id": "shifdungb",
     "store": "Kaufland",
     "title": "Pizza Salami",
     "price": "0,95",
@@ -96,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "peodq7xp3",
+    "id": "7rfpgh8j0",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "0,99",
@@ -108,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "d8k2jrpxo",
+    "id": "g8mnvq104",
     "store": "Kaufland",
     "title": "BITBURGER",
     "price": "9,49",
