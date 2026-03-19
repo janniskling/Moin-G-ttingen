@@ -1,6 +1,6 @@
 [
   {
-    "id": "xjhqt0tmp",
+    "id": "t72d5y2jk",
     "store": "Rewe",
     "title": "Dr. Oetker Ristorante Pizza Salame",
     "price": "1,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "pr7i9tr1u",
+    "id": "t8v6io3tv",
     "store": "Rewe",
     "title": "individuell kombinierbar",
     "price": "10,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "197rygc59",
+    "id": "3ugheq6rj",
     "store": "Rewe",
     "title": "Paulaner Spezi oder Limonade",
     "price": "3,10",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "d59dr78na",
+    "id": "n4a8ntv8d",
     "store": "Rewe",
     "title": "Desperados Beer",
     "price": "4,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "y8n347v6r",
+    "id": "ib7q1g7pe",
     "store": "Rewe",
     "title": "Diamant Weizenmehl",
     "price": "1,11",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "byugkqr0o",
+    "id": "anszpdae7",
     "store": "Rewe",
     "title": "Heidelbeeren",
     "price": "2,99",
@@ -72,74 +72,50 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "75f5714uw",
+    "id": "e87dn0ud0",
     "store": "Kaufland",
-    "title": "VELTINS",
-    "price": "11,99",
-    "oldPrice": "17,99",
-    "discount": "33%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "title": "Barilla Classic Nudeln",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "(1 kg = 1.58) / (1 kg = 1.38)**",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "cc5cv26t1",
+    "id": "sf3vhfn8l",
     "store": "Kaufland",
-    "title": "DR. OETKER",
-    "price": "2,00",
-    "oldPrice": "3,69",
-    "discount": "46%",
+    "title": "DORFMÜHLE",
+    "price": "1,79",
+    "oldPrice": "2,89",
+    "discount": "38%",
     "image": "🍺",
-    "description": "(1 kg = 4.82 - 5.20)",
+    "description": "(1 kg = 3.98) / (1 kg = 3.58)**",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "032u6henr",
+    "id": "ddxfmwtff",
     "store": "Kaufland",
-    "title": "GIOVANNI RANA",
-    "price": "2,00",
-    "oldPrice": "3,79",
-    "discount": "47%",
-    "image": "🍺",
-    "description": "(1 kg = 8.00)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "lx5haaw92",
-    "store": "Kaufland",
-    "title": "Pizza Salami",
-    "price": "0,95",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,79",
     "oldPrice": null,
     "discount": null,
     "image": "🍕",
-    "description": "Details im Markt",
+    "description": "(1 kg = 5.97 - 6.63)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "c6swkknb3",
+    "id": "ngxlawx24",
     "store": "Kaufland",
-    "title": "K-CLASSIC",
-    "price": "0,99",
-    "oldPrice": null,
-    "discount": null,
+    "title": "GUSTAVO GUSTO",
+    "price": "2,99",
+    "oldPrice": "3,79",
+    "discount": "21%",
     "image": "🍺",
-    "description": "(1 kg = 0.50)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "65r049k6s",
-    "store": "Kaufland",
-    "title": "BITBURGER",
-    "price": "9,49",
-    "oldPrice": "13,49",
-    "discount": "30%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,33-l-Fl.",
+    "description": "(1 kg = 8.93 - 9.50)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }

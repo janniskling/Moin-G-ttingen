@@ -1,58 +1,5 @@
 [
   {
-    "id": "jones-ap-2026-03-18",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-03-18",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "title": "mittwochs im club",
-    "date": "2026-03-18",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69ade8624f40e06ba6804550.jpeg?token=gyH_su5hWQtjZgTFIrGSqLbwmKnV2-KPp9B9ZO-Qi7M&expires=1773894610",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
-    "title": "Studentenmittwoch",
-    "date": "2026-03-18",
-    "time": "22:00",
-    "description": "Kostenloser Eintritt für Studenten bis 23 Uhr und 1€ Bier!",
-    "location": "Club Savoy",
-    "image": "/images/savoy-student.png",
-    "link": "https://www.club-savoy.de",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Studenten",
-      "Party",
-      "1€ Bier"
-    ]
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-03-18",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "id": "jones-wings-2026-03-19",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -80,7 +27,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69b739fec873c4e3c0f6429f.jpeg?token=_2I9aIkCKDZOnBqLXbvdTfwnFaBonPU3P4LSVoausgg&expires=1773894610",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69b739fec873c4e3c0f6429f.jpeg?token=pU-gLg7iS_JlvSnGMcQTE4GBHFvf5GVU1n03ERkc-rg&expires=1773983472",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -95,7 +42,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/698f9c6d4f40e06ba64bb233.jpeg?token=yPGgGT_ob0cnBVs3VwM265nFkaNj_Q0rYRFOh1rYllk&expires=1773894610",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7a75c873c4e3c0fd11fa.jpeg?token=kniFmEET75YONDcFHr8f5cHfLmWewWeP7STsXiWiGE0&expires=1773980661",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -159,6 +106,21 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "mittwochs im club",
+    "date": "2026-03-25",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7792c873c4e3c0fd0dbb.jpeg?token=VH5NYWvnvFfrFIV9usjH5ppsIgDyHSS3NSYgNTpiEVw&expires=1773983576",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
+  },
+  {
     "title": "Studentenmittwoch",
     "date": "2026-03-25",
     "time": "22:00",
@@ -197,12 +159,39 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "RAP DISTRICT - FSK16",
+    "date": "2026-03-27",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7318c873c4e3c0fd0726.jpeg?token=45sf4y5sgFf-a46rZnGRhNTsQ7PvMlOrjA_RMwGfoG8&expires=1773982391",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club",
+      "FSK16"
+    ]
+  },
+  {
+    "title": "KLANGWELT",
+    "date": "2026-03-27",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/klangweltneutral-960x1280.jpeg",
+    "link": "https://exil-web.de/event/klangwelt/2026-03-27/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
     "title": "Funky P*ssy Club",
     "date": "2026-03-28",
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2aad4f40e06ba678bc4c.jpeg?token=E_IazVG49ZLslDA5GPgGDTiue8aJ7k2E9SjEgLcBXKc&expires=1773894610",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2aad4f40e06ba678bc4c.jpeg?token=pm-0Eg086PrQmJmYs0A2eUuzvB2GKADAZ-rhjbQJqZg&expires=1773983732",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -283,6 +272,21 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "Russian Coco x Black S...",
+    "date": "2026-04-04",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7568c873c4e3c0fd0a8e.jpeg?token=zke3w-UuxkQ4g9BvejryYtcUQ-tddYAqO61yCAjqUZw&expires=1773983072",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
+  },
+  {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
     "date": "2026-04-04",
     "time": "20:00",
@@ -303,21 +307,6 @@
     "link": "https://exil-web.de/event/cheers-to-the-queers-party-4/2026-04-04/",
     "source": "Exil",
     "category": "Kultur"
-  },
-  {
-    "title": "Ostersonntag 2000er Fe...",
-    "date": "2026-04-05",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2be54f40e06ba678be1b.jpeg?token=eb998pj9_e_QFlegIRIzfVGIOJyhxGF2-eZ6i3474UA&expires=1773894610",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
   },
   {
     "title": "SWING-A-ROUND",
@@ -391,6 +380,17 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "NACHT DER SCHATTEN",
+    "date": "2026-04-10",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/NACHT-DER-SCHATTEN-960x1280.jpg",
+    "link": "https://exil-web.de/event/nacht-der-schatten-2-2-3/2026-04-10/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
     "title": "SWING-A-ROUND",
     "date": "2026-04-13",
     "time": "20:00",
@@ -451,19 +451,15 @@
     "link": "https://www.mrjones.de"
   },
   {
-    "title": "30+ Party",
+    "title": "#wirsinddienacht",
     "date": "2026-04-18",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2b104f40e06ba678bce6.jpeg?token=5HUMiYyr1tTueLbCcFB8eUKRMMe1DtvrEU4s7-2B85A&expires=1773894610",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/wsdn-neutral-scaled-1-913x1280.jpg",
+    "link": "https://exil-web.de/event/wirsinddienacht-3/2026-04-18/",
+    "source": "Exil",
+    "category": "Kultur"
   },
   {
     "title": "SWING-A-ROUND",
@@ -473,28 +469,6 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
     "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-04-20/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
-    "title": "SWING-A-ROUND",
-    "date": "2026-04-27",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-04-27/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
-    "title": "SWING-A-ROUND",
-    "date": "2026-05-04",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-05-04/",
     "source": "Exil",
     "category": "Kultur"
   }
