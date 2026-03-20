@@ -1,78 +1,6 @@
 [
   {
-    "id": "t72d5y2jk",
-    "store": "Rewe",
-    "title": "Dr. Oetker Ristorante Pizza Salame",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 6,22 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "t8v6io3tv",
-    "store": "Rewe",
-    "title": "individuell kombinierbar",
-    "price": "10,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, koffeinhaltig, je 20 x 0,5-l-Fl.-Kasten, (1 l = 1,10 €), zzgl. 3,10 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "3ugheq6rj",
-    "store": "Rewe",
-    "title": "Paulaner Spezi oder Limonade",
-    "price": "3,10",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, koffeinhaltig, je 20 x 0,5-l-Fl.-Kasten, (1 l = 1,10 €), zzgl. 3,10 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "n4a8ntv8d",
-    "store": "Rewe",
-    "title": "Desperados Beer",
-    "price": "4,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 4 x 0,33-l-Fl.-Pckg., (1 l = 3,78 €), zzgl. 0,32 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "ib7q1g7pe",
-    "store": "Rewe",
-    "title": "Diamant Weizenmehl",
-    "price": "1,11",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Details im Markt",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "anszpdae7",
-    "store": "Rewe",
-    "title": "Heidelbeeren",
-    "price": "2,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍞",
-    "description": "Kl. I, je 200-g-Schale, (1 kg = 14,95 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "e87dn0ud0",
+    "id": "qsrhcrz7t",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,99",
@@ -84,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "sf3vhfn8l",
+    "id": "ufdahsxq4",
     "store": "Kaufland",
     "title": "DORFMÜHLE",
     "price": "1,79",
@@ -96,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ddxfmwtff",
+    "id": "qej3sgdu3",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,79",
@@ -108,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ngxlawx24",
+    "id": "vsfnr5nfi",
     "store": "Kaufland",
     "title": "GUSTAVO GUSTO",
     "price": "2,99",
