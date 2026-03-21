@@ -1,26 +1,11 @@
 [
   {
-    "title": "Ferien Clubbing | Rave...",
-    "date": "2026-03-20",
-    "time": "23:00",
-    "description": "Club Savoy Party",
-    "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69b739fec873c4e3c0f6429f.jpeg?token=E0odnW0sRFE2XXZFTfRtvykzAFHwBPvGriVfalP3rG0&expires=1774067139",
-    "link": "https://www.club-savoy.de/events/",
-    "source": "Savoy",
-    "category": "Party",
-    "tags": [
-      "Party",
-      "Club"
-    ]
-  },
-  {
     "title": "MAYAMI VOL 6",
     "date": "2026-03-21",
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7a75c873c4e3c0fd11fa.jpeg?token=YDGbCaUIAOQof07RGqE70K0QjP9cQ2NfYeq0mXIbY3M&expires=1774069371",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7a75c873c4e3c0fd11fa.jpeg?token=qOQxmR6Yefpg_pw6F6ndaJbe1-YtXMge0LSqRYq1XuQ&expires=1774152677",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -89,7 +74,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7792c873c4e3c0fd0dbb.jpeg?token=8SUIlQ48aZunI-ejKDfrPUFtTebhC6JMZ-6mshDeRDc&expires=1774067139",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7792c873c4e3c0fd0dbb.jpeg?token=lKxdYm-5XNfM6CLvHsU9jLdTP-_xzSpty7kDzedrMOI&expires=1774154769",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -142,7 +127,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7318c873c4e3c0fd0726.jpeg?token=I4oIenKo1HYqHJG-ni_-gjTXtxBzk_ohtuimQTr1UlM&expires=1774066959",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7318c873c4e3c0fd0726.jpeg?token=0ly4bZUph-_OKnfPE435PfTSFu4YhUh6YQ5t0R_CQWc&expires=1774155378",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -169,7 +154,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2aad4f40e06ba678bc4c.jpeg?token=5m4tSUbvOec8baiMYpjGIhc3_npso0rUxUumolBxIlo&expires=1774066959",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2aad4f40e06ba678bc4c.jpeg?token=WxsmsbKMfGLN0_DWaiKLoF-QB3S0s7GOA2NKGXU8-oQ&expires=1774155378",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -250,12 +235,22 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "location": "Sparkassen-Arena",
+    "title": "🏀 Heimspiel",
+    "date": "2026-04-04",
+    "time": "18:30",
+    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAHauptrundeEPG Baskets Koblenz. Jetzt Tickets sichern!",
+    "category": "Sports",
+    "image": "/images/bg-logo.png",
+    "link": "https://bit.ly/3Y1uBlm"
+  },
+  {
     "title": "Russian Coco x Black S...",
     "date": "2026-04-04",
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7568c873c4e3c0fd0a8e.jpeg?token=7pHBOT593rzUWFpynBXQ2GMLNVLieNJZovyMBr4nXFs&expires=1774066959",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7568c873c4e3c0fd0a8e.jpeg?token=ySGFpVV1zBy58chF3z6lCaTBe685iYsfbC-Sk2zNzYI&expires=1774155378",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -285,6 +280,21 @@
     "link": "https://exil-web.de/event/cheers-to-the-queers-party-4/2026-04-04/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "title": "Ostersonntag 2000er Fe...",
+    "date": "2026-04-05",
+    "time": "23:00",
+    "description": "Club Savoy Party",
+    "location": "Club Savoy",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2be54f40e06ba678be1b.jpeg?token=9c1OGPnKs8_hxk-j3BCPz_EcL31t9L9hO2vGZ6DpR80&expires=1774155378",
+    "link": "https://www.club-savoy.de/events/",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Party",
+      "Club"
+    ]
   },
   {
     "title": "SWING-A-ROUND",
