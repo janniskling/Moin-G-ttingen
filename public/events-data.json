@@ -1,16 +1,5 @@
 [
   {
-    "title": "SWING-A-ROUND",
-    "date": "2026-03-23",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-03-23/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "id": "jones-ap-2026-03-25",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -27,7 +16,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7792c873c4e3c0fd0dbb.jpeg?token=jTu80z2j52gLY33daCFqbKrqnyzM5-jk2kD7s4hGH3k&expires=1774330017",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7792c873c4e3c0fd0dbb.jpeg?token=8qvcGcVybH6fk3pyUwCWobXtXArkGymAInzGzMoDoUc&expires=1774413363",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -80,7 +69,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7318c873c4e3c0fd0726.jpeg?token=DNRlmx3oXN5HrcTdyoCXXURa086f2vtVDJUUjmgpqH0&expires=1774330017",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7318c873c4e3c0fd0726.jpeg?token=t16GXVu6ICHK4wZE3Xihi_XEJY99YMh625MgTY4lLYU&expires=1774413363",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -107,7 +96,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2aad4f40e06ba678bc4c.jpeg?token=ovBwlxglmVPOVTI3Kb0lyBekI2ZR9JA4KlAKeKtO59w&expires=1774328270",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2aad4f40e06ba678bc4c.jpeg?token=F_fcXvTJ-H81pF3YcbX5KUks2_6Od3lDdgYC8VOoAlo&expires=1774413363",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -203,7 +192,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7568c873c4e3c0fd0a8e.jpeg?token=9RZ_WYCnrDzTJsREE6n3r_fjrKILsYG0USvRLyGz77A&expires=1774328270",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69bb7568c873c4e3c0fd0a8e.jpeg?token=O0_M7bo17okjzVy1petE8nzeiX2fTVQ8H2nrnSFTkPs&expires=1774413363",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -240,7 +229,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2be54f40e06ba678be1b.jpeg?token=8sm3iCV64olBFJsZDngs6t-60iKhh2AjCu6ESwqfGB0&expires=1774328270",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2be54f40e06ba678be1b.jpeg?token=9W-vJdZTXZ967ZAny_w-uaqZIHYstAAbzAejUJ0PFeM&expires=1774413363",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -397,7 +386,7 @@
     "time": "23:00",
     "description": "Club Savoy Party",
     "location": "Club Savoy",
-    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2b104f40e06ba678bce6.jpeg?token=dwQAalzucKW1Pif8pmC_1V2XkiGPq-kg044OTeB-n6U&expires=1774327797",
+    "image": "https://s3-67d42f45a211985d5c15cc10-savoy.b-cdn.net/blobs/67d42f45a211985d5c15cc10/EVENT_THUMBNAIL/69aa2b104f40e06ba678bce6.jpeg?token=4bTxhv-qwGtdncl0Gug9mh1GXymmC43bIvfJxDccbOc&expires=1774413363",
     "link": "https://www.club-savoy.de/events/",
     "source": "Savoy",
     "category": "Party",
@@ -440,6 +429,44 @@
     "category": "Kultur"
   },
   {
+    "id": "jones-ap-2026-04-22",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-04-22",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "Studentenmittwoch",
+    "date": "2026-04-22",
+    "time": "22:00",
+    "description": "Kostenloser Eintritt für Studenten bis 23 Uhr und 1€ Bier!",
+    "location": "Club Savoy",
+    "image": "/images/savoy-student.png",
+    "link": "https://www.club-savoy.de",
+    "source": "Savoy",
+    "category": "Party",
+    "tags": [
+      "Studenten",
+      "Party",
+      "1€ Bier"
+    ]
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-04-22",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
+  },
+  {
     "title": "KLANGWELT",
     "date": "2026-04-24",
     "time": "20:00",
@@ -447,6 +474,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2024/02/klangweltneutral-960x1280.jpeg",
     "link": "https://exil-web.de/event/klangwelt/2026-04-24/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "BEST 80s",
+    "date": "2026-04-25",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/Best-80s-960x1280.jpg",
+    "link": "https://exil-web.de/event/best-80s/2026-04-25/",
     "source": "Exil",
     "category": "Kultur"
   }

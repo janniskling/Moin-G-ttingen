@@ -1,30 +1,6 @@
 [
   {
-    "id": "bk9ldyo5z",
-    "store": "Rewe",
-    "title": "Original Wagner Steinofen Pizza Salami",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 5,59 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "hyjin6a8u",
-    "store": "Rewe",
-    "title": "Veltins Pilsener",
-    "price": "11,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,45 € / 1,15 €), zzgl. 3,42 € / 3,10 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "wlzvf71t0",
+    "id": "lzgpjbr9e",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,99",
@@ -36,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "pxwoqtg0d",
+    "id": "c9ocg8h4y",
     "store": "Kaufland",
     "title": "MAYBACH",
     "price": "2,88",
@@ -48,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "gyqj5ubdd",
+    "id": "m1bc2v25d",
     "store": "Kaufland",
     "title": "DORFMÜHLE",
     "price": "1,79",
@@ -60,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ctkd7egjx",
+    "id": "ru1cbflkq",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,79",
@@ -72,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "f2sfv9g17",
+    "id": "fi5zximom",
     "store": "Kaufland",
     "title": "GUSTAVO GUSTO",
     "price": "2,99",
