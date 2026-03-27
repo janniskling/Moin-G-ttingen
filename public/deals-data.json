@@ -1,6 +1,6 @@
 [
   {
-    "id": "flh2obhd2",
+    "id": "pco171k03",
     "store": "Rewe",
     "title": "Original Wagner Steinofen Pizza Salami",
     "price": "1,79",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "i4g21xut6",
+    "id": "78554crtr",
     "store": "Rewe",
     "title": "Veltins Pilsener",
     "price": "11,49",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "sxx1mn53m",
+    "id": "7qpyjvmsa",
     "store": "Kaufland",
     "title": "HASSERÖDER",
     "price": "17,99",
@@ -36,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "5mcqo48a1",
+    "id": "a7nv30243",
     "store": "Kaufland",
     "title": "BARILLA",
     "price": "1,59",
@@ -48,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ibm5nrr4z",
+    "id": "1swa5g8ob",
     "store": "Kaufland",
     "title": "Pizza Margherita",
     "price": "0,99",
@@ -60,7 +60,19 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "rbotd8qwq",
+    "id": "ueth1s607",
+    "store": "Kaufland",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,49",
+    "oldPrice": "3,49",
+    "discount": "57%",
+    "image": "🍕",
+    "description": "(1 kg = 4.14 - 4.97)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "0dkblf460",
     "store": "Kaufland",
     "title": "PADERBORNER",
     "price": "9,99",
@@ -72,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "zxqs92lti",
+    "id": "6evf2e9iw",
     "store": "Kaufland",
     "title": "KUSCHELWEICH",
     "price": "1,00",
@@ -84,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "9chlyedix",
+    "id": "g50p5z418",
     "store": "Kaufland",
     "title": "GAGGLI",
     "price": "1,00",
