@@ -1,16 +1,5 @@
 [
   {
-    "title": "SWING-A-ROUND",
-    "date": "2026-03-30",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-03-30/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "id": "jones-ap-2026-04-01",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -291,6 +280,39 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
     "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-04-27/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "id": "jones-ap-2026-04-29",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-04-29",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-04-29",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
+  },
+  {
+    "title": "SWING-A-ROUND",
+    "date": "2026-05-04",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-05-04/",
     "source": "Exil",
     "category": "Kultur"
   }
