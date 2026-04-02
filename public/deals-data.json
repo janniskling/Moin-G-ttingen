@@ -1,6 +1,6 @@
 [
   {
-    "id": "30g6v63in",
+    "id": "ztatur8xh",
     "store": "Rewe",
     "title": "Krombacher Pils oder alkoholfrei",
     "price": "10,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "f1u8o7ak8",
+    "id": "dcjrytma3",
     "store": "Rewe",
     "title": "Wagner Die Backfrische Mozzarella",
     "price": "2,22",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ih2cjj5h0",
+    "id": "bvhxodg2y",
     "store": "Rewe",
     "title": "Wagner Big City Salami",
     "price": "2,22",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "2rki52210",
+    "id": "2wqsxjf6x",
     "store": "Rewe",
     "title": "Coppenrath & Wiese Unsere Goldstücke 9 Weizenbrötchen",
     "price": "1,00",
@@ -48,74 +48,14 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "d8grmi8aa",
+    "id": "cjjqv0jv2",
     "store": "Kaufland",
-    "title": "HASSERÖDER",
-    "price": "17,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "je Ka. 24 x 0,33-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "ymnrfb3yg",
-    "store": "Kaufland",
-    "title": "BARILLA",
-    "price": "1,59",
-    "oldPrice": "1,89",
-    "discount": "16%",
-    "image": "🍝",
-    "description": "(1 kg = 9.45 - 9.95) / (1 kg = 7.95 - 8.37)**",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "dazfc58d3",
-    "store": "Kaufland",
-    "title": "Pizza Margherita",
-    "price": "0,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "Details im Markt",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "nap05jt93",
-    "store": "Kaufland",
-    "title": "PADERBORNER",
-    "price": "9,99",
+    "title": "BECK'S",
+    "price": "10,99",
     "oldPrice": null,
     "discount": null,
     "image": "🍺",
     "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "wzqjrhcta",
-    "store": "Kaufland",
-    "title": "KUSCHELWEICH",
-    "price": "1,00",
-    "oldPrice": "5,00",
-    "discount": "80%",
-    "image": "🍺",
-    "description": "ENTSPR. PRO PACKUNG 1.50",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "j9u0r22si",
-    "store": "Kaufland",
-    "title": "GAGGLI",
-    "price": "1,00",
-    "oldPrice": "3,87",
-    "discount": "74%",
-    "image": "🍺",
-    "description": "(1 kg = 4.00)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
