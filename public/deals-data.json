@@ -1,6 +1,54 @@
 [
   {
-    "id": "b38lbmpgh",
+    "id": "yctystcnt",
+    "store": "Rewe",
+    "title": "Beck’s Pils",
+    "price": "11,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,45 € / 1,15 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "b4dqz98n5",
+    "store": "Rewe",
+    "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "je 61-g-Becher, (1 kg = 16,23 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ootitvh09",
+    "store": "Rewe",
+    "title": "Corona Mexican Beer oder Cero alkoholfrei",
+    "price": "6,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 6 x 355-ml-Fl.-Sixpack, (1 l = 3,05 €), zzgl. 0,48 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "h5n3y1c5j",
+    "store": "Rewe",
+    "title": "Dr. Oetker Pizza Tradizionale Salame Romano",
+    "price": "2,22",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 385-g-Pckg., (1 kg = 5,77 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "sdpch4smz",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "1,77",
@@ -12,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "vzkqvtk0z",
+    "id": "8v6t2sv1y",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "0,95",
@@ -24,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "d2k6tjkm9",
+    "id": "d2lp85fdk",
     "store": "Kaufland",
     "title": "BECK'S",
     "price": "10,99",
