@@ -1,16 +1,5 @@
 [
   {
-    "title": "IT’S TUESDAY, BABY…",
-    "date": "2026-04-07",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/webPoster-960x1280.jpeg",
-    "link": "https://exil-web.de/event/its-tuesday-baby-2/2026-04-07/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "id": "jones-ap-2026-04-08",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -252,6 +241,17 @@
     "category": "Kultur"
   },
   {
+    "title": "IT’S TUESDAY, BABY…",
+    "date": "2026-05-05",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/04/webPoster-960x1280.jpeg",
+    "link": "https://exil-web.de/event/its-tuesday-baby-2/2026-05-05/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
     "id": "jones-ap-2026-05-06",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -272,5 +272,16 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "id": "jones-wings-2026-05-07",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-05-07",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
   }
 ]
