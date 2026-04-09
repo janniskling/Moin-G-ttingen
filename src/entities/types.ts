@@ -29,3 +29,12 @@ export type Vote = BaseEntity & {
     value: number; // 1-5 stars
     comment?: string;
 };
+
+export type ChatMessage = {
+    id: string;
+    content: string;
+    score: number;
+    created_at: string;
+    user_id: string;
+    parent_id?: string | null;
+};

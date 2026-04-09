@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { getWeather, type WeatherData } from '../services/weatherApi';
+// Weather is cached for 30 minutes in localStorage – no redundant API calls.
 import { CloudSun, Wind, Thermometer, CloudRain, Sun, Cloud, CloudFog, CloudLightning, CloudSnow } from 'lucide-react';
 import { Card, CardContent } from './ui/card';
 import { cn } from '../lib/utils';

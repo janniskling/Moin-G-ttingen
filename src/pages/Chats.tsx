@@ -1,38 +1,38 @@
 import { useEffect, useState } from 'react';
-import { ArrowBigUp, ArrowBigDown, Send, Clock, Flame, Trash2, MessageSquare } from 'lucide-react';
+import { ArrowBigUp, ArrowBigDown, Send, Clock, Flame, Trash2, MessageSquare, AlertCircle } from 'lucide-react';
 import { Card, CardContent } from '../components/ui/card';
 import { Button } from '../components/ui/button';
-import { base44 } from '../lib/base44';
-import { supabase } from '../lib/supabase';
-
-interface Message {
-    id: string;
-    content: string;
-    score: number;
-    created_at: string;
-    user_id: string;
-    parent_id?: string;
-}
+import type { ChatMessage } from '../entities/types';
+import { useAuth } from '../context/AuthContext';
+import {
+    getMessages,
+    getReplies,
+    postMessage,
+    deleteMessage,
+    voteMessage,
+    removeChatVote,
+    getUserChatVotes,
+    MESSAGES_PER_PAGE,
+} from '../services/chat';
 
 interface MessageCardProps {
-    msg: Message;
-    user: any;
+    msg: ChatMessage;
+    userId: string | undefined;
     userVotes: Record<string, number>;
     onVote: (id: string, direction: 1 | -1) => Promise<void>;
     onDelete: (id: string) => Promise<void>;
 }
 
-const MessageCard = ({ msg, user, userVotes, onVote, onDelete }: MessageCardProps) => {
+const MessageCard = ({ msg, userId, userVotes, onVote, onDelete }: MessageCardProps) => {
     const [showReplies, setShowReplies] = useState(false);
     const [showInput, setShowInput] = useState(false);
-    const [replies, setReplies] = useState<Message[]>([]);
+    const [replies, setReplies] = useState<ChatMessage[]>([]);
     const [loadingReplies, setLoadingReplies] = useState(false);
     const [replyText, setReplyText] = useState('');
+    const [replyError, setReplyError] = useState<string | null>(null);
     const [localScore, setLocalScore] = useState(msg.score);
 
-    useEffect(() => {
-        setLocalScore(msg.score);
-    }, [msg.score]);
+    useEffect(() => { setLocalScore(msg.score); }, [msg.score]);
 
     const userVote = userVotes[msg.id];
 
@@ -47,17 +47,12 @@ const MessageCard = ({ msg, user, userVotes, onVote, onDelete }: MessageCardProp
 
     const fetchReplies = async () => {
         if (replies.length === 0) setLoadingReplies(true);
-        const data = await base44.getReplies(msg.id);
-        setReplies(data as Message[]);
+        const data = await getReplies(msg.id);
+        setReplies(data);
         setLoadingReplies(false);
     };
 
     const handleInteraction = async () => {
-        // Toggle Logic:
-        // 1. If closed: Open Thread + Input
-        // 2. If Thread open but Input closed: Open Input
-        // 3. If Thread open and Input open: Close Thread (Toggle off)
-
         if (!showReplies) {
             setShowReplies(true);
             setShowInput(true);
@@ -74,38 +69,34 @@ const MessageCard = ({ msg, user, userVotes, onVote, onDelete }: MessageCardProp
 
     const handleSendReply = async () => {
         if (!replyText.trim()) return;
+        setReplyError(null);
         try {
-            await base44.postMessage(replyText, msg.id);
+            await postMessage(replyText, msg.id);
             setReplyText('');
             await fetchReplies();
-            setShowInput(false); // Hide input, keep replies open
-        } catch (e) {
-            console.error("Reply failed", e);
+            setShowInput(false);
+        } catch {
+            setReplyError('Antwort konnte nicht gesendet werden.');
         }
     };
 
     const handleChildDelete = async (childId: string) => {
-        if (confirm("Antwort löschen?")) {
+        if (confirm('Antwort löschen?')) {
             try {
-                await base44.deleteMessage(childId);
-                await fetchReplies(); // Reload this card's replies to remove deleted item
-            } catch (e) {
-                console.error("Delete failed", e);
+                await deleteMessage(childId);
+                await fetchReplies();
+            } catch {
+                // silently ignore – child is already shown deleted optimistically
             }
         }
-    }
+    };
 
     const handleLocalVote = async (direction: 1 | -1) => {
         const currentVote = userVote || 0;
         let newScoreDelta = 0;
-
-        if (currentVote === direction) {
-            newScoreDelta = -direction;
-        } else if (currentVote === -direction) {
-            newScoreDelta = direction * 2;
-        } else {
-            newScoreDelta = direction;
-        }
+        if (currentVote === direction) newScoreDelta = -direction;
+        else if (currentVote === -direction) newScoreDelta = direction * 2;
+        else newScoreDelta = direction;
 
         setLocalScore(prev => prev + newScoreDelta);
         await onVote(msg.id, direction);
@@ -122,11 +113,9 @@ const MessageCard = ({ msg, user, userVotes, onVote, onDelete }: MessageCardProp
                     >
                         <ArrowBigUp className={`h-8 w-8 ${userVote === 1 ? 'fill-current' : ''}`} />
                     </button>
-
                     <span className={`font-bold text-sm ${userVote ? (userVote === 1 ? 'text-orange-500' : 'text-blue-500') : 'text-foreground'}`}>
                         {localScore}
                     </span>
-
                     <button
                         onClick={() => handleLocalVote(-1)}
                         className={`transition-colors ${userVote === -1 ? 'text-blue-500' : 'text-muted-foreground hover:text-blue-500/70'}`}
@@ -155,11 +144,9 @@ const MessageCard = ({ msg, user, userVotes, onVote, onDelete }: MessageCardProp
                                 </div>
                             )}
                         </div>
-
-                        {/* Delete Button for Owner */}
-                        {user && msg.user_id === user.id && (
+                        {userId && msg.user_id === userId && (
                             <button
-                                onClick={() => onDelete(msg.id)} // Calls parent's delete handler
+                                onClick={() => onDelete(msg.id)}
                                 className="text-red-500/50 hover:text-red-500 transition-colors p-1"
                             >
                                 <Trash2 className="h-4 w-4" />
@@ -170,22 +157,25 @@ const MessageCard = ({ msg, user, userVotes, onVote, onDelete }: MessageCardProp
                     {/* Replies Section */}
                     {showReplies && (
                         <div className="mt-4 pl-4 border-l-2 border-muted space-y-3 animate-in slide-in-from-top-2">
-                            {/* Reply Input */}
                             {showInput && (
-                                <div className="flex gap-2 mb-4 animate-in slide-in-from-top-2 fade-in">
-                                    <input
-                                        value={replyText}
-                                        onChange={e => setReplyText(e.target.value)}
-                                        placeholder="Antworten..."
-                                        className="flex-1 bg-background text-sm rounded-md border px-3 py-2"
-                                        autoFocus
-                                    />
-                                    <Button size="sm" onClick={handleSendReply} disabled={!replyText.trim()}>
-                                        <Send className="h-3 w-3" />
-                                    </Button>
+                                <div className="space-y-2 mb-4 animate-in slide-in-from-top-2 fade-in">
+                                    <div className="flex gap-2">
+                                        <input
+                                            value={replyText}
+                                            onChange={e => setReplyText(e.target.value)}
+                                            placeholder="Antworten..."
+                                            className="flex-1 bg-background text-sm rounded-md border px-3 py-2"
+                                            autoFocus
+                                        />
+                                        <Button size="sm" onClick={handleSendReply} disabled={!replyText.trim()}>
+                                            <Send className="h-3 w-3" />
+                                        </Button>
+                                    </div>
+                                    {replyError && (
+                                        <p className="text-xs text-red-500">{replyError}</p>
+                                    )}
                                 </div>
                             )}
-
                             {loadingReplies ? (
                                 <div className="text-xs text-muted-foreground">Lade Antworten...</div>
                             ) : replies.length > 0 ? (
@@ -193,7 +183,7 @@ const MessageCard = ({ msg, user, userVotes, onVote, onDelete }: MessageCardProp
                                     <MessageCard
                                         key={r.id}
                                         msg={r}
-                                        user={user}
+                                        userId={userId}
                                         userVotes={userVotes}
                                         onVote={onVote}
                                         onDelete={handleChildDelete}
@@ -211,73 +201,91 @@ const MessageCard = ({ msg, user, userVotes, onVote, onDelete }: MessageCardProp
 };
 
 export default function Chats() {
-    const [messages, setMessages] = useState<Message[]>([]);
+    const { user } = useAuth();
+    const [messages, setMessages] = useState<ChatMessage[]>([]);
     const [userVotes, setUserVotes] = useState<Record<string, number>>({});
     const [newItem, setNewItem] = useState('');
     const [sortBy, setSortBy] = useState<'new' | 'top'>('new');
-    const [loading, setLoading] = useState(true);
-    const [user, setUser] = useState<any>(null);
+    const [loading, setLoading] = useState(false);
+    const [loadingMore, setLoadingMore] = useState(false);
+    const [error, setError] = useState<string | null>(null);
+    const [postError, setPostError] = useState<string | null>(null);
+    const [hasMore, setHasMore] = useState(false);
+    const [offset, setOffset] = useState(0);
 
-    useEffect(() => {
-        supabase.auth.getUser().then(({ data }) => setUser(data.user));
-    }, []);
+    const loadData = async (reset = false, currentOffset?: number) => {
+        const off = currentOffset ?? (reset ? 0 : offset);
+        if (reset) {
+            setLoading(true);
+            setError(null);
+        } else {
+            setLoadingMore(true);
+        }
 
-    const loadData = async () => {
-        setLoading(true);
-        const [msgs, votes] = await Promise.all([
-            base44.getMessages(sortBy),
-            base44.getUserChatVotes()
-        ]);
-        setMessages(msgs as Message[]);
-        setUserVotes(votes);
-        setLoading(false);
+        try {
+            // getUserChatVotes() calls supabase.auth.getUser() which can hang if the session
+            // is being refreshed. Run both with a 10-second timeout so loading never gets stuck.
+            const timeoutPromise = new Promise<never>((_, reject) =>
+                setTimeout(() => reject(new Error('Timeout')), 10000)
+            );
+            const [msgs, votes] = await Promise.race([
+                Promise.all([
+                    getMessages(sortBy, off, MESSAGES_PER_PAGE),
+                    off === 0 ? getUserChatVotes() : Promise.resolve<Record<string, number>>({}),
+                ]),
+                timeoutPromise,
+            ]);
+
+            setMessages(prev => reset ? msgs : [...prev, ...msgs]);
+            if (off === 0) setUserVotes(votes);
+            setHasMore(msgs.length === MESSAGES_PER_PAGE);
+            setOffset(off + msgs.length);
+        } catch {
+            setError('Nachrichten konnten nicht geladen werden.');
+        } finally {
+            setLoading(false);
+            setLoadingMore(false);
+        }
     };
 
     useEffect(() => {
-        loadData();
+        loadData(true, 0);
     }, [sortBy]);
 
     const handlePost = async () => {
         if (!newItem.trim() || newItem.length > 250) return;
         if (!user) {
-            alert("Bitte einloggen zum Posten!");
+            setPostError('Bitte einloggen zum Posten!');
             return;
         }
-
+        setPostError(null);
         try {
-            await base44.postMessage(newItem);
+            await postMessage(newItem);
             setNewItem('');
-            loadData();
-        } catch (e) {
-            console.error("Post failed", e);
+            await loadData(true, 0);
+        } catch {
+            setPostError('Nachricht konnte nicht gesendet werden.');
         }
     };
 
     const handleDelete = async (id: string) => {
-        if (confirm("Wirklich löschen?")) {
+        if (confirm('Wirklich löschen?')) {
             try {
-                await base44.deleteMessage(id);
-                loadData();
-            } catch (e) {
-                console.error("Delete failed", e);
+                await deleteMessage(id);
+                setMessages(prev => prev.filter(m => m.id !== id));
+            } catch {
+                setError('Nachricht konnte nicht gelöscht werden.');
             }
         }
     };
 
     const handleVote = async (id: string, direction: 1 | -1) => {
         if (!user) {
-            alert("Bitte einloggen zum Voten!");
+            setPostError('Bitte einloggen zum Voten!');
             return;
         }
-
         const currentVote = userVotes[id] || 0;
-        let newVoteState: number | undefined = direction;
-
-        if (currentVote === direction) {
-            newVoteState = undefined;
-        } else if (currentVote === -direction) {
-            newVoteState = direction;
-        }
+        const newVoteState = currentVote === direction ? undefined : direction;
 
         setUserVotes(prev => {
             const next = { ...prev };
@@ -288,13 +296,12 @@ export default function Chats() {
 
         try {
             if (newVoteState === undefined) {
-                await base44.removeChatVote(id);
+                await removeChatVote(id);
             } else {
-                await base44.voteMessage(id, direction);
+                await voteMessage(id, direction);
             }
-        } catch (e) {
-            console.error("Vote failed", e);
-            loadData();
+        } catch {
+            loadData(true, 0);
         }
     };
 
@@ -319,28 +326,47 @@ export default function Chats() {
             </div>
 
             {/* Input Area */}
-            <div className="relative">
-                <textarea
-                    value={newItem}
-                    onChange={e => setNewItem(e.target.value)}
-                    placeholder="Was geht in Göttingen?"
-                    className="w-full min-h-[100px] bg-card border rounded-xl p-4 pr-12 resize-none focus:outline-none focus:ring-2 focus:ring-primary/20 text-base"
-                    maxLength={250}
-                />
-                <div className="absolute bottom-3 right-3 flex items-center gap-2">
-                    <span className={`text-xs ${newItem.length > 200 ? 'text-red-500' : 'text-muted-foreground'}`}>
-                        {newItem.length}/250
-                    </span>
-                    <Button
-                        size="icon"
-                        className="h-8 w-8 rounded-full"
-                        onClick={handlePost}
-                        disabled={!newItem.trim() || loading}
-                    >
-                        <Send className="h-4 w-4" />
-                    </Button>
+            <div className="space-y-2">
+                <div className="relative">
+                    <textarea
+                        value={newItem}
+                        onChange={e => setNewItem(e.target.value)}
+                        placeholder="Was geht in Göttingen?"
+                        className="w-full min-h-[100px] bg-card border rounded-xl p-4 pr-12 resize-none focus:outline-none focus:ring-2 focus:ring-primary/20 text-base"
+                        maxLength={250}
+                    />
+                    <div className="absolute bottom-3 right-3 flex items-center gap-2">
+                        <span className={`text-xs ${newItem.length > 200 ? 'text-red-500' : 'text-muted-foreground'}`}>
+                            {newItem.length}/250
+                        </span>
+                        <Button
+                            size="icon"
+                            className="h-8 w-8 rounded-full"
+                            onClick={handlePost}
+                            disabled={!newItem.trim()}
+                        >
+                            <Send className="h-4 w-4" />
+                        </Button>
+                    </div>
                 </div>
+                {postError && (
+                    <div className="flex items-center gap-2 text-red-600 text-sm">
+                        <AlertCircle className="h-3.5 w-3.5 shrink-0" />
+                        <span>{postError}</span>
+                    </div>
+                )}
             </div>
+
+            {/* Error State */}
+            {error && (
+                <div className="flex items-center gap-2 text-red-600 bg-red-50 dark:bg-red-950/20 border border-red-200 dark:border-red-800 rounded-md p-3 text-sm">
+                    <AlertCircle className="h-4 w-4 shrink-0" />
+                    <span>{error}</span>
+                    <button onClick={() => loadData(true)} className="ml-auto underline hover:no-underline font-medium">
+                        Neu laden
+                    </button>
+                </div>
+            )}
 
             {/* Message Stream */}
             <div className="space-y-3">
@@ -351,16 +377,29 @@ export default function Chats() {
                         Noch nichts los hier. Schreib den ersten Post!
                     </div>
                 ) : (
-                    messages.map(msg => (
-                        <MessageCard
-                            key={msg.id}
-                            msg={msg}
-                            user={user}
-                            userVotes={userVotes}
-                            onVote={handleVote}
-                            onDelete={handleDelete}
-                        />
-                    ))
+                    <>
+                        {messages.map(msg => (
+                            <MessageCard
+                                key={msg.id}
+                                msg={msg}
+                                userId={user?.id}
+                                userVotes={userVotes}
+                                onVote={handleVote}
+                                onDelete={handleDelete}
+                            />
+                        ))}
+
+                        {hasMore && (
+                            <Button
+                                variant="outline"
+                                className="w-full"
+                                onClick={() => loadData(false, offset)}
+                                disabled={loadingMore}
+                            >
+                                {loadingMore ? 'Lade...' : 'Mehr laden'}
+                            </Button>
+                        )}
+                    </>
                 )}
             </div>
         </div>
