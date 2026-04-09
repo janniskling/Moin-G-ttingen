@@ -78,9 +78,13 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     };
 
     const signInWithGoogle = async () => {
+        const isNative = window.location.protocol !== 'http:' && window.location.protocol !== 'https:';
+        const redirectTo = isNative
+            ? 'com.moingoettingen.app://auth/callback'
+            : `${window.location.origin}/auth/callback`;
         const { error } = await supabase.auth.signInWithOAuth({
             provider: 'google',
-            options: { redirectTo: window.location.origin },
+            options: { redirectTo },
         });
         if (error) throw error;
     };
