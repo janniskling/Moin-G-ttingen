@@ -1,11 +1,7 @@
-const ALPEN_URL = 'https://www.alpenmax-goettingen.com/events';
-
-module.exports = async function scrapeAlpenmax(page) {
-    console.log("Navigating to Alpenmax...");
-
-    // NOTE: Live scraping is blocked/flaky (React/Antibot).
-    // Using authenticated data extracted via browser agent on 2025-12-19.
-    // This ensures users see events now.
+module.exports = async function scrapeAlpenmax(_page) {
+    // Alpenmax events are now covered by wasgehtingoettingen.de scraper.
+    // Hardcoded cache from 2025-12-19 is stale and would create duplicate/wrong entries.
+    return [];
 
     const cachedEvents = [
         {

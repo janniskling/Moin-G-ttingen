@@ -8,6 +8,7 @@ const scrapeNauti = require('./scrapers/events/nauti.cjs');
 const scrapeDuke = require('./scrapers/events/duke.cjs');
 const scrapeDots = require('./scrapers/events/dots.cjs');
 const scrapeBG = require('./scrapers/events/bg.cjs');
+const scrapeWasGeht = require('./scrapers/events/wasgehtingoettingen.cjs');
 const { upsertEvents } = require('./utils/db.cjs');
 
 const OUTPUT_FILE = path.join(__dirname, '../public/events-data.json');
@@ -27,7 +28,17 @@ async function run() {
         await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
         await page.setViewport({ width: 1280, height: 800 });
 
-        // 1. Mr. Jones (Recurring + Scrape)
+        // 1. wasgehtingoettingen.de (Aggregator – covers most Göttingen venues)
+        console.log("➡️  Scraping wasgehtingoettingen.de...");
+        try {
+            const wasGehtEvents = await scrapeWasGeht(page);
+            allEvents.push(...wasGehtEvents);
+            console.log(`   ✅ wasgehtingoettingen.de: Found ${wasGehtEvents.length} events.`);
+        } catch (e) {
+            console.error("   ❌ wasgehtingoettingen.de Failed:", e.message);
+        }
+
+        // 2. Mr. Jones (Recurring + Scrape)
         console.log("➡️  Scraping Mr. Jones...");
         try {
             const jonesEvents = await scrapeMrJones(page);
@@ -116,10 +127,21 @@ async function run() {
     const today = new Date();
     today.setHours(0, 0, 0, 0);
 
-    const validEvents = allEvents.filter(e => {
+    const filteredEvents = allEvents.filter(e => {
         const d = new Date(e.date);
         return d >= today;
     });
+
+    // Deduplicate by date+location+title (same key used for MD5 ID in db.cjs)
+    const seenKeys = new Set();
+    const validEvents = [];
+    for (const e of filteredEvents) {
+        const key = `${e.date}-${e.location}-${e.title}`;
+        if (!seenKeys.has(key)) {
+            seenKeys.add(key);
+            validEvents.push(e);
+        }
+    }
 
     // Sort by Date
     validEvents.sort((a, b) => new Date(a.date) - new Date(b.date));
