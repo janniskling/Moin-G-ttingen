@@ -1,16 +1,5 @@
 [
   {
-    "id": "jones-wings-2026-04-09",
-    "location": "Mr. Jones",
-    "title": "Wings Thursday",
-    "date": "2026-04-09",
-    "time": "18:00",
-    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
-    "category": "Sonstiges",
-    "image": "/images/chicken-wings.jpg",
-    "link": "https://www.mrjones.de"
-  },
-  {
     "title": "NACHT DER SCHATTEN",
     "date": "2026-04-10",
     "time": "20:00",
