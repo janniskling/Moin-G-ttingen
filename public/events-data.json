@@ -1,16 +1,5 @@
 [
   {
-    "title": "NACHT DER SCHATTEN",
-    "date": "2026-04-10",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/NACHT-DER-SCHATTEN-960x1280.jpg",
-    "link": "https://exil-web.de/event/nacht-der-schatten-2-2-3/2026-04-10/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "location": "Sparkassen-Arena",
     "title": "🏀 Heimspiel",
     "date": "2026-04-11",
@@ -129,6 +118,16 @@
     "link": "https://exil-web.de/event/klangwelt-2/2026-04-24/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "location": "Sparkassen-Arena",
+    "title": "🏀 Heimspiel",
+    "date": "2026-04-25",
+    "time": "18:30",
+    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAHauptrundePS Karlsruhe Lions. Jetzt Tickets sichern!",
+    "category": "Sports",
+    "image": "/images/bg-logo.png",
+    "link": "https://bit.ly/3Y1uBlm"
   },
   {
     "title": "BEST 80s",
