@@ -13,3 +13,10 @@ if (!supabaseUrl || !supabaseAnonKey) {
 }
 
 export const supabase = createClient(supabaseUrl, supabaseAnonKey);
+
+// Public client that never attaches a user session — always reads as anon.
+// Use this for public data (events, deals) so RLS anon policies always apply,
+// regardless of whether the user is logged in.
+export const supabasePublic = createClient(supabaseUrl, supabaseAnonKey, {
+    auth: { persistSession: false, autoRefreshToken: false, detectSessionInUrl: false },
+});

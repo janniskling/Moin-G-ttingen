@@ -1,8 +1,8 @@
-import { supabase } from '../lib/supabase';
+import { supabase, supabasePublic } from '../lib/supabase';
 import type { Place } from '../entities/types';
 
 export async function getPlaces(): Promise<Place[]> {
-    const { data, error } = await supabase.from('places').select('*');
+    const { data, error } = await supabasePublic.from('places').select('*');
     if (error) {
         console.error('Error loading places:', error);
         return [];
@@ -39,7 +39,6 @@ export async function vote(placeId: string, value: number): Promise<void> {
             { onConflict: 'user_id, place_id' }
         );
     if (error) throw error;
-    await recalculateStats(placeId);
 }
 
 export async function removeVote(placeId: string): Promise<void> {
@@ -52,20 +51,4 @@ export async function removeVote(placeId: string): Promise<void> {
         .eq('user_id', user.id)
         .eq('place_id', placeId);
     if (error) throw error;
-    await recalculateStats(placeId);
-}
-
-async function recalculateStats(placeId: string) {
-    const { data: votes } = await supabase
-        .from('votes')
-        .select('value')
-        .eq('place_id', placeId);
-    if (!votes) return;
-
-    const count = votes.length;
-    const sum = votes.reduce((acc, v) => acc + v.value, 0);
-    await supabase
-        .from('places')
-        .update({ ranking_score: count > 0 ? sum / count : 0, vote_count: count })
-        .eq('id', placeId);
 }

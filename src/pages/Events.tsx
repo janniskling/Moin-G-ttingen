@@ -6,7 +6,7 @@ import { Calendar, MapPin, Music, Beer, Users, Search, AlertCircle } from 'lucid
 import { cn } from '../lib/utils';
 import { format } from 'date-fns';
 import { de } from 'date-fns/locale';
-import { supabase } from '../lib/supabase';
+import { supabasePublic } from '../lib/supabase';
 
 type EventCategory = 'Party' | 'Kultur' | 'Sport' | 'Sonstiges';
 
@@ -41,35 +41,95 @@ function mapEvent(item: Record<string, string>): Event {
         date: new Date(item.start_time),
         location: item.location,
         category: mapCategory(item.category || ''),
-        description: item.description,
+        description: (item.description || '').replace(/^tags\s+/i, '').replace(/tags\s+\w+/gi, '').trim(),
         imageUrl: isUrl ? rawImage : undefined,
         emoji: isUrl ? undefined : rawImage,
         source: item.location,
     };
 }
 
+const CATEGORY_GRADIENT: Record<EventCategory, string> = {
+    Party: 'bg-gradient-to-br from-blue-600 to-blue-400',
+    Kultur: 'bg-gradient-to-br from-yellow-500 to-amber-300',
+    Sport: 'bg-gradient-to-br from-green-600 to-emerald-400',
+    Sonstiges: 'bg-gradient-to-br from-orange-500 to-amber-400',
+};
+
+const CATEGORY_EMOJI: Record<EventCategory, string> = {
+    Party: '🎉', Kultur: '🎭', Sport: '🏆', Sonstiges: '📍',
+};
+
+function EventImageBanner({ event }: { event: Event }) {
+    const [imgFailed, setImgFailed] = useState(false);
+    const showGradient = !event.imageUrl || imgFailed;
+
+    return (
+        <div className={cn("h-32 w-full overflow-hidden relative flex items-center justify-center",
+            showGradient ? CATEGORY_GRADIENT[event.category] : "bg-muted/30"
+        )}>
+            {!showGradient && (
+                <>
+                    <img
+                        src={event.imageUrl}
+                        alt={event.title}
+                        className="w-full h-full object-cover transition-transform group-hover:scale-105"
+                        onError={() => setImgFailed(true)}
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
+                </>
+            )}
+            {showGradient && (
+                <>
+                    <div className="absolute inset-0 bg-black/20" />
+                    <div className="absolute inset-0 flex flex-col items-center justify-center px-4 text-center z-10">
+                        <span className="text-3xl mb-1">{CATEGORY_EMOJI[event.category]}</span>
+                        <p className="text-white font-bold text-sm leading-tight line-clamp-2 drop-shadow">{event.title}</p>
+                        <p className="text-white/80 text-xs mt-1">{event.location}</p>
+                    </div>
+                </>
+            )}
+            <span className={cn(
+                "absolute top-2 right-2 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow-sm z-10",
+                showGradient ? "bg-black/30 backdrop-blur-sm" : "bg-black/50 backdrop-blur-md"
+            )}>
+                {event.location.toUpperCase()}
+            </span>
+            <span className="absolute bottom-2 left-2 text-white text-xs font-bold px-2 py-1 bg-black/60 rounded backdrop-blur-md z-10">
+                {format(event.date, 'dd. MMM • HH:mm', { locale: de })} Uhr
+            </span>
+        </div>
+    );
+}
+
 export default function Events() {
     const [searchTerm, setSearchTerm] = useState('');
     const [selectedCategory, setSelectedCategory] = useState<EventCategory | 'All'>('All');
     const [events, setEvents] = useState<Event[]>([]);
-    const [loading, setLoading] = useState(true);
+    const [loading, setLoading] = useState(false);
     const [loadingMore, setLoadingMore] = useState(false);
     const [error, setError] = useState<string | null>(null);
     const [hasMore, setHasMore] = useState(true);
     const [offset, setOffset] = useState(0);
 
-    const fetchEvents = async (reset = false) => {
+    const fetchEvents = async (reset = false, categoryOverride?: EventCategory | 'All') => {
         const currentOffset = reset ? 0 : offset;
-        if (reset) { setLoading(true); setError(null); }
+        const cat = categoryOverride ?? selectedCategory;
+        if (reset) { setLoading(true); setError(null); if (reset) setOffset(0); }
         else setLoadingMore(true);
 
         try {
-            const { data, error: fetchError } = await supabase
+            let query = supabasePublic
                 .from('events')
                 .select('*')
-                .gte('start_time', new Date().toISOString())
+                .gte('start_time', (() => { const d = new Date(); d.setHours(0, 0, 0, 0); return d.toISOString(); })())
                 .order('start_time', { ascending: true })
                 .range(currentOffset, currentOffset + EVENTS_PER_PAGE - 1);
+
+            if (cat !== 'All') {
+                query = query.eq('category', cat === 'Sport' ? 'Sports' : cat);
+            }
+
+            const { data, error: fetchError } = await query;
 
             if (fetchError) throw fetchError;
 
@@ -86,18 +146,15 @@ export default function Events() {
     };
 
     useEffect(() => {
-        fetchEvents(true);
-    }, []);
+        fetchEvents(true, selectedCategory);
+    }, [selectedCategory]);
 
     const categories: (EventCategory | 'All')[] = ['All', 'Party', 'Kultur', 'Sport', 'Sonstiges'];
 
-    const filteredEvents = events.filter(event => {
-        const matchesSearch =
-            event.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            event.location.toLowerCase().includes(searchTerm.toLowerCase());
-        const matchesCategory = selectedCategory === 'All' || event.category === selectedCategory;
-        return matchesSearch && matchesCategory;
-    });
+    const filteredEvents = events.filter(event =>
+        event.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        event.location.toLowerCase().includes(searchTerm.toLowerCase())
+    );
 
     const getCategoryIcon = (category: EventCategory) => {
         switch (category) {
@@ -164,25 +221,7 @@ export default function Events() {
                 <div className="grid gap-4">
                     {filteredEvents.map(event => (
                         <Card key={event.id} className="overflow-hidden group hover:border-primary/50 transition-colors">
-                            <div className="h-32 w-full overflow-hidden relative bg-muted/30 flex items-center justify-center">
-                                {event.imageUrl ? (
-                                    <>
-                                        <img src={event.imageUrl} alt={event.title} className="w-full h-full object-cover transition-transform group-hover:scale-105" />
-                                        <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
-                                    </>
-                                ) : (
-                                    <span className="text-6xl animate-in zoom-in duration-300">{event.emoji || '📅'}</span>
-                                )}
-                                <span className={cn(
-                                    "absolute top-2 right-2 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow-sm z-10",
-                                    event.imageUrl ? "bg-black/50 backdrop-blur-md" : "bg-primary/90"
-                                )}>
-                                    {event.source?.toUpperCase() || 'EVENT'}
-                                </span>
-                                <span className="absolute bottom-2 left-2 text-white text-xs font-bold px-2 py-1 bg-black/60 rounded backdrop-blur-md z-10">
-                                    {format(event.date, 'dd. MMM • HH:mm', { locale: de })} Uhr
-                                </span>
-                            </div>
+                            <EventImageBanner event={event} />
                             <CardContent className="p-4 pt-4">
                                 <div className="flex justify-between items-start">
                                     <div>

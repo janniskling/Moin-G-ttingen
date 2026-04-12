@@ -7,7 +7,7 @@ const crypto = require('crypto');
 dotenv.config({ path: path.resolve(__dirname, '../../.env') });
 
 const supabaseUrl = process.env.VITE_SUPABASE_URL;
-const supabaseKey = process.env.VITE_SUPABASE_ANON_KEY; // Using anon key for now, purely client-side logic really, but for scripts usually service_role key is better if we have it. Assuming we only have anon key available in .env as previously seen.
+const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.VITE_SUPABASE_ANON_KEY;
 
 if (!supabaseUrl || !supabaseKey) {
     console.error("❌ Supabase credentials missing!");
@@ -37,13 +37,19 @@ async function upsertEvents(events) {
         // Scraper: title, date (YYYY-MM-DD), time (HH:MM), location, category, description, image, link, source
         // DB Schema (assumed/proposed): id, title, start_time, location, category, description, image_url, source_url
 
+        // Times from scrapers are in German local time (CET/CEST).
+        // Append the correct offset so Supabase stores UTC correctly.
+        const berlinOffset = (() => {
+            const jan = new Date(new Date().getFullYear(), 0, 1).getTimezoneOffset();
+            const jul = new Date(new Date().getFullYear(), 6, 1).getTimezoneOffset();
+            const isDST = new Date().getTimezoneOffset() < Math.max(jan, jul);
+            return isDST ? '+02:00' : '+01:00';
+        })();
         let start_time = e.date;
         if (e.time) {
-            start_time = `${e.date}T${e.time}:00`;
+            start_time = `${e.date}T${e.time}:00${berlinOffset}`;
         } else {
-            // Default to noon if no time, or keep as date string? 
-            // Better to make it a valid ISO timestamp if column is timestamp
-            start_time = `${e.date}T12:00:00`;
+            start_time = `${e.date}T20:00:00${berlinOffset}`;
         }
 
         return {

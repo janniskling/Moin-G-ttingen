@@ -1,5 +1,13 @@
 const BASE_URL = 'https://www.wasgehtingoettingen.de';
 
+// Whitelist: only these venues are shown in the app
+const ALLOWED_LOCATIONS = [
+    'alpenmax', 'exil', 'club savoy', 'savoy', 'musa', 'apex',
+    'sparkassen-arena',
+    'dollar club', 'einsb', 'freihafen', 'mr. jones', 'thanners',
+    'nauti', 'duke', 'dots',
+];
+
 const CATEGORY_MAP = {
     disco: 'Party',
     konzert: 'Kultur',
@@ -70,11 +78,11 @@ module.exports = async function scrapeWasGehtInGoettingen(page) {
                         const subtitelEl = el.querySelector('div.subtitel');
                         const description = subtitelEl ? subtitelEl.textContent.trim() : '';
 
-                        // Image
+                        // Image – use _b.jpg (big) instead of _s.jpg (small thumbnail)
                         const imgEl = el.querySelector('div.img img');
                         let image = '';
                         if (imgEl) {
-                            const src = imgEl.getAttribute('src') || '';
+                            const src = (imgEl.getAttribute('src') || '').replace('_s.jpg', '_b.jpg');
                             image = src.startsWith('http') ? src : `${baseUrl}/${src.replace(/^\//, '')}`;
                         }
 
@@ -93,6 +101,10 @@ module.exports = async function scrapeWasGehtInGoettingen(page) {
             }, BASE_URL, date);
 
             for (const ev of events) {
+                const locationLower = ev.location.toLowerCase().replace('pin ', '');
+                // Only allow whitelisted venues
+                if (!ALLOWED_LOCATIONS.some(allowed => locationLower.includes(allowed))) continue;
+
                 const key = ev.title + ev.date;
                 if (!seen.has(key)) {
                     seen.add(key);

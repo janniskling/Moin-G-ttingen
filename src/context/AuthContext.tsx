@@ -37,8 +37,12 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         supabase.auth.getSession().then(async ({ data: { session } }) => {
             setUser(session?.user ?? null);
             if (session?.user) {
-                const p = await fetchProfile(session.user.id);
-                setProfile(p);
+                try {
+                    const p = await fetchProfile(session.user.id);
+                    setProfile(p);
+                } catch {
+                    setProfile(null);
+                }
             }
             setLoading(false);
         });
@@ -47,8 +51,13 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         const { data: { subscription } } = supabase.auth.onAuthStateChange(async (_event, session) => {
             setUser(session?.user ?? null);
             if (session?.user) {
-                const p = await fetchProfile(session.user.id);
-                setProfile(p);
+                try {
+                    const p = await fetchProfile(session.user.id);
+                    setProfile(p);
+                } catch {
+                    // profiles table might not exist or RLS blocks it – that's ok
+                    setProfile(null);
+                }
             } else {
                 setProfile(null);
             }
@@ -74,7 +83,16 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     };
 
     const signOut = async () => {
-        await supabase.auth.signOut();
+        // Nuke all Supabase tokens from storage first — prevents auto-refresh
+        // from restoring the session after signOut
+        Object.keys(localStorage).forEach(k => {
+            if (k.startsWith('sb-')) localStorage.removeItem(k);
+        });
+        try {
+            await supabase.auth.signOut();
+        } catch { /* ignore server errors — local state is already cleared */ }
+        setUser(null);
+        setProfile(null);
     };
 
     const signInWithGoogle = async () => {

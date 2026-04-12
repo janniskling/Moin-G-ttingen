@@ -5,9 +5,10 @@ import { getPlaces, vote as votePlace, removeVote, getMyVotesForPlaces } from '.
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '../components/ui/card';
 import { Button } from '../components/ui/button';
 import { AuthForm } from '../components/AuthForm';
-import { Star, MapPin, ArrowLeft, ChevronRight, LogIn, LogOut, AlertCircle } from 'lucide-react';
+import { Star, MapPin, ArrowLeft, ChevronRight, LogIn, LogOut, AlertCircle, Send } from 'lucide-react';
 import { cn } from '../lib/utils';
 import { StarRating } from '../components/StarRating';
+import { supabasePublic } from '../lib/supabase';
 
 type CategoryView = 'doener' | 'bar' | 'restaurant' | null;
 
@@ -19,6 +20,9 @@ export default function Ranking() {
     const [userVotes, setUserVotes] = useState<Record<string, number>>({});
     const [showLogin, setShowLogin] = useState(false);
     const [error, setError] = useState<string | null>(null);
+    const [requestName, setRequestName] = useState('');
+    const [requestSent, setRequestSent] = useState(false);
+    const [requestLoading, setRequestLoading] = useState(false);
 
     const loadPlaces = async () => {
         setError(null);
@@ -26,13 +30,15 @@ export default function Ranking() {
         try {
             const allPlaces = await getPlaces();
             setPlaces(allPlaces);
+            setPlacesLoading(false); // show places immediately, don't wait for votes
             if (user) {
-                const votes = await getMyVotesForPlaces(allPlaces.map(p => p.id));
-                setUserVotes(votes);
+                // load votes non-blocking — a stuck auth client won't freeze the list
+                getMyVotesForPlaces(allPlaces.map(p => p.id))
+                    .then(votes => setUserVotes(votes))
+                    .catch(() => { /* votes not critical */ });
             }
         } catch {
             setError('Fehler beim Laden der Daten. Bitte versuche es erneut.');
-        } finally {
             setPlacesLoading(false);
         }
     };
@@ -48,34 +54,60 @@ export default function Ranking() {
             console.error('Logout failed', e);
         }
         setUserVotes({});
+        window.location.href = '/';
+    };
+
+    const updatePlaceScore = (placeId: string, oldVote: number | null, newVote: number | null) => {
+        setPlaces(prev => prev.map(p => {
+            if (p.id !== placeId) return p;
+            let count = p.vote_count;
+            let total = p.ranking_score * count;
+            if (oldVote !== null) { total -= oldVote; count -= 1; } // remove old vote
+            if (newVote !== null) { total += newVote; count += 1; } // add new vote
+            return { ...p, vote_count: count, ranking_score: count > 0 ? total / count : 0 };
+        }));
     };
 
     const handleRate = async (placeId: string, value: number) => {
-        if (!user) {
-            setShowLogin(true);
-            return;
-        }
-        const prevVotes = userVotes;
-        setUserVotes(prev => ({ ...prev, [placeId]: value })); // Optimistic update
+        if (!user) { setShowLogin(true); return; }
+        const prevVotes = { ...userVotes };
+        const prevPlaces = [...places];
+        const oldVote = userVotes[placeId] ?? null;
+        setUserVotes(prev => ({ ...prev, [placeId]: value }));
+        updatePlaceScore(placeId, oldVote, value);
         try {
             await votePlace(placeId, value);
-            await loadPlaces();
         } catch {
-            setUserVotes(prevVotes); // Rollback
+            setUserVotes(prevVotes);
+            setPlaces(prevPlaces);
             setError('Bewertung konnte nicht gespeichert werden.');
         }
     };
 
     const handleRemoveVote = async (placeId: string) => {
-        const prevVotes = userVotes;
+        const prevVotes = { ...userVotes };
+        const prevPlaces = [...places];
+        const oldVote = userVotes[placeId] ?? null;
         setUserVotes(prev => { const next = { ...prev }; delete next[placeId]; return next; });
+        updatePlaceScore(placeId, oldVote, null);
         try {
             await removeVote(placeId);
-            await loadPlaces();
         } catch {
             setUserVotes(prevVotes);
+            setPlaces(prevPlaces);
             setError('Bewertung konnte nicht gelöscht werden.');
         }
+    };
+
+    const handleSendRequest = async () => {
+        const name = requestName.trim();
+        if (!name) return;
+        setRequestLoading(true);
+        await supabasePublic.from('place_requests').insert({ place_name: name, user_id: user?.id ?? null });
+        setRequestName('');
+        setRequestSent(true);
+        setRequestLoading(false);
+        setTimeout(() => setRequestSent(false), 3000);
     };
 
     const getPlacesByCategory = (category: string) =>
@@ -156,6 +188,26 @@ export default function Ranking() {
                     <CategoryCard title="Beste Bar 🍺" icon={<span>🍺</span>} id="bar" bgClass="bg-yellow-100 dark:bg-yellow-900/20" textClass="text-yellow-600 dark:text-yellow-400" />
                     <CategoryCard title="Bestes Restaurant 🍽️" icon={<span>🍽️</span>} id="restaurant" bgClass="bg-red-100 dark:bg-red-900/20" textClass="text-red-600 dark:text-red-400" />
                 </div>
+
+                <div className="max-w-md mx-auto pt-4">
+                    <p className="text-sm font-medium text-muted-foreground mb-2">Einen Ort vorschlagen</p>
+                    <div className="flex gap-2">
+                        <input
+                            type="text"
+                            value={requestName}
+                            onChange={e => setRequestName(e.target.value)}
+                            onKeyDown={e => e.key === 'Enter' && handleSendRequest()}
+                            placeholder="Welchen Ort vermisst du?"
+                            className="flex-1 rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                        />
+                        <Button size="sm" onClick={handleSendRequest} disabled={requestLoading || !requestName.trim()}>
+                            <Send className="h-4 w-4" />
+                        </Button>
+                    </div>
+                    {requestSent && (
+                        <p className="text-xs text-green-600 mt-2">Danke! Dein Vorschlag wurde eingereicht.</p>
+                    )}
+                </div>
             </div>
         );
     }
@@ -202,7 +254,16 @@ export default function Ranking() {
                 {!placesLoading && currentPlaces.map((place, index) => (
                     <Card key={place.id} className="overflow-hidden shadow-md">
                         <div className="relative h-48">
-                            <img src={place.image_url} alt={place.name} className="w-full h-full object-cover" />
+                            <img
+                                src={place.image_url}
+                                alt={place.name}
+                                className={cn(
+                                    "w-full h-full",
+                                    place.id === 'bar-thanners'
+                                        ? "object-contain object-left bg-[#cc0000]"
+                                        : "object-cover"
+                                )}
+                            />
                             <div className="absolute top-4 left-4 bg-background/90 backdrop-blur-sm px-3 py-1 rounded-full flex items-center shadow-sm">
                                 <span className={cn("font-bold text-lg", index < 3 ? "text-primary" : "text-muted-foreground")}>
                                     #{index + 1}
