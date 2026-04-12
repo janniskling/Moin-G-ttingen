@@ -1,66 +1,102 @@
 [
   {
-    "id": "scmz5j36d",
+    "id": "t2cjycc0h",
     "store": "Rewe",
-    "title": "Beck’s Pils",
-    "price": "11,49",
+    "title": "Barilla Pesto Rosso",
+    "price": "1,99",
     "oldPrice": null,
     "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,45 € / 1,15 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "image": "🍝",
+    "description": "je 200-g-Glas, (1 kg = 9,95 €)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "7f0fpladg",
+    "id": "6zf6661d8",
     "store": "Rewe",
-    "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
+    "title": "Barilla Classic Pasta",
     "price": "0,99",
     "oldPrice": null,
     "discount": null,
     "image": "🍝",
-    "description": "je 61-g-Becher, (1 kg = 16,23 €)",
+    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 1,98 €)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "pof3wqxhk",
+    "id": "5q1ly7404",
     "store": "Rewe",
-    "title": "Corona Mexican Beer oder Cero alkoholfrei",
-    "price": "6,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 6 x 355-ml-Fl.-Sixpack, (1 l = 3,05 €), zzgl. 0,48 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "494fjo26l",
-    "store": "Rewe",
-    "title": "Dr. Oetker Pizza Tradizionale Salame Romano",
-    "price": "2,22",
+    "title": "Dr. Oetker Ristorante Pizza Salame",
+    "price": "1,99",
     "oldPrice": null,
     "discount": null,
     "image": "🍕",
-    "description": "tiefgefroren, je 385-g-Pckg., (1 kg = 5,77 €)",
+    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 6,22 €)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "xvokihigw",
+    "id": "bplepqo6p",
     "store": "Rewe",
-    "title": "Speisemöhren",
-    "price": "0,88",
+    "title": "Barilla Pasta Spezialitäten Collezione oder Al Bronzo",
+    "price": "1,69",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 3,38 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "l0ocn3ph9",
+    "store": "Rewe",
+    "title": "Heineken Premium Beer",
+    "price": "15,99",
     "oldPrice": null,
     "discount": null,
     "image": "🍺",
-    "description": "Details im Markt",
+    "description": "je 20 x 0,4 / 28 x 0,25-l-Fl.-Kasten, (1 l = 2,00 € / 2,28 €), zzgl. 3,10 € / 3,74 € Pfand",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "97c2nqs2g",
+    "id": "w960xsz3a",
+    "store": "Rewe",
+    "title": "Barilla Pasta Sauce",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "Basilico, je 400-g-Glas, (1 kg = 4,98 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "0l1b8ncu9",
+    "store": "Rewe",
+    "title": "REWE Beste Wahl Rindfleisch-Tortelloni",
+    "price": "1,59",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 250-g-Btl., (1 kg = 6,36 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "b3hvhqdsw",
+    "store": "Rewe",
+    "title": "REWE Beste Wahl Pastasauce",
+    "price": "1,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "Tomaten-Basilikum, je 200-g-Btl., (1 kg = 7,45 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "dsxft1uok",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "11,49",
@@ -72,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ohe8sa9ho",
+    "id": "r6hno833v",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "13,99",
@@ -84,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "dm58ddo2m",
+    "id": "q5lmdv4ye",
     "store": "Kaufland",
     "title": "GUSTAVO GUSTO",
     "price": "2,99",
@@ -96,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "tzzwa84si",
+    "id": "ulca6r78y",
     "store": "Kaufland",
     "title": "GIOVANNI RANA",
     "price": "2,49",
@@ -108,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "fthtlnwha",
+    "id": "lizc7gxxw",
     "store": "Kaufland",
     "title": "K-PURLAND",
     "price": "4,49",
@@ -120,7 +156,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "7ms8di4nd",
+    "id": "d63zn6s54",
     "store": "Kaufland",
     "title": "FREDA",
     "price": "4,99",
@@ -132,7 +168,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "1jg3ib8h6",
+    "id": "bt6i7t5xx",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -144,7 +180,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "648o5ez8e",
+    "id": "efiwaavk4",
     "store": "Kaufland",
     "title": "KÖNIG-BRAUEREI",
     "price": "11,99",
@@ -152,18 +188,6 @@
     "discount": null,
     "image": "🍺",
     "description": "je Ka. 24 x 0,33-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "81h5yecme",
-    "store": "Kaufland",
-    "title": "DOPPIO PASSO",
-    "price": "4,88",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "(1 l = 6.51)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
