@@ -1,6 +1,6 @@
 [
   {
-    "id": "t2cjycc0h",
+    "id": "9e5edhyfa",
     "store": "Rewe",
     "title": "Barilla Pesto Rosso",
     "price": "1,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "6zf6661d8",
+    "id": "i4b7guv4t",
     "store": "Rewe",
     "title": "Barilla Classic Pasta",
     "price": "0,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "5q1ly7404",
+    "id": "zvbzmj3sx",
     "store": "Rewe",
     "title": "Dr. Oetker Ristorante Pizza Salame",
     "price": "1,99",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "bplepqo6p",
+    "id": "tduqtyicz",
     "store": "Rewe",
     "title": "Barilla Pasta Spezialitäten Collezione oder Al Bronzo",
     "price": "1,69",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "l0ocn3ph9",
+    "id": "pmyc87fl6",
     "store": "Rewe",
     "title": "Heineken Premium Beer",
     "price": "15,99",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "w960xsz3a",
+    "id": "edfmqycne",
     "store": "Rewe",
     "title": "Barilla Pasta Sauce",
     "price": "1,99",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "0l1b8ncu9",
+    "id": "wkf0lkfju",
     "store": "Rewe",
     "title": "REWE Beste Wahl Rindfleisch-Tortelloni",
     "price": "1,59",
@@ -84,7 +84,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "b3hvhqdsw",
+    "id": "w9q4t1bam",
     "store": "Rewe",
     "title": "REWE Beste Wahl Pastasauce",
     "price": "1,49",
@@ -96,7 +96,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "dsxft1uok",
+    "id": "xbtd6x1tz",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "11,49",
@@ -108,19 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "r6hno833v",
-    "store": "Kaufland",
-    "title": "PAULANER",
-    "price": "13,99",
-    "oldPrice": "20,99",
-    "discount": "33%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "q5lmdv4ye",
+    "id": "5e7sizzh9",
     "store": "Kaufland",
     "title": "GUSTAVO GUSTO",
     "price": "2,99",
@@ -132,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ulca6r78y",
+    "id": "2w2hp1qi9",
     "store": "Kaufland",
     "title": "GIOVANNI RANA",
     "price": "2,49",
@@ -144,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "lizc7gxxw",
+    "id": "0oi59dkyz",
     "store": "Kaufland",
     "title": "K-PURLAND",
     "price": "4,49",
@@ -156,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "d63zn6s54",
+    "id": "hwa0uhjv4",
     "store": "Kaufland",
     "title": "FREDA",
     "price": "4,99",
@@ -168,7 +156,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "bt6i7t5xx",
+    "id": "7snip5wdd",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -180,7 +168,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "efiwaavk4",
+    "id": "ql8xfeupg",
     "store": "Kaufland",
     "title": "KÖNIG-BRAUEREI",
     "price": "11,99",
