@@ -1,33 +1,11 @@
 [
   {
-    "title": "SWING-A-ROUND",
-    "date": "2026-04-13",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "Lindy Hop & Swing",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44266843_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44266843&date=2026-04-13",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "1 EURO PARTY",
-    "date": "2026-04-13",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44842763_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44842763&date=2026-04-13",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "QuerQuassler",
     "date": "2026-04-14",
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "Schnitt! Und jetzt?, ab 11,00 €",
+    "description": "Schnitt! Und jetzt?",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44342514&date=2026-04-14",
     "source": "wasgehtingoettingen"
@@ -580,5 +558,38 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "SWING-A-ROUND",
+    "date": "2026-05-11",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-05-11/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "id": "jones-ap-2026-05-13",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-05-13",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-05-13",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
   }
 ]
