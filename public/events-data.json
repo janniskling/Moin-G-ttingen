@@ -1,49 +1,5 @@
 [
   {
-    "title": "MANDELKOKAINSCHNAPS",
-    "date": "2026-04-16",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "MandelKokainSchnaps, Alarmbaby",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/43558370_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43558370&date=2026-04-16",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "La Brigade du Kif",
-    "date": "2026-04-16",
-    "time": "20:00",
-    "location": "musa",
-    "category": "Kultur",
-    "description": "tags rock, metal, punk, reggae, ska",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43034716&date=2026-04-16",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Jacqueline Amirfallah & Comedy Company",
-    "date": "2026-04-16",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Schmeckt´s? - Die Impro-Kochshow",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44342539&date=2026-04-16",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-wings-2026-04-16",
-    "location": "Mr. Jones",
-    "title": "Wings Thursday",
-    "date": "2026-04-16",
-    "time": "18:00",
-    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
-    "category": "Sonstiges",
-    "image": "/images/chicken-wings.jpg",
-    "link": "https://www.mrjones.de"
-  },
-  {
     "title": "DUCTAPE",
     "date": "2026-04-17",
     "time": "20:00",
@@ -568,6 +524,17 @@
     "description": "tags pop, rock, electro",
     "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43469947&date=2026-05-01",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Comedyflash - Die Stand Up Comedy Show",
+    "date": "2026-05-02",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45015341&date=2026-05-02",
     "source": "wasgehtingoettingen"
   },
   {
