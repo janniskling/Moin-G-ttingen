@@ -1,6 +1,102 @@
 [
   {
-    "id": "iicu4pn1f",
+    "id": "us23u33rt",
+    "store": "Rewe",
+    "title": "Barilla Pesto Rosso",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "je 200-g-Glas, (1 kg = 9,95 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "u990dl1v9",
+    "store": "Rewe",
+    "title": "Barilla Classic Pasta",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 1,98 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "5nifwqi8x",
+    "store": "Rewe",
+    "title": "Dr. Oetker Ristorante Pizza Salame",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 6,22 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "bq0f78ncb",
+    "store": "Rewe",
+    "title": "Barilla Pasta Spezialitäten Collezione oder Al Bronzo",
+    "price": "1,69",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 3,38 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "2hx0x1vyv",
+    "store": "Rewe",
+    "title": "Heineken Premium Beer",
+    "price": "15,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 20 x 0,4 / 28 x 0,25-l-Fl.-Kasten, (1 l = 2,00 € / 2,28 €), zzgl. 3,10 € / 3,74 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "m5mmw2lol",
+    "store": "Rewe",
+    "title": "Barilla Pasta Sauce",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "Basilico, je 400-g-Glas, (1 kg = 4,98 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "dze07djea",
+    "store": "Rewe",
+    "title": "REWE Beste Wahl Rindfleisch-Tortelloni",
+    "price": "1,59",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 250-g-Btl., (1 kg = 6,36 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "mupc1hwdc",
+    "store": "Rewe",
+    "title": "REWE Beste Wahl Pastasauce",
+    "price": "1,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "Tomaten-Basilikum, je 200-g-Btl., (1 kg = 7,45 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "w8bxinkj0",
     "store": "Kaufland",
     "title": "MEZZACORONA",
     "price": "3,49",
@@ -12,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "h321fffc0",
+    "id": "kg3ycz7qf",
     "store": "Kaufland",
     "title": "RADEBERGER",
     "price": "9,99",
@@ -24,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "hi3ur0rc5",
+    "id": "396dk48l4",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "1,88",
@@ -36,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "jc1144gsl",
+    "id": "zzjgmg3vo",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "4,49",
@@ -48,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "q3iwe1pyv",
+    "id": "svpd70vv0",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "2,99",
@@ -60,7 +156,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "xqz4jeak5",
+    "id": "di9k1w9tf",
     "store": "Kaufland",
     "title": "MÖNCHSHOF",
     "price": "12,99",
@@ -72,7 +168,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "2h9uy7ivl",
+    "id": "0cv4jidbt",
     "store": "Kaufland",
     "title": "SPATEN",
     "price": "13,99",
