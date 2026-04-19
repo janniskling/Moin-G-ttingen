@@ -1,82 +1,5 @@
 [
   {
-    "title": "New Orleans Syncopators",
-    "date": "2026-04-18",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Lazy Saturday Afternoon",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44924177&date=2026-04-18",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
-    "date": "2026-04-18",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "tags comedy",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/43018084_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43018084&date=2026-04-18",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "VITA",
-    "date": "2026-04-18",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Kultur",
-    "description": "Vita",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43202777&date=2026-04-18",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "30+ Party",
-    "date": "2026-04-18",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "tags hip-hop, house",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44450629_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44450629&date=2026-04-18",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "2000er Party",
-    "date": "2026-04-18",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, 2000er",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44939065_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44939065&date=2026-04-18",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "wirsinddienacht",
-    "date": "2026-04-18",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "tags pop, rock, metal, punk, indie",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44643244_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44643244&date=2026-04-18",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Annette Kruhl",
-    "date": "2026-04-18",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Vom Karma-Coach ins Kuschel-Camp",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=42932920&date=2026-04-18",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "friends of green sonic",
     "date": "2026-04-19",
     "time": "20:00",
@@ -505,6 +428,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-05-02",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-05-02/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
     "title": "SWING-A-ROUND",
     "date": "2026-05-04",
     "time": "20:00",
@@ -635,5 +569,49 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-05-23",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-05-23/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-06-27",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-06-27/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-07-25",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-07-25/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-08-15",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-08-15/",
+    "source": "Exil",
+    "category": "Kultur"
   }
 ]
