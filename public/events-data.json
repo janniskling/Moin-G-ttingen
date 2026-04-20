@@ -1,16 +1,5 @@
 [
   {
-    "title": "friends of green sonic",
-    "date": "2026-04-19",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Sound: Reloaded! - Sherlock Holmes und der Klang des Grauens",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44924178&date=2026-04-19",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-04-20",
     "time": "20:00",
@@ -516,6 +505,17 @@
     "source": "Thanners"
   },
   {
+    "title": "Jacqueline Amirfallah & Comedy Company",
+    "date": "2026-05-07",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Schmeckt´s? - Die Impro-Kochshow, ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44445116&date=2026-05-07",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-wings-2026-05-07",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -527,15 +527,92 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "Rock gegen Rheuma",
+    "date": "2026-05-08",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Party",
+    "description": "tags rock",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43574182&date=2026-05-08",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Chin Meyer",
+    "date": "2026-05-08",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "„Cash Man!“ Die lustigsten Wege zum schnellen Geld, ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43305338&date=2026-05-08",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "NERD NIGHT OUT",
+    "date": "2026-05-08",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Tickets: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/44553282_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44553282&date=2026-05-08",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Mama geht tanzen Muttertag X ALL WHITE",
+    "date": "2026-05-09",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Abendkasse: 15,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/5592_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44451064&date=2026-05-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Sparkling Souls",
+    "date": "2026-05-09",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Soulful Jazzy Music, ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43721157&date=2026-05-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "DEPECHE MODE PARTY",
+    "date": "2026-05-09",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/44553283_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44553283&date=2026-05-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Pfeffer + Salz",
+    "date": "2026-05-09",
+    "time": "20:00",
+    "location": "musa",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45019326&date=2026-05-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "SWING-A-ROUND",
     "date": "2026-05-11",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-05-11/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Lindy Hop & Swing",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/44749213_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44749213&date=2026-05-11",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-ap-2026-05-13",
