@@ -1,27 +1,5 @@
 [
   {
-    "title": "SWING-A-ROUND",
-    "date": "2026-04-20",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "Lindy Hop & Swing",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44362848_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44362848&date=2026-04-20",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "1 EURO PARTY",
-    "date": "2026-04-20",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44842764_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44842764&date=2026-04-20",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "Abisko",
     "date": "2026-04-22",
     "time": "20:00",
@@ -549,7 +527,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "NERD NIGHT OUT",
+    "title": "Nerd Night Out - Vol 2",
     "date": "2026-05-08",
     "time": "20:00",
     "location": "Exil",
@@ -646,6 +624,28 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "id": "jones-ap-2026-05-20",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-05-20",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-05-20",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
