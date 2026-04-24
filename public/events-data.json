@@ -1,49 +1,5 @@
 [
   {
-    "title": "MOONDAY 6",
-    "date": "2026-04-23",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "tags pop, klavier",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44362849_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44362849&date=2026-04-23",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "RAUM27",
-    "date": "2026-04-23",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Kultur",
-    "description": "Akustik Tour",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43894982&date=2026-04-23",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Bernd Nawothnig & Friends",
-    "date": "2026-04-23",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "JazzSession",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44346799&date=2026-04-23",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-wings-2026-04-23",
-    "location": "Mr. Jones",
-    "title": "Wings Thursday",
-    "date": "2026-04-23",
-    "time": "18:00",
-    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
-    "category": "Sonstiges",
-    "image": "/images/chicken-wings.jpg",
-    "link": "https://www.mrjones.de"
-  },
-  {
     "title": "„M“ - Jazzgambenquartett",
     "date": "2026-04-24",
     "time": "20:00",
@@ -329,7 +285,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "title": "Comedyflash - Die Stand Up Comedy Show",
     "date": "2026-05-02",
     "time": "20:00",
     "location": "Exil",
@@ -382,6 +338,17 @@
     "image": "https://www.wasgehtingoettingen.de/images/termine/44842527_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44842527&date=2026-05-02",
     "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-05-02",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-05-02/",
+    "source": "Exil",
+    "category": "Kultur"
   },
   {
     "title": "SWING-A-ROUND",
