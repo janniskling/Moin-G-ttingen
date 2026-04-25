@@ -1,66 +1,6 @@
 [
   {
-    "id": "wil34upcc",
-    "store": "Rewe",
-    "title": "Krombacher Pils",
-    "price": "11,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 24 x 0,33-l-Fl.-Kasten, (1 l = 1,51 €), zzgl. 3,42 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "hdu2sv6o8",
-    "store": "Rewe",
-    "title": "De Cecco Pasta",
-    "price": "1,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 2,98 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "ko7fftysz",
-    "store": "Rewe",
-    "title": "Bitburger Pils",
-    "price": "11,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,51 € / 1,20 €), zzgl. 3,42 € / 3,10 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "8amohahjz",
-    "store": "Rewe",
-    "title": "Knorr Pasta Pot",
-    "price": "0,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "Käse & Sahne, je 63-g-Becher, (1 kg = 15,71 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "iezsjuamb",
-    "store": "Rewe",
-    "title": "Bitburger Pils oder Alkoholfrei¹",
-    "price": "11,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 20 x 0,5-l-Fl.-Kasten, (1 l = 1,20 €), zzgl. 3,10 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "f09ypagmp",
+    "id": "echnew91p",
     "store": "Kaufland",
     "title": "GIOVANNI RANA",
     "price": "2,49",
@@ -72,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "yrse76eod",
+    "id": "pk8ld5oj4",
     "store": "Kaufland",
     "title": "ALLGÄUER BÜBLE BIER",
     "price": "13,99",
@@ -84,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "o7kdmqtun",
+    "id": "812fbkmoq",
     "store": "Kaufland",
     "title": "CORONA",
     "price": "15,49",
@@ -96,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "m7l3bz14p",
+    "id": "smel87ywe",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,79",
@@ -108,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "quc011bmh",
+    "id": "ky172l0pf",
     "store": "Kaufland",
     "title": "BREE",
     "price": "2,79",
@@ -120,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "6fhzefkn4",
+    "id": "2vfnup0zh",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,99",
@@ -132,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ty8mjs356",
+    "id": "p4fdgrv8s",
     "store": "Kaufland",
     "title": "OBERDORFER",
     "price": "12,99",
