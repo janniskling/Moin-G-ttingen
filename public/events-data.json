@@ -1,81 +1,5 @@
 [
   {
-    "title": "New Orleans Syncopators",
-    "date": "2026-04-25",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Lazy Saturday Afternoon",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44346800&date=2026-04-25",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Malle vibed!",
-    "date": "2026-04-25",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44939067_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44939067&date=2026-04-25",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "BEST 80s",
-    "date": "2026-04-25",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44643246_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44643246&date=2026-04-25",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "808 MODE - HIPHOP & TRAP",
-    "date": "2026-04-25",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "tags hip-hop",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44938624_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44938624&date=2026-04-25",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Robert Alan",
-    "date": "2026-04-25",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Kultur",
-    "description": "Pervekt",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=40380184&date=2026-04-25",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Sascha Korf",
-    "date": "2026-04-25",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Danke und Tschüss! - Die ultimative Zugabe",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43558472&date=2026-04-25",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "location": "Sparkassen-Arena",
-    "title": "🏀 Heimspiel",
-    "date": "2026-04-25",
-    "time": "18:30",
-    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAHauptrundePS Karlsruhe Lions. Jetzt Tickets sichern!",
-    "category": "Sports",
-    "image": "/images/bg-logo.png",
-    "link": "https://bit.ly/3Y1uBlm"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-04-27",
     "time": "20:00",
@@ -393,6 +317,16 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "location": "Sparkassen-Arena",
+    "title": "🏀 Heimspiel",
+    "date": "2026-05-07",
+    "time": "19:30",
+    "description": "BBL Heimspiel gegen 06./2026| SparkassenArena|ProAPlayoffViertelfinale | Spiel 1tba. Jetzt Tickets sichern!",
+    "category": "Sports",
+    "image": "/images/bg-logo.png",
+    "link": "https://bit.ly/3Y1uBlm"
   },
   {
     "title": "Rock gegen Rheuma",
