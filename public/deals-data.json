@@ -1,6 +1,6 @@
 [
   {
-    "id": "vyvdw2ui8",
+    "id": "okkydyr16",
     "store": "Rewe",
     "title": "Wagner Die Backfrische Mozzarella",
     "price": "2,22",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "mufml999q",
+    "id": "xfk4ohkim",
     "store": "Rewe",
     "title": "Radeberger Pilsner",
     "price": "11,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "1yx04f8pt",
+    "id": "d617j5ux9",
     "store": "Rewe",
     "title": "Schwartau Konfitüre Extra",
     "price": "2,29",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "t8lfvx5aq",
+    "id": "wd7yaxs72",
     "store": "Rewe",
     "title": "3 Glocken Genuss Pur Pasta",
     "price": "0,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "jnbp6axuq",
+    "id": "o3z3ygran",
     "store": "Rewe",
     "title": "Tanqueray London Dry Gin",
     "price": "1,00",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "obaw1b35z",
+    "id": "tftd31j0k",
     "store": "Rewe",
     "title": "Schwartau Samt Fruchtaufstrich",
     "price": "2,29",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "3ftbmrs4n",
+    "id": "67c7xfy5m",
     "store": "Rewe",
     "title": "REWE Beste Wahl Erdbeeren",
     "price": "2,79",
@@ -82,65 +82,5 @@
     "description": "ganze Früchte, tiefgefroren, je 500-g-Btl., (1 kg = 5,58 €)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "eyav83tva",
-    "store": "Kaufland",
-    "title": "GIOVANNI RANA",
-    "price": "2,49",
-    "oldPrice": "3,99",
-    "discount": "38%",
-    "image": "🍺",
-    "description": "(1 kg = 9.96)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "wz5d0asre",
-    "store": "Kaufland",
-    "title": "ORIGINAL WAGNER",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "(1 kg = 4.98 - 5.97)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "c8se2xixn",
-    "store": "Kaufland",
-    "title": "BREE",
-    "price": "2,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "(1 l = 3.72)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "9799ekwf7",
-    "store": "Kaufland",
-    "title": "K-CLASSIC",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "(1 kg = 9.95)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "a3vu5wfbb",
-    "store": "Kaufland",
-    "title": "OBERDORFER",
-    "price": "12,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
 ]
