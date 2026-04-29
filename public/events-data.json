@@ -1,22 +1,11 @@
 [
   {
-    "title": "Svavar Knútur - Tour 2025 - back in Göttingen",
-    "date": "2026-04-28",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Tour 2026 - Back in Göttingen (Ausverkauft)",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43558495&date=2026-04-28",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "stille hunde",
     "date": "2026-04-29",
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "Wir stehen hier und haben die Rede des Führers gar nicht gehört, ab 22,00 €",
+    "description": "Wir stehen hier und haben die Rede des Führers gar nicht gehört",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44346801&date=2026-04-29",
     "source": "wasgehtingoettingen"
@@ -49,9 +38,20 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Kultur",
-    "description": "Eintritt: VVK: 10,00 €",
+    "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/44450796_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44450796&date=2026-04-30",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Katja Werker",
+    "date": "2026-04-30",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Jahresringe",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44166558&date=2026-04-30",
     "source": "wasgehtingoettingen"
   },
   {
@@ -66,23 +66,12 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Katja Werker",
-    "date": "2026-04-30",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Jahresringe, ab 22,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44166558&date=2026-04-30",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "Tanz in den Mai",
     "date": "2026-04-30",
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt 8,90 €",
+    "description": "tags (teilw.) eintritt frei, schlager, 90er",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45027477_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45027477&date=2026-04-30",
     "source": "wasgehtingoettingen"
@@ -115,7 +104,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Kultur",
-    "description": "Beyond Border Aftermath Live Göttingen, Eintritt: VVK: 23,00 €",
+    "description": "Beyond Border Aftermath Live Göttingen",
     "image": "https://www.wasgehtingoettingen.de/images/termine/42934965_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=42934965&date=2026-05-01",
     "source": "wasgehtingoettingen"
@@ -132,17 +121,6 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Comedyflash - Die Stand Up Comedy Show",
-    "date": "2026-05-02",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "Eintritt: VVK: 24,90 €",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45015341_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45015341&date=2026-05-02",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "Knochenfabrik",
     "date": "2026-05-02",
     "time": "20:00",
@@ -154,23 +132,12 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "stille hunde",
-    "date": "2026-05-02",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Hammerschlag und Muffensausen - Heimwerkertragödien, ab 22,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44445115&date=2026-05-02",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "Dorfkind- Party mit NINA REH LIVE",
     "date": "2026-05-02",
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt 9,50 €",
+    "description": "tags (teilw.) eintritt frei",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45027478_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45027478&date=2026-05-02",
     "source": "wasgehtingoettingen"
@@ -181,9 +148,31 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- €",
+    "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/44842527_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44842527&date=2026-05-02",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Comedyflash - Die Stand Up Comedy Show",
+    "date": "2026-05-02",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45015341_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45015341&date=2026-05-02",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "stille hunde",
+    "date": "2026-05-02",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Hammerschlag und Muffensausen - Heimwerkertragödien",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44445115&date=2026-05-02",
     "source": "wasgehtingoettingen"
   },
   {
@@ -214,7 +203,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 7,00 €",
+    "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/44842767_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44842767&date=2026-05-04",
     "source": "wasgehtingoettingen"
@@ -395,6 +384,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "QuerQuassler: Der Norden zu Besuch",
+    "date": "2026-05-12",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Der Norden zu Besuch",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44728768&date=2026-05-12",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "location": "Sparkassen-Arena",
     "title": "🏀 Heimspiel",
     "date": "2026-05-12",
@@ -524,6 +524,17 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "id": "jones-wings-2026-05-28",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-05-28",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
