@@ -1,38 +1,5 @@
 [
   {
-    "title": "stille hunde",
-    "date": "2026-04-29",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Wir stehen hier und haben die Rede des Führers gar nicht gehört",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44346801&date=2026-04-29",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-04-29",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-04-29",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-04-29",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "title": "HEADBANGER – Blast Into May mit: SYSTEM OF TOXICITY – GREEN MACHINE – AUDIOKILL",
     "date": "2026-04-30",
     "time": "20:00",
@@ -121,6 +88,39 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "AFTER HOUR SOCIETY",
+    "date": "2026-05-01",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags techno",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45118811_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45118811&date=2026-05-01",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Club Night RELOADED",
+    "date": "2026-05-01",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45119157_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45119157&date=2026-05-01",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-05-02",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45015341_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45015341&date=2026-05-02",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "Knochenfabrik",
     "date": "2026-05-02",
     "time": "20:00",
@@ -154,14 +154,14 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Comedyflash - Die Stand Up Comedy Show",
+    "title": "90's & 2000er Party",
     "date": "2026-05-02",
     "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "tags comedy",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45015341_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45015341&date=2026-05-02",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, pop, rnb, 2000er",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45118812_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45118812&date=2026-05-02",
     "source": "wasgehtingoettingen"
   },
   {
@@ -174,17 +174,6 @@
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44445115&date=2026-05-02",
     "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
-    "date": "2026-05-02",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
-    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-05-02/",
-    "source": "Exil",
-    "category": "Kultur"
   },
   {
     "title": "SWING-A-ROUND",
@@ -373,6 +362,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "BLACK HORNY with DJ EMA KOOF",
+    "date": "2026-05-09",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, hip-hop, house, black",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45118813_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45118813&date=2026-05-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "SWING-A-ROUND",
     "date": "2026-05-11",
     "time": "20:00",
@@ -403,6 +403,28 @@
     "category": "Sports",
     "image": "/images/bg-logo.png",
     "link": "https://bit.ly/3Y1uBlm"
+  },
+  {
+    "title": "LIVE MUSIK",
+    "date": "2026-05-13",
+    "time": "20:00",
+    "location": "Dots",
+    "category": "Kultur",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/40293676_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=40293676&date=2026-05-13",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Lioba Albus: Ende offen",
+    "date": "2026-05-13",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Ende offen",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43202774&date=2026-05-13",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-ap-2026-05-13",

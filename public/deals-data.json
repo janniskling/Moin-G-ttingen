@@ -1,6 +1,6 @@
 [
   {
-    "id": "h9ol59u03",
+    "id": "4jzysk4jr",
     "store": "Rewe",
     "title": "Wagner Die Backfrische Mozzarella",
     "price": "2,22",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "5h211p4y8",
+    "id": "z4peicyz6",
     "store": "Rewe",
     "title": "Radeberger Pilsner",
     "price": "11,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "a6ier7os8",
+    "id": "8wcffrveq",
     "store": "Rewe",
     "title": "Schwartau Konfitüre Extra",
     "price": "2,29",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "1y5fmai6y",
+    "id": "4b5a5g1y8",
     "store": "Rewe",
     "title": "3 Glocken Genuss Pur Pasta",
     "price": "0,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "vvsmp1bal",
+    "id": "ayk885w4n",
     "store": "Rewe",
     "title": "Tanqueray London Dry Gin",
     "price": "1,00",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "7d50j6o2y",
+    "id": "c9ep80fd4",
     "store": "Rewe",
     "title": "Schwartau Samt Fruchtaufstrich",
     "price": "2,29",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "4mz89pghz",
+    "id": "q78ia3vbd",
     "store": "Rewe",
     "title": "REWE Beste Wahl Erdbeeren",
     "price": "2,79",
@@ -84,62 +84,74 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "xn1a01yoy",
+    "id": "9f4j1oxsl",
     "store": "Kaufland",
-    "title": "GIOVANNI RANA",
-    "price": "2,49",
-    "oldPrice": "3,99",
-    "discount": "38%",
-    "image": "🍺",
-    "description": "(1 kg = 9.96)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "e8vr86xlh",
-    "store": "Kaufland",
-    "title": "ORIGINAL WAGNER",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "(1 kg = 4.98 - 5.97)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "wsxuw3rno",
-    "store": "Kaufland",
-    "title": "BREE",
-    "price": "2,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "(1 l = 3.72)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "ti815kvwf",
-    "store": "Kaufland",
-    "title": "K-CLASSIC",
+    "title": "TANTE FANNY",
     "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
+    "oldPrice": "2,99",
+    "discount": "33%",
     "image": "🍺",
-    "description": "(1 kg = 9.95)",
+    "description": "(1 kg = 4.98)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "2s8ukdjy5",
+    "id": "zoc85qzck",
     "store": "Kaufland",
-    "title": "OBERDORFER",
-    "price": "12,99",
+    "title": "Erdbeerherz",
+    "price": "0,89",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Details im Markt",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "u928e74xh",
+    "store": "Kaufland",
+    "title": "BECK'S",
+    "price": "9,99",
+    "oldPrice": "10,99",
+    "discount": "9%",
+    "image": "🍺",
+    "description": "je Ka. 24 x 0,33-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "nwmppj5l7",
+    "store": "Kaufland",
+    "title": "PADERBORNER",
+    "price": "7,49",
     "oldPrice": null,
     "discount": null,
     "image": "🍺",
     "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "twl70gr64",
+    "store": "Kaufland",
+    "title": "POTT'S",
+    "price": "13,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,33-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "ktwdbygp2",
+    "store": "Kaufland",
+    "title": "K-BIO",
+    "price": "1,69",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 kg = 8.90)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
