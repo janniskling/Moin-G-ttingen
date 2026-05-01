@@ -1,6 +1,6 @@
 [
   {
-    "id": "4jzysk4jr",
+    "id": "de3arkyfd",
     "store": "Rewe",
     "title": "Wagner Die Backfrische Mozzarella",
     "price": "2,22",
@@ -12,7 +12,19 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "z4peicyz6",
+    "id": "g734rypig",
+    "store": "Rewe",
+    "title": "Beck’s Pils",
+    "price": "10,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,39 € / 1,10 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "odoqfvorw",
     "store": "Rewe",
     "title": "Radeberger Pilsner",
     "price": "11,99",
@@ -24,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "8wcffrveq",
+    "id": "p5t3bw3ai",
     "store": "Rewe",
     "title": "Schwartau Konfitüre Extra",
     "price": "2,29",
@@ -36,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "4b5a5g1y8",
+    "id": "awrgkrery",
     "store": "Rewe",
     "title": "3 Glocken Genuss Pur Pasta",
     "price": "0,99",
@@ -48,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ayk885w4n",
+    "id": "5w67wmxrr",
     "store": "Rewe",
     "title": "Tanqueray London Dry Gin",
     "price": "1,00",
@@ -60,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "c9ep80fd4",
+    "id": "87m3kwlfv",
     "store": "Rewe",
     "title": "Schwartau Samt Fruchtaufstrich",
     "price": "2,29",
@@ -72,7 +84,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "q78ia3vbd",
+    "id": "i58vs7scx",
     "store": "Rewe",
     "title": "REWE Beste Wahl Erdbeeren",
     "price": "2,79",
@@ -84,7 +96,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "9f4j1oxsl",
+    "id": "eh3rvxb4i",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -96,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "zoc85qzck",
+    "id": "7d5tyk9vv",
     "store": "Kaufland",
     "title": "Erdbeerherz",
     "price": "0,89",
@@ -108,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "u928e74xh",
+    "id": "epz9xjy5d",
     "store": "Kaufland",
     "title": "BECK'S",
     "price": "9,99",
@@ -120,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "nwmppj5l7",
+    "id": "6mn3x4m67",
     "store": "Kaufland",
     "title": "PADERBORNER",
     "price": "7,49",
@@ -132,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "twl70gr64",
+    "id": "zn0id42eb",
     "store": "Kaufland",
     "title": "POTT'S",
     "price": "13,99",
@@ -144,7 +156,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ktwdbygp2",
+    "id": "2qdhy52lw",
     "store": "Kaufland",
     "title": "K-BIO",
     "price": "1,69",
