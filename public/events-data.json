@@ -1,49 +1,5 @@
 [
   {
-    "title": "BEYOND BORDER",
-    "date": "2026-05-01",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "Beyond Border Aftermath Live Göttingen",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/42934965_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=42934965&date=2026-05-01",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "PowerDance",
-    "date": "2026-05-01",
-    "time": "20:00",
-    "location": "musa (Salon)",
-    "category": "Party",
-    "description": "tags pop, rock, electro",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43469947&date=2026-05-01",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "AFTER HOUR SOCIETY",
-    "date": "2026-05-01",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "tags techno",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45118811_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45118811&date=2026-05-01",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Club Night RELOADED",
-    "date": "2026-05-01",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45119157_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45119157&date=2026-05-01",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "Knochenfabrik",
     "date": "2026-05-02",
     "time": "20:00",
@@ -405,6 +361,50 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "Björn Jentsch",
+    "date": "2026-05-15",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Klassiker des Stummfilms - live vertont: Moderne Zeiten (Charlie Chaplin, 1936)",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44166824&date=2026-05-15",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "La Boum Party",
+    "date": "2026-05-15",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Kultur",
+    "description": "80s , 90s Party",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45019327&date=2026-05-15",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "PowerDance",
+    "date": "2026-05-15",
+    "time": "20:00",
+    "location": "musa (Salon)",
+    "category": "Party",
+    "description": "tags pop, rock, electro",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43469948&date=2026-05-15",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "NACHT DER SCHATTEN",
+    "date": "2026-05-15",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "tags ebm, electro",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/44749214_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44749214&date=2026-05-15",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "SWING-A-ROUND",
     "date": "2026-05-18",
     "time": "20:00",
@@ -447,6 +447,17 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "BLUES’N’BOOGIE KÜCHE",
+    "date": "2026-05-21",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/09/Poster-neutral-Layout-1-960x1280.jpg",
+    "link": "https://exil-web.de/event/bluesnboogie-kueche-4-3/2026-05-21/",
+    "source": "Exil",
+    "category": "Kultur"
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
