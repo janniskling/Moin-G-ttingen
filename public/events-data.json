@@ -1,27 +1,5 @@
 [
   {
-    "title": "SWING-A-ROUND",
-    "date": "2026-05-04",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "Lindy Hop & Swing",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44450797_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44450797&date=2026-05-04",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "1 EURO PARTY",
-    "date": "2026-05-04",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44842767_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44842767&date=2026-05-04",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "Andy Irvine",
     "date": "2026-05-05",
     "time": "20:00",
@@ -92,7 +70,7 @@
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "Schmeckt´s? - Die Impro-Kochshow, ab 22,00 €",
+    "description": "Schmeckt´s? - Die Impro-Kochshow",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44445116&date=2026-05-07",
     "source": "wasgehtingoettingen"
@@ -120,36 +98,25 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Chin Meyer: „Cash Man!“ Die lustigsten Wege zum schnellen Geld",
-    "date": "2026-05-08",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "„Cash Man!“ Die lustigsten Wege zum schnellen Geld, ab 22,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43305338&date=2026-05-08",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "NERD NIGHT OUT",
     "date": "2026-05-08",
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Popkultur, Anime, Gaming und Science-Fiction, Tickets: 7,- €",
+    "description": "Popkultur, Anime, Gaming und Science-Fiction",
     "image": "https://www.wasgehtingoettingen.de/images/termine/44553282_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44553282&date=2026-05-08",
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Mama geht tanzen Muttertag X ALL WHITE",
-    "date": "2026-05-09",
+    "title": "Chin Meyer: „Cash Man!“ Die lustigsten Wege zum schnellen Geld",
+    "date": "2026-05-08",
     "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "Abendkasse: 15,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/5592_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44451064&date=2026-05-09",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "„Cash Man!“ Die lustigsten Wege zum schnellen Geld",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43305338&date=2026-05-08",
     "source": "wasgehtingoettingen"
   },
   {
@@ -158,20 +125,9 @@
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "Soulful Jazzy Music, ab 22,00 €",
+    "description": "Soulful Jazzy Music",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43721157&date=2026-05-09",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "DEPECHE MODE PARTY",
-    "date": "2026-05-09",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "Eintritt: 7,- €",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44553283_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44553283&date=2026-05-09",
     "source": "wasgehtingoettingen"
   },
   {
@@ -183,6 +139,28 @@
     "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45019326&date=2026-05-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Mama geht tanzen Muttertag X ALL WHITE",
+    "date": "2026-05-09",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags charts, 90er, 2000er",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/5592_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44451064&date=2026-05-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "DEPECHE MODE PARTY",
+    "date": "2026-05-09",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/44553283_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44553283&date=2026-05-09",
     "source": "wasgehtingoettingen"
   },
   {
@@ -386,11 +364,33 @@
     "date": "2026-05-18",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2/2026-05-18/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Lindy Hop & Swing",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/44842528_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44842528&date=2026-05-18",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "1 EURO PARTY",
+    "date": "2026-05-18",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45119158_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45119158&date=2026-05-18",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Theaterclub",
+    "date": "2026-05-18",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Freispiel! - Der APEX-Theaterclub",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44445117&date=2026-05-18",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-ap-2026-05-20",
@@ -501,6 +501,39 @@
     "link": "https://exil-web.de/event/klangwelt-2/2026-05-29/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "title": "IT’S TUESDAY, BABY…",
+    "date": "2026-06-02",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/04/webPoster-960x1280.jpeg",
+    "link": "https://exil-web.de/event/its-tuesday-baby-2/2026-06-02/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "id": "jones-ap-2026-06-03",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-06-03",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-06-03",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
