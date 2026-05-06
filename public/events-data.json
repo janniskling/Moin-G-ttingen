@@ -1,36 +1,14 @@
 [
   {
-    "title": "Andy Irvine",
-    "date": "2026-05-05",
+    "title": "mittwochs im club",
+    "date": "2026-05-06",
     "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Best of Irish Music",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44342868&date=2026-05-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "IT'S TUESDAY, BABY...",
-    "date": "2026-05-05",
-    "time": "20:00",
-    "location": "Exil",
+    "location": "Club Savoy",
     "category": "Party",
-    "description": "tags indie, 80er",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44553281_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44553281&date=2026-05-05",
+    "description": "tags (teilw.) eintritt frei, pop, rock, hip-hop, house",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45213985_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45213985&date=2026-05-06",
     "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "IT’S TUESDAY, BABY…",
-    "date": "2026-05-05",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/webPoster-960x1280.jpeg",
-    "link": "https://exil-web.de/event/its-tuesday-baby-2/2026-05-05/",
-    "source": "Exil",
-    "category": "Kultur"
   },
   {
     "id": "jones-ap-2026-05-06",
@@ -109,6 +87,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "WHITE GIRL MUSIC",
+    "date": "2026-05-08",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags pop",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45213986_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45213986&date=2026-05-08",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "Chin Meyer: „Cash Man!“ Die lustigsten Wege zum schnellen Geld",
     "date": "2026-05-08",
     "time": "20:00",
@@ -175,6 +164,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "Let’s Get Loud",
+    "date": "2026-05-09",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, 2000er",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45214402_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45214402&date=2026-05-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "SWING-A-ROUND",
     "date": "2026-05-11",
     "time": "20:00",
@@ -183,6 +183,17 @@
     "description": "Lindy Hop & Swing",
     "image": "https://www.wasgehtingoettingen.de/images/termine/44749213_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44749213&date=2026-05-11",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "1 EURO PARTY",
+    "date": "2026-05-11",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45214401_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45214401&date=2026-05-11",
     "source": "wasgehtingoettingen"
   },
   {
@@ -215,6 +226,28 @@
     "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/40293676_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=40293676&date=2026-05-13",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Doppeldecker Party",
+    "date": "2026-05-13",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, 90er, 2000er",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45214403_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45214403&date=2026-05-13",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "MITTWOCHSIMCLUB • VATERTAG EDIT.",
+    "date": "2026-05-13",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags pop, hip-hop, house, charts",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45213987_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45213987&date=2026-05-13",
     "source": "wasgehtingoettingen"
   },
   {
@@ -303,6 +336,28 @@
     "description": "tags ebm, electro",
     "image": "https://www.wasgehtingoettingen.de/images/termine/44749214_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44749214&date=2026-05-15",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "CHARTS & HEARTS",
+    "date": "2026-05-15",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, pop, charts",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45213988_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45213988&date=2026-05-15",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Aprés Ski meets Schlager Summer Edition",
+    "date": "2026-05-16",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, schlager, charts",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45214404_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45214404&date=2026-05-16",
     "source": "wasgehtingoettingen"
   },
   {
@@ -534,6 +589,17 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "id": "jones-wings-2026-06-04",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-06-04",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",

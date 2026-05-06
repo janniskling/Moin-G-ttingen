@@ -1,6 +1,78 @@
 [
   {
-    "id": "in1s3n425",
+    "id": "k7mn9j8cg",
+    "store": "Rewe",
+    "title": "Gustavo Gusto Pizza Margherita",
+    "price": "3,69",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 410-g-Pckg., (1 kg = 9,00 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "koztyjelb",
+    "store": "Rewe",
+    "title": "Veltins Pilsener",
+    "price": "11,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,45 € / 1,15 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ih5ge90o9",
+    "store": "Rewe",
+    "title": "Jever Pilsener oder Fun",
+    "price": "11,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,51 € / 1,20 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "pmxt0kn1b",
+    "store": "Rewe",
+    "title": "Corona Mexican Beer",
+    "price": "16,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 20 x 355-ml-Fl.-Kasten, (1 l = 2,39 €), zzgl. 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "w9cjc6mnx",
+    "store": "Rewe",
+    "title": "Dr. Oetker Pizza Tradizionale Salame Romano",
+    "price": "2,22",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 385-g-Pckg., (1 kg = 5,77 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "neqk8u7hz",
+    "store": "Rewe",
+    "title": "Marca Italia Mascarpone",
+    "price": "3,19",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "42% Fett i.Tr., je 500-g-Becher, (1 kg = 6,38 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ism8zj80d",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -12,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "pc6ze89dh",
+    "id": "82qjlli3q",
     "store": "Kaufland",
     "title": "Erdbeerherz",
     "price": "0,89",
@@ -24,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "sfug6ho9g",
+    "id": "etuspvfw8",
     "store": "Kaufland",
     "title": "BECK'S",
     "price": "9,99",
@@ -36,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "hq7ghh9iy",
+    "id": "7nlebo459",
     "store": "Kaufland",
     "title": "PADERBORNER",
     "price": "7,49",
@@ -48,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "nj5gpyh8z",
+    "id": "drnwkpmsl",
     "store": "Kaufland",
     "title": "POTT'S",
     "price": "13,99",
@@ -60,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "kfwnconjl",
+    "id": "oh8ex3g25",
     "store": "Kaufland",
     "title": "K-BIO",
     "price": "1,69",
