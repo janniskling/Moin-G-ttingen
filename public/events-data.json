@@ -1,48 +1,5 @@
 [
   {
-    "title": "mittwochs im club",
-    "date": "2026-05-06",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, pop, rock, hip-hop, house",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45213985_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45213985&date=2026-05-06",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-05-06",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-05-06",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Sparkassen-Arena",
-    "title": "🏀 Heimspiel",
-    "date": "2026-05-06",
-    "time": "19:30",
-    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAPlayoffViertelfinale | Spiel 1Bozic Estriche Knights Kirchheim. Jetzt Tickets sichern!",
-    "category": "Sports",
-    "image": "/images/bg-logo.png",
-    "link": "https://bit.ly/3Y1uBlm"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-05-06",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "title": "Jacqueline Amirfallah & Comedy Company",
     "date": "2026-05-07",
     "time": "20:00",
@@ -445,6 +402,28 @@
     "description": "Freispiel! - Der APEX-Theaterclub",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44445117&date=2026-05-18",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Charm Of Finches",
+    "date": "2026-05-20",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Wonderful Oblivion",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43895321&date=2026-05-20",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "mittwochs im club",
+    "date": "2026-05-20",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, pop, rock, hip-hop, house",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45213989_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45213989&date=2026-05-20",
     "source": "wasgehtingoettingen"
   },
   {
