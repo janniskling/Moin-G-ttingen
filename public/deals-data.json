@@ -1,6 +1,78 @@
 [
   {
-    "id": "p2td4qk4r",
+    "id": "xe1t52hfb",
+    "store": "Rewe",
+    "title": "Gustavo Gusto Pizza Margherita",
+    "price": "3,69",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 410-g-Pckg., (1 kg = 9,00 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "32mm9c7sr",
+    "store": "Rewe",
+    "title": "Veltins Pilsener",
+    "price": "11,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,45 € / 1,15 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "4n1b4pj51",
+    "store": "Rewe",
+    "title": "Jever Pilsener oder Fun",
+    "price": "11,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,51 € / 1,20 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "urryutwq1",
+    "store": "Rewe",
+    "title": "Corona Mexican Beer",
+    "price": "16,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 20 x 355-ml-Fl.-Kasten, (1 l = 2,39 €), zzgl. 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "hxmctrrmu",
+    "store": "Rewe",
+    "title": "Dr. Oetker Pizza Tradizionale Salame Romano",
+    "price": "2,22",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 385-g-Pckg., (1 kg = 5,77 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "7nxknjm28",
+    "store": "Rewe",
+    "title": "Marca Italia Mascarpone",
+    "price": "3,19",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "42% Fett i.Tr., je 500-g-Becher, (1 kg = 6,38 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "jswkfe2p1",
     "store": "Kaufland",
     "title": "LEERDAMMER",
     "price": "1,49",
@@ -12,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "pxpeg4c28",
+    "id": "xwb9831lh",
     "store": "Kaufland",
     "title": "K-PURLAND",
     "price": "4,49",
@@ -24,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "c0isaxwb6",
+    "id": "8lumyvke5",
     "store": "Kaufland",
     "title": "ITALPIZZA",
     "price": "2,49",
@@ -36,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "vq40gsqc7",
+    "id": "823ctuqu0",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,49",
@@ -48,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "3676geaxk",
+    "id": "phfyzpjtz",
     "store": "Kaufland",
     "title": "Pizza Salami",
     "price": "0,99",
@@ -60,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "85c34zxsr",
+    "id": "z93cynk2d",
     "store": "Kaufland",
     "title": "Pizza-Donut",
     "price": "0,89",
@@ -72,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "0mbc92sap",
+    "id": "67ktw0buw",
     "store": "Kaufland",
     "title": "BAYREUTHER",
     "price": "13,99",
@@ -84,7 +156,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "k14p8jy36",
+    "id": "88dr7q2m5",
     "store": "Kaufland",
     "title": "Erdbeerherz",
     "price": "0,89",
@@ -96,7 +168,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "743fop8zf",
+    "id": "lfenhyt0x",
     "store": "Kaufland",
     "title": "LA MOLISANA",
     "price": "0,99",
@@ -108,7 +180,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "bodw9zstg",
+    "id": "oj5y5o6yo",
     "store": "Kaufland",
     "title": "ESMARA®",
     "price": "3,99",
