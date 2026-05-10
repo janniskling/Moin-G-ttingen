@@ -1,71 +1,5 @@
 [
   {
-    "title": "Sparkling Souls",
-    "date": "2026-05-09",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Soulful Jazzy Music",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43721157&date=2026-05-09",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Pfeffer + Salz",
-    "date": "2026-05-09",
-    "time": "20:00",
-    "location": "musa",
-    "category": "Kultur",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45019326&date=2026-05-09",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Mama geht tanzen Muttertag X ALL WHITE",
-    "date": "2026-05-09",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags charts, 90er, 2000er",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/5592_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44451064&date=2026-05-09",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "DEPECHE MODE PARTY",
-    "date": "2026-05-09",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44553283_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44553283&date=2026-05-09",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "BLACK HORNY with DJ EMA KOOF",
-    "date": "2026-05-09",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, hip-hop, house, black",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45118813_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45118813&date=2026-05-09",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Let’s Get Loud",
-    "date": "2026-05-09",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, 2000er",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45214402_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45214402&date=2026-05-09",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-05-11",
     "time": "20:00",
@@ -88,7 +22,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "QuerQuassler: Der Norden zu Besuch",
+    "title": "QuerQuassler feat. Martin&Maze",
     "date": "2026-05-12",
     "time": "20:00",
     "location": "APEX",
@@ -142,7 +76,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Lioba Albus: Ende offen",
+    "title": "Lioba Albus",
     "date": "2026-05-13",
     "time": "20:00",
     "location": "APEX",
@@ -186,17 +120,6 @@
     "link": "https://www.mrjones.de"
   },
   {
-    "title": "Björn Jentsch",
-    "date": "2026-05-15",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Klassiker des Stummfilms - live vertont: Moderne Zeiten (Charlie Chaplin, 1936)",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44166824&date=2026-05-15",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "La Boum Party",
     "date": "2026-05-15",
     "time": "20:00",
@@ -238,6 +161,17 @@
     "description": "tags (teilw.) eintritt frei, pop, charts",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45213988_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45213988&date=2026-05-15",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Björn Jentsch",
+    "date": "2026-05-15",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Sonstiges",
+    "description": "Klassiker des Stummfilms - live vertont: Moderne Zeiten (Charlie Chaplin, 1936..",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44166824&date=2026-05-15",
     "source": "wasgehtingoettingen"
   },
   {
@@ -328,12 +262,12 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Theaterclub",
+    "title": "APEX-Theaterclub",
     "date": "2026-05-18",
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "Freispiel! - Der APEX-Theaterclub",
+    "description": "Freispiel!",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44445117&date=2026-05-18",
     "source": "wasgehtingoettingen"
@@ -405,12 +339,12 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Improsant: Director’s Cut",
+    "title": "Improsant",
     "date": "2026-05-21",
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "Kampf um die beste Szene",
+    "description": "Director’s Cut – Kampf um die beste Szene",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44343113&date=2026-05-21",
     "source": "wasgehtingoettingen"
@@ -471,6 +405,50 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "ZSK",
+    "date": "2026-05-23",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Kultur",
+    "description": "Support: Astropunks, 35,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43390981&date=2026-05-23",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Michel Avallone & Stéphanie Meyer-Zikri",
+    "date": "2026-05-23",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Artistiquement vôtre",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44080309&date=2026-05-23",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "BEST 80s",
+    "date": "2026-05-23",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/44842530_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44842530&date=2026-05-23",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Comedyflash - Die Stand Up Comedy Show",
+    "date": "2026-05-23",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45023314_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023314&date=2026-05-23",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
     "date": "2026-05-23",
     "time": "20:00",
@@ -478,17 +456,6 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
     "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-05-23/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
-    "title": "BEST 80s",
-    "date": "2026-05-23",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/Best-80s-960x1280.jpg",
-    "link": "https://exil-web.de/event/best-80s/2026-05-23/",
     "source": "Exil",
     "category": "Kultur"
   },
