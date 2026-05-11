@@ -1,6 +1,114 @@
 [
   {
-    "id": "wpe2waygc",
+    "id": "hmirkib59",
+    "store": "Rewe",
+    "title": "Barilla Pesto Rosso",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "je 200-g-Glas, (1 kg = 8,95 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "08jmhausj",
+    "store": "Rewe",
+    "title": "Dr. Oetker Ristorante Pizza Salame",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 5,59 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "mxx5najq2",
+    "store": "Rewe",
+    "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "je 61-g-Becher, (1 kg = 16,23 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "cdz9waq7c",
+    "store": "Rewe",
+    "title": "Paulaner Weißbier oder Münchner Hell",
+    "price": "14,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "auch alkoholfrei, je 20 x 0,5-l-Fl.-Kasten, (1 l = 1,50 €), zzgl. 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ai3uttwfi",
+    "store": "Rewe",
+    "title": "Corona Mexican Beer",
+    "price": "5,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 6 x 355-ml-Fl.-Sixpack, (1 l = 2,81 €), zzgl. 0,48 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "jm2kekepy",
+    "store": "Rewe",
+    "title": "Simply V Pizza gerieben",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "vegan, je 180-g-Btl., (1 kg = 11,06 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "uw8mt9xqw",
+    "store": "Rewe",
+    "title": "Barilla Pasta Sauce Basilico",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "je 400-g-Glas, (1 kg = 4,48 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "hqa7fm5bq",
+    "store": "Rewe",
+    "title": "Anheuser- Busch Bud",
+    "price": "5,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 6 x 0,3-l-Fl.-Sixpack, (1 l = 3,33 €), zzgl. 0,48 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "1lsm7tab6",
+    "store": "Rewe",
+    "title": "Heineken Premium Beer",
+    "price": "15,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 20 x 0,4 / 28 x 0,25-l-Fl.-Kasten, (1 l = 2,00 € / 1,28 €), zzgl. 3,10 € / 3,74 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "h0w2w1itx",
     "store": "Kaufland",
     "title": "LEERDAMMER",
     "price": "1,49",
@@ -12,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "pvjy0rfiw",
+    "id": "augbl3u42",
     "store": "Kaufland",
     "title": "K-PURLAND",
     "price": "4,49",
@@ -24,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "1m6bwq7ud",
+    "id": "xxdxhnctp",
     "store": "Kaufland",
     "title": "ITALPIZZA",
     "price": "2,49",
@@ -36,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "guwz3lhmj",
+    "id": "1jwbumxn7",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,49",
@@ -48,7 +156,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "csms5ei29",
+    "id": "nrmdcn4z6",
     "store": "Kaufland",
     "title": "Pizza Salami",
     "price": "0,99",
@@ -60,7 +168,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "qoi23sqel",
+    "id": "9ee60jl76",
     "store": "Kaufland",
     "title": "Pizza-Donut",
     "price": "0,89",
@@ -72,7 +180,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "sklxdqtto",
+    "id": "qqntf0byy",
     "store": "Kaufland",
     "title": "BAYREUTHER",
     "price": "13,99",
@@ -84,7 +192,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "lj0f8rzic",
+    "id": "8i2p5cxnr",
     "store": "Kaufland",
     "title": "BITBURGER",
     "price": "10,99",
@@ -96,7 +204,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "fuydlwhg8",
+    "id": "9vg54eou6",
     "store": "Kaufland",
     "title": "LA MOLISANA",
     "price": "0,99",
@@ -108,7 +216,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "vx8ia2npf",
+    "id": "7grnq7t2l",
     "store": "Kaufland",
     "title": "ESMARA®",
     "price": "3,99",
