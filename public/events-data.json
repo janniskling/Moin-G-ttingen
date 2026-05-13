@@ -1,26 +1,5 @@
 [
   {
-    "title": "QuerQuassler feat. Martin&Maze",
-    "date": "2026-05-12",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Der Norden zu Besuch",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44728768&date=2026-05-12",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "location": "Sparkassen-Arena",
-    "title": "🏀 Heimspiel",
-    "date": "2026-05-12",
-    "time": "19:30",
-    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAPlayoffViertelfinale | Spiel 3Bozic Estriche Knights Kirchheim. Jetzt Tickets sichern!",
-    "category": "Sports",
-    "image": "/images/bg-logo.png",
-    "link": "https://bit.ly/3Y1uBlm"
-  },
-  {
     "title": "LIVE MUSIK",
     "date": "2026-05-13",
     "time": "20:00",
@@ -54,7 +33,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Lioba Albus",
+    "title": "Lioba Albus: Ende offen",
     "date": "2026-05-13",
     "time": "20:00",
     "location": "APEX",
@@ -117,6 +96,17 @@
     "description": "tags pop, rock, electro",
     "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43469948&date=2026-05-15",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Girls Girls Girls",
+    "date": "2026-05-15",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, black, charts",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45299746_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45299746&date=2026-05-15",
     "source": "wasgehtingoettingen"
   },
   {
@@ -186,7 +176,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Abdel Boudii",
+    "title": "Abdel Boudii - Hause geht!",
     "date": "2026-05-16",
     "time": "20:00",
     "location": "musa",
@@ -295,17 +285,6 @@
     "source": "Thanners"
   },
   {
-    "title": "PLH (Presslufthanna)",
-    "date": "2026-05-21",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Kultur",
-    "description": "PLH Ultra Tour, 23,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43202778&date=2026-05-21",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "BLUES'N'BOOGIE KÜCHE",
     "date": "2026-05-21",
     "time": "20:00",
@@ -317,12 +296,23 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Improsant",
+    "title": "PLH (Presslufthanna) - PLH Ultra Tour 2025",
+    "date": "2026-05-21",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Sonstiges",
+    "description": "PLH Ultra Tour, 23,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43202778&date=2026-05-21",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Improsant: Director’s Cut",
     "date": "2026-05-21",
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "Director’s Cut – Kampf um die beste Szene",
+    "description": "Kampf um die beste Szene",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44343113&date=2026-05-21",
     "source": "wasgehtingoettingen"
@@ -347,6 +337,17 @@
     "description": "tags rock",
     "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43574183&date=2026-05-22",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Top Ten Charts-Party",
+    "date": "2026-05-22",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, pop, schlager, black, charts",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45299744_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45299744&date=2026-05-22",
     "source": "wasgehtingoettingen"
   },
   {
@@ -383,7 +384,18 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "ZSK",
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-05-23",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45023314_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023314&date=2026-05-23",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "ZSK - Wir kommen in deine Stadt - Tour 2026",
     "date": "2026-05-23",
     "time": "20:00",
     "location": "musa (Saal)",
@@ -405,6 +417,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "90er",
+    "date": "2026-05-23",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, hip-hop, rnb, black, 90er",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45299747_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45299747&date=2026-05-23",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "BEST 80s",
     "date": "2026-05-23",
     "time": "20:00",
@@ -416,26 +439,15 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Comedyflash - Die Stand Up Comedy Show",
+    "title": "DU & ICH • SINGLE EDITION",
     "date": "2026-05-23",
     "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "tags comedy",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45023314_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023314&date=2026-05-23",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, hip-hop, rnb, charts",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45299408_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45299408&date=2026-05-23",
     "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
-    "date": "2026-05-23",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
-    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-05-23/",
-    "source": "Exil",
-    "category": "Kultur"
   },
   {
     "title": "SWING-A-ROUND",
@@ -457,6 +469,28 @@
     "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45119159_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45119159&date=2026-05-25",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Gerrit Zitterbart & Klaus Pawlowski",
+    "date": "2026-05-27",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Sonstiges",
+    "description": "Wer beatlet mehr?",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45289733&date=2026-05-27",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "mittwochs im club",
+    "date": "2026-05-27",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "Eintritt: VVK 8€",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45299409_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45299409&date=2026-05-27",
     "source": "wasgehtingoettingen"
   },
   {
@@ -482,6 +516,17 @@
     "source": "Thanners"
   },
   {
+    "title": "Bernd Nawothnig & Friends",
+    "date": "2026-05-28",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "JazzSession",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44924179&date=2026-05-28",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-wings-2026-05-28",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -493,15 +538,92 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "Fliehende Stürme",
+    "date": "2026-05-29",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Kultur",
+    "description": "21,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44254899&date=2026-05-29",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Mariam Lazizi Quartett: In Concert",
+    "date": "2026-05-29",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "In concert, ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44445119&date=2026-05-29",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Inventur Party",
+    "date": "2026-05-29",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 8,90 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45299745_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45299745&date=2026-05-29",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "KLANGWELT",
     "date": "2026-05-29",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/klangweltneutral-960x1280.jpeg",
-    "link": "https://exil-web.de/event/klangwelt-2/2026-05-29/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/44938814_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44938814&date=2026-05-29",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "New Orleans Syncopators",
+    "date": "2026-05-30",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Lazy Saturday Afternoon",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45289734&date=2026-05-30",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Latin Dance Workout x Strongnation",
+    "date": "2026-05-30",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45299410_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45299410&date=2026-05-30",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Reisegruppe Ehrenfeld: Der Sinn des Lebens und der ganze andere Scheiß",
+    "date": "2026-05-30",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Der Sinn des Lebens und der ganze andere Scheiß, ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=42745938&date=2026-05-30",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "FUNKY P*SSY CLUB – SUMMER MADNESS",
+    "date": "2026-05-30",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, hip-hop, dancehall, rnb",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45299411_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45299411&date=2026-05-30",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "IT’S TUESDAY, BABY…",
@@ -568,6 +690,17 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "id": "jones-wings-2026-06-11",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-06-11",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",

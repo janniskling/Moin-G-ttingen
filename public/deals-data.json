@@ -1,6 +1,6 @@
 [
   {
-    "id": "buage7ybo",
+    "id": "rbhw22dh9",
     "store": "Rewe",
     "title": "Barilla Pesto Rosso",
     "price": "1,79",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "s4xr205m0",
+    "id": "xcq0iovag",
     "store": "Rewe",
     "title": "Dr. Oetker Ristorante Pizza Salame",
     "price": "1,79",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "bok7iasp8",
+    "id": "zhgmv8gpg",
     "store": "Rewe",
     "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
     "price": "0,99",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "bcrkgozlx",
+    "id": "eldhg483v",
     "store": "Rewe",
     "title": "Paulaner Weißbier oder Münchner Hell",
     "price": "14,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "4drb80hav",
+    "id": "a7cfxa3mk",
     "store": "Rewe",
     "title": "Corona Mexican Beer",
     "price": "5,99",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ghblis2vk",
+    "id": "4uf9kjxbu",
     "store": "Rewe",
     "title": "Simply V Pizza gerieben",
     "price": "1,99",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "cxf35lbww",
+    "id": "vjt8k2409",
     "store": "Rewe",
     "title": "Barilla Pasta Sauce Basilico",
     "price": "1,79",
@@ -84,7 +84,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "irfnu4fr4",
+    "id": "dzbkufsq9",
     "store": "Rewe",
     "title": "Anheuser- Busch Bud",
     "price": "5,99",
@@ -96,7 +96,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "vej6xm7me",
+    "id": "dow01ofkr",
     "store": "Rewe",
     "title": "Heineken Premium Beer",
     "price": "15,99",
@@ -106,125 +106,5 @@
     "description": "je 20 x 0,4 / 28 x 0,25-l-Fl.-Kasten, (1 l = 2,00 € / 1,28 €), zzgl. 3,10 € / 3,74 € Pfand",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "jugritkvo",
-    "store": "Kaufland",
-    "title": "LEERDAMMER",
-    "price": "1,49",
-    "oldPrice": "2,69",
-    "discount": "45%",
-    "image": "🍺",
-    "description": "(1 kg = 11.94) / (1 kg = 9.94)**",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "g4slzmr8g",
-    "store": "Kaufland",
-    "title": "K-PURLAND",
-    "price": "4,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "(1 kg = 5.99)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "pwvj9mm6l",
-    "store": "Kaufland",
-    "title": "ITALPIZZA",
-    "price": "2,49",
-    "oldPrice": "3,49",
-    "discount": "29%",
-    "image": "🍕",
-    "description": "(1 kg = 5.66 - 8.59)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "oqm4prpm3",
-    "store": "Kaufland",
-    "title": "K-CLASSIC",
-    "price": "1,49",
-    "oldPrice": "1,89",
-    "discount": "21%",
-    "image": "🍺",
-    "description": "(1 kg = 2.98)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "5v4dun7tb",
-    "store": "Kaufland",
-    "title": "Pizza Salami",
-    "price": "0,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "Details im Markt",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "qobvsdzqt",
-    "store": "Kaufland",
-    "title": "Pizza-Donut",
-    "price": "0,89",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "Details im Markt",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "58gmm9ni3",
-    "store": "Kaufland",
-    "title": "BAYREUTHER",
-    "price": "13,99",
-    "oldPrice": "16,99",
-    "discount": "18%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,33-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "pduxujxdf",
-    "store": "Kaufland",
-    "title": "BITBURGER",
-    "price": "10,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "dld4b0vfi",
-    "store": "Kaufland",
-    "title": "LA MOLISANA",
-    "price": "0,99",
-    "oldPrice": "1,99",
-    "discount": "50%",
-    "image": "🍺",
-    "description": "(1 kg = 1.98)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "d5c902vo7",
-    "store": "Kaufland",
-    "title": "ESMARA®",
-    "price": "3,99",
-    "oldPrice": "12,99",
-    "discount": "69%",
-    "image": "🍺",
-    "description": "Details im Markt",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
 ]
