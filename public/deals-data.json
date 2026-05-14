@@ -1,6 +1,6 @@
 [
   {
-    "id": "rbhw22dh9",
+    "id": "eqlbwa7t3",
     "store": "Rewe",
     "title": "Barilla Pesto Rosso",
     "price": "1,79",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "xcq0iovag",
+    "id": "e8vgyxvvz",
     "store": "Rewe",
     "title": "Dr. Oetker Ristorante Pizza Salame",
     "price": "1,79",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "zhgmv8gpg",
+    "id": "sz05caksc",
     "store": "Rewe",
     "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
     "price": "0,99",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "eldhg483v",
+    "id": "k7zgy14dp",
     "store": "Rewe",
     "title": "Paulaner Weißbier oder Münchner Hell",
     "price": "14,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "a7cfxa3mk",
+    "id": "t8j585rtg",
     "store": "Rewe",
     "title": "Corona Mexican Beer",
     "price": "5,99",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "4uf9kjxbu",
+    "id": "137r6ezid",
     "store": "Rewe",
     "title": "Simply V Pizza gerieben",
     "price": "1,99",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "vjt8k2409",
+    "id": "f5o0qtonp",
     "store": "Rewe",
     "title": "Barilla Pasta Sauce Basilico",
     "price": "1,79",
@@ -84,7 +84,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "dzbkufsq9",
+    "id": "teg6wwmjp",
     "store": "Rewe",
     "title": "Anheuser- Busch Bud",
     "price": "5,99",
@@ -96,7 +96,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "dow01ofkr",
+    "id": "xu2dc7xg5",
     "store": "Rewe",
     "title": "Heineken Premium Beer",
     "price": "15,99",
@@ -106,5 +106,77 @@
     "description": "je 20 x 0,4 / 28 x 0,25-l-Fl.-Kasten, (1 l = 2,00 € / 1,28 €), zzgl. 3,10 € / 3,74 € Pfand",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "cavuo4k2p",
+    "store": "Kaufland",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,66",
+    "oldPrice": "3,69",
+    "discount": "55%",
+    "image": "🍕",
+    "description": "(1 kg = 5.54 - 6.15)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "zh9fojqsd",
+    "store": "Kaufland",
+    "title": "DR. OETKER",
+    "price": "1,99",
+    "oldPrice": "3,49",
+    "discount": "43%",
+    "image": "🍺",
+    "description": "(1 kg = 4.86 - 6.22)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "m2cayegbq",
+    "store": "Kaufland",
+    "title": "PAULANER",
+    "price": "10,99",
+    "oldPrice": "16,49",
+    "discount": "33%",
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "xxlvrtnde",
+    "store": "Kaufland",
+    "title": "SILVERCREST®",
+    "price": "4,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Details im Markt",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "iox1t06fi",
+    "store": "Kaufland",
+    "title": "Barilla Classic Nudeln",
+    "price": "1,69",
+    "oldPrice": "2,99",
+    "discount": "43%",
+    "image": "🍝",
+    "description": "(1 kg = 7.48) / (1 kg = 4.23)**",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "h3xkxox3n",
+    "store": "Kaufland",
+    "title": "DE CECCO",
+    "price": "1,19",
+    "oldPrice": "2,69",
+    "discount": "56%",
+    "image": "🍺",
+    "description": "(1 kg = 5.38) / (1 kg = 2.38)**",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
 ]

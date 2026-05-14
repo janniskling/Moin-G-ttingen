@@ -1,71 +1,5 @@
 [
   {
-    "title": "LIVE MUSIK",
-    "date": "2026-05-13",
-    "time": "20:00",
-    "location": "Dots",
-    "category": "Kultur",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/40293676_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=40293676&date=2026-05-13",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Doppeldecker Party",
-    "date": "2026-05-13",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, 90er, 2000er",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45214403_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45214403&date=2026-05-13",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "MITTWOCHSIMCLUB • VATERTAG EDIT.",
-    "date": "2026-05-13",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "tags pop, hip-hop, house, charts",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45213987_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45213987&date=2026-05-13",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Lioba Albus: Ende offen",
-    "date": "2026-05-13",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Ende offen",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43202774&date=2026-05-13",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-05-13",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-05-13",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-05-13",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "id": "jones-wings-2026-05-14",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -327,6 +261,17 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "Stereo Kulisse",
+    "date": "2026-05-22",
+    "time": "20:00",
+    "location": "Dots",
+    "category": "Kultur",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/12702_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45300206&date=2026-05-22",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "Rock gegen Rheuma",
