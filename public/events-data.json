@@ -1,16 +1,5 @@
 [
   {
-    "id": "jones-wings-2026-05-14",
-    "location": "Mr. Jones",
-    "title": "Wings Thursday",
-    "date": "2026-05-14",
-    "time": "18:00",
-    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
-    "category": "Sonstiges",
-    "image": "/images/chicken-wings.jpg",
-    "link": "https://www.mrjones.de"
-  },
-  {
     "title": "La Boum Party",
     "date": "2026-05-15",
     "time": "20:00",
@@ -130,16 +119,6 @@
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43558627&date=2026-05-16",
     "source": "wasgehtingoettingen"
-  },
-  {
-    "location": "Sparkassen-Arena",
-    "title": "🏀 Heimspiel",
-    "date": "2026-05-16",
-    "time": "18:30",
-    "description": "BBL Heimspiel gegen 2026| wenn nötig|ProAPlayoffViertelfinale | Spiel 5Bozic Estriche Knights Kirchheim. Jetzt Tickets sichern!",
-    "category": "Sports",
-    "image": "/images/bg-logo.png",
-    "link": "https://bit.ly/3Y1uBlm"
   },
   {
     "title": "SWING-A-ROUND",
@@ -329,17 +308,6 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
-    "date": "2026-05-23",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "tags comedy",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45023314_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023314&date=2026-05-23",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "ZSK - Wir kommen in deine Stadt - Tour 2026",
     "date": "2026-05-23",
     "time": "20:00",
@@ -393,6 +361,28 @@
     "image": "https://www.wasgehtingoettingen.de/images/termine/45299408_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45299408&date=2026-05-23",
     "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Comedyflash - Die Stand Up Comedy Show",
+    "date": "2026-05-23",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45023314_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023314&date=2026-05-23",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-05-23",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-05-23/",
+    "source": "Exil",
+    "category": "Kultur"
   },
   {
     "title": "SWING-A-ROUND",
