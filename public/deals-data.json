@@ -1,6 +1,78 @@
 [
   {
-    "id": "7agl9isjo",
+    "id": "d8h3vbkxc",
+    "store": "Rewe",
+    "title": "De Cecco Pasta",
+    "price": "1,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 2,98 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "cx2gdg1lb",
+    "store": "Rewe",
+    "title": "Krombacher Pils oder alkoholfrei",
+    "price": "10,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,38 € / 1,10 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "2opfryjvz",
+    "store": "Rewe",
+    "title": "Original Wagner Steinofen Pizza Salami",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 5,59 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "dtkb4xexi",
+    "store": "Rewe",
+    "title": "Peroni Nastro Azzurro oder Alkoholfrei",
+    "price": "4,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 6 x 0,33-l-Fl.-Sixpack, (1 l = 2,52 €), zzgl. 0,48 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "s75p8bcgo",
+    "store": "Rewe",
+    "title": "Coppenrath & Wiese Cafeteria fein & sahnig Erdbeer Joghurt",
+    "price": "3,50",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Details im Markt",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "72cw4e2lc",
+    "store": "Rewe",
+    "title": "Franziskaner Weissbier",
+    "price": "13,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 20 x 0,5-l-Fl.-Kasten, (1 l = 1,40 €), zzgl. 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "vmmddj38k",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,66",
@@ -12,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "xljmzwwz6",
+    "id": "8zw9fluaz",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "1,99",
@@ -24,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "3ywju5z5w",
+    "id": "c0tlkrcb4",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "10,99",
@@ -36,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ysy49uqeg",
+    "id": "g46fokoc1",
     "store": "Kaufland",
     "title": "SILVERCREST®",
     "price": "4,99",
@@ -48,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "sko5nv9wy",
+    "id": "nylmzys7a",
     "store": "Kaufland",
     "title": "GUSTAVO GUSTO",
     "price": "2,99",
@@ -60,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "k49zfq7kk",
+    "id": "4ii54pvzi",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,69",
@@ -72,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "7pe7yrwvx",
+    "id": "i2d024r62",
     "store": "Kaufland",
     "title": "DE CECCO",
     "price": "1,19",
