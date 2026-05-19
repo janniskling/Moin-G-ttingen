@@ -1,6 +1,6 @@
 [
   {
-    "id": "d8h3vbkxc",
+    "id": "6vgle3rky",
     "store": "Rewe",
     "title": "De Cecco Pasta",
     "price": "1,49",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "cx2gdg1lb",
+    "id": "dwf5v2sla",
     "store": "Rewe",
     "title": "Krombacher Pils oder alkoholfrei",
     "price": "10,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "2opfryjvz",
+    "id": "8q9cg2x11",
     "store": "Rewe",
     "title": "Original Wagner Steinofen Pizza Salami",
     "price": "1,79",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "dtkb4xexi",
+    "id": "hujlnh8xn",
     "store": "Rewe",
     "title": "Peroni Nastro Azzurro oder Alkoholfrei",
     "price": "4,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "s75p8bcgo",
+    "id": "gtcqpff2u",
     "store": "Rewe",
     "title": "Coppenrath & Wiese Cafeteria fein & sahnig Erdbeer Joghurt",
     "price": "3,50",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "72cw4e2lc",
+    "id": "5r56tbvjn",
     "store": "Rewe",
     "title": "Franziskaner Weissbier",
     "price": "13,99",
@@ -70,89 +70,5 @@
     "description": "versch. Sorten, je 20 x 0,5-l-Fl.-Kasten, (1 l = 1,40 €), zzgl. 3,10 € Pfand",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "vmmddj38k",
-    "store": "Kaufland",
-    "title": "ORIGINAL WAGNER",
-    "price": "1,66",
-    "oldPrice": "3,69",
-    "discount": "55%",
-    "image": "🍕",
-    "description": "(1 kg = 5.54 - 6.15)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "8zw9fluaz",
-    "store": "Kaufland",
-    "title": "DR. OETKER",
-    "price": "1,99",
-    "oldPrice": "3,49",
-    "discount": "43%",
-    "image": "🍺",
-    "description": "(1 kg = 4.86 - 6.22)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "c0tlkrcb4",
-    "store": "Kaufland",
-    "title": "PAULANER",
-    "price": "10,99",
-    "oldPrice": "16,49",
-    "discount": "33%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "g46fokoc1",
-    "store": "Kaufland",
-    "title": "SILVERCREST®",
-    "price": "4,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Details im Markt",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "nylmzys7a",
-    "store": "Kaufland",
-    "title": "GUSTAVO GUSTO",
-    "price": "2,99",
-    "oldPrice": "4,99",
-    "discount": "40%",
-    "image": "🍺",
-    "description": "(1 kg = 7.02 - 8.13) / (1 kg = 6.30 - 7.30)**",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "4ii54pvzi",
-    "store": "Kaufland",
-    "title": "Barilla Classic Nudeln",
-    "price": "1,69",
-    "oldPrice": "2,99",
-    "discount": "43%",
-    "image": "🍝",
-    "description": "(1 kg = 7.48) / (1 kg = 4.23)**",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "i2d024r62",
-    "store": "Kaufland",
-    "title": "DE CECCO",
-    "price": "1,19",
-    "oldPrice": "2,69",
-    "discount": "56%",
-    "image": "🍺",
-    "description": "(1 kg = 5.38) / (1 kg = 2.38)**",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
 ]

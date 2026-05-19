@@ -1,38 +1,5 @@
 [
   {
-    "title": "SWING-A-ROUND",
-    "date": "2026-05-18",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "Lindy Hop & Swing",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44842528_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44842528&date=2026-05-18",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "1 EURO PARTY",
-    "date": "2026-05-18",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45119158_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45119158&date=2026-05-18",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "APEX-Theaterclub",
-    "date": "2026-05-18",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Freispiel!",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44445117&date=2026-05-18",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "Charm Of Finches",
     "date": "2026-05-20",
     "time": "20:00",
@@ -440,6 +407,39 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "swing-a-round",
+    "date": "2026-06-01",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Lindy Hop & Swing",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-06-01",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Karin Fuhrberg",
+    "date": "2026-06-02",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Singen wie am Lagerfeuer",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45289735&date=2026-06-02",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "IT'S TUESDAY, BABY...",
+    "date": "2026-06-02",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Eintritt: 3,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/44938815_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44938815&date=2026-06-02",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "IT’S TUESDAY, BABY…",
     "date": "2026-06-02",
     "time": "20:00",
@@ -449,6 +449,17 @@
     "link": "https://exil-web.de/event/its-tuesday-baby-2/2026-06-02/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "title": "Friends with Benefiz",
+    "date": "2026-06-03",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Impro gegen Rechts! Benefizveranstaltung mit Göttinger Impro-Gruppen, ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44542662&date=2026-06-03",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-ap-2026-06-03",
@@ -473,6 +484,17 @@
     "source": "Thanners"
   },
   {
+    "title": "Nora Benamara & Robbi Nakayama: AMNESIA",
+    "date": "2026-06-04",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "AMNESIA, ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44924180&date=2026-06-04",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-wings-2026-06-04",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -482,6 +504,39 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "WISECRÄCKER",
+    "date": "2026-06-05",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "Eintritt: VVK: 23,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/44257212_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44257212&date=2026-06-05",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "PowerDance",
+    "date": "2026-06-05",
+    "time": "20:00",
+    "location": "musa (Salon)",
+    "category": "Party",
+    "description": "tags pop, rock, electro",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43574184&date=2026-06-05",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Björn Jentsch: Klassiker des Stummfilms",
+    "date": "2026-06-05",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Sonstiges",
+    "description": "live vertont: Der General (Buster Keaton, 1926), ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44924181&date=2026-06-05",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-ap-2026-06-10",
@@ -515,6 +570,28 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "id": "jones-ap-2026-06-17",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-06-17",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-06-17",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
