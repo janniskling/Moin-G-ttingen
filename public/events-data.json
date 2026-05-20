@@ -44,6 +44,17 @@
     "source": "Thanners"
   },
   {
+    "title": "PLH (Presslufthanna)",
+    "date": "2026-05-21",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Kultur",
+    "description": "PLH Ultra Tour, 23,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43202778&date=2026-05-21",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "BLUES'N'BOOGIE KÜCHE",
     "date": "2026-05-21",
     "time": "20:00",
@@ -52,17 +63,6 @@
     "description": "tags rock, jazz, rock-n-roll, blues, klavier",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45214174_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45214174&date=2026-05-21",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "PLH (Presslufthanna) - PLH Ultra Tour 2025",
-    "date": "2026-05-21",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Sonstiges",
-    "description": "PLH Ultra Tour, 23,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43202778&date=2026-05-21",
     "source": "wasgehtingoettingen"
   },
   {
@@ -154,7 +154,18 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "ZSK - Wir kommen in deine Stadt - Tour 2026",
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-05-23",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45023314_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023314&date=2026-05-23",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "ZSK",
     "date": "2026-05-23",
     "time": "20:00",
     "location": "musa (Saal)",
@@ -209,26 +220,26 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Comedyflash - Die Stand Up Comedy Show",
-    "date": "2026-05-23",
+    "title": "Hausparty XXL",
+    "date": "2026-05-24",
     "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "tags comedy",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45023314_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023314&date=2026-05-23",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, charts",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45392785_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392785&date=2026-05-24",
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
-    "date": "2026-05-23",
+    "title": "AFTER HOUR SOCIETY ✨",
+    "date": "2026-05-24",
     "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
-    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-05-23/",
-    "source": "Exil",
-    "category": "Kultur"
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags techno",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45392053_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392053&date=2026-05-24",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "SWING-A-ROUND",
@@ -396,6 +407,28 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "40+ BEATZ",
+    "date": "2026-05-30",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Kultur",
+    "description": "Tanzvergnügen für Erwachsene, 10,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45389246&date=2026-05-30",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Schlallamann 6",
+    "date": "2026-05-30",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 8,90 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45392786_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392786&date=2026-05-30",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "FUNKY P*SSY CLUB – SUMMER MADNESS",
     "date": "2026-05-30",
     "time": "20:00",
@@ -539,6 +572,28 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "Single Party",
+    "date": "2026-06-05",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 8,90 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45392787_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392787&date=2026-06-05",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "We love Alpe",
+    "date": "2026-06-06",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 8,90 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45392788_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392788&date=2026-06-06",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-ap-2026-06-10",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -592,6 +647,17 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "id": "jones-wings-2026-06-18",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-06-18",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
