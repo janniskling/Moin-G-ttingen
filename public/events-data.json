@@ -1,50 +1,6 @@
 [
   {
-    "title": "Charm Of Finches",
-    "date": "2026-05-20",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Wonderful Oblivion",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43895321&date=2026-05-20",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "mittwochs im club",
-    "date": "2026-05-20",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, pop, rock, hip-hop, house",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45213989_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45213989&date=2026-05-20",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-05-20",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-05-20",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-05-20",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
-    "title": "PLH (Presslufthanna)",
+    "title": "PLH (Presslufthanna) Ultra Tour",
     "date": "2026-05-21",
     "time": "20:00",
     "location": "musa (Saal)",
@@ -55,7 +11,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "BLUES'N'BOOGIE KÜCHE",
+    "title": "Die legendäre -Blues'n'Boogie-Küche",
     "date": "2026-05-21",
     "time": "20:00",
     "location": "Exil",
