@@ -1,49 +1,5 @@
 [
   {
-    "title": "PLH (Presslufthanna) Ultra Tour",
-    "date": "2026-05-21",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Kultur",
-    "description": "PLH Ultra Tour, 23,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43202778&date=2026-05-21",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Die legendäre -Blues'n'Boogie-Küche",
-    "date": "2026-05-21",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "tags rock, jazz, rock-n-roll, blues, klavier",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45214174_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45214174&date=2026-05-21",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Improsant: Director’s Cut",
-    "date": "2026-05-21",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Kampf um die beste Szene",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44343113&date=2026-05-21",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-wings-2026-05-21",
-    "location": "Mr. Jones",
-    "title": "Wings Thursday",
-    "date": "2026-05-21",
-    "time": "18:00",
-    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
-    "category": "Sonstiges",
-    "image": "/images/chicken-wings.jpg",
-    "link": "https://www.mrjones.de"
-  },
-  {
     "title": "Stereo Kulisse",
     "date": "2026-05-22",
     "time": "20:00",
@@ -110,17 +66,6 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
-    "date": "2026-05-23",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "tags comedy",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45023314_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023314&date=2026-05-23",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "ZSK",
     "date": "2026-05-23",
     "time": "20:00",
@@ -174,6 +119,28 @@
     "image": "https://www.wasgehtingoettingen.de/images/termine/45299408_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45299408&date=2026-05-23",
     "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Comedyflash - Die Stand Up Comedy Show",
+    "date": "2026-05-23",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45023314_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023314&date=2026-05-23",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-05-23",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-05-23/",
+    "source": "Exil",
+    "category": "Kultur"
   },
   {
     "title": "Hausparty XXL",
