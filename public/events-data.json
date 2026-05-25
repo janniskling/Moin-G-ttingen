@@ -1,27 +1,5 @@
 [
   {
-    "title": "Hausparty XXL",
-    "date": "2026-05-24",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, charts",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45392785_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392785&date=2026-05-24",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "AFTER HOUR SOCIETY ✨",
-    "date": "2026-05-24",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "tags techno",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45392053_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392053&date=2026-05-24",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-05-25",
     "time": "20:00",
@@ -385,6 +363,39 @@
     "category": "Kultur"
   },
   {
+    "title": "swing-a-round",
+    "date": "2026-06-08",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Lindy Hop & Swing",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-06-08",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "QuerQuassler",
+    "date": "2026-06-09",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "... meets Gänseliesel, ab 11,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45111718&date=2026-06-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "LIVE MUSIK",
+    "date": "2026-06-10",
+    "time": "20:00",
+    "location": "Dots",
+    "category": "Kultur",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/40293676_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=40293676&date=2026-06-10",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-ap-2026-06-10",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -407,6 +418,17 @@
     "source": "Thanners"
   },
   {
+    "title": "Jacqueline Amirfallah & Comedy Company: Schmeckt´s?",
+    "date": "2026-06-11",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Die Impro-Kochshow, ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45111735&date=2026-06-11",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-wings-2026-06-11",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -416,6 +438,39 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "JANIZ | presented by JANIZ Music",
+    "date": "2026-06-12",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "Eintritt: VVK: 19,90 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/44938816_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44938816&date=2026-06-12",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Rock gegen Rheuma",
+    "date": "2026-06-12",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Party",
+    "description": "tags rock",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43574185&date=2026-06-12",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "GTD Comedy Slam: der größte Comedy-Slam Deutschlands",
+    "date": "2026-06-12",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Der größte Comedy-Slam Deutschlands, ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44931549&date=2026-06-12",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "#wirsinddienacht",
