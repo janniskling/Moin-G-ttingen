@@ -1,27 +1,5 @@
 [
   {
-    "title": "SWING-A-ROUND",
-    "date": "2026-05-25",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "Lindy Hop & Swing",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44842531_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44842531&date=2026-05-25",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "1 EURO PARTY",
-    "date": "2026-05-25",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45119159_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45119159&date=2026-05-25",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "Gerrit Zitterbart & Klaus Pawlowski",
     "date": "2026-05-27",
     "time": "20:00",
@@ -537,6 +515,28 @@
     "link": "https://exil-web.de/event/cheers-to-the-queers-party-4-4/2026-06-20/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "id": "jones-ap-2026-06-24",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-06-24",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-06-24",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
   },
   {
     "title": "KLANGWELT",
