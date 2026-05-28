@@ -1,6 +1,6 @@
 [
   {
-    "id": "5o8to404d",
+    "id": "rw12n8mds",
     "store": "Rewe",
     "title": "Veltins Pilsener",
     "price": "11,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ip5fx73m7",
+    "id": "36m2ygabf",
     "store": "Rewe",
     "title": "Beck’s Pils",
     "price": "10,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ay3fu4hzh",
+    "id": "xfnmgsb8u",
     "store": "Rewe",
     "title": "Wagner Die Backfrische Mozzarella",
     "price": "1,99",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "eqvvc49mz",
+    "id": "jybyhyvio",
     "store": "Rewe",
     "title": "Schwartau Konfitüre Extra",
     "price": "2,29",
@@ -48,19 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "b3a84nb7a",
-    "store": "Rewe",
-    "title": "Wagner Big City Salami",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 415-g-Pckg., (1 kg = 4,80 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "abcw40qxv",
+    "id": "qq58khds8",
     "store": "Rewe",
     "title": "Schwartau Samt",
     "price": "2,29",
@@ -72,14 +60,98 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "9ll37edo2",
+    "id": "zcrje5r6a",
+    "store": "Rewe",
+    "title": "Wagner Big City Salami",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 415-g-Pckg., (1 kg = 4,80 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ygrxtcvyf",
     "store": "Kaufland",
-    "title": "HARIBO",
-    "price": "1,29",
-    "oldPrice": "1,69",
-    "discount": "24%",
+    "title": "HASSERÖDER",
+    "price": "17,99",
+    "oldPrice": null,
+    "discount": null,
     "image": "🍺",
-    "description": "(1 kg = 6.45 - 7.38)",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "zxfrfy9dm",
+    "store": "Kaufland",
+    "title": "GAGGLI",
+    "price": "1,19",
+    "oldPrice": "1,99",
+    "discount": "40%",
+    "image": "🍺",
+    "description": "(1 kg = 4.76)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "xjb4c3axi",
+    "store": "Kaufland",
+    "title": "HENGLEIN",
+    "price": "1,29",
+    "oldPrice": "2,99",
+    "discount": "57%",
+    "image": "🍺",
+    "description": "(1 kg = 2.71) / (1 kg = 2.35)**",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "677bpkwvm",
+    "store": "Kaufland",
+    "title": "K-CLASSIC",
+    "price": "1,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 kg = 2.98)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "t62ex88t8",
+    "store": "Kaufland",
+    "title": "KROMBACHER",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 l = 1.58)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "iyipc5kyt",
+    "store": "Kaufland",
+    "title": "BECKSTEINER WEINHAUS",
+    "price": "3,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 l = 5.32)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "gm6zui3pf",
+    "store": "Kaufland",
+    "title": "ERDINGER BRAUHAUS",
+    "price": "13,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
