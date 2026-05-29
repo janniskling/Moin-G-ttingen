@@ -1,6 +1,6 @@
 [
   {
-    "id": "rw12n8mds",
+    "id": "8anjsutx2",
     "store": "Rewe",
     "title": "Veltins Pilsener",
     "price": "11,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "36m2ygabf",
+    "id": "rxe8kgswt",
     "store": "Rewe",
     "title": "Beck’s Pils",
     "price": "10,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "xfnmgsb8u",
+    "id": "46e4lxp4n",
     "store": "Rewe",
     "title": "Wagner Die Backfrische Mozzarella",
     "price": "1,99",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "jybyhyvio",
+    "id": "jpd1youke",
     "store": "Rewe",
     "title": "Schwartau Konfitüre Extra",
     "price": "2,29",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "qq58khds8",
+    "id": "amqw1j4tr",
     "store": "Rewe",
     "title": "Schwartau Samt",
     "price": "2,29",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "zcrje5r6a",
+    "id": "1j6vmuq7k",
     "store": "Rewe",
     "title": "Wagner Big City Salami",
     "price": "1,99",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ygrxtcvyf",
+    "id": "nzyn28ufd",
     "store": "Kaufland",
     "title": "HASSERÖDER",
     "price": "17,99",
@@ -84,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "zxfrfy9dm",
+    "id": "j4orwmwqx",
     "store": "Kaufland",
     "title": "GAGGLI",
     "price": "1,19",
@@ -96,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "xjb4c3axi",
+    "id": "0vpssfs8x",
     "store": "Kaufland",
     "title": "HENGLEIN",
     "price": "1,29",
@@ -108,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "677bpkwvm",
+    "id": "gzoswyvt6",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,49",
@@ -120,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "t62ex88t8",
+    "id": "bvmrbd26g",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "0,99",
@@ -132,7 +132,19 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "iyipc5kyt",
+    "id": "jhe6z7552",
+    "store": "Kaufland",
+    "title": "DR. OETKER",
+    "price": "1,79",
+    "oldPrice": "3,69",
+    "discount": "51%",
+    "image": "🍺",
+    "description": "(1 kg = 4.32 - 4.65)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "9rvf9i7am",
     "store": "Kaufland",
     "title": "BECKSTEINER WEINHAUS",
     "price": "3,99",
@@ -144,7 +156,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "gm6zui3pf",
+    "id": "vwjnp4uvl",
     "store": "Kaufland",
     "title": "ERDINGER BRAUHAUS",
     "price": "13,99",

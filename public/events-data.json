@@ -1,27 +1,5 @@
 [
   {
-    "title": "Bernd Nawothnig & Friends",
-    "date": "2026-05-28",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "JazzSession",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44924179&date=2026-05-28",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-wings-2026-05-28",
-    "location": "Mr. Jones",
-    "title": "Wings Thursday",
-    "date": "2026-05-28",
-    "time": "18:00",
-    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
-    "category": "Sonstiges",
-    "image": "/images/chicken-wings.jpg",
-    "link": "https://www.mrjones.de"
-  },
-  {
     "title": "Fliehende Stürme",
     "date": "2026-05-29",
     "time": "20:00",
