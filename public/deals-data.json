@@ -1,78 +1,114 @@
 [
   {
-    "id": "el53eh2gy",
+    "id": "oly1l914c",
     "store": "Rewe",
-    "title": "Veltins Pilsener",
-    "price": "11,99",
+    "title": "Barilla Pesto Rosso",
+    "price": "1,79",
     "oldPrice": null,
     "discount": null,
-    "image": "🍺",
-    "description": "je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,51 € / 1,20 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "image": "🍝",
+    "description": "je 200-g-Glas, (1 kg = 8,95 €)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "1tz4c54pc",
+    "id": "6dbpnq9ol",
     "store": "Rewe",
-    "title": "Beck’s Pils",
-    "price": "10,99",
+    "title": "Barilla Classic Pasta",
+    "price": "0,88",
     "oldPrice": null,
     "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,39 € / 1,10 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 1,76 €)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "r6kfqfzp1",
+    "id": "3e6kinopb",
     "store": "Rewe",
-    "title": "Wagner Die Backfrische Mozzarella",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 350-g-Pckg., (1 kg = 5,69 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "arz7ti4fu",
-    "store": "Rewe",
-    "title": "Schwartau Konfitüre Extra",
-    "price": "2,29",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Erdbeere, je 340-g-Glas, (1 kg = 6,74 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "n8avvmzv1",
-    "store": "Rewe",
-    "title": "Schwartau Samt",
-    "price": "2,29",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Himbeere, je 270-g-Glas, (1 kg = 8,48 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "send9gwnj",
-    "store": "Rewe",
-    "title": "Wagner Big City Salami",
-    "price": "1,99",
+    "title": "Gustavo Gusto Pizza Margherita",
+    "price": "3,49",
     "oldPrice": null,
     "discount": null,
     "image": "🍕",
-    "description": "tiefgefroren, je 415-g-Pckg., (1 kg = 4,80 €)",
+    "description": "tiefgefroren, je 410-g-Pckg., (1 kg = 8,51 €)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "1p1l3v5oc",
+    "id": "cu9le6s41",
+    "store": "Rewe",
+    "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "je 61-g-Becher, (1 kg = 16,23 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ou43xxmzr",
+    "store": "Rewe",
+    "title": "Desperados Beer",
+    "price": "5,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 4 x 0,33-l-Fl.-Pckg., (1 l = 4,16 €), zzgl. 0,32 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "kg7v8wpq0",
+    "store": "Rewe",
+    "title": "Barilla Pasta Sauce Basilico",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "je 400-g-Glas, (1 kg = 4,48 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ncck2c3re",
+    "store": "Rewe",
+    "title": "REWE Bio Mozzarella gerieben",
+    "price": "1,29",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 150-g-Btl., (1 kg = 8,60 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "yftv1lhcw",
+    "store": "Rewe",
+    "title": "Ramazzotti Amaro oder Aperitivo Arancia",
+    "price": "9,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "30% Vol. oder alkoholfrei, je 0,7-l-Fl., (1 l = 14,27 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "6uja8sw0c",
+    "store": "Rewe",
+    "title": "Steinhaus Pasta Rustica Tortelli",
+    "price": "1,69",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Sorten, je 200-g-Btl., (1 kg = 8,45 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "17sdd6vfu",
     "store": "Kaufland",
     "title": "HASSERÖDER",
     "price": "17,99",
@@ -84,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "44de91bdg",
+    "id": "khkqo2e4t",
     "store": "Kaufland",
     "title": "GAGGLI",
     "price": "1,19",
@@ -96,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ft2uijf9z",
+    "id": "mtkbcly7n",
     "store": "Kaufland",
     "title": "HENGLEIN",
     "price": "1,29",
@@ -108,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "afj5yg225",
+    "id": "zs9bg0t0p",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,49",
@@ -120,7 +156,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "0oqztr6lf",
+    "id": "zspd29tz1",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "0,99",
@@ -132,19 +168,19 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ow6erobb1",
+    "id": "nsvh1sucf",
     "store": "Kaufland",
-    "title": "DR. OETKER",
-    "price": "1,79",
-    "oldPrice": "3,69",
-    "discount": "51%",
+    "title": "VELTINS",
+    "price": "10,99",
+    "oldPrice": "17,99",
+    "discount": "39%",
     "image": "🍺",
-    "description": "(1 kg = 4.32 - 4.65)",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "dti2s4ste",
+    "id": "2lts0547w",
     "store": "Kaufland",
     "title": "BECKSTEINER WEINHAUS",
     "price": "3,99",
@@ -156,7 +192,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "7xkcloyoo",
+    "id": "mp9l8q14t",
     "store": "Kaufland",
     "title": "ERDINGER BRAUHAUS",
     "price": "13,99",
