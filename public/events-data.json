@@ -1,38 +1,5 @@
 [
   {
-    "title": "Karin Fuhrberg",
-    "date": "2026-06-02",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Singen wie am Lagerfeuer",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45289735&date=2026-06-02",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "IT'S TUESDAY, BABY...",
-    "date": "2026-06-02",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "tags indie, 80er",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44938815_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44938815&date=2026-06-02",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "IT’S TUESDAY, BABY…",
-    "date": "2026-06-02",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/webPoster-960x1280.jpeg",
-    "link": "https://exil-web.de/event/its-tuesday-baby-2/2026-06-02/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "title": "mittwochs im club",
     "date": "2026-06-03",
     "time": "20:00",
@@ -129,6 +96,17 @@
     "description": "tags (teilw.) eintritt frei",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45392787_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392787&date=2026-06-05",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "LAST FRIDAY NIGHT",
+    "date": "2026-06-05",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, pop, house, 2010er",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45551032_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45551032&date=2026-06-05",
     "source": "wasgehtingoettingen"
   },
   {
@@ -231,12 +209,23 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "1 EURO PARTY",
+    "date": "2026-06-08",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45551503_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45551503&date=2026-06-08",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "QuerQuassler",
     "date": "2026-06-09",
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "... meets Gänseliesel, ab 11,00 €",
+    "description": "... meets Gänseliesel",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45111718&date=2026-06-09",
     "source": "wasgehtingoettingen"
@@ -286,6 +275,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "PROFS@TURNTABLES",
+    "date": "2026-06-11",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45551033_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45551033&date=2026-06-11",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-wings-2026-06-11",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -327,6 +327,28 @@
     "description": "Der größte Comedy-Slam Deutschlands, ab 22,00 €",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44931549&date=2026-06-12",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "WE LOVE GERMAN MUSIC",
+    "date": "2026-06-12",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 8,90 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45551504_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45551504&date=2026-06-12",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "CHARTS & HEARTS",
+    "date": "2026-06-12",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, pop, charts",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45551034_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45551034&date=2026-06-12",
     "source": "wasgehtingoettingen"
   },
   {
@@ -374,17 +396,6 @@
     "category": "Kultur"
   },
   {
-    "title": "1 EURO PARTY",
-    "date": "2026-06-15",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "Eintritt: 7,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45466059_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466059&date=2026-06-15",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "swing-a-round",
     "date": "2026-06-15",
     "time": "20:00",
@@ -393,6 +404,17 @@
     "description": "Lindy Hop & Swing",
     "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-06-15",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "1 EURO PARTY",
+    "date": "2026-06-15",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45466059_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466059&date=2026-06-15",
     "source": "wasgehtingoettingen"
   },
   {
@@ -418,6 +440,17 @@
     "source": "Thanners"
   },
   {
+    "title": "stille hunde: Farm der Tiere",
+    "date": "2026-06-18",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466710&date=2026-06-18",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-wings-2026-06-18",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -429,26 +462,125 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "PowerDance",
+    "date": "2026-06-19",
+    "time": "20:00",
+    "location": "musa (Salon)",
+    "category": "Party",
+    "description": "tags pop, rock, electro",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43574186&date=2026-06-19",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "stille hunde: Farm der Tiere",
+    "date": "2026-06-19",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466716&date=2026-06-19",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Fiesta de Tequila",
+    "date": "2026-06-19",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 8,90 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45392789_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392789&date=2026-06-19",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "NACHT DER SCHATTEN",
     "date": "2026-06-19",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/NACHT-DER-SCHATTEN-960x1280.jpg",
-    "link": "https://exil-web.de/event/nacht-der-schatten-2-2-3/2026-06-19/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45465826_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45465826&date=2026-06-19",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Gut gemeint - HipHop Tagesfestival",
+    "date": "2026-06-20",
+    "time": "20:00",
+    "location": "musa",
+    "category": "Kultur",
+    "description": "tags hip-hop",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44346803&date=2026-06-20",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "stille hunde: Farm der Tiere",
+    "date": "2026-06-20",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466728&date=2026-06-20",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "2000er Party",
+    "date": "2026-06-20",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 8,90 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45392791_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392791&date=2026-06-20",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "CHEERS TO THE QUEERS",
     "date": "2026-06-20",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/WebPOSTER--960x1280.jpg",
-    "link": "https://exil-web.de/event/cheers-to-the-queers-party-4-4/2026-06-20/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45465827_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45465827&date=2026-06-20",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "swing-a-round",
+    "date": "2026-06-22",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Lindy Hop & Swing",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-06-22",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "1 EURO PARTY",
+    "date": "2026-06-22",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 7,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45466060_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466060&date=2026-06-22",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "stille hunde: Farm der Tiere",
+    "date": "2026-06-24",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466754&date=2026-06-24",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-ap-2026-06-24",
@@ -537,6 +669,17 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "id": "jones-wings-2026-07-02",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-07-02",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
