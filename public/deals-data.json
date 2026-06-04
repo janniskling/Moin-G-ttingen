@@ -1,6 +1,6 @@
 [
   {
-    "id": "6dajb7oi1",
+    "id": "5gavgrsm8",
     "store": "Rewe",
     "title": "Barilla Pesto Rosso",
     "price": "1,79",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "3nbc5ag47",
+    "id": "33zr12ju2",
     "store": "Rewe",
     "title": "Barilla Classic Pasta",
     "price": "0,88",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "vp0100dq2",
+    "id": "su7ue2jz0",
     "store": "Rewe",
     "title": "Gustavo Gusto Pizza Margherita",
     "price": "3,49",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "x0zes9xac",
+    "id": "p83hvfbgg",
     "store": "Rewe",
     "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
     "price": "0,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "bouwneitx",
+    "id": "yimw3rreu",
     "store": "Rewe",
     "title": "Desperados Beer",
     "price": "5,49",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "24xveqqo3",
+    "id": "pyh3y4g04",
     "store": "Rewe",
     "title": "Barilla Pasta Sauce Basilico",
     "price": "1,79",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ddeghb1z5",
+    "id": "xc996bkyy",
     "store": "Rewe",
     "title": "REWE Bio Mozzarella gerieben",
     "price": "1,29",
@@ -84,7 +84,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "tn00rmgfs",
+    "id": "1eewd38d6",
     "store": "Rewe",
     "title": "Ramazzotti Amaro oder Aperitivo Arancia",
     "price": "9,99",
@@ -96,7 +96,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "o7bjuzogq",
+    "id": "kyt6m7x49",
     "store": "Rewe",
     "title": "Steinhaus Pasta Rustica Tortelli",
     "price": "1,69",
@@ -108,98 +108,86 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "8egxs7zcp",
+    "id": "bt98d6v4r",
     "store": "Kaufland",
-    "title": "HASSERÖDER",
-    "price": "17,99",
-    "oldPrice": null,
-    "discount": null,
+    "title": "Barilla Classic Nudeln",
+    "price": "1,69",
+    "oldPrice": "2,99",
+    "discount": "43%",
+    "image": "🍝",
+    "description": "(1 kg = 4.23)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "00zpefafl",
+    "store": "Kaufland",
+    "title": "KROMBACHER",
+    "price": "9,99",
+    "oldPrice": "17,99",
+    "discount": "44%",
     "image": "🍺",
     "description": "je Ka. 20 x 0,5-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "kyr2fzx0w",
+    "id": "iod9kzzov",
     "store": "Kaufland",
-    "title": "GAGGLI",
-    "price": "1,19",
-    "oldPrice": "1,99",
-    "discount": "40%",
-    "image": "🍺",
-    "description": "(1 kg = 4.76)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "trrdiqfxk",
-    "store": "Kaufland",
-    "title": "HENGLEIN",
-    "price": "1,29",
-    "oldPrice": "2,99",
-    "discount": "57%",
-    "image": "🍺",
-    "description": "(1 kg = 2.71) / (1 kg = 2.35)**",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "2oevlhmqi",
-    "store": "Kaufland",
-    "title": "K-CLASSIC",
-    "price": "1,49",
+    "title": "ORIGINAL WAGNER",
+    "price": "2,00",
     "oldPrice": null,
     "discount": null,
-    "image": "🍺",
-    "description": "(1 kg = 2.98)",
+    "image": "🍕",
+    "description": "(1 kg = 4.55 - 6.25)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "8a3447s64",
+    "id": "2cxiv1ato",
     "store": "Kaufland",
-    "title": "KROMBACHER",
+    "title": "GIOVANNI RANA",
+    "price": "2,00",
+    "oldPrice": "3,99",
+    "discount": "50%",
+    "image": "🍺",
+    "description": "(1 kg = 8.00)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "rurrn5ucp",
+    "store": "Kaufland",
+    "title": "PAULANER",
     "price": "0,99",
     "oldPrice": null,
     "discount": null,
     "image": "🍺",
-    "description": "(1 l = 1.58)",
+    "description": "(1 l = 1.98)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "nkphahpys",
+    "id": "84kkuhssn",
     "store": "Kaufland",
-    "title": "VELTINS",
-    "price": "10,99",
-    "oldPrice": "17,99",
-    "discount": "39%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "k6yb80nq3",
-    "store": "Kaufland",
-    "title": "BECKSTEINER WEINHAUS",
+    "title": "OYANDA®",
     "price": "3,99",
-    "oldPrice": null,
-    "discount": null,
+    "oldPrice": "12,99",
+    "discount": "69%",
     "image": "🍺",
-    "description": "(1 l = 5.32)",
+    "description": "Details im Markt",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "qhahywduf",
+    "id": "zy1zcuyz2",
     "store": "Kaufland",
-    "title": "ERDINGER BRAUHAUS",
-    "price": "13,99",
-    "oldPrice": null,
-    "discount": null,
+    "title": "BITBURGER",
+    "price": "9,49",
+    "oldPrice": "13,49",
+    "discount": "30%",
     "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "description": "je Ka. 20 x 0,33-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
