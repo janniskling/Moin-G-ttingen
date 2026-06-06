@@ -1,82 +1,5 @@
 [
   {
-    "title": "WISECRÄCKER",
-    "date": "2026-06-05",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "tags punk, ska",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/44257212_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44257212&date=2026-06-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "PowerDance",
-    "date": "2026-06-05",
-    "time": "20:00",
-    "location": "musa (Salon)",
-    "category": "Party",
-    "description": "tags pop, rock, electro",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43574184&date=2026-06-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Single Party",
-    "date": "2026-06-05",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45392787_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392787&date=2026-06-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "LAST FRIDAY NIGHT",
-    "date": "2026-06-05",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, pop, house, 2010er",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45551032_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45551032&date=2026-06-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Katzentanz by Rabatz & Radau",
-    "date": "2026-06-05",
-    "time": "20:00",
-    "location": "einsB",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45544071_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45544071&date=2026-06-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "stille hunde: Marzipanschweine",
-    "date": "2026-06-05",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466489&date=2026-06-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Björn Jentsch: Klassiker des Stummfilms",
-    "date": "2026-06-05",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Sonstiges",
-    "description": "live vertont: Der General (Buster Keaton, 1926), ab 22,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44924181&date=2026-06-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "We love Alpe",
     "date": "2026-06-06",
     "time": "20:00",
@@ -437,6 +360,17 @@
     "description": "Eintritt: 7,- €",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45465826_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45465826&date=2026-06-19",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Shake it to the max • FSK16",
+    "date": "2026-06-19",
+    "time": "20:00",
+    "location": "pin Club Savoy",
+    "category": "Sonstiges",
+    "description": "",
+    "image": "",
+    "link": "https://www.wasgehtingoettingen.de/termin_kino.php?id=45465606",
     "source": "wasgehtingoettingen"
   },
   {
