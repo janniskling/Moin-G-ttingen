@@ -1,38 +1,5 @@
 [
   {
-    "title": "PROFS@TURNTABLES",
-    "date": "2026-06-11",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45551033_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45551033&date=2026-06-11",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Jacqueline Amirfallah & Comedy Company",
-    "date": "2026-06-11",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Schmeckt´s? - Die Impro-Kochshow",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45111735&date=2026-06-11",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-wings-2026-06-11",
-    "location": "Mr. Jones",
-    "title": "Wings Thursday",
-    "date": "2026-06-11",
-    "time": "18:00",
-    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
-    "category": "Sonstiges",
-    "image": "/images/chicken-wings.jpg",
-    "link": "https://www.mrjones.de"
-  },
-  {
     "title": "JANIZ | presented by JANIZ Music",
     "date": "2026-06-12",
     "time": "20:00",
@@ -473,7 +440,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "title": "Comedyflash - Die Stand Up Comedy Show",
     "date": "2026-06-27",
     "time": "20:00",
     "location": "Exil",
@@ -504,6 +471,17 @@
     "image": "https://www.wasgehtingoettingen.de/images/termine/45465829_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45465829&date=2026-06-27",
     "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-06-27",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-06-27/",
+    "source": "Exil",
+    "category": "Kultur"
   },
   {
     "id": "jones-ap-2026-07-01",
