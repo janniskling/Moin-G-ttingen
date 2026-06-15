@@ -1,6 +1,78 @@
 [
   {
-    "id": "1ztqcis2s",
+    "id": "myyliz0pq",
+    "store": "Rewe",
+    "title": "Original Wagner Steinofen Pizza Salami",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 6,22 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "cl1yq8q4n",
+    "store": "Rewe",
+    "title": "auch alkoholfrei",
+    "price": "11,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,51 € / 1,20 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "o787ysr0p",
+    "store": "Rewe",
+    "title": "Krombacher Pils oder Alkoholfrei",
+    "price": "3,10",
+    "oldPrice": "3,42",
+    "discount": "9%",
+    "image": "🍺",
+    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,51 € / 1,20 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "d8bk6p4u8",
+    "store": "Rewe",
+    "title": "Söhnlein Brillant Sekt oder Frucht-Sparkling",
+    "price": "2,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 0,75-l-Fl., (1 l = 3,72 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "yf9joa0kn",
+    "store": "Rewe",
+    "title": "Tanqueray London Dry Gin",
+    "price": "15,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "43,1% Vol. oder 0,0% Alkoholfrei, je 0,7-l-Fl., (1 l = 22,84 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "pezda2ckn",
+    "store": "Rewe",
+    "title": "Martini Bianco Vermouth 14,5% Vol. oder Vibrante alkoholfrei",
+    "price": "6,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 0,75-l-Fl., (1 l = 9,32 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "67fbgzshq",
     "store": "Kaufland",
     "title": "BITBURGER",
     "price": "9,99",
@@ -12,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "qyhqc673p",
+    "id": "4nu49ykdp",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "1,79",
@@ -24,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "nr3jjhrln",
+    "id": "hqi7ets0i",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "10,99",
@@ -36,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "8tk57v9ws",
+    "id": "rz8h0vzjd",
     "store": "Kaufland",
     "title": "RADEBERGER",
     "price": "9,99",
@@ -48,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "q5er4f09h",
+    "id": "ccyvt6i2u",
     "store": "Kaufland",
     "title": "MAYBACH",
     "price": "2,79",

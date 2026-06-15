@@ -1,16 +1,5 @@
 [
   {
-    "title": "Die rollende Stadt",
-    "date": "2026-06-14",
-    "time": "20:00",
-    "location": "Dots",
-    "category": "Kultur",
-    "description": "tags kinder",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/12702_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45692895&date=2026-06-14",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "swing-a-round",
     "date": "2026-06-15",
     "time": "20:00",
@@ -394,6 +383,17 @@
     "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-06-27/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "title": "Gauklermärchen",
+    "date": "2026-06-28",
+    "time": "20:00",
+    "location": "Dots",
+    "category": "Kultur",
+    "description": "tags kinder",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/12702_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45692900&date=2026-06-28",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-ap-2026-07-01",
