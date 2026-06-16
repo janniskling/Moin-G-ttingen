@@ -1,38 +1,5 @@
 [
   {
-    "title": "swing-a-round",
-    "date": "2026-06-15",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "Lindy Hop & Swing",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-06-15",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "1 EURO PARTY",
-    "date": "2026-06-15",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45466059_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466059&date=2026-06-15",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Apex-Theaterclub",
-    "date": "2026-06-15",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Freispiel",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45626396&date=2026-06-15",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "mittwochs im club",
     "date": "2026-06-17",
     "time": "20:00",
@@ -396,6 +363,28 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "swing-a-round",
+    "date": "2026-06-29",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Lindy Hop & Swing",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-06-29",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "1 EURO PARTY",
+    "date": "2026-06-29",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45466061_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466061&date=2026-06-29",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-ap-2026-07-01",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -429,6 +418,39 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "PowerDance",
+    "date": "2026-07-03",
+    "time": "20:00",
+    "location": "musa (Salon)",
+    "category": "Party",
+    "description": "tags pop, rock, electro",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43978125&date=2026-07-03",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "swing-a-round",
+    "date": "2026-07-06",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Lindy Hop & Swing",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-07-06",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "LIVE MUSIK",
+    "date": "2026-07-08",
+    "time": "20:00",
+    "location": "Dots",
+    "category": "Kultur",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/40293676_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=40293676&date=2026-07-08",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-ap-2026-07-08",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -460,6 +482,39 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "Rock gegen Rheuma",
+    "date": "2026-07-10",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Party",
+    "description": "tags rock",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43978126&date=2026-07-10",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "id": "jones-ap-2026-07-15",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-07-15",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-07-15",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
   },
   {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
