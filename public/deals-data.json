@@ -1,6 +1,6 @@
 [
   {
-    "id": "xnem4rduk",
+    "id": "sbo5qjwkw",
     "store": "Rewe",
     "title": "Original Wagner Steinofen Pizza Salami",
     "price": "1,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "qie7v76e9",
+    "id": "a0pb8kyri",
     "store": "Rewe",
     "title": "auch alkoholfrei",
     "price": "11,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "2ggryr6fo",
+    "id": "54cglhoxw",
     "store": "Rewe",
     "title": "Krombacher Pils oder Alkoholfrei",
     "price": "3,10",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ylhu1q0xq",
+    "id": "s3yjxt22k",
     "store": "Rewe",
     "title": "Söhnlein Brillant Sekt oder Frucht-Sparkling",
     "price": "2,79",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "egs0jcnp6",
+    "id": "0cckfe52c",
     "store": "Rewe",
     "title": "Tanqueray London Dry Gin",
     "price": "15,99",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "y2711i1qe",
+    "id": "nnhpxp3zc",
     "store": "Rewe",
     "title": "Martini Bianco Vermouth 14,5% Vol. oder Vibrante alkoholfrei",
     "price": "6,99",
@@ -72,62 +72,86 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "nu72p4w9s",
+    "id": "94k51q75q",
     "store": "Kaufland",
-    "title": "BITBURGER",
-    "price": "9,99",
-    "oldPrice": "17,79",
-    "discount": "44%",
-    "image": "🍺",
-    "description": "je Ka. 24 x 0,33-l-Fl.",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,49",
+    "oldPrice": "3,49",
+    "discount": "57%",
+    "image": "🍕",
+    "description": "(1 kg = 4.14 - 4.97)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "8srbalb4v",
+    "id": "jmtsv8rsk",
     "store": "Kaufland",
-    "title": "DR. OETKER",
+    "title": "LEERDAMMER",
+    "price": "1,99",
+    "oldPrice": "2,69",
+    "discount": "26%",
+    "image": "🍺",
+    "description": "(1 kg = 13.27)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "vb5p0l0op",
+    "store": "Kaufland",
+    "title": "K-CLASSIC",
     "price": "1,79",
-    "oldPrice": "1,99",
-    "discount": "10%",
+    "oldPrice": "2,29",
+    "discount": "22%",
     "image": "🍺",
-    "description": "(1 kg = 4.86 - 6.22) / (1 kg = 4.37 - 5.60)**",
+    "description": "(1 l = 3.45)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "pl73d7swh",
+    "id": "94myzvqm4",
     "store": "Kaufland",
     "title": "KROMBACHER",
-    "price": "10,99",
-    "oldPrice": "16,99",
-    "discount": "35%",
+    "price": "3,69",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je Packg. 6 x 0,33-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "1fxwfunq1",
+    "store": "Kaufland",
+    "title": "PADERBORNER",
+    "price": "9,99",
+    "oldPrice": null,
+    "discount": null,
     "image": "🍺",
     "description": "je Ka. 20 x 0,5-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "agw82hlkc",
+    "id": "oeilxm2ug",
     "store": "Kaufland",
-    "title": "RADEBERGER",
+    "title": "Pizza Margherita",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "Details im Markt",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "wxry56f6k",
+    "store": "Kaufland",
+    "title": "BECK'S",
     "price": "9,99",
     "oldPrice": "10,99",
     "discount": "9%",
     "image": "🍺",
     "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "a8cws7cr0",
-    "store": "Kaufland",
-    "title": "MAYBACH",
-    "price": "2,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "(1 l = 3.99) / (1 l = 3.72)**",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
