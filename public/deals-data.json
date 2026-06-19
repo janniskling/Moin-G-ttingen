@@ -1,6 +1,6 @@
 [
   {
-    "id": "sbo5qjwkw",
+    "id": "l8z15w279",
     "store": "Rewe",
     "title": "Original Wagner Steinofen Pizza Salami",
     "price": "1,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "a0pb8kyri",
+    "id": "4g5ia9g9f",
     "store": "Rewe",
     "title": "auch alkoholfrei",
     "price": "11,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "54cglhoxw",
+    "id": "gmt53gf7p",
     "store": "Rewe",
     "title": "Krombacher Pils oder Alkoholfrei",
     "price": "3,10",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "s3yjxt22k",
+    "id": "eijb7ugzc",
     "store": "Rewe",
     "title": "Söhnlein Brillant Sekt oder Frucht-Sparkling",
     "price": "2,79",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "0cckfe52c",
+    "id": "vjjjudu2n",
     "store": "Rewe",
     "title": "Tanqueray London Dry Gin",
     "price": "15,99",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "nnhpxp3zc",
+    "id": "lnptk30pv",
     "store": "Rewe",
     "title": "Martini Bianco Vermouth 14,5% Vol. oder Vibrante alkoholfrei",
     "price": "6,99",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "94k51q75q",
+    "id": "oa6ez8tj7",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,49",
@@ -84,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "jmtsv8rsk",
+    "id": "htweqnjok",
     "store": "Kaufland",
     "title": "LEERDAMMER",
     "price": "1,99",
@@ -96,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "vb5p0l0op",
+    "id": "nmynrsog9",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,79",
@@ -108,7 +108,19 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "94myzvqm4",
+    "id": "f3wqlgflo",
+    "store": "Kaufland",
+    "title": "BECK'S",
+    "price": "9,99",
+    "oldPrice": "10,99",
+    "discount": "9%",
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "vqezxh9uq",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "3,69",
@@ -120,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "1fxwfunq1",
+    "id": "5yriuph5n",
     "store": "Kaufland",
     "title": "PADERBORNER",
     "price": "9,99",
@@ -132,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "oeilxm2ug",
+    "id": "m0j7xr01g",
     "store": "Kaufland",
     "title": "Pizza Margherita",
     "price": "0,99",
@@ -140,18 +152,6 @@
     "discount": null,
     "image": "🍕",
     "description": "Details im Markt",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "wxry56f6k",
-    "store": "Kaufland",
-    "title": "BECK'S",
-    "price": "9,99",
-    "oldPrice": "10,99",
-    "discount": "9%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }

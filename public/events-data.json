@@ -1,27 +1,5 @@
 [
   {
-    "title": "stille hunde",
-    "date": "2026-06-18",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Farm der Tiere",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466710&date=2026-06-18",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-wings-2026-06-18",
-    "location": "Mr. Jones",
-    "title": "Wings Thursday",
-    "date": "2026-06-18",
-    "time": "18:00",
-    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
-    "category": "Sonstiges",
-    "image": "/images/chicken-wings.jpg",
-    "link": "https://www.mrjones.de"
-  },
-  {
     "title": "PowerDance",
     "date": "2026-06-19",
     "time": "20:00",
@@ -33,23 +11,12 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "stille hunde",
-    "date": "2026-06-19",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Farm der Tiere, ab 22,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466716&date=2026-06-19",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "Fiesta de Tequila",
     "date": "2026-06-19",
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 €",
+    "description": "tags (teilw.) eintritt frei, black, charts",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45392789_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392789&date=2026-06-19",
     "source": "wasgehtingoettingen"
@@ -60,9 +27,20 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- €",
+    "description": "tags ebm, electro",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45465826_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45465826&date=2026-06-19",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "stille hunde",
+    "date": "2026-06-19",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Farm der Tiere",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466716&date=2026-06-19",
     "source": "wasgehtingoettingen"
   },
   {
@@ -88,23 +66,12 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "stille hunde",
-    "date": "2026-06-20",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Farm der Tiere, ab 22,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466728&date=2026-06-20",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "2000er Party",
     "date": "2026-06-20",
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 €",
+    "description": "tags (teilw.) eintritt frei, 2000er",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45392791_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392791&date=2026-06-20",
     "source": "wasgehtingoettingen"
@@ -115,7 +82,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- €",
+    "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45465827_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45465827&date=2026-06-20",
     "source": "wasgehtingoettingen"
@@ -129,6 +96,17 @@
     "description": "tags (teilw.) eintritt frei, house",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45629863_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45629863&date=2026-06-20",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "stille hunde",
+    "date": "2026-06-20",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Farm der Tiere",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466728&date=2026-06-20",
     "source": "wasgehtingoettingen"
   },
   {
@@ -159,7 +137,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 7,00 €",
+    "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45466060_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466060&date=2026-06-22",
     "source": "wasgehtingoettingen"
@@ -275,7 +253,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "title": "Comedyflash - Die Stand Up Comedy Show",
     "date": "2026-06-27",
     "time": "20:00",
     "location": "Exil",
@@ -317,6 +295,17 @@
     "image": "https://www.wasgehtingoettingen.de/images/termine/45465829_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45465829&date=2026-06-27",
     "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-06-27",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
+    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-06-27/",
+    "source": "Exil",
+    "category": "Kultur"
   },
   {
     "title": "Gauklermärchen",
