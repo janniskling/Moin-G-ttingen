@@ -1,6 +1,54 @@
 [
   {
-    "id": "duk6l9kgc",
+    "id": "hbxt9fdwc",
+    "store": "Rewe",
+    "title": "Delverde Pasta",
+    "price": "0,89",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 1,78 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "pwr12b5fo",
+    "store": "Rewe",
+    "title": "Veltins Pilsener",
+    "price": "10,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,39 € / 1,10 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "knzszcq7z",
+    "store": "Rewe",
+    "title": "Wagner Big City Salami",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 415-g-Pckg., (1 kg = 4,80 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ta67wrs1b",
+    "store": "Rewe",
+    "title": "Heineken Premium Beer",
+    "price": "15,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 20 x 0,4 / 28 x 0,25-l-Fl.-Kasten, (1 l = 2,00 € / 2,28 €), zzgl. 3,10 € / 3,74 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "old5cj1fd",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,49",
@@ -12,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ytys9dzfq",
+    "id": "q1pj8d8wt",
     "store": "Kaufland",
     "title": "LEERDAMMER",
     "price": "1,99",
@@ -24,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "f21oxaapc",
+    "id": "1qgr4n3pi",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,79",
@@ -36,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "2ydlehxkf",
+    "id": "zc90qulbb",
     "store": "Kaufland",
     "title": "BECK'S",
     "price": "9,99",
@@ -48,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "q6x2uenpl",
+    "id": "wd9iww9pk",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "3,69",
@@ -60,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "kbzn7xy8k",
+    "id": "coztuwnvr",
     "store": "Kaufland",
     "title": "PADERBORNER",
     "price": "9,99",
@@ -72,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "oru1qoj9r",
+    "id": "cpmux1em0",
     "store": "Kaufland",
     "title": "Pizza Margherita",
     "price": "0,99",

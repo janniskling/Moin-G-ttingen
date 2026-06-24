@@ -1,11 +1,22 @@
 [
   {
+    "title": "mittwochs im club",
+    "date": "2026-06-24",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, pop, rock, hip-hop, house",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807277_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807277&date=2026-06-24",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "stille hunde",
     "date": "2026-06-24",
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "Farm der Tiere, ab 22,00 €",
+    "description": "Farm der Tiere",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466754&date=2026-06-24",
     "source": "wasgehtingoettingen"
@@ -38,7 +49,7 @@
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "Farm der Tiere, ab 22,00 €",
+    "description": "Farm der Tiere",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466762&date=2026-06-25",
     "source": "wasgehtingoettingen"
@@ -66,23 +77,12 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "stille hunde",
-    "date": "2026-06-26",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Farm der Tiere, ab 22,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466782&date=2026-06-26",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "Birthday Party",
     "date": "2026-06-26",
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 €",
+    "description": "tags (teilw.) eintritt frei, 90er, 2000er",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45392790_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45392790&date=2026-06-26",
     "source": "wasgehtingoettingen"
@@ -93,9 +93,31 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- €",
+    "description": "tags rock, indie, ebm, industrial",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45465828_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45465828&date=2026-06-26",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "FAKE LOVE",
+    "date": "2026-06-26",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags hip-hop, black",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807278_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807278&date=2026-06-26",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "stille hunde",
+    "date": "2026-06-26",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Farm der Tiere",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466782&date=2026-06-26",
     "source": "wasgehtingoettingen"
   },
   {
@@ -110,12 +132,12 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Comedyflash - Die Stand Up Comedy Show",
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
     "date": "2026-06-27",
     "time": "20:00",
     "location": "Exil",
     "category": "Kultur",
-    "description": "Eintritt: VVK: 24,90 €",
+    "description": "tags comedy",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45023315_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023315&date=2026-06-27",
     "source": "wasgehtingoettingen"
@@ -137,7 +159,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 €",
+    "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45707765_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45707765&date=2026-06-27",
     "source": "wasgehtingoettingen"
@@ -148,21 +170,10 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- €",
+    "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45465829_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45465829&date=2026-06-27",
     "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
-    "date": "2026-06-27",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
-    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-06-27/",
-    "source": "Exil",
-    "category": "Kultur"
   },
   {
     "title": "Gauklermärchen",
@@ -195,6 +206,17 @@
     "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45466061_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466061&date=2026-06-29",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "MITTWOCHSIMCLUB KLUB NACHT",
+    "date": "2026-07-01",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, pop, hip-hop, charts",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807279_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807279&date=2026-07-01",
     "source": "wasgehtingoettingen"
   },
   {
@@ -242,6 +264,50 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "OUTPOST REVIVAL PARTY",
+    "date": "2026-07-03",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807405_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807405&date=2026-07-03",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "SCHOOLS OUT • FSK16",
+    "date": "2026-07-03",
+    "time": "20:00",
+    "location": "pin Club Savoy",
+    "category": "Sonstiges",
+    "description": "",
+    "image": "",
+    "link": "https://www.wasgehtingoettingen.de/termin_kino.php?id=45807280",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "wirsinddienacht",
+    "date": "2026-07-04",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807406_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807406&date=2026-07-04",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Ladies Night",
+    "date": "2026-07-04",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, hip-hop, rnb, 2010er",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807282_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807282&date=2026-07-04",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "#wirsinddienacht",
     "date": "2026-07-04",
     "time": "20:00",
@@ -261,6 +327,17 @@
     "description": "Lindy Hop & Swing",
     "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-07-06",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "IT'S TUESDAY, BABY...",
+    "date": "2026-07-07",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Eintritt: 3,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807407_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807407&date=2026-07-07",
     "source": "wasgehtingoettingen"
   },
   {
@@ -334,22 +411,22 @@
     "date": "2026-07-10",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/NACHT-DER-SCHATTEN-960x1280.jpg",
-    "link": "https://exil-web.de/event/nacht-der-schatten-2-2-3/2026-07-10/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807408_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807408&date=2026-07-10",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "CHEERS TO THE QUEERS",
     "date": "2026-07-11",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/WebPOSTER--960x1280.jpg",
-    "link": "https://exil-web.de/event/cheers-to-the-queers-party-4-4/2026-07-11/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807409_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807409&date=2026-07-11",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "Tritratrullala, die Polizei ist auch schon da | Larifari-Kindersommer",
@@ -422,22 +499,22 @@
     "date": "2026-07-17",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/ALTERNATIVE-SOUND-EXPLOSION-960x1280.jpg",
-    "link": "https://exil-web.de/event/860-2/2026-07-17/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807410_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807410&date=2026-07-17",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "BEST 80s",
     "date": "2026-07-18",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/Best-80s-960x1280.jpg",
-    "link": "https://exil-web.de/event/best-80s/2026-07-18/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807411_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807411&date=2026-07-18",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "swing-a-round",
@@ -473,6 +550,17 @@
     "source": "Thanners"
   },
   {
+    "id": "jones-wings-2026-07-23",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-07-23",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
+  },
+  {
     "title": "SORRY ABOUT YOUR DAUGHTER",
     "date": "2026-07-24",
     "time": "20:00",
@@ -495,7 +583,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Comedyflash - Die Stand Up Comedy Show",
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
     "date": "2026-07-25",
     "time": "20:00",
     "location": "Exil",
@@ -506,15 +594,15 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "title": "wirsinddienacht",
     "date": "2026-07-25",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
-    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-07-25/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807412_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807412&date=2026-07-25",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "#wirsinddienacht",
