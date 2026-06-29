@@ -1,102 +1,6 @@
 [
   {
-    "id": "uzpeonss4",
-    "store": "Rewe",
-    "title": "Barilla Pesto",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "Rosso, je 200-g-Glas, (1 kg = 9,95 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "6l0qng20e",
-    "store": "Rewe",
-    "title": "Barilla Classic Pasta",
-    "price": "0,88",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 1,76 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "8wdanjf2g",
-    "store": "Rewe",
-    "title": "Krombacher Pils oder Alkoholfrei",
-    "price": "11,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,45 € / 1,15 €), zzgl. 3,42 € / 3,10 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "8t9jsj4av",
-    "store": "Rewe",
-    "title": "Desperados Beer",
-    "price": "4,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 4 x 0,33-l-Fl.-Pckg., (1 l = 3,78 €), zzgl. 0,32 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "5vcg5tk04",
-    "store": "Rewe",
-    "title": "Barilla Pasta Sauce",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "Basilico, je 400-g-Glas, (1 kg = 4,98 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "rbzbh9pny",
-    "store": "Rewe",
-    "title": "Lindt Spaghetti-Eis",
-    "price": "1,00",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Details im Markt",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "kpvys2r1x",
-    "store": "Rewe",
-    "title": "Warsteiner Pils",
-    "price": "10,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "je 24 x 0,33-l-Fl.-Kasten, (1 l = 1,39 €), zzgl. 3,42 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "fwvltewsf",
-    "store": "Rewe",
-    "title": "Freche Freunde Fruchtchips",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Erdbeer, je 12-g-Pckg., (1 kg = 149,17 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "6vc3i3h4q",
+    "id": "dk14nlikm",
     "store": "Kaufland",
     "title": "DE CECCO",
     "price": "0,99",
@@ -108,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "7u3y9dbk9",
+    "id": "0c3m9gs4q",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "1,79",
@@ -120,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "4fsddwne4",
+    "id": "kyh4147kk",
     "store": "Kaufland",
     "title": "ORO DI PARMA",
     "price": "0,99",
@@ -132,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "h9ney5oiz",
+    "id": "glwxrjxbq",
     "store": "Kaufland",
     "title": "Pizza-Donut",
     "price": "0,89",
@@ -144,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "4mzk585eh",
+    "id": "8aawt3pa9",
     "store": "Kaufland",
     "title": "K-BIO",
     "price": "1,19",
