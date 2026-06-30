@@ -1,27 +1,5 @@
 [
   {
-    "title": "swing-a-round",
-    "date": "2026-06-29",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "Lindy Hop & Swing",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-06-29",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "1 EURO PARTY",
-    "date": "2026-06-29",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45466061_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45466061&date=2026-06-29",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "MITTWOCHSIMCLUB KLUB NACHT",
     "date": "2026-07-01",
     "time": "20:00",
@@ -440,26 +418,59 @@
     "category": "Kultur"
   },
   {
+    "title": "swing-a-round",
+    "date": "2026-07-27",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Lindy Hop & Swing",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-07-27",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "id": "jones-ap-2026-07-29",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-07-29",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-07-29",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
+  },
+  {
     "title": "KLANGWELT",
     "date": "2026-07-31",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/klangweltneutral-960x1280.jpeg",
-    "link": "https://exil-web.de/event/klangwelt-2-2/2026-07-31/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807413_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807413&date=2026-07-31",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "CHEERS TO THE QUEERS",
     "date": "2026-08-01",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/WebPOSTER--960x1280.jpg",
-    "link": "https://exil-web.de/event/cheers-to-the-queers-party-4-4/2026-08-01/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807414_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807414&date=2026-08-01",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "IT’S TUESDAY, BABY…",
