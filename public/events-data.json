@@ -1,38 +1,5 @@
 [
   {
-    "title": "MITTWOCHSIMCLUB KLUB NACHT",
-    "date": "2026-07-01",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, pop, hip-hop, charts",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45807279_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807279&date=2026-07-01",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-07-01",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-07-01",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-07-01",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "id": "jones-wings-2026-07-02",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -60,7 +27,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- €",
+    "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807405_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807405&date=2026-07-03",
     "source": "wasgehtingoettingen"
@@ -71,7 +38,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 €",
+    "description": "tags (teilw.) eintritt frei, 90er, 2000er",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45904005_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45904005&date=2026-07-03",
     "source": "wasgehtingoettingen"
@@ -93,7 +60,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 €",
+    "description": "tags (teilw.) eintritt frei, 80er, 90er, 2000er",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45904006_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45904006&date=2026-07-04",
     "source": "wasgehtingoettingen"
@@ -104,7 +71,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- €",
+    "description": "tags pop, rock, metal, punk, indie",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807406_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807406&date=2026-07-04",
     "source": "wasgehtingoettingen"
@@ -148,7 +115,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 7,00 €",
+    "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45904009_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45904009&date=2026-07-06",
     "source": "wasgehtingoettingen"
@@ -657,6 +624,28 @@
     "description": "Eintritt: 7,- €",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807414_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807414&date=2026-08-01",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "swing-a-round",
+    "date": "2026-08-03",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Lindy Hop & Swing",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-08-03",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "IT'S TUESDAY, BABY...",
+    "date": "2026-08-04",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Eintritt: 3,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807415_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807415&date=2026-08-04",
     "source": "wasgehtingoettingen"
   },
   {
