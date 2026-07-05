@@ -1,102 +1,78 @@
 [
   {
-    "id": "rksybnnq5",
+    "id": "k5hsrtrz6",
     "store": "Rewe",
-    "title": "Barilla Pesto Rosso",
+    "title": "Dr. Oetker Ristorante Pizza Salame",
     "price": "1,99",
     "oldPrice": null,
     "discount": null,
-    "image": "🍝",
-    "description": "je 200-g-Glas, (1 kg = 9,95 €)",
+    "image": "🍕",
+    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 6,22 €)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "goyhc8rca",
+    "id": "3wvwyxefq",
     "store": "Rewe",
-    "title": "Barilla Classic Pasta",
-    "price": "0,88",
+    "title": "Gustavo Gusto Pizza Margherita",
+    "price": "3,69",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 410-g-Pckg., (1 kg = 9,00 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "rgmqkv2cs",
+    "store": "Rewe",
+    "title": "3 Glocken Genuss Pur Pasta",
+    "price": "0,99",
     "oldPrice": null,
     "discount": null,
     "image": "🍝",
-    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 1,76 €)",
+    "description": "versch. Ausformungen, je 500-g-Btl., (1 kg = 1,98 €)",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "aopaq4hcj",
+    "id": "xrw5qjw6x",
     "store": "Rewe",
-    "title": "Krombacher Pils oder Alkoholfrei",
-    "price": "11,49",
+    "title": "Jever Pilsener oder Fun",
+    "price": "11,99",
     "oldPrice": null,
     "discount": null,
     "image": "🍺",
-    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,45 € / 1,15 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,51 € / 1,20 €), zzgl. 3,42 € / 3,10 € Pfand",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "2fnuz1tyf",
+    "id": "3qf7x7ck1",
     "store": "Rewe",
-    "title": "Desperados Beer",
-    "price": "4,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 4 x 0,33-l-Fl.-Pckg., (1 l = 3,78 €), zzgl. 0,32 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "of539bkyn",
-    "store": "Rewe",
-    "title": "Barilla Pasta Sauce",
-    "price": "1,99",
+    "title": "Mutti Pasta Sauce mit Basilikum",
+    "price": "1,20",
     "oldPrice": null,
     "discount": null,
     "image": "🍝",
-    "description": "Basilico, je 400-g-Glas, (1 kg = 4,98 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "or3gr13kv",
-    "store": "Rewe",
-    "title": "Bio Heidelbeeren",
-    "price": "2,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍞",
-    "description": "Kl. I, je 175-g-Schale, (1 kg = 14,23 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "qde835jvi",
-    "store": "Rewe",
-    "title": "Lindt Spaghetti-Eis",
-    "price": "1,00",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
     "description": "Details im Markt",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ktzr7lm0i",
+    "id": "m3v5tzajy",
     "store": "Rewe",
-    "title": "Warsteiner Pils",
-    "price": "10,99",
+    "title": "Mutti Pesto Rosso",
+    "price": "1,20",
     "oldPrice": null,
     "discount": null,
-    "image": "🍺",
-    "description": "je 24 x 0,33-l-Fl.-Kasten, (1 l = 1,39 €), zzgl. 3,42 € Pfand",
+    "image": "🍝",
+    "description": "Details im Markt",
     "isStudentDeal": true,
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "aarznmd4f",
+    "id": "lbube0e7v",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,24",
@@ -108,43 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "k464ejo74",
-    "store": "Kaufland",
-    "title": "GIOVANNI RANA",
-    "price": "2,49",
-    "oldPrice": "2,79",
-    "discount": "11%",
-    "image": "🍺",
-    "description": "(1 kg = 11.16) / (1 kg = 9.96)**",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "7abug1xdl",
-    "store": "Kaufland",
-    "title": "HENGLEIN",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "(1 kg = 3.62)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "i4pj4pa0l",
-    "store": "Kaufland",
-    "title": "ESMARA®",
-    "price": "2,49",
-    "oldPrice": "9,99",
-    "discount": "75%",
-    "image": "🍺",
-    "description": "Details im Markt",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "ymwgvwiae",
+    "id": "v8mvh73u5",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,84",
@@ -156,7 +96,43 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "yw0l9l6y9",
+    "id": "0xfeq2woh",
+    "store": "Kaufland",
+    "title": "GIOVANNI RANA",
+    "price": "2,49",
+    "oldPrice": "2,79",
+    "discount": "11%",
+    "image": "🍺",
+    "description": "(1 kg = 11.16) / (1 kg = 9.96)**",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "np7afrme4",
+    "store": "Kaufland",
+    "title": "HENGLEIN",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 kg = 3.62)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "40o2ell21",
+    "store": "Kaufland",
+    "title": "ESMARA®",
+    "price": "2,49",
+    "oldPrice": "9,99",
+    "discount": "75%",
+    "image": "🍺",
+    "description": "Details im Markt",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "0c2kdy765",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "0,99",
@@ -168,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "st3ci0bit",
+    "id": "b5zcuortc",
     "store": "Kaufland",
     "title": "GUSTAVO GUSTO",
     "price": "2,99",
@@ -180,7 +156,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "81pypd8mj",
+    "id": "vwv19f8yd",
     "store": "Kaufland",
     "title": "ERDINGER BRAUHAUS",
     "price": "14,99",
@@ -192,7 +168,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "67galhxgg",
+    "id": "g35tr2xi8",
     "store": "Kaufland",
     "title": "BENEDIKTINER",
     "price": "4,99",
@@ -204,7 +180,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "0uu3w0g1f",
+    "id": "ewelvhand",
     "store": "Kaufland",
     "title": "VELTINS",
     "price": "13,99",
@@ -216,7 +192,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "1x8x1vsa6",
+    "id": "hfkqf5gq9",
     "store": "Kaufland",
     "title": "ALLGÄUER BÜBLE BIER",
     "price": "13,99",
@@ -228,7 +204,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "pn46oyxlb",
+    "id": "iun4b0wuc",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "0,95",
@@ -240,7 +216,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "es0tfqy8f",
+    "id": "zun9z6dly",
     "store": "Kaufland",
     "title": "FRANZISKANER",
     "price": "0,85",
