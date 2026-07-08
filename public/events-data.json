@@ -1,27 +1,5 @@
 [
   {
-    "title": "IT'S TUESDAY, BABY...",
-    "date": "2026-07-07",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "tags indie, 80er",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45807407_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807407&date=2026-07-07",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "IT’S TUESDAY, BABY…",
-    "date": "2026-07-07",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/webPoster-960x1280.jpeg",
-    "link": "https://exil-web.de/event/its-tuesday-baby-2/2026-07-07/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "title": "LIVE MUSIK",
     "date": "2026-07-08",
     "time": "20:00",
@@ -143,7 +121,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "BLACK HORNY with DJ EMA KOOF",
+    "title": "BLACK HORNY",
     "date": "2026-07-11",
     "time": "20:00",
     "location": "Club Savoy",
@@ -184,6 +162,17 @@
     "description": "Eintritt: 7,00 €",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45904008_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45904008&date=2026-07-13",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "mittwochsimclub • ferien edit.",
+    "date": "2026-07-15",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, pop, rock, hip-hop, house",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45990369_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45990369&date=2026-07-15",
     "source": "wasgehtingoettingen"
   },
   {
@@ -231,6 +220,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "MEDI PROFS PARTY",
+    "date": "2026-07-17",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45990370_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45990370&date=2026-07-17",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "Hausparty XXL",
     "date": "2026-07-17",
     "time": "20:00",
@@ -275,17 +275,6 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "swing-a-round",
-    "date": "2026-07-20",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "Lindy Hop & Swing",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-07-20",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "1 EURO PARTY",
     "date": "2026-07-20",
     "time": "20:00",
@@ -294,6 +283,17 @@
     "description": "Eintritt: 7,00 €",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45904010_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45904010&date=2026-07-20",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "swing-a-round",
+    "date": "2026-07-20",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Lindy Hop & Swing",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-07-20",
     "source": "wasgehtingoettingen"
   },
   {
@@ -363,7 +363,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Comedyflash - Die Stand Up Comedy Show",
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
     "date": "2026-07-25",
     "time": "20:00",
     "location": "Exil",
@@ -405,17 +405,6 @@
     "image": "https://www.wasgehtingoettingen.de/images/termine/45903585_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45903585&date=2026-07-25",
     "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
-    "date": "2026-07-25",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
-    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-07-25/",
-    "source": "Exil",
-    "category": "Kultur"
   },
   {
     "title": "#wirsinddienacht",
@@ -572,6 +561,17 @@
     "source": "Thanners"
   },
   {
+    "id": "jones-wings-2026-08-06",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-08-06",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
+  },
+  {
     "title": "PowerDance",
     "date": "2026-08-07",
     "time": "20:00",
@@ -609,11 +609,11 @@
     "date": "2026-08-08",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/Best-80s-960x1280.jpg",
-    "link": "https://exil-web.de/event/best-80s/2026-08-08/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807417_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807417&date=2026-08-08",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "NACHT DER SCHATTEN",
@@ -634,6 +634,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
     "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-08-15/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "#wirsinddienacht",
+    "date": "2026-08-15",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/wsdn-neutral-scaled-1-913x1280.jpg",
+    "link": "https://exil-web.de/event/wirsinddienacht-3-4/2026-08-15/",
     "source": "Exil",
     "category": "Kultur"
   }
