@@ -60,7 +60,7 @@
     "time": "20:00",
     "location": "Club Savoy",
     "category": "Party",
-    "description": "",
+    "description": "tags hip-hop, charts",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45990370_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45990370&date=2026-07-17",
     "source": "wasgehtingoettingen"
@@ -110,6 +110,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "One Dance",
+    "date": "2026-07-18",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags hip-hop, rnb, house",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46079116_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46079116&date=2026-07-18",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "swing-a-round",
     "date": "2026-07-20",
     "time": "20:00",
@@ -129,6 +140,17 @@
     "description": "Eintritt: 7,00 €",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45904010_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45904010&date=2026-07-20",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "mittwochsimclub • ferien edit.",
+    "date": "2026-07-22",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, pop, rock, hip-hop, house",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46079117_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46079117&date=2026-07-22",
     "source": "wasgehtingoettingen"
   },
   {
@@ -198,7 +220,18 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Comedyflash - Die Stand Up Comedy Show",
+    "title": "Schaumparty 18",
+    "date": "2026-07-24",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46079118_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46079118&date=2026-07-24",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
     "date": "2026-07-25",
     "time": "20:00",
     "location": "Exil",
@@ -240,17 +273,6 @@
     "image": "https://www.wasgehtingoettingen.de/images/termine/45903585_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45903585&date=2026-07-25",
     "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
-    "date": "2026-07-25",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
-    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-07-25/",
-    "source": "Exil",
-    "category": "Kultur"
   },
   {
     "title": "#wirsinddienacht",
@@ -349,6 +371,17 @@
     "description": "Eintritt: 7,- €",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807414_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807414&date=2026-08-01",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "I KNOW U WANT ME",
+    "date": "2026-08-01",
+    "time": "20:00",
+    "location": "Club Savoy",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46079119_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46079119&date=2026-08-01",
     "source": "wasgehtingoettingen"
   },
   {
@@ -506,6 +539,17 @@
     "source": "Thanners"
   },
   {
+    "id": "jones-wings-2026-08-13",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-08-13",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
+  },
+  {
     "title": "Rock gegen Rheuma",
     "date": "2026-08-14",
     "time": "20:00",
@@ -539,6 +583,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "COMEDYFLASH – die Stand Up Comedy Show",
+    "date": "2026-08-15",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "Eintritt: VVK: 24,90 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45023317_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023317&date=2026-08-15",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "Jugendjazzorchester Niedersachsen „Wind Machine“",
     "date": "2026-08-15",
     "time": "20:00",
@@ -547,17 +602,6 @@
     "description": "True Sounds, 18,00 €",
     "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45389247&date=2026-08-15",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Comedyflash - Die Stand Up Comedy Show",
-    "date": "2026-08-15",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "Eintritt: VVK: 24,90 €",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45023317_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023317&date=2026-08-15",
     "source": "wasgehtingoettingen"
   },
   {
@@ -570,17 +614,6 @@
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807419_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807419&date=2026-08-15",
     "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
-    "date": "2026-08-15",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/Sommer-web-960x1120.jpg",
-    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2026-08-15/",
-    "source": "Exil",
-    "category": "Kultur"
   },
   {
     "title": "#wirsinddienacht",

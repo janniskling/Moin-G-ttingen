@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "id": "9gfdqlv3e",
+    "store": "Rewe",
+    "title": "individuell kombinierbar",
+    "price": "10,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "koffeinhaltig, je 20 x 0,5-l-Fl.-Kasten, (1 l = 1,10 €), zzgl. 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "7bpyijb3h",
+    "store": "Rewe",
+    "title": "Paulaner Spezi oder Spezi Zero",
+    "price": "3,10",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "koffeinhaltig, je 20 x 0,5-l-Fl.-Kasten, (1 l = 1,10 €), zzgl. 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ey7sjrxfc",
+    "store": "Rewe",
+    "title": "Wagner Big City Salami",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 415-g-Pckg., (1 kg = 4,80 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "mjid7exbc",
+    "store": "Rewe",
+    "title": "Veltins Pilsener",
+    "price": "10,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,32 € / 1,05 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "g7yujpebv",
+    "store": "Rewe",
+    "title": "auch alkoholfrei",
+    "price": "13,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, auch alkoholfrei, je 20 x 0,5-l-Fl.-Kasten, (1 l = 1,40 €), zzgl. 4,50 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "gjn5ecmos",
+    "store": "Rewe",
+    "title": "Mönchshof Brauspezialitäten",
+    "price": "4,50",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, auch alkoholfrei, je 20 x 0,5-l-Fl.-Kasten, (1 l = 1,40 €), zzgl. 4,50 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "jcmpeaezc",
+    "store": "Kaufland",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,69",
+    "oldPrice": "3,69",
+    "discount": "54%",
+    "image": "🍕",
+    "description": "(1 kg = 3.85 - 5.29)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "qcpstl40p",
+    "store": "Kaufland",
+    "title": "MAYBACH",
+    "price": "2,49",
+    "oldPrice": "4,99",
+    "discount": "50%",
+    "image": "🍺",
+    "description": "(1 l = 3.32)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "rtclht63r",
+    "store": "Kaufland",
+    "title": "K-CLASSIC",
+    "price": "2,29",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 l = 4.41)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "llej4t436",
+    "store": "Kaufland",
+    "title": "TANTE FANNY",
+    "price": "1,99",
+    "oldPrice": "2,99",
+    "discount": "33%",
+    "image": "🍺",
+    "description": "(1 kg = 3.32)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "g4ls4g32m",
+    "store": "Kaufland",
+    "title": "Pizza Döner Style",
+    "price": "0,89",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "Details im Markt",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  }
+]
