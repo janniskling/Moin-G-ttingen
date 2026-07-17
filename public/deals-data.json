@@ -1,6 +1,6 @@
 [
   {
-    "id": "x0vzud34w",
+    "id": "ynnbackgv",
     "store": "Kaufland",
     "title": "BECK'S",
     "price": "9,99",
@@ -12,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "2vhn4m2wx",
+    "id": "lghsd10jf",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,50",
@@ -24,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ergf5tyhn",
+    "id": "8pqyvppnw",
     "store": "Kaufland",
     "title": "Focaccia Farcita Pesto",
     "price": "0,99",
@@ -36,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "0z8w7toy6",
+    "id": "2t3ab6mbd",
     "store": "Kaufland",
     "title": "ANHEUSER-BUSCH",
     "price": "3,71",
@@ -48,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "xjikcz3sd",
+    "id": "c132js8w3",
     "store": "Kaufland",
     "title": "SPICE&SOUL®",
     "price": "1,99",
@@ -60,7 +60,19 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "3hqadde8t",
+    "id": "fo9t1mf9c",
+    "store": "Kaufland",
+    "title": "DR. OETKER",
+    "price": "1,79",
+    "oldPrice": "3,49",
+    "discount": "49%",
+    "image": "🍺",
+    "description": "(1 kg = 4.37 - 5.60)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "wy7529h3b",
     "store": "Kaufland",
     "title": "HAMMERSMITH",
     "price": "39,99",
