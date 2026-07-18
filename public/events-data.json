@@ -1,49 +1,5 @@
 [
   {
-    "title": "PowerDance",
-    "date": "2026-07-17",
-    "time": "20:00",
-    "location": "musa (Salon)",
-    "category": "Party",
-    "description": "tags pop, rock, electro",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43978127&date=2026-07-17",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "MEDI PROFS PARTY",
-    "date": "2026-07-17",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "tags hip-hop, charts",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45990370_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45990370&date=2026-07-17",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Hausparty XXL",
-    "date": "2026-07-17",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45904014_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45904014&date=2026-07-17",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "ALTERNATIVE SOUND EXPLOSION",
-    "date": "2026-07-17",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "tags rock, hip-hop, house, 90er, 2000er",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45807410_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807410&date=2026-07-17",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "90er LED Night Edition",
     "date": "2026-07-18",
     "time": "20:00",
@@ -82,7 +38,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Lindy Hop & Swing",
+    "description": "Lindy Hop & Swing tags swing,  lindy hop,  tanzen,  party,  20s",
     "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-07-20",
     "source": "wasgehtingoettingen"
@@ -170,7 +126,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 €",
+    "description": "Eintritt: 8,90 € tags (teilw.) eintritt frei",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45904016_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45904016&date=2026-07-24",
     "source": "wasgehtingoettingen"
@@ -192,7 +148,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Kultur",
-    "description": "Eintritt: VVK: 24,90 €",
+    "description": "Eintritt: VVK: 24,90 € tags comedy",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45023316_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023316&date=2026-07-25",
     "source": "wasgehtingoettingen"
@@ -203,7 +159,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 €",
+    "description": "Eintritt: 8,90 € tags (teilw.) eintritt frei",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45904017_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45904017&date=2026-07-25",
     "source": "wasgehtingoettingen"
@@ -214,7 +170,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- €",
+    "description": "Eintritt: 7,- € tags pop, rock, metal, punk, indie",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807412_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807412&date=2026-07-25",
     "source": "wasgehtingoettingen"
@@ -258,7 +214,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Lindy Hop & Swing",
+    "description": "Lindy Hop & Swing tags swing,  lindy hop,  tanzen,  party,  20s",
     "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-07-27",
     "source": "wasgehtingoettingen"
@@ -313,7 +269,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 €",
+    "description": "Eintritt: 8,90 € tags charts, 90er, 2000er",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45904015_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45904015&date=2026-07-31",
     "source": "wasgehtingoettingen"
@@ -324,7 +280,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- €",
+    "description": "Eintritt: 7,- € tags rock, indie, ebm, industrial",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807413_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807413&date=2026-07-31",
     "source": "wasgehtingoettingen"
@@ -357,7 +313,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Lindy Hop & Swing",
+    "description": "Lindy Hop & Swing tags swing,  lindy hop,  tanzen,  party,  20s",
     "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-08-03",
     "source": "wasgehtingoettingen"
@@ -368,7 +324,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 3,- €",
+    "description": "Eintritt: 3,- € tags indie, 80er",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807415_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807415&date=2026-08-04",
     "source": "wasgehtingoettingen"
@@ -434,7 +390,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- €",
+    "description": "Eintritt: 7,- € tags pop, punk",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807416_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807416&date=2026-08-07",
     "source": "wasgehtingoettingen"
@@ -467,7 +423,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Lindy Hop & Swing",
+    "description": "Lindy Hop & Swing tags swing,  lindy hop,  tanzen,  party,  20s",
     "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-08-10",
     "source": "wasgehtingoettingen"
@@ -544,7 +500,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- €",
+    "description": "Eintritt: 7,- € tags ebm, electro",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807418_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807418&date=2026-08-14",
     "source": "wasgehtingoettingen"
@@ -566,7 +522,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Kultur",
-    "description": "Eintritt: VVK: 24,90 €",
+    "description": "Eintritt: VVK: 24,90 € tags comedy",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45023317_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45023317&date=2026-08-15",
     "source": "wasgehtingoettingen"
@@ -577,7 +533,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- €",
+    "description": "Eintritt: 7,- € tags pop, rock, metal, punk, indie",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807419_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807419&date=2026-08-15",
     "source": "wasgehtingoettingen"
@@ -612,6 +568,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2024/02/wsdn-neutral-scaled-1-913x1280.jpg",
     "link": "https://exil-web.de/event/wirsinddienacht-3-4/2026-08-22/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "KLANGWELT",
+    "date": "2026-08-28",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/klangweltneutral-960x1280.jpeg",
+    "link": "https://exil-web.de/event/klangwelt-2-2/2026-08-28/",
     "source": "Exil",
     "category": "Kultur"
   }
