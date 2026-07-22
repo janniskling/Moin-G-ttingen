@@ -1,66 +1,6 @@
 [
   {
-    "id": "8a1jatnp8",
-    "store": "Rewe",
-    "title": "Original Wagner Steinofen Pizza Salami",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 6,22 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "pse4n8fwq",
-    "store": "Rewe",
-    "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
-    "price": "0,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "je 61-g-Becher, (1 kg = 16,23 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "4hjwgl13j",
-    "store": "Rewe",
-    "title": "Original Wagner Flammkuchen Elsässer Art",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 300-g-Pckg., (1 kg = 6,63 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "c1dd9oijo",
-    "store": "Rewe",
-    "title": "Meine Lieblinge Bio-Graved Lachs oder Bio-Lachs",
-    "price": "3,69",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "je 80-g-Pckg., (1 kg = 46,13 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "ql5lp0i16",
-    "store": "Rewe",
-    "title": "Freche Freunde Bio Kinder-Pasta",
-    "price": "3,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "tiefgefroren, versch. Sorten, je 350-g-Btl., (1 kg = 9,97 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "7i5ause4n",
+    "id": "edt8yfn0m",
     "store": "Kaufland",
     "title": "BECK'S",
     "price": "9,99",
@@ -72,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "z6h84xi55",
+    "id": "7oqeaf7jp",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,50",
@@ -84,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "rwu9ess2j",
+    "id": "0t6apn6t8",
     "store": "Kaufland",
     "title": "Focaccia Farcita Pesto",
     "price": "0,99",
@@ -96,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "2pg8a7nxk",
+    "id": "apox9yu41",
     "store": "Kaufland",
     "title": "ANHEUSER-BUSCH",
     "price": "3,71",
@@ -108,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "jf132efrh",
+    "id": "l4njn73fu",
     "store": "Kaufland",
     "title": "SPICE&SOUL®",
     "price": "1,99",
@@ -120,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "wv2702ajt",
+    "id": "ruq2byu6o",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "9,99",
@@ -132,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "p1xhc98vw",
+    "id": "lffgdjyp5",
     "store": "Kaufland",
     "title": "HAMMERSMITH",
     "price": "39,99",
