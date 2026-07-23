@@ -1,38 +1,5 @@
 [
   {
-    "title": "mittwochsimclub • ferien edit.",
-    "date": "2026-07-22",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, pop, rock, hip-hop, house",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46079117_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46079117&date=2026-07-22",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-07-22",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-07-22",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-07-22",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "id": "jones-wings-2026-07-23",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -495,6 +462,17 @@
     "category": "Kultur"
   },
   {
+    "title": "swing-a-round",
+    "date": "2026-08-17",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "Lindy Hop & Swing tags swing,  lindy hop,  tanzen,  party,  20s",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-08-17",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-ap-2026-08-19",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -526,6 +504,28 @@
     "category": "Sonstiges",
     "image": "/images/chicken-wings.jpg",
     "link": "https://www.mrjones.de"
+  },
+  {
+    "title": "PowerDance",
+    "date": "2026-08-21",
+    "time": "20:00",
+    "location": "musa (Salon)",
+    "category": "Party",
+    "description": "tags pop, rock, electro",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44346806&date=2026-08-21",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "GET DOWN",
+    "date": "2026-08-21",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "tags funk, hip-hop, soul, black",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807420_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807420&date=2026-08-21",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "#wirsinddienacht",
