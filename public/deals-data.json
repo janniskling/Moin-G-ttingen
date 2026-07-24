@@ -1,6 +1,66 @@
 [
   {
-    "id": "bezbiwu1o",
+    "id": "0veox89ek",
+    "store": "Rewe",
+    "title": "Original Wagner Steinofen Pizza Salami",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 6,22 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "fi6obc2o0",
+    "store": "Rewe",
+    "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "je 61-g-Becher, (1 kg = 16,23 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "fr203m5hi",
+    "store": "Rewe",
+    "title": "Original Wagner Flammkuchen Elsässer Art",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 300-g-Pckg., (1 kg = 6,63 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "pmsttcqkc",
+    "store": "Rewe",
+    "title": "Meine Lieblinge Bio-Graved Lachs oder Bio-Lachs",
+    "price": "3,69",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 80-g-Pckg., (1 kg = 46,13 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "c4pv2qtf5",
+    "store": "Rewe",
+    "title": "Freche Freunde Bio Kinder-Pasta",
+    "price": "3,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "tiefgefroren, versch. Sorten, je 350-g-Btl., (1 kg = 9,97 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "d4gfr1hqc",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,99",
@@ -12,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "4ls686jfy",
+    "id": "9re63pw18",
     "store": "Kaufland",
     "title": "Pizza Salami",
     "price": "0,99",
@@ -24,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "09pka4oml",
+    "id": "a01dcogxw",
     "store": "Kaufland",
     "title": "TENA",
     "price": "3,95",
@@ -36,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "7xxtdvdv8",
+    "id": "g51c08a1n",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "12,99",
@@ -48,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "s2qetefeq",
+    "id": "ui1jtqlzu",
     "store": "Kaufland",
     "title": "WARSTEINER",
     "price": "9,99",
