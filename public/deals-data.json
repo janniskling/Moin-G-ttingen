@@ -1,6 +1,90 @@
 [
   {
-    "id": "q3udd1a9e",
+    "id": "frhizd2i9",
+    "store": "Rewe",
+    "title": "3 Glocken Genuss Pur Pasta",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Btl., (1 kg = 1,98 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "r8fl4c53s",
+    "store": "Rewe",
+    "title": "Corona Mexican Beer oder Alkoholfrei",
+    "price": "6,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 6 x 355-ml-Fl.-Sixpack, (1 l = 3,05 €), zzgl. 0,48 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "s3qks1nhq",
+    "store": "Rewe",
+    "title": "Evian Mineralwasser",
+    "price": "2,50",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je 6 x 1,5-l-Fl.-Sixpack",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "gotv4ymwg",
+    "store": "Rewe",
+    "title": "Nordlicht Bierbeißer",
+    "price": "2,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 150-g-Pckg., (1 kg = 19,93 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "bfbct1ga2",
+    "store": "Rewe",
+    "title": "Obst und Gemüse",
+    "price": "1,29",
+    "oldPrice": "2,99",
+    "discount": "57%",
+    "image": "🍺",
+    "description": "Ursprung: siehe Etikett, Kl. I, je 500-g-Schale, (1 kg = 5,98 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ljlmv7irp",
+    "store": "Rewe",
+    "title": "Grapefruit",
+    "price": "1,29",
+    "oldPrice": "2,99",
+    "discount": "57%",
+    "image": "🍺",
+    "description": "Ursprung: siehe Etikett, Kl. I, je 500-g-Schale, (1 kg = 5,98 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "1qku0ybyh",
+    "store": "Rewe",
+    "title": "500-g-Schale",
+    "price": "2,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Ursprung: siehe Etikett, Kl. I, je 500-g-Schale, (1 kg = 5,98 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "75nkr33co",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,99",
@@ -12,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "7l3f6qzvl",
+    "id": "3sdldih16",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,49",
@@ -24,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "athyai5if",
+    "id": "y9k7i4b3k",
     "store": "Kaufland",
     "title": "BREE",
     "price": "2,79",
@@ -36,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "2qoeq1vdo",
+    "id": "mgn4pid1e",
     "store": "Kaufland",
     "title": "Pizza Salami",
     "price": "0,99",
@@ -48,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "25ez82scn",
+    "id": "blq8gdhni",
     "store": "Kaufland",
     "title": "TENA",
     "price": "3,95",
@@ -60,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "rmgw7o0tv",
+    "id": "4wyzo7arv",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "12,99",
@@ -72,7 +156,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "bfjb9wo6l",
+    "id": "exzj0ehod",
     "store": "Kaufland",
     "title": "WARSTEINER",
     "price": "9,99",

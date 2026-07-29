@@ -66,6 +66,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "We love Alpe meets Jägermeister",
+    "date": "2026-08-01",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 8,90 € tags (teilw.) eintritt frei",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46254485_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46254485&date=2026-08-01",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "CHEERS TO THE QUEERS",
     "date": "2026-08-01",
     "time": "20:00",
@@ -96,6 +107,17 @@
     "description": "Lindy Hop & Swing tags swing,  lindy hop,  tanzen,  party,  20s",
     "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=2311875&date=2026-08-03",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "1 EURO PARTY",
+    "date": "2026-08-03",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 7,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46254484_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46254484&date=2026-08-03",
     "source": "wasgehtingoettingen"
   },
   {
@@ -165,6 +187,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "Top Ten Charts-Party",
+    "date": "2026-08-07",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 8,90 € tags (teilw.) eintritt frei, pop, schlager, black, charts",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46254486_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46254486&date=2026-08-07",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "PUNK'N'ROLL",
     "date": "2026-08-07",
     "time": "20:00",
@@ -185,6 +218,17 @@
     "link": "https://exil-web.de/event/punknroll/2026-08-07/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "title": "Glow - Die schwarzlicht Party",
+    "date": "2026-08-08",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt 9,90 € tags (teilw.) eintritt frei, pop, 2000er",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46254487_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46254487&date=2026-08-08",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "BEST 80s",
@@ -438,6 +482,17 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "id": "jones-wings-2026-08-27",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-08-27",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
   },
   {
     "title": "KLANGWELT",
