@@ -1,6 +1,6 @@
 [
   {
-    "id": "frhizd2i9",
+    "id": "qn8e5ron7",
     "store": "Rewe",
     "title": "3 Glocken Genuss Pur Pasta",
     "price": "0,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "r8fl4c53s",
+    "id": "hbmx5pinj",
     "store": "Rewe",
     "title": "Corona Mexican Beer oder Alkoholfrei",
     "price": "6,49",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "s3qks1nhq",
+    "id": "q3srfia3f",
     "store": "Rewe",
     "title": "Evian Mineralwasser",
     "price": "2,50",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "gotv4ymwg",
+    "id": "bo8s72dcm",
     "store": "Rewe",
     "title": "Nordlicht Bierbeißer",
     "price": "2,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "bfbct1ga2",
+    "id": "mo8mzabf8",
     "store": "Rewe",
     "title": "Obst und Gemüse",
     "price": "1,29",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ljlmv7irp",
+    "id": "ik3dgkpvh",
     "store": "Rewe",
     "title": "Grapefruit",
     "price": "1,29",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "1qku0ybyh",
+    "id": "oxte2uh4a",
     "store": "Rewe",
     "title": "500-g-Schale",
     "price": "2,99",
@@ -84,45 +84,57 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "75nkr33co",
+    "id": "boyjlrrf5",
     "store": "Kaufland",
-    "title": "Barilla Classic Nudeln",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "(1 kg = 1.38)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "3sdldih16",
-    "store": "Kaufland",
-    "title": "ORIGINAL WAGNER",
-    "price": "1,49",
-    "oldPrice": "3,49",
-    "discount": "57%",
-    "image": "🍕",
-    "description": "(1 kg = 4.62 - 5.54) / (1 kg = 4.14 - 4.97)**",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "y9k7i4b3k",
-    "store": "Kaufland",
-    "title": "BREE",
-    "price": "2,79",
-    "oldPrice": "5,49",
-    "discount": "49%",
+    "title": "ORO DI PARMA",
+    "price": "1,00",
+    "oldPrice": "1,99",
+    "discount": "50%",
     "image": "🍺",
-    "description": "(1 l = 3.72)",
+    "description": "(1 kg = 2.50 - 5.00)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "mgn4pid1e",
+    "id": "zzta5esc6",
     "store": "Kaufland",
-    "title": "Pizza Salami",
+    "title": "BITBURGER",
+    "price": "9,99",
+    "oldPrice": "17,79",
+    "discount": "44%",
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "dhxkhopax",
+    "store": "Kaufland",
+    "title": "BECK'S",
+    "price": "3,69",
+    "oldPrice": "5,29",
+    "discount": "30%",
+    "image": "🍺",
+    "description": "je Packg. 6 x 0,33-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "7eth4s38j",
+    "store": "Kaufland",
+    "title": "PAULANER",
+    "price": "12,99",
+    "oldPrice": "14,99",
+    "discount": "13%",
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "ox829nvd0",
+    "store": "Kaufland",
+    "title": "Pizza Margherita",
     "price": "0,99",
     "oldPrice": null,
     "discount": null,
@@ -132,38 +144,38 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "blq8gdhni",
+    "id": "sww5rciii",
     "store": "Kaufland",
-    "title": "TENA",
-    "price": "3,95",
-    "oldPrice": "4,95",
-    "discount": "20%",
+    "title": "MIONETTO",
+    "price": "6,49",
+    "oldPrice": "9,99",
+    "discount": "35%",
+    "image": "🍺",
+    "description": "(1 l = 12.98)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "jy5qjj7f7",
+    "store": "Kaufland",
+    "title": "KATLENBURGER",
+    "price": "1,99",
+    "oldPrice": "2,79",
+    "discount": "29%",
     "image": "🍺",
     "description": "Details im Markt",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "4wyzo7arv",
+    "id": "2b3h4kv9r",
     "store": "Kaufland",
-    "title": "PAULANER",
-    "price": "12,99",
+    "title": "LEERDAMMER",
+    "price": "1,79",
     "oldPrice": null,
     "discount": null,
     "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "exzj0ehod",
-    "store": "Kaufland",
-    "title": "WARSTEINER",
-    "price": "9,99",
-    "oldPrice": "10,99",
-    "discount": "9%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "description": "(1 kg = 11.94)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
