@@ -1,6 +1,6 @@
 [
   {
-    "id": "166j27mwy",
+    "id": "u0xc04n9o",
     "store": "Rewe",
     "title": "De Cecco Pasta",
     "price": "1,49",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "znmi8j2f8",
+    "id": "mhk9pfnfb",
     "store": "Rewe",
     "title": "Wagner Big City Salami",
     "price": "1,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "9ldslfldw",
+    "id": "ehc6hmwfd",
     "store": "Rewe",
     "title": "Beck’s Pils",
     "price": "10,99",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "1qrrwagth",
+    "id": "k7av7kunb",
     "store": "Rewe",
     "title": "Innocent Creamy Smoothie",
     "price": "1,69",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "x2ybz7tqg",
+    "id": "chv5bi148",
     "store": "Rewe",
     "title": "Heidelbeeren",
     "price": "1,99",
@@ -60,98 +60,98 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "o9e5itdat",
+    "id": "fzo5szge8",
     "store": "Kaufland",
-    "title": "ORO DI PARMA",
-    "price": "1,00",
-    "oldPrice": "1,99",
-    "discount": "50%",
+    "title": "SCHWAMM",
+    "price": "6,99",
+    "oldPrice": "8,49",
+    "discount": "18%",
     "image": "🍺",
-    "description": "(1 kg = 2.50 - 5.00)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "wvxfx2h60",
-    "store": "Kaufland",
-    "title": "BITBURGER",
-    "price": "9,99",
-    "oldPrice": "17,79",
-    "discount": "44%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "mqk133eng",
-    "store": "Kaufland",
-    "title": "BECK'S",
-    "price": "3,69",
-    "oldPrice": "5,29",
-    "discount": "30%",
-    "image": "🍺",
-    "description": "je Packg. 6 x 0,33-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "as7anf579",
-    "store": "Kaufland",
-    "title": "PAULANER",
-    "price": "12,99",
-    "oldPrice": "14,99",
-    "discount": "13%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "9fd470320",
-    "store": "Kaufland",
-    "title": "Pizza Margherita",
-    "price": "0,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
     "description": "Details im Markt",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "uwuy9j2a8",
+    "id": "7fzfcchvb",
     "store": "Kaufland",
-    "title": "MIONETTO",
-    "price": "6,49",
-    "oldPrice": "9,99",
+    "title": "DR. OETKER",
+    "price": "3,99",
+    "oldPrice": "5,49",
+    "discount": "27%",
+    "image": "🍺",
+    "description": "(1 kg = 7.39 - 8.40)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "vpvffqcre",
+    "store": "Kaufland",
+    "title": "K-CLASSIC",
+    "price": "2,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Details im Markt",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "iktzbcyy3",
+    "store": "Kaufland",
+    "title": "HENGLEIN",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 kg = 3.62)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "y25at98n8",
+    "store": "Kaufland",
+    "title": "KROMBACHER",
+    "price": "10,99",
+    "oldPrice": "16,99",
     "discount": "35%",
     "image": "🍺",
-    "description": "(1 l = 12.98)",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "18iks6nb5",
+    "id": "9mfef7p2u",
     "store": "Kaufland",
-    "title": "KATLENBURGER",
-    "price": "1,99",
-    "oldPrice": "2,79",
-    "discount": "29%",
+    "title": "PAULANER",
+    "price": "0,95",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 l = 2.10)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "ha9jqqj80",
+    "store": "Kaufland",
+    "title": "Jetzt entdecken",
+    "price": "0,99",
+    "oldPrice": "1,49",
+    "discount": "34%",
     "image": "🍺",
     "description": "Details im Markt",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "m5xalzjl0",
+    "id": "iggx8122a",
     "store": "Kaufland",
-    "title": "LEERDAMMER",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
+    "title": "BECK'S",
+    "price": "9,99",
+    "oldPrice": "10,99",
+    "discount": "9%",
     "image": "🍺",
-    "description": "(1 kg = 11.94)",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }

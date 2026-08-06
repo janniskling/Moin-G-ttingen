@@ -1,27 +1,5 @@
 [
   {
-    "id": "jones-ap-2026-08-05",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-08-05",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-08-05",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "id": "jones-wings-2026-08-06",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -49,7 +27,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 € tags (teilw.) eintritt frei, pop, schlager, black, charts",
+    "description": "tags (teilw.) eintritt frei, pop, schlager, black, charts",
     "image": "https://www.wasgehtingoettingen.de/images/termine/46254486_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46254486&date=2026-08-07",
     "source": "wasgehtingoettingen"
@@ -60,7 +38,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- € tags pop, punk",
+    "description": "tags pop, punk",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807416_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807416&date=2026-08-07",
     "source": "wasgehtingoettingen"
@@ -82,7 +60,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt 9,90 € tags (teilw.) eintritt frei, pop, 2000er",
+    "description": "tags (teilw.) eintritt frei, pop, 2000er",
     "image": "https://www.wasgehtingoettingen.de/images/termine/46254487_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46254487&date=2026-08-08",
     "source": "wasgehtingoettingen"
@@ -93,7 +71,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- €",
+    "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807417_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807417&date=2026-08-08",
     "source": "wasgehtingoettingen"
