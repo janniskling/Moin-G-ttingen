@@ -1,66 +1,6 @@
 [
   {
-    "id": "69kk1sedj",
-    "store": "Rewe",
-    "title": "De Cecco Pasta",
-    "price": "1,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "Spaghetti, je 500-g-Pckg., (1 kg = 2,98 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "x70j7929q",
-    "store": "Rewe",
-    "title": "Wagner Big City Salami",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 415-g-Pckg., (1 kg = 4,80 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "50rymgny9",
-    "store": "Rewe",
-    "title": "Beck’s Pils",
-    "price": "10,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,39 € / 1,10 €), zzgl. 3,42 € / 3,10 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "8f3i1boqc",
-    "store": "Rewe",
-    "title": "Innocent Creamy Smoothie",
-    "price": "1,69",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Erdbeer Schmaus, je 250-ml-Fl., (1 l = 6,76 €), zzgl. 0,25 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "zgim3l24r",
-    "store": "Rewe",
-    "title": "Heidelbeeren",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍞",
-    "description": "Kl. I, je 200-g-Schale, (1 kg = 9,95 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "rs8kh7rfq",
+    "id": "6cl2c1f6h",
     "store": "Kaufland",
     "title": "SCHWAMM",
     "price": "6,99",
@@ -72,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "90360uooh",
+    "id": "ytygco97l",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "3,99",
@@ -84,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "6pbmvr22w",
+    "id": "q55v7a98z",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "2,99",
@@ -96,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "7vih35rdv",
+    "id": "g2rkn8kni",
     "store": "Kaufland",
     "title": "HENGLEIN",
     "price": "1,99",
@@ -108,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "eg1hnbb05",
+    "id": "8zl4zjq7a",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "10,99",
@@ -120,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "qceshydij",
+    "id": "ze4id83af",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "0,95",
@@ -132,19 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "htmeszwcz",
-    "store": "Kaufland",
-    "title": "ORIGINAL WAGNER",
-    "price": "1,79",
-    "oldPrice": "3,69",
-    "discount": "51%",
-    "image": "🍕",
-    "description": "(1 kg = 4.07 - 5.78)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "6i03fklbw",
+    "id": "inukif78m",
     "store": "Kaufland",
     "title": "Jetzt entdecken",
     "price": "0,99",
@@ -156,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "z4kakwxos",
+    "id": "fi4q1sbmk",
     "store": "Kaufland",
     "title": "BECK'S",
     "price": "9,99",
