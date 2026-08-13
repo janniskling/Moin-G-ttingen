@@ -1,38 +1,5 @@
 [
   {
-    "title": "LIVE MUSIK",
-    "date": "2026-08-12",
-    "time": "20:00",
-    "location": "Dots",
-    "category": "Kultur",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/40293676_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=40293676&date=2026-08-12",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-08-12",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-08-12",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-08-12",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "id": "jones-wings-2026-08-13",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -418,12 +385,12 @@
     "category": "Kultur"
   },
   {
-    "title": "Jacqueline Amirfallah & Comedy Company",
+    "title": "Jacqueline Amirfallah & Comedy Company: Schmeckt´s?",
     "date": "2026-09-02",
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "Schmeckt's? - Die Impro-Kochshow, ab 22,00 € tags comedy",
+    "description": "Die Impro-Kochshow, ab 22,00 € tags comedy",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45467227&date=2026-09-02",
     "source": "wasgehtingoettingen"
