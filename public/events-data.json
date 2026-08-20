@@ -1,38 +1,5 @@
 [
   {
-    "title": "mittwochsimclub",
-    "date": "2026-08-19",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46532117_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46532117&date=2026-08-19",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-08-19",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-08-19",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-08-19",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "title": "BLUES'N'BOOGIE KÜCHE",
     "date": "2026-08-20",
     "time": "20:00",
@@ -239,6 +206,17 @@
     "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/46532121_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46532121&date=2026-08-28",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Schatzsuche auf dem Hagenberg",
+    "date": "2026-08-29",
+    "time": "20:00",
+    "location": "musa",
+    "category": "Kultur",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46532690&date=2026-08-29",
     "source": "wasgehtingoettingen"
   },
   {

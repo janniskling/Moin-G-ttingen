@@ -1,6 +1,6 @@
 [
   {
-    "id": "liki5b08p",
+    "id": "iva00ouja",
     "store": "Rewe",
     "title": "Gustavo Gusto Pizza Margherita",
     "price": "3,39",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ufygiwblt",
+    "id": "yk2jjof5m",
     "store": "Rewe",
     "title": "3 Glocken Genuss Pur Pasta",
     "price": "0,99",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "001ib8wg8",
+    "id": "qhytsxlwp",
     "store": "Rewe",
     "title": "Veltins Pilsener oder V+",
     "price": "3,99",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "lkumlfylw",
+    "id": "pakblczq1",
     "store": "Rewe",
     "title": "Dr. Oetker Pizza Tradizionale Salame Romano",
     "price": "2,22",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "rdssn5tj5",
+    "id": "pqcf7jr2w",
     "store": "Rewe",
     "title": "Schwartau Samt Fruchtaufstrich Erdbeere",
     "price": "2,29",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "97qij1w6h",
+    "id": "arikat2nc",
     "store": "Rewe",
     "title": "Beck’s Pils",
     "price": "10,99",
@@ -72,57 +72,21 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "zx6rsbtb8",
+    "id": "a3ebjc2gh",
     "store": "Kaufland",
-    "title": "DR. OETKER",
-    "price": "1,77",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,49",
     "oldPrice": "3,49",
-    "discount": "49%",
-    "image": "🍺",
-    "description": "(1 kg = 4.32 - 5.54)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "kwvkc1eb8",
-    "store": "Kaufland",
-    "title": "RADEBERGER",
-    "price": "9,99",
-    "oldPrice": "17,49",
-    "discount": "43%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "vinigpcqr",
-    "store": "Kaufland",
-    "title": "ITALPIZZA",
-    "price": "2,49",
-    "oldPrice": "3,49",
-    "discount": "29%",
+    "discount": "57%",
     "image": "🍕",
-    "description": "(1 kg = 5.66 - 8.59)",
+    "description": "(1 kg = 4.14 - 4.97)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "90xqesirt",
+    "id": "mfdywbkn2",
     "store": "Kaufland",
-    "title": "KROMBACHER",
-    "price": "0,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "(1 l = 1.58)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "l1gpncvua",
-    "store": "Kaufland",
-    "title": "VELTINS",
+    "title": "WARSTEINER",
     "price": "9,99",
     "oldPrice": "17,99",
     "discount": "44%",
@@ -132,26 +96,38 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "dntwgp56m",
+    "id": "qf1c1a2bp",
     "store": "Kaufland",
-    "title": "LITTLE LUNCH",
-    "price": "0,95",
-    "oldPrice": "3,99",
-    "discount": "76%",
+    "title": "LIV&BO®",
+    "price": "1,49",
+    "oldPrice": "29,99",
+    "discount": "95%",
     "image": "🍺",
-    "description": "(1 l = 7.12)",
+    "description": "Details im Markt",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "qvycy1d3y",
+    "id": "11635qd91",
     "store": "Kaufland",
-    "title": "ZABLER",
-    "price": "1,99",
-    "oldPrice": "2,99",
-    "discount": "33%",
+    "title": "SILVERCREST®",
+    "price": "1,49",
+    "oldPrice": null,
+    "discount": null,
     "image": "🍺",
-    "description": "(1 kg = 3.98)",
+    "description": "Details im Markt",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "ltvc5rofr",
+    "store": "Kaufland",
+    "title": "POTT'S",
+    "price": "13,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,33-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
