@@ -1,6 +1,78 @@
 [
   {
-    "id": "vki8t2nvc",
+    "id": "ndrnumxt2",
+    "store": "Rewe",
+    "title": "Gustavo Gusto Pizza Margherita",
+    "price": "3,39",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 410-g-Pckg., (1 kg = 8,27 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "dq4ob9jio",
+    "store": "Rewe",
+    "title": "3 Glocken Genuss Pur Pasta",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Btl., (1 kg = 1,98 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "vq17z1g71",
+    "store": "Rewe",
+    "title": "Veltins Pilsener oder V+",
+    "price": "3,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, teilw. koffeinhaltig, je 6 x 0,33-l-Fl.-Sixpack, (1 l = 2,02 €), zzgl. 0,48 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "r34j0p9sb",
+    "store": "Rewe",
+    "title": "Dr. Oetker Pizza Tradizionale Salame Romano",
+    "price": "2,22",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 385-g-Pckg., (1 kg = 5,77 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "l1s37k840",
+    "store": "Rewe",
+    "title": "Schwartau Samt Fruchtaufstrich Erdbeere",
+    "price": "2,29",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍞",
+    "description": "je 297-g-Glas, (1 kg = 7,71 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "659mqciye",
+    "store": "Rewe",
+    "title": "Beck’s Pils",
+    "price": "10,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,38 € / 1,10 €), zzgl. 3,42 € / 3,10 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "bgm2ijys2",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,49",
@@ -12,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "z8ctqt8xm",
+    "id": "2xupm55p0",
     "store": "Kaufland",
     "title": "WARSTEINER",
     "price": "9,99",
@@ -24,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "cqsr37r5o",
+    "id": "gzxpj6k1s",
     "store": "Kaufland",
     "title": "LIV&BO®",
     "price": "1,49",
@@ -36,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "1rpdgcj13",
+    "id": "beh7969fp",
     "store": "Kaufland",
     "title": "SILVERCREST®",
     "price": "1,49",
@@ -48,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "7nn2l56cq",
+    "id": "5jf33vtr7",
     "store": "Kaufland",
     "title": "POTT'S",
     "price": "13,99",

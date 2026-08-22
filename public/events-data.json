@@ -1,38 +1,5 @@
 [
   {
-    "title": "PowerDance",
-    "date": "2026-08-21",
-    "time": "20:00",
-    "location": "musa (Salon)",
-    "category": "Party",
-    "description": "tags pop, rock, electro",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44346806&date=2026-08-21",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "GET DOWN",
-    "date": "2026-08-21",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "tags funk, hip-hop, soul, black",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/45807420_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807420&date=2026-08-21",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "POV: It's 2016!",
-    "date": "2026-08-21",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46532118_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46532118&date=2026-08-21",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "2000er Party",
     "date": "2026-08-22",
     "time": "20:00",
@@ -568,6 +535,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
     "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-09-21/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "#wirsinddienacht",
+    "date": "2026-09-26",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/wsdn-neutral-scaled-1-913x1280.jpg",
+    "link": "https://exil-web.de/event/wirsinddienacht-3-4/2026-09-26/",
     "source": "Exil",
     "category": "Kultur"
   }
