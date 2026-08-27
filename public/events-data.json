@@ -1,38 +1,5 @@
 [
   {
-    "title": "mittwochsimclub",
-    "date": "2026-08-26",
-    "time": "20:00",
-    "location": "Club Savoy",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46532120_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46532120&date=2026-08-26",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-08-26",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-08-26",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-08-26",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "id": "jones-wings-2026-08-27",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -60,7 +27,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 € tags (teilw.) eintritt frei, 90er, 2000er",
+    "description": "tags (teilw.) eintritt frei, 90er, 2000er",
     "image": "https://www.wasgehtingoettingen.de/images/termine/46438584_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46438584&date=2026-08-28",
     "source": "wasgehtingoettingen"
@@ -71,7 +38,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- € tags rock, indie, ebm, industrial",
+    "description": "tags rock, indie, ebm, industrial",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807422_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807422&date=2026-08-28",
     "source": "wasgehtingoettingen"
@@ -104,7 +71,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 € tags schlager",
+    "description": "tags schlager",
     "image": "https://www.wasgehtingoettingen.de/images/termine/46438585_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46438585&date=2026-08-29",
     "source": "wasgehtingoettingen"
@@ -115,7 +82,7 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- € tags pop, rock, punk, schlager, 90er",
+    "description": "tags pop, rock, punk, schlager, 90er",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807423_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807423&date=2026-08-29",
     "source": "wasgehtingoettingen"
@@ -159,9 +126,20 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 3,- € tags indie, 80er",
+    "description": "tags indie, 80er",
     "image": "https://www.wasgehtingoettingen.de/images/termine/45807424_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807424&date=2026-09-01",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Leo Ensel: Lesung aus dem Wörterbuch der Kriegstüchtigkeit",
+    "date": "2026-09-01",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Sonstiges",
+    "description": "\"Woke und Wehrhaft\" - der neue Sound der Kriegstüchtigkeit tags (teilw.) eintritt frei, lesung",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46612815_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46612815&date=2026-09-01",
     "source": "wasgehtingoettingen"
   },
   {
@@ -363,6 +341,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "LIVE MUSIK",
+    "date": "2026-09-09",
+    "time": "20:00",
+    "location": "Dots",
+    "category": "Kultur",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/40293676_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=40293676&date=2026-09-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-ap-2026-09-09",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -385,6 +374,17 @@
     "source": "Thanners"
   },
   {
+    "title": "Simon & Jan: Heiße Luft",
+    "date": "2026-09-10",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Heiße Luft, ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43638976&date=2026-09-10",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-wings-2026-09-10",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -396,26 +396,103 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "Rock gegen Rheuma",
+    "date": "2026-09-11",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Party",
+    "description": "tags rock",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44734764&date=2026-09-11",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Anny Hartmann: Klima-Ballerina",
+    "date": "2026-09-11",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Klima-Ballerina, ab 22,00 € tags kabarett",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44343863&date=2026-09-11",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "28. Weststadtfest",
+    "date": "2026-09-12",
+    "time": "20:00",
+    "location": "musa",
+    "category": "Sonstiges",
+    "description": "Samstag 12.9.2026 - Leineaue/Höhe Rosenwinkel tags kinder",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45535361&date=2026-09-12",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Comedyflash - Die Stand Up Comedy Show",
+    "date": "2026-09-12",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46607012&date=2026-09-12",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Thomas Nicolai",
+    "date": "2026-09-12",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Mit alles! EXTRASCHARF!, ab 22,00 € tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44343874&date=2026-09-12",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "CHEERS TO THE QUEERS",
     "date": "2026-09-12",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/04/WebPOSTER--960x1280.jpg",
-    "link": "https://exil-web.de/event/cheers-to-the-queers-party-4-4/2026-09-12/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Eintritt: 7,- €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46438357_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46438357&date=2026-09-12",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "»Porträtkonzert: Tomoya Yokokawa«",
+    "date": "2026-09-13",
+    "time": "20:00",
+    "location": "musa",
+    "category": "Kultur",
+    "description": "Musik 21 Festival, 5-25€ tags cello, geige, zeitgenössische musik, konzert, festival",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46517113_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46517113&date=2026-09-13",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "musik21 Festival",
+    "date": "2026-09-13",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Kultur",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46532692&date=2026-09-13",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "SWING-A-ROUND",
     "date": "2026-09-14",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-09-14/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Lindy Hop & Swing tags (teilw.) eintritt frei",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45903781_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45903781&date=2026-09-14",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-ap-2026-09-16",
@@ -438,6 +515,28 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "title": "Christian Schulte-Loh - Intern Extern",
+    "date": "2026-09-17",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Kultur",
+    "description": "Import Export, 25,00 € tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43109467&date=2026-09-17",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Michael Zalejski: „Ich wollt´ was von Reinhard singen…“",
+    "date": "2026-09-17",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Ich wollt' was von Reinhard singen…, ab 22,00 € tags gitarre, klavier",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44932375&date=2026-09-17",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-wings-2026-09-17",
