@@ -1,6 +1,6 @@
 [
   {
-    "id": "lg1ts9g1o",
+    "id": "55htvwqug",
     "store": "Rewe",
     "title": "auch alkoholfrei",
     "price": "10,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "wjx3we191",
+    "id": "ep0szvlx3",
     "store": "Rewe",
     "title": "Krombacher Pils oder alkoholfrei",
     "price": "3,10",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "iemfrttrc",
+    "id": "f9ng2domr",
     "store": "Rewe",
     "title": "Delverde Pasta",
     "price": "0,88",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ih0lur6s3",
+    "id": "q01ml9mnb",
     "store": "Rewe",
     "title": "Original Wagner Steinofen Pizza Salami",
     "price": "1,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "bfi564qga",
+    "id": "kyyz0iho8",
     "store": "Rewe",
     "title": "Jever Pilsener oder Fun",
     "price": "11,99",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "w8fww6vqe",
+    "id": "v6egu1kdc",
     "store": "Rewe",
     "title": "Faber Sekt oder Light Live alkoholfrei",
     "price": "2,99",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "sg3bfyejq",
+    "id": "jlklb2mt7",
     "store": "Rewe",
     "title": "Martini Bianco Vermouth",
     "price": "7,49",
@@ -84,7 +84,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "mepmqby8c",
+    "id": "b13ph4tda",
     "store": "Rewe",
     "title": "Original Wagner Flammkuchen Elsässer Art",
     "price": "1,99",
@@ -96,7 +96,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "3sws6ql4a",
+    "id": "f7beylmmi",
     "store": "Rewe",
     "title": "Simply V Pizza gerieben",
     "price": "1,99",
@@ -108,7 +108,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "fr1z9rjph",
+    "id": "o1qodvrtu",
     "store": "Kaufland",
     "title": "HASSERÖDER",
     "price": "17,99",
@@ -120,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "4l5e29svp",
+    "id": "bktm74uqj",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,79",
@@ -132,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "nz90u01kn",
+    "id": "1k7gy6gmp",
     "store": "Kaufland",
     "title": "GIOVANNI RANA",
     "price": "2,00",
@@ -144,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "5ldbvuapv",
+    "id": "ecjsayv68",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -156,7 +156,19 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "h06c0yv4t",
+    "id": "ate4eucsz",
+    "store": "Kaufland",
+    "title": "Barilla Classic Nudeln",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "(1 kg = 1.38)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "s2rkg7qz4",
     "store": "Kaufland",
     "title": "SPATEN",
     "price": "12,99",
