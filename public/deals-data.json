@@ -1,114 +1,6 @@
 [
   {
-    "id": "55htvwqug",
-    "store": "Rewe",
-    "title": "auch alkoholfrei",
-    "price": "10,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,39 € / 1,10 €), zzgl. 3,42 € / 3,10 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "ep0szvlx3",
-    "store": "Rewe",
-    "title": "Krombacher Pils oder alkoholfrei",
-    "price": "3,10",
-    "oldPrice": "3,42",
-    "discount": "9%",
-    "image": "🍺",
-    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,39 € / 1,10 €), zzgl. 3,42 € / 3,10 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "f9ng2domr",
-    "store": "Rewe",
-    "title": "Delverde Pasta",
-    "price": "0,88",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 1,76 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "q01ml9mnb",
-    "store": "Rewe",
-    "title": "Original Wagner Steinofen Pizza Salami",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 6,22 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "kyyz0iho8",
-    "store": "Rewe",
-    "title": "Jever Pilsener oder Fun",
-    "price": "11,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 24 x 0,33-l-Fl.-Kasten, (1 l = 1,51 €), zzgl. 3,42 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "v6egu1kdc",
-    "store": "Rewe",
-    "title": "Faber Sekt oder Light Live alkoholfrei",
-    "price": "2,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "je 0,75-l-Fl., (1 l = 3,99 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "jlklb2mt7",
-    "store": "Rewe",
-    "title": "Martini Bianco Vermouth",
-    "price": "7,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "14,5% Vol. oder Vibrante Aperitif alkoholfrei, je 0,75-l-Fl., (1 l = 9,99 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "b13ph4tda",
-    "store": "Rewe",
-    "title": "Original Wagner Flammkuchen Elsässer Art",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 300-g-Pckg., (1 kg = 6,63 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "f7beylmmi",
-    "store": "Rewe",
-    "title": "Simply V Pizza gerieben",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "vegan, je 180-g-Btl., (1 kg = 11,06 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "o1qodvrtu",
+    "id": "3e3qrhk4t",
     "store": "Kaufland",
     "title": "HASSERÖDER",
     "price": "17,99",
@@ -120,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "bktm74uqj",
+    "id": "tji0a0c9n",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,79",
@@ -132,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "1k7gy6gmp",
+    "id": "03dkw7te0",
     "store": "Kaufland",
     "title": "GIOVANNI RANA",
     "price": "2,00",
@@ -144,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ecjsayv68",
+    "id": "e5l00j12k",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -156,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ate4eucsz",
+    "id": "61sqmgcvd",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,99",
@@ -168,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "s2rkg7qz4",
+    "id": "gsgolt0y4",
     "store": "Kaufland",
     "title": "SPATEN",
     "price": "12,99",
