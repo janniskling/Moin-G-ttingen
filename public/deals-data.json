@@ -1,6 +1,6 @@
 [
   {
-    "id": "3e3qrhk4t",
+    "id": "2exs6vvzs",
     "store": "Kaufland",
     "title": "HASSERÖDER",
     "price": "17,99",
@@ -12,7 +12,19 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "tji0a0c9n",
+    "id": "aluyxpqvi",
+    "store": "Kaufland",
+    "title": "DR. OETKER",
+    "price": "2,00",
+    "oldPrice": "3,69",
+    "discount": "46%",
+    "image": "🍺",
+    "description": "(1 kg = 4.82 - 5.20)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "rzexotgns",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,79",
@@ -24,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "03dkw7te0",
+    "id": "1s00g9w35",
     "store": "Kaufland",
     "title": "GIOVANNI RANA",
     "price": "2,00",
@@ -36,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "e5l00j12k",
+    "id": "t9fvv5qnm",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -48,19 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "61sqmgcvd",
-    "store": "Kaufland",
-    "title": "Barilla Classic Nudeln",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "(1 kg = 1.38)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "gsgolt0y4",
+    "id": "7nfrsrr7z",
     "store": "Kaufland",
     "title": "SPATEN",
     "price": "12,99",
