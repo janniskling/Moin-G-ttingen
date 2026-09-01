@@ -1,6 +1,114 @@
 [
   {
-    "id": "5shcn59ep",
+    "id": "cxmdiez69",
+    "store": "Rewe",
+    "title": "Barilla Pasta Sauce",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "Basilico, je 400-g-Glas, (1 kg = 4,98 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "m8jn3bn96",
+    "store": "Rewe",
+    "title": "Dr. Oetker Ristorante Pizza Salame",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 5,59 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "tlc7gdkua",
+    "store": "Rewe",
+    "title": "Barilla Pasta Spezialitäten Collezione",
+    "price": "1,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 2,98 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "2weih81ry",
+    "store": "Rewe",
+    "title": "Heineken Premium Beer",
+    "price": "15,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "versch. Sorten, je 20 x 0,4 / 28 x 0,25-l-Fl.-Kasten, (1 l = 2,00 € / 2,28 €), zzgl. 3,10 € / 3,74 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "578lo34km",
+    "store": "Rewe",
+    "title": "Knorr Pasta Pot",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "Brokkoli & Käse, je 62-g-Becher, (1 kg = 15,97 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "ko3g6y5x1",
+    "store": "Rewe",
+    "title": "Barilla Classic Pasta",
+    "price": "0,88",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 1,76 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "dk3p1h6ce",
+    "store": "Rewe",
+    "title": "Bonne Maman Weniger Zucker, mehr Frucht Konfitüre",
+    "price": "2,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Erdbeere, je 335-g-Glas, (1 kg = 7,43 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "8kha9x2ll",
+    "store": "Rewe",
+    "title": "Barilla Pesto Rosso",
+    "price": "1,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "vegan, je 200-g-Glas, (1 kg = 9,95 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "uuai91mm8",
+    "store": "Rewe",
+    "title": "Ramazzotti Amaro",
+    "price": "9,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "30% Vol. oder Aperitivo Arancia alkoholfrei, je 0,7-l-Fl., (1 l = 14,27 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "pvdvamaxt",
     "store": "Kaufland",
     "title": "HASSERÖDER",
     "price": "17,99",
@@ -12,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "2841tbhjq",
+    "id": "2bwrr1g3v",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "2,00",
@@ -24,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "cpcwfip4a",
+    "id": "jbgsthw4d",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,79",
@@ -36,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ab6qeapui",
+    "id": "qeoiv4d63",
     "store": "Kaufland",
     "title": "GIOVANNI RANA",
     "price": "2,00",
@@ -48,7 +156,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "dyali7996",
+    "id": "a8tz88pv3",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -60,7 +168,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "hm55ta8yb",
+    "id": "9cqq5xfkd",
     "store": "Kaufland",
     "title": "SPATEN",
     "price": "12,99",
@@ -68,6 +176,42 @@
     "discount": "13%",
     "image": "🍺",
     "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "4a1ozo02f",
+    "store": "Kaufland",
+    "title": "Barilla Classic Nudeln",
+    "price": "1,59",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "(1 kg = 3.18)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "rur1vd92b",
+    "store": "Kaufland",
+    "title": "BERNBACHER",
+    "price": "2,39",
+    "oldPrice": "2,99",
+    "discount": "20%",
+    "image": "🍺",
+    "description": "(1 kg = 5.98)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "xelkprkgs",
+    "store": "Kaufland",
+    "title": "BERTOLLI",
+    "price": "2,39",
+    "oldPrice": "2,99",
+    "discount": "20%",
+    "image": "🍺",
+    "description": "(1 kg = 5.98)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
