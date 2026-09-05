@@ -1,6 +1,6 @@
 [
   {
-    "id": "4jj2km65c",
+    "id": "0igtw0vvv",
     "store": "Rewe",
     "title": "Barilla Pasta Sauce",
     "price": "1,99",
@@ -12,7 +12,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "8o8d36lhk",
+    "id": "fusvez0n1",
     "store": "Rewe",
     "title": "Dr. Oetker Ristorante Pizza Salame",
     "price": "1,79",
@@ -24,7 +24,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "rygrr18te",
+    "id": "99rrx7zq7",
     "store": "Rewe",
     "title": "Barilla Pasta Spezialitäten Collezione",
     "price": "1,49",
@@ -36,7 +36,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "tt09odmex",
+    "id": "oj7cj1mbf",
     "store": "Rewe",
     "title": "Heineken Premium Beer",
     "price": "15,99",
@@ -48,7 +48,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "wwe194w23",
+    "id": "1zi9wflwx",
     "store": "Rewe",
     "title": "Knorr Pasta Pot",
     "price": "0,99",
@@ -60,7 +60,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "yciallw3n",
+    "id": "e17yg5l4p",
     "store": "Rewe",
     "title": "Barilla Classic Pasta",
     "price": "0,88",
@@ -72,7 +72,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "rhkwgzsh0",
+    "id": "igi6ifw1d",
     "store": "Rewe",
     "title": "Bonne Maman Weniger Zucker, mehr Frucht Konfitüre",
     "price": "2,49",
@@ -84,7 +84,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "ibx1d13iv",
+    "id": "udcgtgzhr",
     "store": "Rewe",
     "title": "Barilla Pesto Rosso",
     "price": "1,99",
@@ -96,7 +96,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "5vf5x7dms",
+    "id": "x9w0j6bzd",
     "store": "Rewe",
     "title": "Ramazzotti Amaro",
     "price": "9,99",
@@ -108,7 +108,7 @@
     "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
   },
   {
-    "id": "0i5ua2c0q",
+    "id": "4w74rux9g",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,66",
@@ -120,19 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "2zhvzb5f3",
-    "store": "Kaufland",
-    "title": "SCHWAMM",
-    "price": "6,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Details im Markt",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "86z07d5fh",
+    "id": "8imnec339",
     "store": "Kaufland",
     "title": "K-PURLAND",
     "price": "3,99",
@@ -144,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "guha6f9lr",
+    "id": "g18xgq01g",
     "store": "Kaufland",
     "title": "GUSTAVO GUSTO",
     "price": "3,49",
@@ -156,7 +144,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "6yqv0pj6m",
+    "id": "fauvtxkhz",
     "store": "Kaufland",
     "title": "Erdbeerherz",
     "price": "0,89",
@@ -168,7 +156,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "bjjy8rasa",
+    "id": "7jbxg2sjd",
     "store": "Kaufland",
     "title": "ZABLER",
     "price": "2,39",
@@ -180,7 +168,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "r3whmr2fg",
+    "id": "u7z2fnoko",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,29",
@@ -192,7 +180,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "p4fb8zg0s",
+    "id": "3bws9nkey",
     "store": "Kaufland",
     "title": "CORONA",
     "price": "14,99",
@@ -204,7 +192,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "938qdnq1l",
+    "id": "n62dggiie",
     "store": "Kaufland",
     "title": "BERNBACHER",
     "price": "2,39",
@@ -216,7 +204,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "30u52kgat",
+    "id": "uo6e38pcv",
     "store": "Kaufland",
     "title": "BERTOLLI",
     "price": "2,39",
