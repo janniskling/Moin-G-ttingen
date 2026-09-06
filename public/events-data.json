@@ -1,71 +1,5 @@
 [
   {
-    "title": "Jazzfieber feat. Mariam Lazizi",
-    "date": "2026-09-05",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "In Concert tags jazz",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45695100&date=2026-09-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "40+ BEATZ",
-    "date": "2026-09-05",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Kultur",
-    "description": "Tanzvergnügen für Erwachsene, 9,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46532691&date=2026-09-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Apre´s ski meets Schlager",
-    "date": "2026-09-05",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, schlager, charts",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46707425_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46707425&date=2026-09-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "wirsinddienacht",
-    "date": "2026-09-05",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "tags pop, rock, metal, punk, indie",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46438356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46438356&date=2026-09-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Voice, Dance and Vision - die Show",
-    "date": "2026-09-05",
-    "time": "20:00",
-    "location": "musa",
-    "category": "Kultur",
-    "description": "tags kinder",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45535360&date=2026-09-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "#wirsinddienacht",
-    "date": "2026-09-05",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/wsdn-neutral-scaled-1-913x1280.jpg",
-    "link": "https://exil-web.de/event/wirsinddienacht-3-4/2026-09-05/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-09-07",
     "time": "20:00",
@@ -589,6 +523,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
     "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-10-12/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "SWING-A-ROUND",
+    "date": "2026-10-19",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-10-19/",
     "source": "Exil",
     "category": "Kultur"
   }
