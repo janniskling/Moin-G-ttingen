@@ -1,90 +1,6 @@
 [
   {
-    "id": "tvi16jp0z",
-    "store": "Rewe",
-    "title": "auch alkoholfrei",
-    "price": "3,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "versch. Sorten, je 0,75-l-Fl., (1 l = 5,32 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "tdxfwt1hg",
-    "store": "Rewe",
-    "title": "Maggi 5 Minuten Terrine Nudeln in Rahmsauce",
-    "price": "0,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "je 61-g-Becher, (1 kg = 16,23 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "xug78exjv",
-    "store": "Rewe",
-    "title": "Schwartau Konfitüre Extra",
-    "price": "2,29",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Erdbeere, je 340-g-Glas, (1 kg = 6,74 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "fzu9dwx2i",
-    "store": "Rewe",
-    "title": "Crodino Biondo",
-    "price": "4,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "alkoholfrei, je 6 x 98-ml-Fl.-Pckg., (1 l = 8,49 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "d86a0fh34",
-    "store": "Rewe",
-    "title": "Dr. Oetker Pizza Tradizionale Salame Romano",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 385-g-Pckg., (1 kg = 5,17 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "5c3geemho",
-    "store": "Rewe",
-    "title": "Schwartau Samt Fruchtaufstrich",
-    "price": "2,29",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Himbeere, je 270-g-Glas, (1 kg = 8,48 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "tdi7bicom",
-    "store": "Rewe",
-    "title": "Erdbeeren",
-    "price": "2,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍞",
-    "description": "Kl. I, je 250-g-Schale, (1 kg = 9,96 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "fcj1rlbia",
+    "id": "w4kiangag",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,66",
@@ -96,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "3wdwxqeh8",
+    "id": "i6erp54dg",
     "store": "Kaufland",
     "title": "K-PURLAND",
     "price": "3,99",
@@ -108,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "1ccxdxq9t",
+    "id": "71jbvbt4t",
     "store": "Kaufland",
     "title": "GUSTAVO GUSTO",
     "price": "3,49",
@@ -120,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "l2ihnakrt",
+    "id": "7chjiimj8",
     "store": "Kaufland",
     "title": "Erdbeerherz",
     "price": "0,89",
@@ -132,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "92wjtfmtv",
+    "id": "tj83ifcj8",
     "store": "Kaufland",
     "title": "ZABLER",
     "price": "2,39",
@@ -144,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "8hf0f2qbs",
+    "id": "662ccy6ox",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,29",
@@ -156,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ys2raza45",
+    "id": "eh0ap380u",
     "store": "Kaufland",
     "title": "CORONA",
     "price": "14,99",
@@ -168,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "brnpsk6lq",
+    "id": "w1qle0g0o",
     "store": "Kaufland",
     "title": "BERNBACHER",
     "price": "2,39",
@@ -180,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "8mdd75elv",
+    "id": "bt763daib",
     "store": "Kaufland",
     "title": "BERTOLLI",
     "price": "2,39",
