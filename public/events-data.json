@@ -1,38 +1,5 @@
 [
   {
-    "title": "Rock gegen Rheuma",
-    "date": "2026-09-11",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Party",
-    "description": "tags rock",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44734764&date=2026-09-11",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Vorverkauf",
-    "date": "2026-09-11",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46796367_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796367&date=2026-09-11",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Anny Hartmann",
-    "date": "2026-09-11",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Klima-Ballerina tags kabarett",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44343863&date=2026-09-11",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "Back to the 80s",
     "date": "2026-09-12",
     "time": "20:00",
@@ -470,6 +437,16 @@
     "image": "https://www.wasgehtingoettingen.de/images/termine/46079284_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46079284&date=2026-09-26",
     "source": "wasgehtingoettingen"
+  },
+  {
+    "location": "Sparkassen-Arena",
+    "title": "🏀 Heimspiel",
+    "date": "2026-09-26",
+    "time": "18:30",
+    "description": "BBL Heimspiel gegen 2026| SparkassenArena|ProAHauptrundeRheinStars Köln. Jetzt Tickets sichern!",
+    "category": "Sports",
+    "image": "/images/bg-logo.png",
+    "link": "https://www.ticket-onlineshop.com/ols/bggoettingen/de/tageskarten/channel/shop/index"
   },
   {
     "title": "#wirsinddienacht",
