@@ -1,92 +1,5 @@
 [
   {
-    "title": "Back to the 80s",
-    "date": "2026-09-12",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, pop, rock",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46707423_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46707423&date=2026-09-12",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "CHEERS TO THE QUEERS",
-    "date": "2026-09-12",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46438357_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46438357&date=2026-09-12",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Comedyflash - Die Stand Up Comedy Show",
-    "date": "2026-09-12",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "tags comedy",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46607012&date=2026-09-12",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Thomas Nicolai",
-    "date": "2026-09-12",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Mit alles! EXTRASCHARF! tags comedy",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44343874&date=2026-09-12",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "28. Weststadtfest",
-    "date": "2026-09-12",
-    "time": "20:00",
-    "location": "musa",
-    "category": "Sonstiges",
-    "description": "Samstag 12.9.2026 - Leineaue/Höhe Rosenwinkel tags kinder",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45535361&date=2026-09-12",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "location": "Sparkassen-Arena",
-    "title": "🏀 Heimspiel",
-    "date": "2026-09-12",
-    "time": "20:00",
-    "description": "BBL Heimspiel gegen TESTSPIELE. Jetzt Tickets sichern!",
-    "category": "Sports",
-    "image": "/images/bg-logo.png",
-    "link": "https://www.ticket-onlineshop.com/ols/bggoettingen/de/tageskarten/channel/shop/index"
-  },
-  {
-    "title": "»Porträtkonzert: Tomoya Yokokawa«",
-    "date": "2026-09-13",
-    "time": "20:00",
-    "location": "musa",
-    "category": "Kultur",
-    "description": "Musik 21 Festival, 5-25€ tags cello, geige, zeitgenössische musik, konzert, festival",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46517113_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46517113&date=2026-09-13",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "musik21 Festival",
-    "date": "2026-09-13",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Kultur",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46532692&date=2026-09-13",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-09-14",
     "time": "20:00",
@@ -153,7 +66,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Michael von Zalejski",
+    "title": "Michael Zalejski: „Ich wollt´ was von Reinhard singen…“",
     "date": "2026-09-17",
     "time": "20:00",
     "location": "APEX",
@@ -406,7 +319,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Friedemann Weise",
+    "title": "Friedemann Weise: Satire suchen ein Zuhause",
     "date": "2026-09-26",
     "time": "20:00",
     "location": "APEX",
@@ -599,6 +512,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
     "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-10-12/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "BEST 80s",
+    "date": "2026-10-17",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2024/02/Best-80s-960x1280.jpg",
+    "link": "https://exil-web.de/event/best-80s/2026-10-17/",
     "source": "Exil",
     "category": "Kultur"
   },
