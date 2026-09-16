@@ -99,6 +99,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "GUILTY PLEASURE PARTY ✨",
+    "date": "2026-09-18",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 8,90 € tags (teilw.) eintritt frei, pop, rock, schlager, 90er",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46885903_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46885903&date=2026-09-18",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "Mama geht tanzen \"Black Edition\"",
     "date": "2026-09-19",
     "time": "20:00",
@@ -154,17 +165,6 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Apex-Theaterclub",
-    "date": "2026-09-21",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Freispiel!",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46331976&date=2026-09-21",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-09-21",
     "time": "20:00",
@@ -181,9 +181,20 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 7,00 €",
+    "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/46707428_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46707428&date=2026-09-21",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Apex-Theaterclub",
+    "date": "2026-09-21",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Freispiel!",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46331976&date=2026-09-21",
     "source": "wasgehtingoettingen"
   },
   {
@@ -316,6 +327,17 @@
     "description": "15,00 € tags gitarre, orgel, klavier",
     "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44734766&date=2026-09-26",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Inselfieber",
+    "date": "2026-09-26",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 8,90 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46885902_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46885902&date=2026-09-26",
     "source": "wasgehtingoettingen"
   },
   {
@@ -613,6 +635,17 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "id": "jones-wings-2026-10-15",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-10-15",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
   },
   {
     "title": "BEST 80s",
