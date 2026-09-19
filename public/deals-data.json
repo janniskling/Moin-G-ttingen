@@ -1,138 +1,6 @@
 [
   {
-    "id": "f3asmn0kv",
-    "store": "Rewe",
-    "title": "auch alkoholfrei",
-    "price": "15,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "je 20 x 0,4 / 28 x 0,25-l-Fl.-Kasten, (1 l = 2,00 € / 2,28 €), zzgl. 3,10 € / 3,74 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "eoc83j2es",
-    "store": "Rewe",
-    "title": "Heineken Premium Beer oder alkoholfrei",
-    "price": "3,10",
-    "oldPrice": "3,74",
-    "discount": "17%",
-    "image": "🍺",
-    "description": "je 20 x 0,4 / 28 x 0,25-l-Fl.-Kasten, (1 l = 2,00 € / 2,28 €), zzgl. 3,10 € / 3,74 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "jem036i98",
-    "store": "Rewe",
-    "title": "Original Wagner Steinofen Pizza Salami",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 5,59 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "lgkfdmgmv",
-    "store": "Rewe",
-    "title": "Jever Pilsener oder Fun",
-    "price": "3,10",
-    "oldPrice": "3,42",
-    "discount": "9%",
-    "image": "🍺",
-    "description": "versch. Sorten, je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,51 € / 1,20 €), zzgl. 3,42 € / 3,10 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "iz1cc03t3",
-    "store": "Rewe",
-    "title": "3 Glocken Genuss Pur Pasta",
-    "price": "0,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "versch. Ausformungen, je 500-g-Btl., (1 kg = 1,98 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "go16d7ek9",
-    "store": "Rewe",
-    "title": "Maggi 5 Minuten Terrine XL Spaghetti Bolognese",
-    "price": "1,19",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "je 81-g-Becher, (1 kg = 14,69 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "ro2yfxpyc",
-    "store": "Rewe",
-    "title": "Original Wagner Flammkuchen Elsässer Art",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 300-g-Pckg., (1 kg = 5,97 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "h9mutg70m",
-    "store": "Rewe",
-    "title": "REWE Beste Wahl Himbeeren",
-    "price": "1,00",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍞",
-    "description": "Details im Markt",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "8ra3r6eur",
-    "store": "Rewe",
-    "title": "Bauer Biergartenkäse",
-    "price": "1,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Weichkäse, 45% i.Tr., je 150-g-Pckg., (1 kg = 13,27 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "je84rz4ko",
-    "store": "Rewe",
-    "title": "Warsteiner Pils",
-    "price": "9,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "je 24 x 0,33 / 20 x 0,5-l-Fl.-Kasten, (1 l = 1,26 € / 1,00 €), zzgl. 3,42 € / 3,10 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "iu3s8tcp9",
-    "store": "Rewe",
-    "title": "Paulaner Weißbier oder Münchner Hell",
-    "price": "3,10",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "auch alkoholfrei, je 20 x 0,5-l-Fl.-Kasten, (1 l = 1,40 €), zzgl. 3,10 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "4blxh0vgl",
+    "id": "wn8sixma7",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "9,99",
@@ -144,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "fu00yxte0",
+    "id": "tyb0yo1t0",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,79",
@@ -156,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "93mrqv1ic",
+    "id": "x7gd6yfeq",
     "store": "Kaufland",
     "title": "Helle Weizenkruste",
     "price": "1,49",
@@ -168,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "xd62cs4w0",
+    "id": "vikgst9i8",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "0,99",
@@ -180,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "srgwngdr1",
+    "id": "zlec1lnz1",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,59",
@@ -192,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "rghuotmmy",
+    "id": "51l6ok3dd",
     "store": "Kaufland",
     "title": "BERNBACHER",
     "price": "2,39",
@@ -204,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "dlhbdihcu",
+    "id": "33v3gyxke",
     "store": "Kaufland",
     "title": "BERTOLLI",
     "price": "2,39",
