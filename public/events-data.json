@@ -1,16 +1,5 @@
 [
   {
-    "title": "Ausstellung vom 20. September 2026 bis 24. Januar 2027",
-    "date": "2026-09-20",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Sonstiges",
-    "description": "Ausstellungseröffnung F. W. Bernstein im APEX",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796710&date=2026-09-20",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-09-21",
     "time": "20:00",
@@ -33,7 +22,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Apex-Theaterclub",
+    "title": "Freispiel! - Der APEX-Theaterclub",
     "date": "2026-09-21",
     "time": "20:00",
     "location": "APEX",
@@ -212,7 +201,7 @@
     "date": "2026-09-27",
     "time": "20:00",
     "location": "musa (Saal)",
-    "category": "Kultur",
+    "category": "Sonstiges",
     "description": "FRECH TOUR",
     "image": "https://www.wasgehtingoettingen.de/images/termine/43203282_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43203282&date=2026-09-27",
@@ -373,7 +362,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "stille hunde",
+    "title": "Farm der Tiere nach dem Buch von George Orwell",
     "date": "2026-10-03",
     "time": "20:00",
     "location": "APEX",
