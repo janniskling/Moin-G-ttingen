@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "id": "y38oj1cfn",
+    "store": "Rewe",
+    "title": "Barilla Pesto Rosso",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "je 200-g-Glas, (1 kg = 8,95 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "cou8mdxly",
+    "store": "Rewe",
+    "title": "Barilla Classic Pasta",
+    "price": "0,88",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 1,76 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "fb7s2y6iv",
+    "store": "Rewe",
+    "title": "Dr. Oetker Ristorante Pizza Salame",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 5,59 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "6fldcjicd",
+    "store": "Rewe",
+    "title": "Gustavo Gusto Pizza Amore Napoli Mozzarella",
+    "price": "2,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 9,34 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "eurnin2rd",
+    "store": "Kaufland",
+    "title": "BREE",
+    "price": "2,79",
+    "oldPrice": "5,49",
+    "discount": "49%",
+    "image": "🍺",
+    "description": "(1 l = 3.72)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "ce187al3o",
+    "store": "Kaufland",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "(1 kg = 4.98 - 5.97)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "ocke0viui",
+    "store": "Kaufland",
+    "title": "Helle Weizenkruste",
+    "price": "1,49",
+    "oldPrice": "2,29",
+    "discount": "35%",
+    "image": "🍺",
+    "description": "(1 kg = 2.98)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "oc33vaexz",
+    "store": "Kaufland",
+    "title": "KROMBACHER",
+    "price": "9,99",
+    "oldPrice": "16,99",
+    "discount": "41%",
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "vjupa7oya",
+    "store": "Kaufland",
+    "title": "PAULANER",
+    "price": "0,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 l = 1.98)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "26el243e9",
+    "store": "Kaufland",
+    "title": "Barilla Classic Nudeln",
+    "price": "1,59",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "(1 kg = 3.18)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "gzwgcowup",
+    "store": "Kaufland",
+    "title": "BERNBACHER",
+    "price": "2,39",
+    "oldPrice": "2,99",
+    "discount": "20%",
+    "image": "🍺",
+    "description": "(1 kg = 5.98)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "od4jw3kqv",
+    "store": "Kaufland",
+    "title": "BERTOLLI",
+    "price": "2,39",
+    "oldPrice": "2,99",
+    "discount": "20%",
+    "image": "🍺",
+    "description": "(1 kg = 5.98)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  }
+]
