@@ -1,54 +1,6 @@
 [
   {
-    "id": "y38oj1cfn",
-    "store": "Rewe",
-    "title": "Barilla Pesto Rosso",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "je 200-g-Glas, (1 kg = 8,95 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "cou8mdxly",
-    "store": "Rewe",
-    "title": "Barilla Classic Pasta",
-    "price": "0,88",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "versch. Ausformungen, je 500-g-Pckg., (1 kg = 1,76 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "fb7s2y6iv",
-    "store": "Rewe",
-    "title": "Dr. Oetker Ristorante Pizza Salame",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 5,59 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "6fldcjicd",
-    "store": "Rewe",
-    "title": "Gustavo Gusto Pizza Amore Napoli Mozzarella",
-    "price": "2,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 9,34 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "eurnin2rd",
+    "id": "xsc2bhws2",
     "store": "Kaufland",
     "title": "BREE",
     "price": "2,79",
@@ -60,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ce187al3o",
+    "id": "qbysciy3i",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,79",
@@ -72,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ocke0viui",
+    "id": "dbxbqkkq9",
     "store": "Kaufland",
     "title": "Helle Weizenkruste",
     "price": "1,49",
@@ -84,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "oc33vaexz",
+    "id": "tdmv7tdy2",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "9,99",
@@ -96,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "vjupa7oya",
+    "id": "w8g1xuurn",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "0,99",
@@ -108,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "26el243e9",
+    "id": "hvu6rxax9",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,59",
@@ -120,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "gzwgcowup",
+    "id": "c0hvjyrxn",
     "store": "Kaufland",
     "title": "BERNBACHER",
     "price": "2,39",
@@ -132,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "od4jw3kqv",
+    "id": "r9ru9q2kl",
     "store": "Kaufland",
     "title": "BERTOLLI",
     "price": "2,39",
