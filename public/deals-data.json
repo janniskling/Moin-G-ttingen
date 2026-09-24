@@ -1,66 +1,42 @@
 [
   {
-    "id": "xsc2bhws2",
+    "id": "rvqo43n0j",
     "store": "Kaufland",
-    "title": "BREE",
-    "price": "2,79",
-    "oldPrice": "5,49",
-    "discount": "49%",
+    "title": "ORO DI PARMA",
+    "price": "1,00",
+    "oldPrice": "1,99",
+    "discount": "50%",
     "image": "🍺",
-    "description": "(1 l = 3.72)",
+    "description": "(1 kg = 2.50 - 5.00)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "qbysciy3i",
+    "id": "7ewu79rvm",
     "store": "Kaufland",
-    "title": "ORIGINAL WAGNER",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "(1 kg = 4.98 - 5.97)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "dbxbqkkq9",
-    "store": "Kaufland",
-    "title": "Helle Weizenkruste",
-    "price": "1,49",
-    "oldPrice": "2,29",
-    "discount": "35%",
-    "image": "🍺",
-    "description": "(1 kg = 2.98)",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "tdmv7tdy2",
-    "store": "Kaufland",
-    "title": "KROMBACHER",
-    "price": "9,99",
-    "oldPrice": "16,99",
-    "discount": "41%",
-    "image": "🍺",
-    "description": "je Ka. 20 x 0,5-l-Fl.",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "w8g1xuurn",
-    "store": "Kaufland",
-    "title": "PAULANER",
-    "price": "0,99",
+    "title": "HENGLEIN",
+    "price": "1,00",
     "oldPrice": null,
     "discount": null,
     "image": "🍺",
-    "description": "(1 l = 1.98)",
+    "description": "(1 kg = 1.82)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "hvu6rxax9",
+    "id": "w55m9jywv",
+    "store": "Kaufland",
+    "title": "CORONA",
+    "price": "8,99",
+    "oldPrice": "9,99",
+    "discount": "10%",
+    "image": "🍺",
+    "description": "je Packg. 12 x 0,355-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "khlx19dem",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,59",
@@ -72,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "c0hvjyrxn",
+    "id": "4nzt10imf",
     "store": "Kaufland",
     "title": "BERNBACHER",
     "price": "2,39",
@@ -84,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "r9ru9q2kl",
+    "id": "52d5316gy",
     "store": "Kaufland",
     "title": "BERTOLLI",
     "price": "2,39",

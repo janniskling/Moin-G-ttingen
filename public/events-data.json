@@ -1,38 +1,5 @@
 [
   {
-    "title": "Jonas Greiner",
-    "date": "2026-09-23",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Auf Augenhöhe tags satire, comedy",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44343929&date=2026-09-23",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-09-23",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-09-23",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-09-23",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "title": "Bernd Nawothnig & Friends",
     "date": "2026-09-24",
     "time": "20:00",
@@ -66,23 +33,12 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Matthias Brodowy",
-    "date": "2026-09-25",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Sachen gibt's…., ab 22,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44343945&date=2026-09-25",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "Inventur Party",
     "date": "2026-09-25",
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 € tags charts, 90er, 2000er",
+    "description": "tags charts, 90er, 2000er",
     "image": "https://www.wasgehtingoettingen.de/images/termine/46707422_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46707422&date=2026-09-25",
     "source": "wasgehtingoettingen"
@@ -93,9 +49,20 @@
     "time": "20:00",
     "location": "Exil",
     "category": "Party",
-    "description": "Eintritt: 7,- € tags rock, indie, ebm, industrial",
+    "description": "tags rock, indie, ebm, industrial",
     "image": "https://www.wasgehtingoettingen.de/images/termine/46796219_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796219&date=2026-09-25",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Matthias Brodowy",
+    "date": "2026-09-25",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Sachen gibt's….",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44343945&date=2026-09-25",
     "source": "wasgehtingoettingen"
   },
   {
@@ -107,17 +74,6 @@
     "description": "Lazy Saturday Afternoon",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46331977&date=2026-09-26",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Friedemann Weise: Satire suchen ein Zuhause",
-    "date": "2026-09-26",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Satire suchen ein Zuhause, ab 22,00 € tags satire",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44543520&date=2026-09-26",
     "source": "wasgehtingoettingen"
   },
   {
@@ -137,7 +93,7 @@
     "time": "20:00",
     "location": "Alpenmax",
     "category": "Party",
-    "description": "Eintritt: 8,90 €",
+    "description": "",
     "image": "https://www.wasgehtingoettingen.de/images/termine/46885902_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46885902&date=2026-09-26",
     "source": "wasgehtingoettingen"
@@ -151,6 +107,17 @@
     "description": "tags rock, rock-n-roll",
     "image": "https://www.wasgehtingoettingen.de/images/termine/46969637_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46969637&date=2026-09-26",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Friedemann Weise: Satire suchen ein Zuhause",
+    "date": "2026-09-26",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Satire suchen ein Zuhause tags satire",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44543520&date=2026-09-26",
     "source": "wasgehtingoettingen"
   },
   {
@@ -403,6 +370,28 @@
     "link": "https://exil-web.de/event/its-tuesday-baby-2/2026-10-06/",
     "source": "Exil",
     "category": "Kultur"
+  },
+  {
+    "title": "23. Komische Nacht Göttingen",
+    "date": "2026-10-07",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Comedy-Marathon",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44344165&date=2026-10-07",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "23. Komische Nacht",
+    "date": "2026-10-07",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Kultur",
+    "description": "Der Comedy-Marathon in deiner Stadt tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44344164&date=2026-10-07",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-ap-2026-10-07",
