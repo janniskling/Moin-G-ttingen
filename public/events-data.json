@@ -1,49 +1,5 @@
 [
   {
-    "title": "Rock gegen Rheuma",
-    "date": "2026-09-25",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Party",
-    "description": "tags rock",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44734765&date=2026-09-25",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Inventur Party",
-    "date": "2026-09-25",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags charts, 90er, 2000er",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46707422_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46707422&date=2026-09-25",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "KLANGWELT",
-    "date": "2026-09-25",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "tags rock, indie, ebm, industrial",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46796219_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796219&date=2026-09-25",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Matthias Brodowy",
-    "date": "2026-09-25",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Sachen gibt's….",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44343945&date=2026-09-25",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "New Orleans Syncopators",
     "date": "2026-09-26",
     "time": "20:00",
@@ -427,6 +383,39 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "Gayle Tufts",
+    "date": "2026-10-09",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Please Don't Stop the Music",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45886315&date=2026-10-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Rock gegen Rheuma",
+    "date": "2026-10-09",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Party",
+    "description": "tags rock",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45191513&date=2026-10-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "ALPENMAX ON TOUR in Ahnatal-Weimar",
+    "date": "2026-10-09",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags schlager",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/45807631_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45807631&date=2026-10-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "SWING-A-ROUND",
     "date": "2026-10-12",
     "time": "20:00",
@@ -544,6 +533,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
     "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-10-26/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "SWING-A-ROUND",
+    "date": "2026-11-02",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-11-02/",
     "source": "Exil",
     "category": "Kultur"
   }

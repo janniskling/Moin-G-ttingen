@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "u1j1gpwth",
+    "store": "Kaufland",
+    "title": "ORO DI PARMA",
+    "price": "1,00",
+    "oldPrice": "1,99",
+    "discount": "50%",
+    "image": "🍺",
+    "description": "(1 kg = 2.50 - 5.00)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "cdwmfx798",
+    "store": "Kaufland",
+    "title": "HENGLEIN",
+    "price": "1,00",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 kg = 1.82)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "ek8mog38u",
+    "store": "Kaufland",
+    "title": "KROMBACHER",
+    "price": "9,99",
+    "oldPrice": "17,79",
+    "discount": "44%",
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "eup5ngisy",
+    "store": "Kaufland",
+    "title": "CORONA",
+    "price": "8,99",
+    "oldPrice": "9,99",
+    "discount": "10%",
+    "image": "🍺",
+    "description": "je Packg. 12 x 0,355-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "shi35qs9p",
+    "store": "Kaufland",
+    "title": "Barilla Classic Nudeln",
+    "price": "1,59",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "(1 kg = 3.18)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "f1spim2ao",
+    "store": "Kaufland",
+    "title": "BERNBACHER",
+    "price": "2,39",
+    "oldPrice": "2,99",
+    "discount": "20%",
+    "image": "🍺",
+    "description": "(1 kg = 5.98)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "g62ge2h31",
+    "store": "Kaufland",
+    "title": "BERTOLLI",
+    "price": "2,39",
+    "oldPrice": "2,99",
+    "discount": "20%",
+    "image": "🍺",
+    "description": "(1 kg = 5.98)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  }
+]
