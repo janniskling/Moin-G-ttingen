@@ -1,16 +1,5 @@
 [
   {
-    "title": "Mariybu",
-    "date": "2026-09-27",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Sonstiges",
-    "description": "FRECH TOUR",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/43203282_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43203282&date=2026-09-27",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-09-28",
     "time": "20:00",
@@ -381,6 +370,17 @@
     "description": "Erklär´ s mir, als wäre ich eine Frau",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45301933&date=2026-10-10",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Patrick Snow",
+    "date": "2026-10-11",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Kultur",
+    "description": "Love Stories tags gitarre, klavier, singer-songwriter",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46331979&date=2026-10-11",
     "source": "wasgehtingoettingen"
   },
   {
