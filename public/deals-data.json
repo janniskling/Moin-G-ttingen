@@ -1,6 +1,6 @@
 [
   {
-    "id": "awxr4jokw",
+    "id": "wi29uo8rd",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,59",
@@ -12,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "eiksnut37",
+    "id": "kszr9j2gn",
     "store": "Kaufland",
     "title": "BECK'S",
     "price": "9,66",
@@ -24,19 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "hocz1y2qs",
-    "store": "Kaufland",
-    "title": "ORIGINAL WAGNER",
-    "price": "1,66",
-    "oldPrice": "3,69",
-    "discount": "55%",
-    "image": "🍕",
-    "description": "(1 kg = 4.48 - 6.42) / (1 kg = 3.73 - 5.36)**",
-    "isStudentDeal": true,
-    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
-  },
-  {
-    "id": "jma03l7o5",
+    "id": "1tre0nnu1",
     "store": "Kaufland",
     "title": "GUSTAVO GUSTO",
     "price": "2,99",
@@ -48,7 +36,19 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "wtapre2ie",
+    "id": "m4wqv806b",
+    "store": "Kaufland",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,66",
+    "oldPrice": "1,99",
+    "discount": "17%",
+    "image": "🍕",
+    "description": "(1 kg = 4.48 - 6.42) / (1 kg = 3.73 - 5.36)**",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "4eq5xdffl",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "2,99",
@@ -60,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "yejc4eo84",
+    "id": "x0j3sh8ha",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "6,66",
@@ -72,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "endeyu3uc",
+    "id": "odr2pd98c",
     "store": "Kaufland",
     "title": "ESMARA®",
     "price": "2,99",
@@ -84,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "hzvslul3c",
+    "id": "hmjusdauh",
     "store": "Kaufland",
     "title": "NUTELLA",
     "price": "9,66",

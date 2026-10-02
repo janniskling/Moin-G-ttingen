@@ -1,27 +1,5 @@
 [
   {
-    "title": "El Flecha Negra",
-    "date": "2026-10-01",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Kultur",
-    "description": "Support: Shakin‘ Hands tags reggae, ska",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44729800&date=2026-10-01",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-wings-2026-10-01",
-    "location": "Mr. Jones",
-    "title": "Wings Thursday",
-    "date": "2026-10-01",
-    "time": "18:00",
-    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
-    "category": "Sonstiges",
-    "image": "/images/chicken-wings.jpg",
-    "link": "https://www.mrjones.de"
-  },
-  {
     "title": "Los Fastidios",
     "date": "2026-10-02",
     "time": "20:00",
@@ -110,7 +88,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Assane Badiane",
+    "title": "ASSANE BADIANE",
     "date": "2026-10-03",
     "time": "20:00",
     "location": "musa (Saal)",
