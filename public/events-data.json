@@ -1,49 +1,5 @@
 [
   {
-    "title": "23. Komische Nacht Göttingen",
-    "date": "2026-10-07",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Comedy-Marathon",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44344165&date=2026-10-07",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "23. Komische Nacht",
-    "date": "2026-10-07",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Kultur",
-    "description": "Der Comedy-Marathon in deiner Stadt tags comedy",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44344164&date=2026-10-07",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-10-07",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-10-07",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-10-07",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "title": "Fabian Goldmann “Staatsräsonfunk\"",
     "date": "2026-10-08",
     "time": "20:00",
@@ -531,11 +487,22 @@
     "date": "2026-10-26",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-10-26/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Lindy Hop & Swing tags (teilw.) eintritt frei",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46532245_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46532245&date=2026-10-26",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "1 EURO PARTY",
+    "date": "2026-10-26",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 7,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47056280_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47056280&date=2026-10-26",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-ap-2026-10-28",
