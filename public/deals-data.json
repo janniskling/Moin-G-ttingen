@@ -1,6 +1,6 @@
 [
   {
-    "id": "vlabtmnyp",
+    "id": "bc6nkugxe",
     "store": "Kaufland",
     "title": "WARSTEINER",
     "price": "9,66",
@@ -12,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "whnlusygq",
+    "id": "54b6c9743",
     "store": "Kaufland",
     "title": "GUTFRIED",
     "price": "1,11",
@@ -20,6 +20,18 @@
     "discount": "14%",
     "image": "🍺",
     "description": "(1 kg = 16.13) / (1 kg = 13.88)**",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "850bykes4",
+    "store": "Kaufland",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,66",
+    "oldPrice": "3,69",
+    "discount": "55%",
+    "image": "🍕",
+    "description": "(1 kg = 6.15)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }

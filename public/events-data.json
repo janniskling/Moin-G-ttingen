@@ -1,38 +1,5 @@
 [
   {
-    "title": "Fabian Goldmann “Staatsräsonfunk\"",
-    "date": "2026-10-08",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Sonstiges",
-    "description": "Stereotype, Selbstzensur und Staatsräson. Deutsche Medien und der Genozid in G..",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45389248&date=2026-10-08",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "GTD Comedy Slam",
-    "date": "2026-10-08",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Der größte Comedy-Slam Deutschlands tags comedy",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45695616&date=2026-10-08",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-wings-2026-10-08",
-    "location": "Mr. Jones",
-    "title": "Wings Thursday",
-    "date": "2026-10-08",
-    "time": "18:00",
-    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
-    "category": "Sonstiges",
-    "image": "/images/chicken-wings.jpg",
-    "link": "https://www.mrjones.de"
-  },
-  {
     "title": "Gayle Tufts",
     "date": "2026-10-09",
     "time": "20:00",
@@ -272,6 +239,17 @@
     "description": "Eintritt AK: 14,90 €",
     "image": "https://www.wasgehtingoettingen.de/images/termine/46885901_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46885901&date=2026-10-16",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Comedyflash - Die Stand Up Comedy Show",
+    "date": "2026-10-17",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47241867&date=2026-10-17",
     "source": "wasgehtingoettingen"
   },
   {
