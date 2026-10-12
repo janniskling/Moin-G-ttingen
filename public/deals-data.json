@@ -1,6 +1,54 @@
 [
   {
-    "id": "34zai0c69",
+    "id": "s4j99c6km",
+    "store": "Rewe",
+    "title": "Original Wagner Steinofen Pizza Salami",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 5,59 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "75rqtgljp",
+    "store": "Rewe",
+    "title": "Mutti Pesto Rosso",
+    "price": "2,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "je 180-g-Glas, (1 kg = 13,83 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "9k8pqdzjf",
+    "store": "Rewe",
+    "title": "Mutti Pasta Sauce",
+    "price": "2,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "mit Basilikum, je 400-g-Glas, (1 kg = 6,23 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "elwx5u1cp",
+    "store": "Rewe",
+    "title": "Mezzacorona",
+    "price": "3,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Pinot Grigio, trocken, je 0,75-l-Fl., (1 l = 5,32 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "7n6c8w52l",
     "store": "Kaufland",
     "title": "HASSERÖDER",
     "price": "17,99",
@@ -12,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "pmfbbqe4a",
+    "id": "0gol1tost",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "1,77",
