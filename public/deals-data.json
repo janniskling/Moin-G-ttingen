@@ -1,54 +1,6 @@
 [
   {
-    "id": "3wchk1dsp",
-    "store": "Rewe",
-    "title": "Original Wagner Steinofen Pizza Salami",
-    "price": "1,79",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍕",
-    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 5,59 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "fmiaz5gbr",
-    "store": "Rewe",
-    "title": "Mutti Pesto Rosso",
-    "price": "2,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "je 180-g-Glas, (1 kg = 13,83 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "wi7nujrqx",
-    "store": "Rewe",
-    "title": "Mutti Pasta Sauce",
-    "price": "2,49",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍝",
-    "description": "mit Basilikum, je 400-g-Glas, (1 kg = 6,23 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "dt7rdkjq1",
-    "store": "Rewe",
-    "title": "Mezzacorona",
-    "price": "3,99",
-    "oldPrice": null,
-    "discount": null,
-    "image": "🍺",
-    "description": "Pinot Grigio, trocken, je 0,75-l-Fl., (1 l = 5,32 €)",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "amz9kngtp",
+    "id": "pe3ik0hzo",
     "store": "Kaufland",
     "title": "HASSERÖDER",
     "price": "17,99",
@@ -60,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "qy9cz29kr",
+    "id": "rabl0bar6",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "1,77",
@@ -68,6 +20,30 @@
     "discount": "49%",
     "image": "🍺",
     "description": "(1 kg = 4.32 - 5.54)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "347iw7gds",
+    "store": "Kaufland",
+    "title": "PAULANER",
+    "price": "9,99",
+    "oldPrice": "16,49",
+    "discount": "39%",
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "458x47ncm",
+    "store": "Kaufland",
+    "title": "VELTINS",
+    "price": "9,99",
+    "oldPrice": "17,99",
+    "discount": "44%",
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
