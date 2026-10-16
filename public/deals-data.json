@@ -1,6 +1,54 @@
 [
   {
-    "id": "pe3ik0hzo",
+    "id": "g5o5nybzz",
+    "store": "Rewe",
+    "title": "Original Wagner Steinofen Pizza Salami",
+    "price": "1,79",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍕",
+    "description": "tiefgefroren, je 320-g-Pckg., (1 kg = 5,59 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "3j87zr3oz",
+    "store": "Rewe",
+    "title": "Mutti Pesto Rosso",
+    "price": "2,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "je 180-g-Glas, (1 kg = 13,83 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "67u6uibqt",
+    "store": "Rewe",
+    "title": "Mutti Pasta Sauce",
+    "price": "2,49",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "mit Basilikum, je 400-g-Glas, (1 kg = 6,23 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "b80d8yyiv",
+    "store": "Rewe",
+    "title": "Mezzacorona",
+    "price": "3,99",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "Pinot Grigio, trocken, je 0,75-l-Fl., (1 l = 5,32 €)",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "t63napvdb",
     "store": "Kaufland",
     "title": "HASSERÖDER",
     "price": "17,99",
@@ -12,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "rabl0bar6",
+    "id": "7keqj372i",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "1,77",
@@ -24,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "347iw7gds",
+    "id": "8i32d9ucr",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "9,99",
@@ -36,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "458x47ncm",
+    "id": "ylzvpi67b",
     "store": "Kaufland",
     "title": "VELTINS",
     "price": "9,99",
