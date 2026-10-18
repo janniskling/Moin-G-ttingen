@@ -1,59 +1,5 @@
 [
   {
-    "title": "25 Jahre Cider Boyz",
-    "date": "2026-10-17",
-    "time": "20:00",
-    "location": "musa",
-    "category": "Kultur",
-    "description": "Pillhuhn Polka/Harbour Rebells/Stage Bottles, 20,00 €",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46155929&date=2026-10-17",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Vorverkauf",
-    "date": "2026-10-17",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags schlager",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46885904_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46885904&date=2026-10-17",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "BEST 80s",
-    "date": "2026-10-17",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46796222_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796222&date=2026-10-17",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Comedyflash - Die Stand Up Comedy Show",
-    "date": "2026-10-17",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "tags comedy",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47241867&date=2026-10-17",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "location": "Sparkassen-Arena",
-    "title": "🏀 Heimspiel",
-    "date": "2026-10-17",
-    "time": "18:30",
-    "description": "BBL Heimspiel gegen ProA. Jetzt Tickets sichern!",
-    "category": "Sports",
-    "image": "/images/bg-logo.png",
-    "link": "https://www.ticket-onlineshop.com/ols/bggoettingen/de/dauerkarten/channel/shop/index"
-  },
-  {
     "title": "Apex-Theaterclub",
     "date": "2026-10-19",
     "time": "20:00",
@@ -425,6 +371,39 @@
     "description": "SPASSbad",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45302217&date=2026-10-30",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Halloween Part 2",
+    "date": "2026-10-31",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags schlager, charts, halloween",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47256738_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47256738&date=2026-10-31",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "KLANGWELT HALLOWEEN special",
+    "date": "2026-10-31",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, rock, punk, ebm, gothic",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46796224_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796224&date=2026-10-31",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "stille hunde: Farm der Tiere",
+    "date": "2026-10-31",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Farm der Tiere",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796716&date=2026-10-31",
     "source": "wasgehtingoettingen"
   },
   {
