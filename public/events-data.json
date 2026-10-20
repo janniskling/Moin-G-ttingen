@@ -1,38 +1,5 @@
 [
   {
-    "title": "SWING-A-ROUND",
-    "date": "2026-10-19",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "Lindy Hop & Swing tags (teilw.) eintritt frei",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46532244_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46532244&date=2026-10-19",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "1 EURO PARTY",
-    "date": "2026-10-19",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/47056281_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47056281&date=2026-10-19",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Apex-Theaterclub",
-    "date": "2026-10-19",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Freispiel!",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47056838&date=2026-10-19",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "LAWI O-Phase",
     "date": "2026-10-20",
     "time": "20:00",
@@ -66,12 +33,12 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Improsant Gänseliesel und ihre Mörder",
+    "title": "Gänseliesel und ihre Mörder – ein improvisierter Heimatkrimi",
     "date": "2026-10-21",
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "ein improvisierter Heimatkrimi",
+    "description": "ein improvisierter Heimatkrimi, 22.00 €",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46518020&date=2026-10-21",
     "source": "wasgehtingoettingen"
@@ -269,7 +236,7 @@
     "time": "20:00",
     "location": "musa (Saal)",
     "category": "Kultur",
-    "description": "Different Flavours Of Being Happy Tour, 22,00 € tags folk, hip-hop, soul, blues",
+    "description": "Different Flavours Of Being Happy - Tour, 22,00 € tags folk, hip-hop, soul, blues",
     "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45191518&date=2026-10-28",
     "source": "wasgehtingoettingen"
@@ -363,6 +330,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "Beat Club - 60er Jahre Hits",
+    "date": "2026-10-30",
+    "time": "20:00",
+    "location": "musa",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47348101&date=2026-10-30",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "Halloween Part 1",
     "date": "2026-10-30",
     "time": "20:00",
@@ -418,6 +396,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "Pfeffer + Salz",
+    "date": "2026-10-31",
+    "time": "20:00",
+    "location": "musa",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47348102&date=2026-10-31",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "stille hunde: Farm der Tiere",
     "date": "2026-10-31",
     "time": "20:00",
@@ -443,11 +432,11 @@
     "date": "2026-11-02",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-11-02/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Lindy Hop & Swing tags (teilw.) eintritt frei",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/46622274_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46622274&date=2026-11-02",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-ap-2026-11-04",
@@ -560,6 +549,28 @@
     "category": "Kultur"
   },
   {
+    "id": "jones-ap-2026-11-18",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-11-18",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-11-18",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
+  },
+  {
     "title": "BLUES’N’BOOGIE KÜCHE",
     "date": "2026-11-19",
     "time": "20:00",
@@ -666,6 +677,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2024/02/klangweltneutral-960x1280.jpeg",
     "link": "https://exil-web.de/event/klangwelt-2-2/2026-12-18/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "SWING-A-ROUND",
+    "date": "2026-12-21",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-12-21/",
     "source": "Exil",
     "category": "Kultur"
   }
