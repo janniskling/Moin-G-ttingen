@@ -1,27 +1,5 @@
 [
   {
-    "title": "LAWI O-Phase",
-    "date": "2026-10-20",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/47256734_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47256734&date=2026-10-20",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Jura Semester Opening Party by Jurifete",
-    "date": "2026-10-20",
-    "time": "20:00",
-    "location": "einsB",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/47346609_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47346609&date=2026-10-20",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "RCDS O-Phase",
     "date": "2026-10-21",
     "time": "20:00",
@@ -162,6 +140,17 @@
     "description": "tags pop, rock, metal, punk, indie",
     "image": "https://www.wasgehtingoettingen.de/images/termine/47155211_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47155211&date=2026-10-24",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "2000er VS HIP HOP/ELEKTRO Party",
+    "date": "2026-10-24",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, hip-hop, 2000er",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47355931_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47355931&date=2026-10-24",
     "source": "wasgehtingoettingen"
   },
   {
@@ -439,6 +428,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "Doppelkonzert: Ove Volquartz & Gianni Mimmo + CarlSong",
+    "date": "2026-11-03",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Ove Volquartz & Gianni Mimmo und CarlSong",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796717&date=2026-11-03",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-ap-2026-11-04",
     "location": "Mr. Jones",
     "title": "Aperol Mittwoch",
@@ -569,6 +569,17 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "id": "jones-wings-2026-11-19",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-11-19",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
   },
   {
     "title": "BLUES’N’BOOGIE KÜCHE",

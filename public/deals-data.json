@@ -1,6 +1,6 @@
 [
   {
-    "id": "ru1nx28u2",
+    "id": "kyqhu7jst",
     "store": "Kaufland",
     "title": "RADEBERGER",
     "price": "9,99",
@@ -12,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "9tkzhfktm",
+    "id": "ai0whzbvw",
     "store": "Kaufland",
     "title": "Helle Weizenkruste",
     "price": "1,49",
@@ -24,19 +24,31 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "lz4jfm543",
+    "id": "isc3w211a",
+    "store": "Kaufland",
+    "title": "PAULANER",
+    "price": "0,95",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 l = 2.00)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "wdqi0si91",
     "store": "Kaufland",
     "title": "ESMARA®",
     "price": "5,99",
-    "oldPrice": null,
-    "discount": null,
+    "oldPrice": "24,99",
+    "discount": "76%",
     "image": "🍺",
     "description": "Details im Markt",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "6l7rjddxd",
+    "id": "kn1epju7",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,79",
@@ -48,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "6ejnbi6eg",
+    "id": "qqpue1zcg",
     "store": "Kaufland",
     "title": "DESPERADOS",
     "price": "4,00",
