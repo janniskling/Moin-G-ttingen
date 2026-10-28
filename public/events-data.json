@@ -1,27 +1,5 @@
 [
   {
-    "title": "Open Mic - Göttingen",
-    "date": "2026-10-27",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/6004_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47340972&date=2026-10-27",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "OPEN MIC",
-    "date": "2026-10-27",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/10/web-OpenMIC-960x1280.png",
-    "link": "https://exil-web.de/event/open-mic/2026-10-27/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "title": "Mina Richman",
     "date": "2026-10-28",
     "time": "20:00",
@@ -230,6 +208,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "KICKSTART -> 1 EURO PARTY",
+    "date": "2026-11-02",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47455500_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47455500&date=2026-11-02",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "Doppelkonzert: Ove Volquartz & Gianni Mimmo + CarlSong",
     "date": "2026-11-03",
     "time": "20:00",
@@ -318,6 +307,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "MÄDELS, ABENDS ZU DRITT!",
+    "date": "2026-11-06",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, 90er, 2000er",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47455503_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47455503&date=2026-11-06",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "NACHT DER SCHATTEN",
     "date": "2026-11-06",
     "time": "20:00",
@@ -337,6 +337,17 @@
     "description": "Der größte Comedy-Slam Deutschlands tags comedy",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47243702&date=2026-11-06",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Nacht der Legenden",
+    "date": "2026-11-07",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags (teilw.) eintritt frei, 80er, 90er, 2000er",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47455501_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47455501&date=2026-11-07",
     "source": "wasgehtingoettingen"
   },
   {
@@ -373,15 +384,15 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "SWING-A-ROUND",
+    "title": "KICKSTART -> 1 EURO PARTY",
     "date": "2026-11-09",
     "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-11-09/",
-    "source": "Exil",
-    "category": "Kultur"
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47455502_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47455502&date=2026-11-09",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "QuerQuassler: Mörderischer Herbst, ein Impro-Krimi",
@@ -516,6 +527,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "BETTER TOGETHER",
+    "date": "2026-11-13",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 8,90 € tags (teilw.) eintritt frei, charts, 80er, 90er, 2000er",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47455507_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47455507&date=2026-11-13",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "STEFFEN MÖLLER „PRÄSIDENT VON POLSCHLAND“",
     "date": "2026-11-14",
     "time": "20:00",
@@ -566,7 +588,7 @@
     "location": "Exil",
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-11-16/",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3-2/2026-11-16/",
     "source": "Exil",
     "category": "Kultur"
   },
@@ -621,7 +643,7 @@
     "location": "Exil",
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-11-23/",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3-2/2026-11-23/",
     "source": "Exil",
     "category": "Kultur"
   },
@@ -659,6 +681,17 @@
     "source": "Thanners"
   },
   {
+    "id": "jones-wings-2026-11-26",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-11-26",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
+  },
+  {
     "title": "KLANGWELT",
     "date": "2026-11-27",
     "time": "20:00",
@@ -687,7 +720,7 @@
     "location": "Exil",
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-11-30/",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3-2/2026-11-30/",
     "source": "Exil",
     "category": "Kultur"
   },
@@ -709,7 +742,7 @@
     "location": "Exil",
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-12-07/",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3-2/2026-12-07/",
     "source": "Exil",
     "category": "Kultur"
   },
@@ -731,7 +764,7 @@
     "location": "Exil",
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-12-14/",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3-2/2026-12-14/",
     "source": "Exil",
     "category": "Kultur"
   },
@@ -753,7 +786,7 @@
     "location": "Exil",
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-12-21/",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3-2/2026-12-21/",
     "source": "Exil",
     "category": "Kultur"
   },
@@ -775,7 +808,7 @@
     "location": "Exil",
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3/2026-12-28/",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3-2/2026-12-28/",
     "source": "Exil",
     "category": "Kultur"
   },
