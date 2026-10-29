@@ -1,49 +1,5 @@
 [
   {
-    "title": "Mina Richman",
-    "date": "2026-10-28",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Kultur",
-    "description": "Different Flavours Of Being Happy - Tour, 22,00 € tags folk, hip-hop, soul, blues",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45191518&date=2026-10-28",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Songland Trio: Journey of life",
-    "date": "2026-10-28",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Journey of life tags pop, soul, jazz, singer-songwriter",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45886580&date=2026-10-28",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-10-28",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-10-28",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-10-28",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "title": "Musa Dagh",
     "date": "2026-10-29",
     "time": "20:00",
