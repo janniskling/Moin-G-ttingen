@@ -1,6 +1,18 @@
 [
   {
-    "id": "cb4fjkih8",
+    "id": "q8i8a33v2",
+    "store": "Rewe",
+    "title": "Alkoholfreie Getränke",
+    "price": "3,30",
+    "oldPrice": "3,99",
+    "discount": "17%",
+    "image": "🍺",
+    "description": "versch. Sorten, je 12 x 0,7-l-Fl.-Kasten, (1 l = 0,48 €), zzgl. 3,30 € Pfand",
+    "isStudentDeal": true,
+    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
+  },
+  {
+    "id": "20kzvn8tw",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "1,79",
@@ -12,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "j7fhrqaor",
+    "id": "ufsftymlg",
     "store": "Kaufland",
     "title": "LEERDAMMER",
     "price": "1,49",
@@ -24,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "66h7ldmc7",
+    "id": "iyy2qu50x",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "10,49",
@@ -36,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "ij3xyi4yl",
+    "id": "v9sxipsey",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "4,29",
@@ -48,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "c3obu6g2b",
+    "id": "3oo56i1bc",
     "store": "Kaufland",
     "title": "TANTE FANNY",
     "price": "1,99",
@@ -60,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "z8e9acjq3",
+    "id": "nwbwge3hh",
     "store": "Kaufland",
     "title": "HENGLEIN",
     "price": "0,99",
@@ -72,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "9upanu90m",
+    "id": "gdirvjrdz",
     "store": "Kaufland",
     "title": "Pizza-Donut",
     "price": "0,99",
@@ -84,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "aua49ums5",
+    "id": "euvakoc97",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,19",
@@ -96,7 +108,19 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "0qrjqg4qg",
+    "id": "x52ycrfos",
+    "store": "Kaufland",
+    "title": "ORO DI PARMA",
+    "price": "0,99",
+    "oldPrice": "1,99",
+    "discount": "50%",
+    "image": "🍺",
+    "description": "(1 kg = 2.78 - 5.55) / (1 kg = 2.48 - 4.95)**",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "o60cjti6z",
     "store": "Kaufland",
     "title": "PADERBORNER",
     "price": "9,99",
@@ -108,7 +132,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "75uslz45y",
+    "id": "8qh5s0n1d",
     "store": "Kaufland",
     "title": "DINKEL MAX",
     "price": "2,22",
