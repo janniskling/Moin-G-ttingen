@@ -1,59 +1,5 @@
 [
   {
-    "title": "Halloween Part 2",
-    "date": "2026-10-31",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags schlager, charts, halloween",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/47256738_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47256738&date=2026-10-31",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "KLANGWELT HALLOWEEN special",
-    "date": "2026-10-31",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, rock, punk, ebm, gothic",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46796224_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796224&date=2026-10-31",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Pfeffer + Salz",
-    "date": "2026-10-31",
-    "time": "20:00",
-    "location": "musa",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47348102&date=2026-10-31",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "stille hunde: Farm der Tiere",
-    "date": "2026-10-31",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Farm der Tiere",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796716&date=2026-10-31",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "location": "Sparkassen-Arena",
-    "title": "🏀 Heimspiel",
-    "date": "2026-10-31",
-    "time": "18:30",
-    "description": "BBL Heimspiel gegen ProA. Jetzt Tickets sichern!",
-    "category": "Sports",
-    "image": "/images/bg-logo.png",
-    "link": "https://www.ticket-onlineshop.com/ols/bggoettingen/de/tageskarten/channel/shop/index"
-  },
-  {
     "title": "SWING-A-ROUND",
     "date": "2026-11-02",
     "time": "20:00",
@@ -76,7 +22,18 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Doppelkonzert: Ove Volquartz & Gianni Mimmo + CarlSong",
+    "title": "Apex-Theaterclub",
+    "date": "2026-11-02",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Freispiel!",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47537194&date=2026-11-02",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Doppelkonzert",
     "date": "2026-11-03",
     "time": "20:00",
     "location": "APEX",
@@ -84,6 +41,28 @@
     "description": "Ove Volquartz & Gianni Mimmo und CarlSong",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796717&date=2026-11-03",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Tuesday Night Hop",
+    "date": "2026-11-03",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Kultur",
+    "description": "New Orleans Syncopators tags jazz, trompete, klarinette, klavier",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47537207&date=2026-11-03",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "stille hunde",
+    "date": "2026-11-04",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Sonstiges",
+    "description": "Die Wahrheit langweilt mich, also lüg' ich: Münchhausens Abenteuer",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47537195&date=2026-11-04",
     "source": "wasgehtingoettingen"
   },
   {
@@ -219,7 +198,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Alice Hoffmann: Torschlusspanik",
+    "title": "Alice Hoffmann",
     "date": "2026-11-07",
     "time": "20:00",
     "location": "APEX",
@@ -252,12 +231,12 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "QuerQuassler: Mörderischer Herbst, ein Impro-Krimi",
+    "title": "QuerQuassler",
     "date": "2026-11-10",
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "ab 11,00 € tags krimi",
+    "description": "Mörderischer Herbst - ein Impro-Krimi, ab 11,00 € tags krimi",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47047785&date=2026-11-10",
     "source": "wasgehtingoettingen"
@@ -285,7 +264,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Jazzaﬀair: Come together",
+    "title": "Jazzaffair - Birgit und Karsten von Lüpke",
     "date": "2026-11-11",
     "time": "20:00",
     "location": "APEX",
@@ -329,7 +308,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Jakob Heymann: Musik für Optimisten",
+    "title": "Jakob Heymann",
     "date": "2026-11-12",
     "time": "20:00",
     "location": "APEX",
@@ -373,12 +352,12 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "Murzarellas Music-Puppet-Comedy: Bauchgesänge … ab in die zweite Runde",
+    "title": "Murzarella Music-Puppet-Comedy",
     "date": "2026-11-13",
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "Bauchgesänge … ab in die zweite Runde, ab 22,00 €",
+    "description": "Bauchgesänge… ab in die zweite Runde, ab 22,00 €",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=43202775&date=2026-11-13",
     "source": "wasgehtingoettingen"
@@ -416,7 +395,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "stille hunde: Farm der Tiere",
+    "title": "stille hunde",
     "date": "2026-11-14",
     "time": "20:00",
     "location": "APEX",
