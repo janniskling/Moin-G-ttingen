@@ -1,38 +1,5 @@
 [
   {
-    "title": "SWING-A-ROUND",
-    "date": "2026-11-02",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "Lindy Hop & Swing tags (teilw.) eintritt frei",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/46622274_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46622274&date=2026-11-02",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "KICKSTART -> 1 EURO PARTY",
-    "date": "2026-11-02",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/47455500_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47455500&date=2026-11-02",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Apex-Theaterclub",
-    "date": "2026-11-02",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Freispiel!",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47537194&date=2026-11-02",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "Doppelkonzert",
     "date": "2026-11-03",
     "time": "20:00",
@@ -432,11 +399,22 @@
     "date": "2026-11-16",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
-    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3-2/2026-11-16/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Lindy Hop & Swing tags (teilw.) eintritt frei",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47056065_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47056065&date=2026-11-16",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Apex-Theaterclub",
+    "date": "2026-11-16",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Freispiel!",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47537196&date=2026-11-16",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-ap-2026-11-18",
@@ -571,6 +549,28 @@
     "category": "Kultur"
   },
   {
+    "id": "jones-ap-2026-12-02",
+    "location": "Mr. Jones",
+    "title": "Aperol Mittwoch",
+    "date": "2026-12-02",
+    "time": "17:00",
+    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
+    "category": "Sonstiges",
+    "image": "/images/mrjones-logo.png",
+    "link": "https://www.mrjones.de"
+  },
+  {
+    "location": "Thanners",
+    "title": "Weizenmittwoch",
+    "date": "2026-12-02",
+    "time": "18:00",
+    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
+    "category": "Sonstiges",
+    "image": "/images/wheat-beer.jpg",
+    "link": "http://www.thanners-goettingen.de",
+    "source": "Thanners"
+  },
+  {
     "title": "NACHT DER SCHATTEN",
     "date": "2026-12-04",
     "time": "20:00",
@@ -666,6 +666,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2026/10/web-OpenMIC-960x1280.png",
     "link": "https://exil-web.de/event/open-mic/2026-12-29/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "SWING-A-ROUND",
+    "date": "2027-01-04",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3-2/2027-01-04/",
     "source": "Exil",
     "category": "Kultur"
   }
