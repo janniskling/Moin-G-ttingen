@@ -1,27 +1,5 @@
 [
   {
-    "title": "Doppelkonzert",
-    "date": "2026-11-03",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Ove Volquartz & Gianni Mimmo und CarlSong",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796717&date=2026-11-03",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Tuesday Night Hop",
-    "date": "2026-11-03",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Kultur",
-    "description": "New Orleans Syncopators tags jazz, trompete, klarinette, klavier",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47537207&date=2026-11-03",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "stille hunde",
     "date": "2026-11-04",
     "time": "20:00",
@@ -187,6 +165,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "Szenische Lesung: ICH, DIE FINSTERNIS!",
+    "date": "2026-11-09",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "tags (teilw.) eintritt frei",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47556651_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47556651&date=2026-11-09",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "KICKSTART -> 1 EURO PARTY",
     "date": "2026-11-09",
     "time": "20:00",
@@ -203,7 +192,7 @@
     "time": "20:00",
     "location": "APEX",
     "category": "Kultur",
-    "description": "Mörderischer Herbst - ein Impro-Krimi, ab 11,00 € tags krimi",
+    "description": "Mörderischer Herbst - ein Impro-Krimi tags krimi",
     "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47047785&date=2026-11-10",
     "source": "wasgehtingoettingen"
@@ -262,6 +251,17 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "title": "Jägermeister ERSTI SESSIONS",
+    "date": "2026-11-12",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47556652_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47556652&date=2026-11-12",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "Monokrom & 2:Laub",
@@ -403,6 +403,17 @@
     "description": "Lindy Hop & Swing tags (teilw.) eintritt frei",
     "image": "https://www.wasgehtingoettingen.de/images/termine/47056065_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47056065&date=2026-11-16",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "KICKSTART -> 1 EURO PARTY",
+    "date": "2026-11-16",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47556932_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47556932&date=2026-11-16",
     "source": "wasgehtingoettingen"
   },
   {
@@ -569,6 +580,17 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "id": "jones-wings-2026-12-03",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-12-03",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
   },
   {
     "title": "NACHT DER SCHATTEN",
