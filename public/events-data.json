@@ -1,49 +1,5 @@
 [
   {
-    "title": "stille hunde",
-    "date": "2026-11-04",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Sonstiges",
-    "description": "Die Wahrheit langweilt mich, also lüg' ich: Münchhausens Abenteuer",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47537195&date=2026-11-04",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Stefan Schöttler - Einfach ma' machen",
-    "date": "2026-11-04",
-    "time": "20:00",
-    "location": "musa",
-    "category": "Kultur",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46609337&date=2026-11-04",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-11-04",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-11-04",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-11-04",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "title": "Veljanov",
     "date": "2026-11-05",
     "time": "20:00",

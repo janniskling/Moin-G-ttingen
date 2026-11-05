@@ -1,6 +1,6 @@
 [
   {
-    "id": "b8yvn3374",
+    "id": "gp90sp1v2",
     "store": "Kaufland",
     "title": "DR. OETKER",
     "price": "1,77",
@@ -12,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "q3g9j4c6o",
+    "id": "4k0wqdygh",
     "store": "Kaufland",
     "title": "BITBURGER",
     "price": "9,99",
@@ -24,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "2qa8ue8ik",
+    "id": "k72xyrn1k",
     "store": "Kaufland",
     "title": "Erdbeer-Croissant",
     "price": "1,49",
@@ -36,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "nbuq1s1s9",
+    "id": "odz6kdzr5",
     "store": "Kaufland",
     "title": "PAULANER",
     "price": "1,00",
@@ -48,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "xa72phz0n",
+    "id": "i60rxh1df",
     "store": "Kaufland",
     "title": "GAGGLI",
     "price": "1,19",
@@ -60,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "l3fvgy7jw",
+    "id": "shypv0szz",
     "store": "Kaufland",
     "title": "BECKSTEINER WEINHAUS",
     "price": "3,99",
@@ -72,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "wkgn56ym8",
+    "id": "68ia90tyd",
     "store": "Kaufland",
     "title": "BECK'S",
     "price": "3,69",
@@ -84,7 +84,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "e4sd4jkxu",
+    "id": "56xnedobc",
     "store": "Kaufland",
     "title": "MIONETTO",
     "price": "5,99",
@@ -96,7 +96,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "jzxzru67b",
+    "id": "x47xh9qjl",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "3,99",
@@ -108,7 +108,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "2ky322g8e",
+    "id": "daevf9ld9",
     "store": "Kaufland",
     "title": "ERDINGER",
     "price": "13,99",
@@ -120,7 +120,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "urexzu4h4",
+    "id": "9otivajvy",
     "store": "Kaufland",
     "title": "VELTINS",
     "price": "9,99",
@@ -128,6 +128,42 @@
     "discount": "9%",
     "image": "🍺",
     "description": "je Ka. 20 x 0,5-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "lpw2t8wph",
+    "store": "Kaufland",
+    "title": "Barilla Classic Nudeln",
+    "price": "1,66",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍝",
+    "description": "(1 kg = 4.48) / (1 kg = 4.15)**",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "4r788y2ks",
+    "store": "Kaufland",
+    "title": "K-CLASSIC",
+    "price": "1,29",
+    "oldPrice": "1,69",
+    "discount": "24%",
+    "image": "🍺",
+    "description": "(1 kg = 2.98) / (1 kg = 2.58)**",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "qhfwvnus7",
+    "store": "Kaufland",
+    "title": "BREE",
+    "price": "2,49",
+    "oldPrice": "5,49",
+    "discount": "55%",
+    "image": "🍺",
+    "description": "(1 l = 3.32)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
