@@ -1,27 +1,5 @@
 [
   {
-    "title": "Veljanov",
-    "date": "2026-11-05",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Kultur",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45535362&date=2026-11-05",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-wings-2026-11-05",
-    "location": "Mr. Jones",
-    "title": "Wings Thursday",
-    "date": "2026-11-05",
-    "time": "18:00",
-    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
-    "category": "Sonstiges",
-    "image": "/images/chicken-wings.jpg",
-    "link": "https://www.mrjones.de"
-  },
-  {
     "title": "Monsters of Liedermaching",
     "date": "2026-11-06",
     "time": "20:00",
@@ -404,6 +382,39 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "title": "BLUES'N'BOOGIE KÜCHE",
+    "date": "2026-11-19",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "tags rock, jazz, rock-n-roll, blues, klavier",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47056066_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47056066&date=2026-11-19",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Sebastian23",
+    "date": "2026-11-19",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Kultur",
+    "description": "Zusammenhaltestelle, 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45535367&date=2026-11-19",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Jacqueline Amirfallah & Comedy Company",
+    "date": "2026-11-19",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Schmeckt´s? - Die Impro-Kochshow tags comedy",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796720&date=2026-11-19",
+    "source": "wasgehtingoettingen"
   },
   {
     "id": "jones-wings-2026-11-19",
