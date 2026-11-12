@@ -1,60 +1,5 @@
 [
   {
-    "title": "Fatcat",
-    "date": "2026-11-11",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Kultur",
-    "description": "FATCAT, 25,00 € tags jazz",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44730737&date=2026-11-11",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "LIVE MUSIK",
-    "date": "2026-11-11",
-    "time": "20:00",
-    "location": "Dots",
-    "category": "Kultur",
-    "description": "",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/40293676_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=40293676&date=2026-11-11",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Jazzaffair - Birgit und Karsten von Lüpke",
-    "date": "2026-11-11",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "come together",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46796718&date=2026-11-11",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "id": "jones-ap-2026-11-11",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-11-11",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-11-11",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "title": "Jägermeister ERSTI SESSIONS",
     "date": "2026-11-12",
     "time": "20:00",
@@ -427,7 +372,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "OPEN MIC",
+    "title": "Open Mic - Göttingen",
     "date": "2026-11-24",
     "time": "20:00",
     "location": "Exil",
@@ -435,6 +380,28 @@
     "description": "tags comedy",
     "image": "https://www.wasgehtingoettingen.de/images/termine/47340973_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47340973&date=2026-11-24",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "OPEN MIC",
+    "date": "2026-11-24",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/10/web-OpenMIC-960x1280.png",
+    "link": "https://exil-web.de/event/open-mic/2026-11-24/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "NightWash Live",
+    "date": "2026-11-25",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Kultur",
+    "description": "NightWash – Das Sing Ding",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=44634768&date=2026-11-25",
     "source": "wasgehtingoettingen"
   },
   {

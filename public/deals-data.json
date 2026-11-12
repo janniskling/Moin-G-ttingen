@@ -1,6 +1,6 @@
 [
   {
-    "id": "rx7e2mvee",
+    "id": "zkfuesayy",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,66",
@@ -12,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "qq1qftcsn",
+    "id": "j8y5ah49k",
     "store": "Kaufland",
     "title": "BECK'S",
     "price": "9,99",
@@ -24,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "2i9umymi9",
+    "id": "13e12fibg",
     "store": "Kaufland",
     "title": "DOPPIO PASSO",
     "price": "4,99",
@@ -36,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "xpvxtn8mv",
+    "id": "q49p274hv",
     "store": "Kaufland",
     "title": "BARILLA",
     "price": "1,69",
@@ -48,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "tuhwuu3ro",
+    "id": "5tudgaha7",
     "store": "Kaufland",
     "title": "GIOVANNI RANA",
     "price": "2,69",
@@ -60,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "vea3qpol9",
+    "id": "8ajq4n4s1",
     "store": "Kaufland",
     "title": "Geflügelrolle",
     "price": "0,99",
@@ -72,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "v5wtwcdjx",
+    "id": "lr4gf68mn",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,29",
@@ -80,6 +80,30 @@
     "discount": "13%",
     "image": "🍝",
     "description": "(1 kg = 2.98 - 5.96) / (1 kg = 2.58 - 5.16)**",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "ofdat61q6",
+    "store": "Kaufland",
+    "title": "NUTELLA",
+    "price": "0,95",
+    "oldPrice": "18,99",
+    "discount": "95%",
+    "image": "🍺",
+    "description": "(1 kg = 7.45)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "l44hf6bjb",
+    "store": "Kaufland",
+    "title": "PAULANER",
+    "price": "0,95",
+    "oldPrice": null,
+    "discount": null,
+    "image": "🍺",
+    "description": "(1 l = 1.79)",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }
