@@ -81,7 +81,7 @@
     "time": "20:00",
     "location": "Exil",
     "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/10/web-OpenMIC-960x1280.png",
+    "image": "https://exil-web.de/wp-content/uploads/2026/11/web.Posterneu-OM-960x1280.png",
     "link": "https://exil-web.de/event/open-mic/2026-11-24/",
     "source": "Exil",
     "category": "Kultur"
@@ -246,7 +246,7 @@
     "time": "20:00",
     "location": "Exil",
     "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/03/web.GET-DOWN-960x1280.jpeg",
+    "image": "https://exil-web.de/wp-content/uploads/2026/11/GET-DOWN-Kopie-960x1280.jpg",
     "link": "https://exil-web.de/event/3454/2026-12-11/",
     "source": "Exil",
     "category": "Kultur"
@@ -312,7 +312,7 @@
     "time": "20:00",
     "location": "Exil",
     "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/10/web-OpenMIC-960x1280.png",
+    "image": "https://exil-web.de/wp-content/uploads/2026/11/web.Posterneu-OM-960x1280.png",
     "link": "https://exil-web.de/event/open-mic/2026-12-29/",
     "source": "Exil",
     "category": "Kultur"
@@ -358,6 +358,17 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
     "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3-2/2027-01-25/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
+    "title": "SWING-A-ROUND",
+    "date": "2027-02-01",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3-2/2027-02-01/",
     "source": "Exil",
     "category": "Kultur"
   }
