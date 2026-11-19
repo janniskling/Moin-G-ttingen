@@ -1,6 +1,6 @@
 [
   {
-    "id": "j33b83zt0",
+    "id": "szridww13",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,59",
@@ -12,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "q2884l5l1",
+    "id": "6w2kjigip",
     "store": "Kaufland",
     "title": "FREDA",
     "price": "4,99",
@@ -24,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "c8hoymbiv",
+    "id": "z2g15ns30",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,59",
@@ -36,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "74fmeqlfp",
+    "id": "0qao75lfg",
     "store": "Kaufland",
     "title": "DORFMÜHLE",
     "price": "1,99",
@@ -44,6 +44,30 @@
     "discount": "10%",
     "image": "🍺",
     "description": "(1 kg = 4.44) / (1 kg = 3.98)**",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "btkpt2dbm",
+    "store": "Kaufland",
+    "title": "ORIGINAL WAGNER",
+    "price": "1,49",
+    "oldPrice": "3,49",
+    "discount": "57%",
+    "image": "🍕",
+    "description": "(1 kg = 4.14 - 4.97)",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "r0l2ywggd",
+    "store": "Kaufland",
+    "title": "RADEBERGER",
+    "price": "9,79",
+    "oldPrice": "17,49",
+    "discount": "44%",
+    "image": "🍺",
+    "description": "je Ka. 20 x 0,5-l-Fl.",
     "isStudentDeal": true,
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   }

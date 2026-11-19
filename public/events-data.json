@@ -1,27 +1,5 @@
 [
   {
-    "id": "jones-ap-2026-11-18",
-    "location": "Mr. Jones",
-    "title": "Aperol Mittwoch",
-    "date": "2026-11-18",
-    "time": "17:00",
-    "description": "Aperol Spritz Special Deal (meist ca. 4,50€). Der perfekte Bergfest-Start!",
-    "category": "Sonstiges",
-    "image": "/images/mrjones-logo.png",
-    "link": "https://www.mrjones.de"
-  },
-  {
-    "location": "Thanners",
-    "title": "Weizenmittwoch",
-    "date": "2026-11-18",
-    "time": "18:00",
-    "description": "Weizen-Tag: Paulaner Hefeweizen (0,5l) für nur 3,20€!",
-    "category": "Sonstiges",
-    "image": "/images/wheat-beer.jpg",
-    "link": "http://www.thanners-goettingen.de",
-    "source": "Thanners"
-  },
-  {
     "title": "BLUES'N'BOOGIE KÜCHE",
     "date": "2026-11-19",
     "time": "20:00",
@@ -186,7 +164,7 @@
     "source": "wasgehtingoettingen"
   },
   {
-    "title": "OPEN MIC",
+    "title": "Open Mic - Göttingen",
     "date": "2026-11-24",
     "time": "20:00",
     "location": "Exil",
@@ -195,6 +173,17 @@
     "image": "https://www.wasgehtingoettingen.de/images/termine/47340973_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47340973&date=2026-11-24",
     "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "OPEN MIC",
+    "date": "2026-11-24",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2026/11/web.Posterneu-OM-960x1280.png",
+    "link": "https://exil-web.de/event/open-mic/2026-11-24/",
+    "source": "Exil",
+    "category": "Kultur"
   },
   {
     "title": "NightWash Live",
@@ -450,6 +439,17 @@
     "source": "Thanners"
   },
   {
+    "title": "Toby Rudolph: „Der kann ja zaubern\"",
+    "date": "2026-12-03",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Der kann ja zaubern!, ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45887016&date=2026-12-03",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "id": "jones-wings-2026-12-03",
     "location": "Mr. Jones",
     "title": "Wings Thursday",
@@ -461,15 +461,81 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "PowerDance",
+    "date": "2026-12-04",
+    "time": "20:00",
+    "location": "musa (Salon)",
+    "category": "Party",
+    "description": "tags pop, rock, electro",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45891461&date=2026-12-04",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Improsant: Ho, ho, ho - Die Impro-Weihnachtsshow",
+    "date": "2026-12-04",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Ho, ho, ho - Die Impro-Weihnachtsshow, ab 22,00 € tags drama, krimi",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47048299&date=2026-12-04",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Lorenz Büffel Vorverkauf",
+    "date": "2026-12-04",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 15,90 €",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47455499_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47455499&date=2026-12-04",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "NACHT DER SCHATTEN",
     "date": "2026-12-04",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2024/02/NACHT-DER-SCHATTEN-960x1280.jpg",
-    "link": "https://exil-web.de/event/nacht-der-schatten-2-2-3/2026-12-04/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "Eintritt: 7,- € tags ebm, electro",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47256521_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47256521&date=2026-12-04",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "THE PSYCHO JUNIORS",
+    "date": "2026-12-05",
+    "time": "20:00",
+    "location": "Exil",
+    "category": "Kultur",
+    "description": "",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47256522_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47256522&date=2026-12-05",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "stille hunde: Eine Weihnachtsgeschichte",
+    "date": "2026-12-05",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Eine Weihnachtsgeschichte, ab 22,00 €",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46876198&date=2026-12-05",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "VOLLLAUT – Die Mitsingparty",
+    "date": "2026-12-05",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "Eintritt: 8,90 € tags (teilw.) eintritt frei, pop, rock, schlager, charts",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47741587_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47741587&date=2026-12-05",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "SWING-A-ROUND",
