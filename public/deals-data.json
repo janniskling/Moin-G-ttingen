@@ -1,6 +1,6 @@
 [
   {
-    "id": "szridww13",
+    "id": "5ibgq5etr",
     "store": "Kaufland",
     "title": "Barilla Classic Nudeln",
     "price": "1,59",
@@ -12,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "6w2kjigip",
+    "id": "4c12aa64b",
     "store": "Kaufland",
     "title": "FREDA",
     "price": "4,99",
@@ -24,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "z2g15ns30",
+    "id": "2w5a2i81x",
     "store": "Kaufland",
     "title": "K-CLASSIC",
     "price": "1,59",
@@ -36,7 +36,19 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "0qao75lfg",
+    "id": "pst1t7h3k",
+    "store": "Kaufland",
+    "title": "JEVER",
+    "price": "10,49",
+    "oldPrice": "18,49",
+    "discount": "43%",
+    "image": "🍺",
+    "description": "je Ka. 24 x 0,33-l-Fl.",
+    "isStudentDeal": true,
+    "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
+  },
+  {
+    "id": "cxig1o8qg",
     "store": "Kaufland",
     "title": "DORFMÜHLE",
     "price": "1,99",
@@ -48,7 +60,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "btkpt2dbm",
+    "id": "hdqv6t6ee",
     "store": "Kaufland",
     "title": "ORIGINAL WAGNER",
     "price": "1,49",
@@ -60,7 +72,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "r0l2ywggd",
+    "id": "ho8uows5m",
     "store": "Kaufland",
     "title": "RADEBERGER",
     "price": "9,79",
