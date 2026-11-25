@@ -1,27 +1,5 @@
 [
   {
-    "title": "Open Mic - Göttingen",
-    "date": "2026-11-24",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Kultur",
-    "description": "tags comedy",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/47340973_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47340973&date=2026-11-24",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "OPEN MIC",
-    "date": "2026-11-24",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/11/web.Posterneu-OM-960x1280.png",
-    "link": "https://exil-web.de/event/open-mic/2026-11-24/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
     "title": "CAMPUS DREIKLANG – 3 CLUBS. 1 TICKET. EURE NACHT!",
     "date": "2026-11-25",
     "time": "20:00",
@@ -385,6 +363,17 @@
     "source": "wasgehtingoettingen"
   },
   {
+    "title": "Mama geht Tanzen",
+    "date": "2026-12-05",
+    "time": "20:00",
+    "location": "Alpenmax",
+    "category": "Party",
+    "description": "tags charts, 90er, 2000er",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/5592_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47827723&date=2026-12-05",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "VOLLLAUT – Die Mitsingparty",
     "date": "2026-12-05",
     "time": "20:00",
@@ -415,6 +404,17 @@
     "description": "Lindy Hop & Swing tags (teilw.) eintritt frei",
     "image": "https://www.wasgehtingoettingen.de/images/termine/47256523_b.jpg",
     "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47256523&date=2026-12-07",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "QuerQuassler feat. Die Improthesen Stille Nacht? Von wegen!",
+    "date": "2026-12-08",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Kultur",
+    "description": "Stille Nacht? Von wegen!",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47449416&date=2026-12-08",
     "source": "wasgehtingoettingen"
   },
   {
@@ -548,6 +548,17 @@
     "image": "/images/wheat-beer.jpg",
     "link": "http://www.thanners-goettingen.de",
     "source": "Thanners"
+  },
+  {
+    "id": "jones-wings-2026-12-24",
+    "location": "Mr. Jones",
+    "title": "Wings Thursday",
+    "date": "2026-12-24",
+    "time": "18:00",
+    "description": "All You Can Eat Chicken Wings! Reservierung empfohlen.",
+    "category": "Sonstiges",
+    "image": "/images/chicken-wings.jpg",
+    "link": "https://www.mrjones.de"
   },
   {
     "title": "BEST 80s",
