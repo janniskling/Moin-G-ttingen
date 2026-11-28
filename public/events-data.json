@@ -1,60 +1,5 @@
 [
   {
-    "title": "Rock gegen Rheuma",
-    "date": "2026-11-27",
-    "time": "20:00",
-    "location": "musa (Saal)",
-    "category": "Party",
-    "description": "tags rock",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45535369&date=2026-11-27",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Birthday Party",
-    "date": "2026-11-27",
-    "time": "20:00",
-    "location": "Alpenmax",
-    "category": "Party",
-    "description": "tags (teilw.) eintritt frei, 90er, 2000er",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/47649166_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47649166&date=2026-11-27",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "KLANGWELT",
-    "date": "2026-11-27",
-    "time": "20:00",
-    "location": "Exil",
-    "category": "Party",
-    "description": "tags rock, indie, ebm, industrial",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/47155212_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47155212&date=2026-11-27",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "Rabatz&Radau meets ACID",
-    "date": "2026-11-27",
-    "time": "20:00",
-    "location": "einsB",
-    "category": "Party",
-    "description": "tags electro, techno, house, trance",
-    "image": "https://www.wasgehtingoettingen.de/images/termine/47820915_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47820915&date=2026-11-27",
-    "source": "wasgehtingoettingen"
-  },
-  {
-    "title": "stille hunde: Farm der Tiere",
-    "date": "2026-11-27",
-    "time": "20:00",
-    "location": "APEX",
-    "category": "Kultur",
-    "description": "Farm der Tiere",
-    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
-    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46876049&date=2026-11-27",
-    "source": "wasgehtingoettingen"
-  },
-  {
     "title": "New Orleans Syncopators",
     "date": "2026-11-28",
     "time": "20:00",
@@ -429,15 +374,37 @@
     "link": "https://www.mrjones.de"
   },
   {
+    "title": "Rock gegen Rheuma",
+    "date": "2026-12-11",
+    "time": "20:00",
+    "location": "musa (Saal)",
+    "category": "Party",
+    "description": "tags rock",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/4356_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=45891462&date=2026-12-11",
+    "source": "wasgehtingoettingen"
+  },
+  {
+    "title": "Hans Gerzlich Ihr Sünderlein kommet",
+    "date": "2026-12-11",
+    "time": "20:00",
+    "location": "APEX",
+    "category": "Party",
+    "description": "Ihr Sünderlein kommet!",
+    "image": "https://www.wasgehtingoettingen.de/images/locs/3342_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=46519198&date=2026-12-11",
+    "source": "wasgehtingoettingen"
+  },
+  {
     "title": "GET DOWN",
     "date": "2026-12-11",
     "time": "20:00",
     "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/11/GET-DOWN-Kopie-960x1280.jpg",
-    "link": "https://exil-web.de/event/3454/2026-12-11/",
-    "source": "Exil",
-    "category": "Kultur"
+    "category": "Party",
+    "description": "tags funk, hip-hop, soul, black",
+    "image": "https://www.wasgehtingoettingen.de/images/termine/47355680_b.jpg",
+    "link": "https://www.wasgehtingoettingen.de/termin_details.php?id=47355680&date=2026-12-11",
+    "source": "wasgehtingoettingen"
   },
   {
     "title": "#wirsinddienacht",
@@ -704,6 +671,17 @@
     "category": "Kultur"
   },
   {
+    "title": "SWING-A-ROUND",
+    "date": "2027-02-22",
+    "time": "20:00",
+    "location": "Exil",
+    "description": "Live Music & Party @ Exil",
+    "image": "https://exil-web.de/wp-content/uploads/2025/06/SWINGAROUND.jpeg",
+    "link": "https://exil-web.de/event/swing-a-round-2-4-2-2-3-2/2027-02-22/",
+    "source": "Exil",
+    "category": "Kultur"
+  },
+  {
     "title": "COMEDYFLASH – die Stand Up Comedy Show",
     "date": "2027-02-27",
     "time": "20:00",
@@ -766,28 +744,6 @@
     "description": "Live Music & Party @ Exil",
     "image": "https://exil-web.de/wp-content/uploads/2026/10/Poster-web-ohne-960x1280.jpg",
     "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2027-05-15/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
-    "date": "2027-06-05",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/10/Poster-web-ohne-960x1280.jpg",
-    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2027-06-05/",
-    "source": "Exil",
-    "category": "Kultur"
-  },
-  {
-    "title": "COMEDYFLASH – die Stand Up Comedy Show",
-    "date": "2027-07-10",
-    "time": "20:00",
-    "location": "Exil",
-    "description": "Live Music & Party @ Exil",
-    "image": "https://exil-web.de/wp-content/uploads/2026/10/Poster-web-ohne-960x1280.jpg",
-    "link": "https://exil-web.de/event/comedyflash-die-stand-up-comedy-show/2027-07-10/",
     "source": "Exil",
     "category": "Kultur"
   }

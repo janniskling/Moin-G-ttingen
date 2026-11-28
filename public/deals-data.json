@@ -1,18 +1,6 @@
 [
   {
-    "id": "lt6054lyu",
-    "store": "Rewe",
-    "title": "Bier",
-    "price": "3,66",
-    "oldPrice": "16,49",
-    "discount": "78%",
-    "image": "🍺",
-    "description": "versch. Sorten, je 27 x 0,33-l-Fl.-Kasten, (1 l = 1,40 €), zzgl. 3,66 € Pfand",
-    "isStudentDeal": true,
-    "link": "https://www.rewe.de/angebote/goettingen-weende/540361/rewe-markt-weender-landstr-76/"
-  },
-  {
-    "id": "l04zzxuag",
+    "id": "mgv0toq1d",
     "store": "Kaufland",
     "title": "GUSTAVO GUSTO",
     "price": "3,33",
@@ -24,7 +12,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "m1rozmipz",
+    "id": "eq1k0xxsf",
     "store": "Kaufland",
     "title": "Mini-Pizza Sucuk",
     "price": "0,99",
@@ -36,7 +24,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "9zcapzjz4",
+    "id": "1vqjt4qm5",
     "store": "Kaufland",
     "title": "AURORA",
     "price": "0,99",
@@ -48,7 +36,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "6f9xutt12",
+    "id": "f0eljdewr",
     "store": "Kaufland",
     "title": "KROMBACHER",
     "price": "3,79",
@@ -60,7 +48,7 @@
     "link": "https://filiale.kaufland.de/angebote/uebersicht.html?cid=DE:6800&kloffer-category=0001_TopArticle"
   },
   {
-    "id": "xjodeeudm",
+    "id": "m5is5ltnw",
     "store": "Kaufland",
     "title": "HASSERÖDER",
     "price": "8,99",
